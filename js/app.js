@@ -19,15 +19,26 @@ let activeGroupId = null;
 async function addCompany(ticker) {
   ticker = ticker.toUpperCase();
 
-  if (companies.find((c) => c.ticker === ticker)) return;
-  if (companies.length >= MAX_COMPANIES) {
-    showError(`You can compare up to ${MAX_COMPANIES} companies at a time.`);
-    return;
-  }
-
   const info = lookupTicker(ticker);
   if (!info) {
     showError(`"${ticker}" not found. Try searching by company name.`);
+    return;
+  }
+
+  // Match on CIK rather than ticker. One filer often has several tickers —
+  // share classes (GOOG/GOOGL), preferred shares (PSA-PH), baby bonds (TBB) —
+  // and every one of them resolves to the same annual report, so matching on
+  // ticker alone would let the same company occupy two identical columns.
+  const existing = companies.find((c) => c.cik === info.cik);
+  if (existing) {
+    if (existing.ticker !== ticker) {
+      showError(`${info.name} is already in this comparison, as ${existing.ticker}.`);
+    }
+    return;
+  }
+
+  if (companies.length >= MAX_COMPANIES) {
+    showError(`You can compare up to ${MAX_COMPANIES} companies at a time.`);
     return;
   }
 
