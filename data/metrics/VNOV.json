@@ -1,0 +1,88 @@
+{
+  "ticker": "VNOV",
+  "name": "VitaNova Life Sciences Corp",
+  "cik": 1699709,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 3025538,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "cogs": {
+      "value": 2114949,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "grossProfit": {
+      "value": 910589,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "operatingIncome": {
+      "value": 3601,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "netIncome": {
+      "value": -37304,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "epsBasic": {
+      "value": -0.004,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "epsDiluted": {
+      "value": 0.03,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-24"
+    },
+    "currentAssets": {
+      "value": 2430523,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "totalAssets": {
+      "value": 2446561,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "currentLiabilities": {
+      "value": 395781,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "totalLiabilities": {
+      "value": 395781,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "shareholdersEquity": {
+      "value": 2050780,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "operatingCashFlow": {
+      "value": 814407,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:43.278Z"
+}

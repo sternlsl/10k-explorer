@@ -1,0 +1,93 @@
+{
+  "ticker": "GHM",
+  "name": "GRAHAM CORP",
+  "cik": 716314,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 245293000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "cogs": {
+      "value": 187543000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "grossProfit": {
+      "value": 57750000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "operatingIncome": {
+      "value": 15017000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "netIncome": {
+      "value": 12500000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "epsBasic": {
+      "value": 1.14,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "epsDiluted": {
+      "value": 1.12,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "currentAssets": {
+      "value": 156454000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "totalAssets": {
+      "value": 323616000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "currentLiabilities": {
+      "value": 156270000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "totalLiabilities": {
+      "value": 183301000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "shareholdersEquity": {
+      "value": 140315000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "operatingCashFlow": {
+      "value": 15933000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "capex": {
+      "value": 16054000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:42.752Z"
+}

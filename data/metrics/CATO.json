@@ -1,0 +1,83 @@
+{
+  "ticker": "CATO",
+  "name": "CATO CORP",
+  "cik": 18255,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 653812000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "cogs": {
+      "value": 431551000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -12664000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "netIncome": {
+      "value": -5909000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "epsBasic": {
+      "value": -0.31,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "epsDiluted": {
+      "value": -0.31,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "currentAssets": {
+      "value": 193267000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "totalAssets": {
+      "value": 421419000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "currentLiabilities": {
+      "value": 155892000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 157314000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "operatingCashFlow": {
+      "value": -1461000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "capex": {
+      "value": 3763000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:51.254Z"
+}

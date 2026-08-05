@@ -1,0 +1,68 @@
+{
+  "ticker": "ACRE",
+  "name": "Ares Commercial Real Estate Corp",
+  "cik": 1529377,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 54833000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -902000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "epsBasic": {
+      "value": 1.35,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-21"
+    },
+    "epsDiluted": {
+      "value": 1.35,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-21"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1618142000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1108574000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "shareholdersEquity": {
+      "value": 509568000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "operatingCashFlow": {
+      "value": 21354000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "capex": {
+      "value": 823000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-03-05"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:18.180Z"
+}

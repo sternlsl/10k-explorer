@@ -1,0 +1,78 @@
+{
+  "ticker": "SMA",
+  "name": "SmartStop Self Storage REIT, Inc.",
+  "cik": 1585389,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 281141000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 25228704,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-22"
+    },
+    "grossProfit": {
+      "value": 172474000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "operatingIncome": {
+      "value": 59096000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": -8758000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": -0.2,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-12"
+    },
+    "epsDiluted": {
+      "value": -0.2,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-12"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2432172000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1152249000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 1180410000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 84969000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:48.766Z"
+}

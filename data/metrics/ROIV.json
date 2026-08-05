@@ -1,0 +1,83 @@
+{
+  "ticker": "ROIV",
+  "name": "Roivant Sciences Ltd.",
+  "cik": 1635088,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 8260000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -515068000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "netIncome": {
+      "value": -299771000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "epsBasic": {
+      "value": -0.43,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "epsDiluted": {
+      "value": -0.54,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "currentAssets": {
+      "value": 5167384000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "totalAssets": {
+      "value": 5708687000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "currentLiabilities": {
+      "value": 281244000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "totalLiabilities": {
+      "value": 416275000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "shareholdersEquity": {
+      "value": 4527370000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "operatingCashFlow": {
+      "value": -750349000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "capex": {
+      "value": 8209000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:22.343Z"
+}

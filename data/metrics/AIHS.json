@@ -1,0 +1,93 @@
+{
+  "ticker": "AIHS",
+  "name": "Senmiao Technology Ltd",
+  "cik": 1711012,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 3342611,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-07-10"
+    },
+    "cogs": {
+      "value": 2424901,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-07-10"
+    },
+    "grossProfit": {
+      "value": 210200,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-30"
+    },
+    "operatingIncome": {
+      "value": -2888197,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-30"
+    },
+    "netIncome": {
+      "value": -5270200,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-30"
+    },
+    "epsBasic": {
+      "value": -1.97,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-30"
+    },
+    "epsDiluted": {
+      "value": -1.97,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-30"
+    },
+    "currentAssets": {
+      "value": 4092171,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-30"
+    },
+    "totalAssets": {
+      "value": 5257677,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-30"
+    },
+    "currentLiabilities": {
+      "value": 7777200,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-30"
+    },
+    "totalLiabilities": {
+      "value": 7777200,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-30"
+    },
+    "shareholdersEquity": {
+      "value": -5833405,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-30"
+    },
+    "operatingCashFlow": {
+      "value": -1601561,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-30"
+    },
+    "capex": {
+      "value": 415,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2026-06-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:28.289Z"
+}

@@ -1,0 +1,78 @@
+{
+  "ticker": "KD",
+  "name": "Kyndryl Holdings, Inc.",
+  "cik": 1867072,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 15092000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "cogs": {
+      "value": 11803000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "epsBasic": {
+      "value": 0.87,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "epsDiluted": {
+      "value": 0.85,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "currentAssets": {
+      "value": 5528000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "totalAssets": {
+      "value": 12551000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "currentLiabilities": {
+      "value": 6307000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "totalLiabilities": {
+      "value": 11259000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "shareholdersEquity": {
+      "value": 1175000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "operatingCashFlow": {
+      "value": 948000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "capex": {
+      "value": 752000000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-10"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:47.338Z"
+}

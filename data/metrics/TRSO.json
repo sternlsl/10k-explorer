@@ -1,0 +1,88 @@
+{
+  "ticker": "TRSO",
+  "name": "TRANSUITE.ORG INC.",
+  "cik": 1758699,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 115000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-22"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-11-30",
+      "filed": "2025-03-17"
+    },
+    "grossProfit": {
+      "value": 117509,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-22"
+    },
+    "operatingIncome": {
+      "value": -37158343,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-22"
+    },
+    "netIncome": {
+      "value": -37157151,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-22"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-11-30",
+      "filed": "2024-03-14"
+    },
+    "epsDiluted": {
+      "value": -1.52,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-22"
+    },
+    "currentAssets": {
+      "value": 320301,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-22"
+    },
+    "totalAssets": {
+      "value": 337461,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-22"
+    },
+    "currentLiabilities": {
+      "value": 809897,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-22"
+    },
+    "totalLiabilities": {
+      "value": 809897,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-22"
+    },
+    "shareholdersEquity": {
+      "value": -485144,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-22"
+    },
+    "operatingCashFlow": {
+      "value": -69282,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-22"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:23.259Z"
+}

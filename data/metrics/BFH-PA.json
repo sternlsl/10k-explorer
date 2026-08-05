@@ -1,0 +1,83 @@
+{
+  "ticker": "BFH-PA",
+  "name": "BREAD FINANCIAL HOLDINGS, INC.",
+  "cik": 1101215,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 577200000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-26"
+    },
+    "cogs": {
+      "value": 2077300000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-26"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 301000000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-02-25"
+    },
+    "netIncome": {
+      "value": 518000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsBasic": {
+      "value": 11.07,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsDiluted": {
+      "value": 10.89,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentAssets": {
+      "value": 19634400000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-26"
+    },
+    "totalAssets": {
+      "value": 22663000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentLiabilities": {
+      "value": 10421900000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-26"
+    },
+    "totalLiabilities": {
+      "value": 19336000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "shareholdersEquity": {
+      "value": 3327000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "operatingCashFlow": {
+      "value": 2092000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:56:43.961Z"
+}

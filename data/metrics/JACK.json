@@ -1,0 +1,83 @@
+{
+  "ticker": "JACK",
+  "name": "JACK IN THE BOX INC",
+  "cik": 807882,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1465314000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-19"
+    },
+    "cogs": {
+      "value": 248470000,
+      "year": 2019,
+      "periodEnd": "2019-09-29",
+      "filed": "2019-11-21"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -18070000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-19"
+    },
+    "netIncome": {
+      "value": -80719000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-19"
+    },
+    "epsBasic": {
+      "value": -4.24,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-19"
+    },
+    "epsDiluted": {
+      "value": -4.24,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-19"
+    },
+    "currentAssets": {
+      "value": 220372000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-19"
+    },
+    "totalAssets": {
+      "value": 2593421000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-19"
+    },
+    "currentLiabilities": {
+      "value": 430623000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-19"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -938271000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-19"
+    },
+    "operatingCashFlow": {
+      "value": 162358000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-19"
+    },
+    "capex": {
+      "value": 88223000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-19"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:46.011Z"
+}

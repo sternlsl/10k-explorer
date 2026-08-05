@@ -1,0 +1,88 @@
+{
+  "ticker": "DKS",
+  "name": "DICK'S SPORTING GOODS, INC.",
+  "cik": 1089063,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 17215120000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "cogs": {
+      "value": 11547858000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "grossProfit": {
+      "value": 5667262000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "operatingIncome": {
+      "value": 1095909000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "netIncome": {
+      "value": 849239000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "epsBasic": {
+      "value": 10.22,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "epsDiluted": {
+      "value": 9.97,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "currentAssets": {
+      "value": 7104791000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "totalAssets": {
+      "value": 17411499000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": {
+      "value": 4643558000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 5540120000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": 1537343000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "capex": {
+      "value": 1137176000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:24.025Z"
+}

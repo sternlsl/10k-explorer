@@ -1,0 +1,93 @@
+{
+  "ticker": "SNRG",
+  "name": "SusGlobal Energy Corp.",
+  "cik": 1652539,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 32340,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "cogs": {
+      "value": 738970,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "grossProfit": {
+      "value": -706630,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "operatingIncome": {
+      "value": -5275812,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-05-15"
+    },
+    "netIncome": {
+      "value": -5686869,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "epsBasic": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "currentAssets": {
+      "value": 32758,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "totalAssets": {
+      "value": 8840820,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "currentLiabilities": {
+      "value": 40448765,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "totalLiabilities": {
+      "value": 40448765,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "shareholdersEquity": {
+      "value": -31607945,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "operatingCashFlow": {
+      "value": -2895,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-05-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:50.974Z"
+}

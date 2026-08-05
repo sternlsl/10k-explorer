@@ -1,0 +1,83 @@
+{
+  "ticker": "ASH",
+  "name": "ASHLAND INC.",
+  "cik": 1674862,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1824000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "cogs": {
+      "value": 1275000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "grossProfit": {
+      "value": 549000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "operatingIncome": {
+      "value": -775000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "netIncome": {
+      "value": 505000000,
+      "year": 2019,
+      "periodEnd": "2019-09-30",
+      "filed": "2019-11-25"
+    },
+    "epsBasic": {
+      "value": -18.23,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "epsDiluted": {
+      "value": -18.23,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "currentAssets": {
+      "value": 1205000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "totalAssets": {
+      "value": 4611000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "currentLiabilities": {
+      "value": 423000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1904000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "operatingCashFlow": null,
+    "capex": {
+      "value": 98000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:16.323Z"
+}

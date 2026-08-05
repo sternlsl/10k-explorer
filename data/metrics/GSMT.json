@@ -1,0 +1,73 @@
+{
+  "ticker": "GSMT",
+  "name": "Global-Smart.Tech",
+  "cik": 1940243,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6868,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -124374,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "netIncome": {
+      "value": -124374,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "epsBasic": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 31238,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "totalAssets": {
+      "value": 220904,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "currentLiabilities": {
+      "value": 459665,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "totalLiabilities": {
+      "value": 459665,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "shareholdersEquity": {
+      "value": -238761,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "operatingCashFlow": {
+      "value": -38922,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:43.854Z"
+}

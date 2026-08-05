@@ -1,0 +1,88 @@
+{
+  "ticker": "TTC",
+  "name": "TORO CO",
+  "cik": 737758,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4510400000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-17"
+    },
+    "cogs": {
+      "value": 3005600000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-17"
+    },
+    "grossProfit": {
+      "value": 1504800000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-17"
+    },
+    "operatingIncome": {
+      "value": 409900000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-17"
+    },
+    "netIncome": {
+      "value": 316100000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-17"
+    },
+    "epsBasic": {
+      "value": 3.18,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-17"
+    },
+    "epsDiluted": {
+      "value": 3.17,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-17"
+    },
+    "currentAssets": {
+      "value": 1705100000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-17"
+    },
+    "totalAssets": {
+      "value": 3438800000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-17"
+    },
+    "currentLiabilities": {
+      "value": 912400000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-17"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1453300000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-17"
+    },
+    "operatingCashFlow": {
+      "value": 662000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-17"
+    },
+    "capex": {
+      "value": 83700000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-17"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:16.016Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "BTCT",
+  "name": "BTC Digital Ltd.",
+  "cik": 1796514,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 9073000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "cogs": {
+      "value": 10208000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "grossProfit": {
+      "value": -1135000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "operatingIncome": {
+      "value": -2481000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "netIncome": {
+      "value": -2824000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 8944000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "totalAssets": {
+      "value": 24543000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "currentLiabilities": {
+      "value": 5101000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "totalLiabilities": {
+      "value": 5101000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "shareholdersEquity": {
+      "value": 19442000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "operatingCashFlow": {
+      "value": 3808000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "capex": {
+      "value": 2501000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:40.131Z"
+}

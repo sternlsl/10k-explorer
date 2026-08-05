@@ -2,64 +2,87 @@
   "ticker": "SNA",
   "name": "Snap-on Inc",
   "cik": 91440,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
       "value": 4709300000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-12"
     },
     "cogs": {
       "value": 1862000000,
       "year": 2017,
-      "periodEnd": "2017-12-30"
+      "periodEnd": "2017-12-30",
+      "filed": "2018-02-15"
     },
     "grossProfit": {
       "value": 1824900000,
       "year": 2017,
-      "periodEnd": "2017-12-30"
+      "periodEnd": "2017-12-30",
+      "filed": "2018-02-15"
     },
     "operatingIncome": {
       "value": 1327700000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-12"
     },
     "netIncome": {
       "value": 1016900000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-12"
+    },
+    "epsBasic": {
+      "value": 19.52,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-12"
+    },
+    "epsDiluted": {
+      "value": 19.19,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-12"
     },
     "currentAssets": {
       "value": 4402800000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-12"
     },
     "totalAssets": {
       "value": 8412300000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-12"
     },
     "currentLiabilities": {
       "value": 918500000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-12"
     },
     "totalLiabilities": {
       "value": 2455500000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-12"
     },
     "shareholdersEquity": {
       "value": 5931800000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-12"
     },
     "operatingCashFlow": {
       "value": 1081700000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-12"
     },
     "capex": null
   },
-  "fetchedAt": "2026-05-08T19:02:21.175Z"
+  "updatedAt": "2026-08-05T16:54:25.736Z"
 }

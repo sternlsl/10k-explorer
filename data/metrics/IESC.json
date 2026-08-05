@@ -1,0 +1,93 @@
+{
+  "ticker": "IESC",
+  "name": "IES Holdings, Inc.",
+  "cik": 1048268,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3371468000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "cogs": {
+      "value": 2511971000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "grossProfit": {
+      "value": 859497000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "operatingIncome": {
+      "value": 383529000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "netIncome": {
+      "value": 305975000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "epsBasic": {
+      "value": 15.22,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "epsDiluted": {
+      "value": 15.02,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "currentAssets": {
+      "value": 1085481000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "totalAssets": {
+      "value": 1595661000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "currentLiabilities": {
+      "value": 633428000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "totalLiabilities": {
+      "value": 707699000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "shareholdersEquity": {
+      "value": 883955000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "operatingCashFlow": {
+      "value": 286096000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "capex": {
+      "value": 4563000,
+      "year": 2018,
+      "periodEnd": "2018-09-30",
+      "filed": "2018-12-07"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:49.937Z"
+}

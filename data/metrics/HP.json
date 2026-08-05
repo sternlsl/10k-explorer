@@ -1,0 +1,83 @@
+{
+  "ticker": "HP",
+  "name": "Helmerich & Payne, Inc.",
+  "cik": 46765,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3678660000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 3318000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "netIncome": {
+      "value": -163695000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "epsBasic": {
+      "value": -1.66,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "epsDiluted": {
+      "value": -1.66,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "currentAssets": {
+      "value": 1465475000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "totalAssets": {
+      "value": 6705738000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "currentLiabilities": {
+      "value": 814836000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "totalLiabilities": {
+      "value": 2251396000,
+      "year": 2015,
+      "periodEnd": "2015-09-30",
+      "filed": "2016-11-23"
+    },
+    "shareholdersEquity": {
+      "value": 2917152000,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2024-11-13"
+    },
+    "operatingCashFlow": {
+      "value": 542950000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "capex": {
+      "value": 426373000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:23.461Z"
+}

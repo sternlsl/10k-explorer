@@ -1,0 +1,93 @@
+{
+  "ticker": "BUDZ",
+  "name": "WEED, INC.",
+  "cik": 1393772,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "operatingIncome": {
+      "value": -1327679,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "netIncome": {
+      "value": -1372206,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "epsBasic": {
+      "value": -0.004,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "currentAssets": {
+      "value": 47705,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "totalAssets": {
+      "value": 559906,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "currentLiabilities": {
+      "value": 1248267,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "totalLiabilities": {
+      "value": 1248267,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "shareholdersEquity": {
+      "value": -688361,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "operatingCashFlow": {
+      "value": -195136,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "capex": {
+      "value": 10000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:29.387Z"
+}

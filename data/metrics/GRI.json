@@ -1,0 +1,83 @@
+{
+  "ticker": "GRI",
+  "name": "GRI Bio, Inc.",
+  "cik": 1824293,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-14"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -11977000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "netIncome": {
+      "value": -11956000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "epsBasic": {
+      "value": -121.8,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "epsDiluted": {
+      "value": -121.8,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "currentAssets": {
+      "value": 8592000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "totalAssets": {
+      "value": 8666000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "currentLiabilities": {
+      "value": 2643000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "totalLiabilities": {
+      "value": 2658000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "shareholdersEquity": {
+      "value": 6008000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "operatingCashFlow": {
+      "value": -10186000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "capex": {
+      "value": 3000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:46.294Z"
+}

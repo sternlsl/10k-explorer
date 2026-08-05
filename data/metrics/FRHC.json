@@ -1,0 +1,88 @@
+{
+  "ticker": "FRHC",
+  "name": "Freedom Holding Corp.",
+  "cik": 924805,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 2191291000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "cogs": {
+      "value": 79632000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -581974,
+      "year": 2017,
+      "periodEnd": "2017-03-31",
+      "filed": "2017-06-30"
+    },
+    "netIncome": {
+      "value": 153328000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "epsBasic": {
+      "value": 2.56,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "epsDiluted": {
+      "value": 2.51,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "currentAssets": {
+      "value": 8584553,
+      "year": 2017,
+      "periodEnd": "2017-03-31",
+      "filed": "2017-06-30"
+    },
+    "totalAssets": {
+      "value": 13155239000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "currentLiabilities": {
+      "value": 8739637,
+      "year": 2017,
+      "periodEnd": "2017-03-31",
+      "filed": "2017-06-30"
+    },
+    "totalLiabilities": {
+      "value": 11665960000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "shareholdersEquity": {
+      "value": 1489279000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "operatingCashFlow": {
+      "value": 185221000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "capex": {
+      "value": 198766000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:19.535Z"
+}

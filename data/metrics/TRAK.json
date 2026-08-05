@@ -1,0 +1,88 @@
+{
+  "ticker": "TRAK",
+  "name": "ReposiTrak, Inc.",
+  "cik": 50471,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 21007076,
+      "year": 2021,
+      "periodEnd": "2021-06-30",
+      "filed": "2021-09-28"
+    },
+    "cogs": {
+      "value": 3681330,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 6227143,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "netIncome": {
+      "value": 6978127,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "epsBasic": {
+      "value": 0.36,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "epsDiluted": {
+      "value": 0.35,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "currentAssets": {
+      "value": 33685800,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "totalAssets": {
+      "value": 55329047,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "currentLiabilities": {
+      "value": 5531118,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "totalLiabilities": {
+      "value": 5809866,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "shareholdersEquity": {
+      "value": 49519181,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "operatingCashFlow": {
+      "value": 8420132,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "capex": {
+      "value": 15965,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:10.880Z"
+}

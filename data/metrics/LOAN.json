@@ -1,0 +1,83 @@
+{
+  "ticker": "LOAN",
+  "name": "MANHATTAN BRIDGE CAPITAL, INC",
+  "cik": 1080340,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7006351,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-11"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 5094187,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "netIncome": {
+      "value": 5110977,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsBasic": {
+      "value": 0.45,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsDiluted": {
+      "value": 0.45,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentAssets": {
+      "value": 27967715,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-15"
+    },
+    "totalAssets": {
+      "value": 62350731,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": {
+      "value": 7717303,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-15"
+    },
+    "totalLiabilities": {
+      "value": 19251187,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "shareholdersEquity": {
+      "value": 43099544,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": 4929066,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "capex": {
+      "value": 418,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:08.344Z"
+}

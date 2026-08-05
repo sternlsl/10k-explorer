@@ -1,0 +1,93 @@
+{
+  "ticker": "SATT",
+  "name": "SATIVUS TECH CORP.",
+  "cik": 1661600,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 36250,
+      "year": 2017,
+      "periodEnd": "2017-09-30",
+      "filed": "2018-01-10"
+    },
+    "cogs": {
+      "value": 21250,
+      "year": 2017,
+      "periodEnd": "2017-09-30",
+      "filed": "2018-01-10"
+    },
+    "grossProfit": {
+      "value": 12450,
+      "year": 2017,
+      "periodEnd": "2017-09-30",
+      "filed": "2018-01-10"
+    },
+    "operatingIncome": {
+      "value": -1060000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": -869000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": -0.32,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": -0.32,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 103000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 307000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 3719000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "totalLiabilities": {
+      "value": 3838000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -3500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -701000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": {
+      "value": 3000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:20.844Z"
+}

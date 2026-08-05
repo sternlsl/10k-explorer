@@ -1,0 +1,83 @@
+{
+  "ticker": "PTOS",
+  "name": "P2 Solar, Inc.",
+  "cik": 1172069,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 26382,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-07-15"
+    },
+    "cogs": {
+      "value": 4379,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-07-15"
+    },
+    "grossProfit": {
+      "value": 22003,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-07-15"
+    },
+    "operatingIncome": {
+      "value": -103326,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-07-15"
+    },
+    "netIncome": {
+      "value": -34492,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-07-15"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-07-15"
+    },
+    "currentAssets": {
+      "value": 12462,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-07-15"
+    },
+    "totalAssets": {
+      "value": 102716,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-07-15"
+    },
+    "currentLiabilities": {
+      "value": 1039119,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-07-15"
+    },
+    "totalLiabilities": {
+      "value": 1115454,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-07-15"
+    },
+    "shareholdersEquity": {
+      "value": -1012738,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-07-15"
+    },
+    "operatingCashFlow": {
+      "value": -68752,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-07-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:08.317Z"
+}

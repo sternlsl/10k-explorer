@@ -1,0 +1,93 @@
+{
+  "ticker": "AGX",
+  "name": "ARGAN INC",
+  "cik": 100591,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 944606000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "cogs": {
+      "value": 750928000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "grossProfit": {
+      "value": 193678000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "operatingIncome": {
+      "value": 134701000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "netIncome": {
+      "value": 137774000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": 10,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": 9.74,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "currentAssets": {
+      "value": 1132257000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "totalAssets": {
+      "value": 1186354000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "currentLiabilities": {
+      "value": 711257000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "totalLiabilities": {
+      "value": 724092000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "shareholdersEquity": {
+      "value": 462262000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "operatingCashFlow": {
+      "value": 414718000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "capex": {
+      "value": 3877000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:11.336Z"
+}

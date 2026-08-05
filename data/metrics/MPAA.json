@@ -1,0 +1,93 @@
+{
+  "ticker": "MPAA",
+  "name": "MOTORCAR PARTS OF AMERICA INC",
+  "cik": 918251,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 789806000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "cogs": {
+      "value": 629905000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "grossProfit": {
+      "value": 159901000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "operatingIncome": {
+      "value": 65835000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "netIncome": {
+      "value": 12394000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "epsBasic": {
+      "value": 0.64,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "epsDiluted": {
+      "value": 0.62,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "currentAssets": {
+      "value": 583982000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "totalAssets": {
+      "value": 1019437000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "currentLiabilities": {
+      "value": 399596000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "totalLiabilities": {
+      "value": 753427000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "shareholdersEquity": {
+      "value": 266010000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "operatingCashFlow": {
+      "value": 19158000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "capex": {
+      "value": 3696000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:53.155Z"
+}

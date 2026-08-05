@@ -1,0 +1,83 @@
+{
+  "ticker": "MLP",
+  "name": "MAUI LAND & PINEAPPLE CO INC",
+  "cik": 63330,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 18900000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-26"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -4547000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "netIncome": {
+      "value": -10579000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "epsBasic": {
+      "value": -0.54,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "epsDiluted": {
+      "value": -0.38,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "currentAssets": {
+      "value": 9101000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "totalAssets": {
+      "value": 47968000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "currentLiabilities": {
+      "value": 7363000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "totalLiabilities": {
+      "value": 14905000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "shareholdersEquity": {
+      "value": 33063000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "operatingCashFlow": {
+      "value": 2075000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "capex": {
+      "value": 819000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:13.097Z"
+}

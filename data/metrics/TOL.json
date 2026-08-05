@@ -1,0 +1,78 @@
+{
+  "ticker": "TOL",
+  "name": "Toll Brothers, Inc.",
+  "cik": 794170,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7143258000,
+      "year": 2018,
+      "periodEnd": "2018-10-31",
+      "filed": "2019-12-26"
+    },
+    "cogs": {
+      "value": 8212487000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-19"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1720614000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-19"
+    },
+    "netIncome": {
+      "value": 1346486000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-19"
+    },
+    "epsBasic": {
+      "value": 13.6,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-19"
+    },
+    "epsDiluted": {
+      "value": 13.49,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-19"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 14519866000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-19"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 6233802000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-19"
+    },
+    "shareholdersEquity": {
+      "value": 8270663000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-19"
+    },
+    "operatingCashFlow": {
+      "value": 1112411000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-19"
+    },
+    "capex": {
+      "value": 86195000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:49.125Z"
+}

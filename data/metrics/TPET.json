@@ -1,0 +1,88 @@
+{
+  "ticker": "TPET",
+  "name": "Trio Petroleum Corp",
+  "cik": 1898766,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 398734,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-20"
+    },
+    "cogs": {
+      "value": 175729,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-20"
+    },
+    "grossProfit": {
+      "value": 223005,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-20"
+    },
+    "operatingIncome": {
+      "value": -5272103,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-20"
+    },
+    "netIncome": {
+      "value": -7282133,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-20"
+    },
+    "epsBasic": {
+      "value": -0.8,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-20"
+    },
+    "epsDiluted": {
+      "value": -0.8,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-20"
+    },
+    "currentAssets": {
+      "value": 1070988,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-20"
+    },
+    "totalAssets": {
+      "value": 13214110,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-20"
+    },
+    "currentLiabilities": {
+      "value": 1856890,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-20"
+    },
+    "totalLiabilities": {
+      "value": 1910759,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-20"
+    },
+    "shareholdersEquity": {
+      "value": 11303351,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-20"
+    },
+    "operatingCashFlow": {
+      "value": -2604749,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:19.305Z"
+}

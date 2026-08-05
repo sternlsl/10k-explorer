@@ -1,0 +1,93 @@
+{
+  "ticker": "MWAI",
+  "name": "MedWellAI, Inc.",
+  "cik": 1520118,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 594768,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "cogs": {
+      "value": 3930335,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "grossProfit": {
+      "value": -2434618,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-28"
+    },
+    "operatingIncome": {
+      "value": -2840574,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "netIncome": {
+      "value": -3607145,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "epsBasic": {
+      "value": -2.72,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "epsDiluted": {
+      "value": -2.72,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "currentAssets": {
+      "value": 418773,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "totalAssets": {
+      "value": 805500,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "currentLiabilities": {
+      "value": 3055910,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "totalLiabilities": {
+      "value": 3140935,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "shareholdersEquity": {
+      "value": -6624599,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "operatingCashFlow": {
+      "value": -848531,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "capex": {
+      "value": 2242,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:56.173Z"
+}

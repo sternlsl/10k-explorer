@@ -1,0 +1,93 @@
+{
+  "ticker": "BRVO",
+  "name": "Bravo Multinational Inc.",
+  "cik": 1444839,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1815978,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2019-09-03"
+    },
+    "cogs": {
+      "value": 433826,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2019-09-03"
+    },
+    "grossProfit": {
+      "value": 459652,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2019-09-03"
+    },
+    "operatingIncome": {
+      "value": -528058,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-06"
+    },
+    "netIncome": {
+      "value": -253478,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "currentAssets": {
+      "value": 111,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "totalAssets": {
+      "value": 111,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "currentLiabilities": {
+      "value": 2084086,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-09-03"
+    },
+    "totalLiabilities": {
+      "value": 1055698,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "shareholdersEquity": {
+      "value": -1055587,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "operatingCashFlow": {
+      "value": -72857,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "capex": {
+      "value": 708,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2019-03-08"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:12.158Z"
+}

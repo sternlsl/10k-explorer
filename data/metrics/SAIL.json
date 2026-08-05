@@ -1,0 +1,93 @@
+{
+  "ticker": "SAIL",
+  "name": "SailPoint, Inc.",
+  "cik": 2030781,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1071416000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "cogs": {
+      "value": 380625000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "grossProfit": {
+      "value": 690791000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "operatingIncome": {
+      "value": -307486000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "netIncome": {
+      "value": -270054000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "epsBasic": {
+      "value": -0.54,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "epsDiluted": {
+      "value": -0.54,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "currentAssets": {
+      "value": 850695000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "totalAssets": {
+      "value": 7597561000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "currentLiabilities": {
+      "value": 643295000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "totalLiabilities": {
+      "value": 751330000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "shareholdersEquity": {
+      "value": 6846231000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "operatingCashFlow": {
+      "value": 70580000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "capex": {
+      "value": 5980000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:36.579Z"
+}

@@ -1,0 +1,68 @@
+{
+  "ticker": "NAFS",
+  "name": "Havana Roasters Coffee Companies, Inc.",
+  "cik": 1409253,
+  "fiscalYear": 2017,
+  "metrics": {
+    "revenue": {
+      "value": 250,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2014-03-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -64416,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-04-14"
+    },
+    "netIncome": {
+      "value": -242602,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-19"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 0,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-04-27"
+    },
+    "totalAssets": {
+      "value": 0,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-04-27"
+    },
+    "currentLiabilities": {
+      "value": 825444,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-19"
+    },
+    "totalLiabilities": {
+      "value": 825444,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-19"
+    },
+    "shareholdersEquity": {
+      "value": -825444,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-19"
+    },
+    "operatingCashFlow": {
+      "value": 105475,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-19"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:13.386Z"
+}

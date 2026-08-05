@@ -1,0 +1,93 @@
+{
+  "ticker": "GFF",
+  "name": "GRIFFON CORP",
+  "cik": 50725,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2519926000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "cogs": {
+      "value": 1461921000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "grossProfit": {
+      "value": 1058005000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "operatingIncome": {
+      "value": 206277000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "netIncome": {
+      "value": 51110000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "epsBasic": {
+      "value": 1.13,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "epsDiluted": {
+      "value": 1.09,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "currentAssets": {
+      "value": 890594000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "totalAssets": {
+      "value": 2063637000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "currentLiabilities": {
+      "value": 334557000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "totalLiabilities": {
+      "value": 1989665000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "shareholdersEquity": {
+      "value": 73972000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "operatingCashFlow": {
+      "value": 90130000,
+      "year": 2012,
+      "periodEnd": "2012-09-30",
+      "filed": "2012-11-16"
+    },
+    "capex": {
+      "value": 52435000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:23.302Z"
+}

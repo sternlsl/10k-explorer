@@ -1,0 +1,83 @@
+{
+  "ticker": "KALV",
+  "name": "KalVista Pharmaceuticals, Inc.",
+  "cik": 1348911,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 12690000,
+      "year": 2020,
+      "periodEnd": "2020-04-30",
+      "filed": "2022-07-07"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -187995000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-10"
+    },
+    "netIncome": {
+      "value": -183444000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-10"
+    },
+    "epsBasic": {
+      "value": -3.69,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-10"
+    },
+    "epsDiluted": {
+      "value": -3.69,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-10"
+    },
+    "currentAssets": {
+      "value": 241690000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-10"
+    },
+    "totalAssets": {
+      "value": 250770000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-10"
+    },
+    "currentLiabilities": {
+      "value": 45167000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-10"
+    },
+    "totalLiabilities": {
+      "value": 7481000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-03-30"
+    },
+    "shareholdersEquity": {
+      "value": 95391000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-10"
+    },
+    "operatingCashFlow": {
+      "value": -152907000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-10"
+    },
+    "capex": {
+      "value": 434000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-10"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:12.045Z"
+}

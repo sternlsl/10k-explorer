@@ -1,0 +1,68 @@
+{
+  "ticker": "PCMC",
+  "name": "PUBLIC CO MANAGEMENT CORP",
+  "cik": 1141964,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -93554,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-04"
+    },
+    "netIncome": {
+      "value": -103817,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-04"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-04"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-04"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 267642,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-04"
+    },
+    "currentLiabilities": {
+      "value": 474803,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-04"
+    },
+    "totalLiabilities": {
+      "value": 474803,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-04"
+    },
+    "shareholdersEquity": {
+      "value": -207161,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-04"
+    },
+    "operatingCashFlow": {
+      "value": -165630,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-04"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:54.304Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "VDTA",
+  "name": "Vertical Data Inc.",
+  "cik": 2033264,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3666000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "cogs": {
+      "value": 3598000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "grossProfit": {
+      "value": 68000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -3820078,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "epsBasic": {
+      "value": -0.09,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "epsDiluted": {
+      "value": -0.09,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "currentAssets": {
+      "value": 517712,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "totalAssets": {
+      "value": 519169,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "currentLiabilities": {
+      "value": 252058,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "totalLiabilities": {
+      "value": 252058,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "shareholdersEquity": {
+      "value": 267111,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "operatingCashFlow": {
+      "value": -1452945,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "capex": {
+      "value": 459,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:40.524Z"
+}

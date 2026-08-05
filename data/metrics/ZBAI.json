@@ -1,0 +1,93 @@
+{
+  "ticker": "ZBAI",
+  "name": "ATIF Holdings Ltd",
+  "cik": 1755058,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 70000,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2024-11-13"
+    },
+    "cogs": {
+      "value": 660000,
+      "year": 2022,
+      "periodEnd": "2022-07-31",
+      "filed": "2023-11-13"
+    },
+    "grossProfit": {
+      "value": 2450000,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-11-13"
+    },
+    "operatingIncome": {
+      "value": -1960009,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2024-11-13"
+    },
+    "netIncome": {
+      "value": -3191524,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2024-11-13"
+    },
+    "epsBasic": {
+      "value": -0.31,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2024-11-13"
+    },
+    "epsDiluted": {
+      "value": -0.31,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2024-11-13"
+    },
+    "currentAssets": {
+      "value": 2898748,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2024-11-13"
+    },
+    "totalAssets": {
+      "value": 3012588,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2024-11-13"
+    },
+    "currentLiabilities": {
+      "value": 988417,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2024-11-13"
+    },
+    "totalLiabilities": {
+      "value": 1258834,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2024-11-13"
+    },
+    "shareholdersEquity": {
+      "value": 1753754,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2024-11-13"
+    },
+    "operatingCashFlow": {
+      "value": -120483,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2024-11-13"
+    },
+    "capex": {
+      "value": 5086,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2024-11-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:24.848Z"
+}

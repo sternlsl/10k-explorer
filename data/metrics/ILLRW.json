@@ -1,0 +1,83 @@
+{
+  "ticker": "ILLRW",
+  "name": "Triller Group Inc.",
+  "cik": 1769624,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 21622000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -138413000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "netIncome": {
+      "value": -174542000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "epsBasic": {
+      "value": -0.97,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "epsDiluted": {
+      "value": -0.97,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "currentAssets": {
+      "value": 15228000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "totalAssets": {
+      "value": 35505000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "currentLiabilities": {
+      "value": 361195000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "totalLiabilities": {
+      "value": 363621000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "shareholdersEquity": {
+      "value": -328116000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "operatingCashFlow": {
+      "value": -25938000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "capex": {
+      "value": 105000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2026-01-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:12.054Z"
+}

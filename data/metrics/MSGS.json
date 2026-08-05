@@ -1,0 +1,83 @@
+{
+  "ticker": "MSGS",
+  "name": "Madison Square Garden Sports Corp.",
+  "cik": 1636519,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1039220000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 14808000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "netIncome": {
+      "value": -22438000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "epsBasic": {
+      "value": -0.93,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "epsDiluted": {
+      "value": -0.93,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "currentAssets": {
+      "value": 251095000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "totalAssets": {
+      "value": 1472974000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "currentLiabilities": {
+      "value": 563523000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "totalLiabilities": {
+      "value": 1754413000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "shareholdersEquity": {
+      "value": -281439000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "operatingCashFlow": {
+      "value": 91607000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "capex": {
+      "value": 3621000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:24.504Z"
+}

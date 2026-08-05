@@ -1,0 +1,88 @@
+{
+  "ticker": "CYCA",
+  "name": "CYTTA CORP.",
+  "cik": 1383088,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 4995,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2025-01-14"
+    },
+    "cogs": {
+      "value": 41872,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2022-01-12"
+    },
+    "grossProfit": {
+      "value": 6089,
+      "year": 2022,
+      "periodEnd": "2022-09-30",
+      "filed": "2023-01-11"
+    },
+    "operatingIncome": {
+      "value": -3887975,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2025-01-14"
+    },
+    "netIncome": {
+      "value": -4264412,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2025-01-14"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2025-01-14"
+    },
+    "currentAssets": {
+      "value": 1983881,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2025-01-14"
+    },
+    "totalAssets": {
+      "value": 2175191,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2025-01-14"
+    },
+    "currentLiabilities": {
+      "value": 2412635,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2025-01-14"
+    },
+    "totalLiabilities": {
+      "value": 449217,
+      "year": 2022,
+      "periodEnd": "2022-09-30",
+      "filed": "2023-01-11"
+    },
+    "shareholdersEquity": {
+      "value": -237444,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2025-01-14"
+    },
+    "operatingCashFlow": {
+      "value": -1813732,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2025-01-14"
+    },
+    "capex": {
+      "value": 14707,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2025-01-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:08.120Z"
+}

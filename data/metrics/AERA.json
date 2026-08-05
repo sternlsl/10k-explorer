@@ -1,0 +1,83 @@
+{
+  "ticker": "AERA",
+  "name": "AI Era Corp.",
+  "cik": 1605331,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1180300,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "cogs": {
+      "value": -1644893,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "grossProfit": {
+      "value": -293789,
+      "year": 2022,
+      "periodEnd": "2022-08-31",
+      "filed": "2022-12-08"
+    },
+    "operatingIncome": {
+      "value": 1881050,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "netIncome": {
+      "value": 1455448,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 241607,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "totalAssets": {
+      "value": 6664156,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "currentLiabilities": {
+      "value": 3491633,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "totalLiabilities": {
+      "value": 3598731,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "shareholdersEquity": {
+      "value": 3065425,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "operatingCashFlow": {
+      "value": -2318961,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "capex": {
+      "value": -800,
+      "year": 2014,
+      "periodEnd": "2014-08-31",
+      "filed": "2015-10-01"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:34.922Z"
+}

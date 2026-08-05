@@ -1,0 +1,93 @@
+{
+  "ticker": "OLB",
+  "name": "OLB GROUP, INC.",
+  "cik": 1314196,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 8676907,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "cogs": {
+      "value": 29915,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-03-23"
+    },
+    "grossProfit": {
+      "value": 62131,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-04-12"
+    },
+    "operatingIncome": {
+      "value": -5165362,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "netIncome": {
+      "value": -11224911,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "epsBasic": {
+      "value": -1.74,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "epsDiluted": {
+      "value": -1.74,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "currentAssets": {
+      "value": 1050632,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "totalAssets": {
+      "value": 12296593,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "currentLiabilities": {
+      "value": 7690868,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "totalLiabilities": {
+      "value": 7690868,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "shareholdersEquity": {
+      "value": 3189014,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -1330383,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "capex": {
+      "value": 1225148,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:13.560Z"
+}

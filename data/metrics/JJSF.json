@@ -1,0 +1,88 @@
+{
+  "ticker": "JJSF",
+  "name": "J&J SNACK FOODS CORP",
+  "cik": 785956,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1022038000,
+      "year": 2020,
+      "periodEnd": "2020-09-26",
+      "filed": "2020-11-25"
+    },
+    "cogs": {
+      "value": 1113351000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "grossProfit": {
+      "value": 469882000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "operatingIncome": {
+      "value": 84326000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "netIncome": {
+      "value": 65595000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "epsBasic": {
+      "value": 3.37,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "epsDiluted": {
+      "value": 3.36,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "currentAssets": {
+      "value": 478332000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "totalAssets": {
+      "value": 1381501000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "currentLiabilities": {
+      "value": 175666000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 966695000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "operatingCashFlow": {
+      "value": 165126000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "capex": {
+      "value": 82873000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:57.227Z"
+}

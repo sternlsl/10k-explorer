@@ -1,0 +1,93 @@
+{
+  "ticker": "EPC",
+  "name": "EDGEWELL PERSONAL CARE Co",
+  "cik": 1096752,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2223500000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "cogs": {
+      "value": 1298600000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "grossProfit": {
+      "value": 924900000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "operatingIncome": {
+      "value": 96600000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "netIncome": {
+      "value": 25400000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "epsBasic": {
+      "value": 0.53,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "epsDiluted": {
+      "value": 0.53,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "currentAssets": {
+      "value": 995500000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "totalAssets": {
+      "value": 3756300000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "currentLiabilities": {
+      "value": 565500000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "totalLiabilities": {
+      "value": 2203200000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "shareholdersEquity": {
+      "value": 1553100000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "operatingCashFlow": {
+      "value": 118400000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "capex": {
+      "value": 85300000,
+      "year": 2014,
+      "periodEnd": "2014-09-30",
+      "filed": "2014-11-18"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:45.002Z"
+}

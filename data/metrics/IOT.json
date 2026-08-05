@@ -1,0 +1,93 @@
+{
+  "ticker": "IOT",
+  "name": "Samsara Inc.",
+  "cik": 1642896,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1618635000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    },
+    "cogs": {
+      "value": 376549000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    },
+    "grossProfit": {
+      "value": 1242086000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    },
+    "operatingIncome": {
+      "value": -52576000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    },
+    "netIncome": {
+      "value": -9117000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    },
+    "epsBasic": {
+      "value": -0.02,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    },
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    },
+    "currentAssets": {
+      "value": 1507118000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    },
+    "totalAssets": {
+      "value": 2540674000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    },
+    "currentLiabilities": {
+      "value": 917038000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    },
+    "totalLiabilities": {
+      "value": 1120227000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    },
+    "shareholdersEquity": {
+      "value": 1420447000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    },
+    "operatingCashFlow": {
+      "value": 236210000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    },
+    "capex": {
+      "value": 28766000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:29.779Z"
+}

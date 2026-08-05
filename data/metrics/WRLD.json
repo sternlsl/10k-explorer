@@ -1,0 +1,68 @@
+{
+  "ticker": "WRLD",
+  "name": "WORLD ACCEPTANCE CORP",
+  "cik": 108385,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 585166700,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-04"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 34586024,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-04"
+    },
+    "epsBasic": {
+      "value": 7,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-04"
+    },
+    "epsDiluted": {
+      "value": 6.88,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-04"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1054120644,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-04"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 703115353,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-04"
+    },
+    "shareholdersEquity": {
+      "value": 351005291,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-04"
+    },
+    "operatingCashFlow": {
+      "value": 259358889,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-04"
+    },
+    "capex": {
+      "value": 3882342,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-04"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:33.597Z"
+}

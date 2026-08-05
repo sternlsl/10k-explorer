@@ -1,0 +1,93 @@
+{
+  "ticker": "UAA",
+  "name": "Under Armour, Inc.",
+  "cik": 1336917,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 4966370000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "cogs": {
+      "value": 2707512000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "grossProfit": {
+      "value": 2258858000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "operatingIncome": {
+      "value": -163112000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "netIncome": {
+      "value": -495643000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "epsBasic": {
+      "value": -1.16,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "epsDiluted": {
+      "value": -1.16,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "currentAssets": {
+      "value": 2718683000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "totalAssets": {
+      "value": 4415694000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "currentLiabilities": {
+      "value": 1676786000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "totalLiabilities": {
+      "value": 3001334000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "shareholdersEquity": {
+      "value": 1414360000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "operatingCashFlow": {
+      "value": -75088000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "capex": {
+      "value": 87075000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:09.959Z"
+}

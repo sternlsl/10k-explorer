@@ -1,0 +1,93 @@
+{
+  "ticker": "DBI",
+  "name": "Designer Brands Inc.",
+  "cik": 1319947,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 2892671000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "cogs": {
+      "value": 2010418000,
+      "year": 2018,
+      "periodEnd": "2018-02-03",
+      "filed": "2018-03-23"
+    },
+    "grossProfit": {
+      "value": 1260390000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "operatingIncome": {
+      "value": 47764000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "netIncome": {
+      "value": -8374000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "epsBasic": {
+      "value": -0.17,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "epsDiluted": {
+      "value": -0.17,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "currentAssets": {
+      "value": 708148000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "totalAssets": {
+      "value": 1947633000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "currentLiabilities": {
+      "value": 588474000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "totalLiabilities": {
+      "value": 1659873000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "shareholdersEquity": {
+      "value": -3286000,
+      "year": 2021,
+      "periodEnd": "2021-01-30",
+      "filed": "2023-03-16"
+    },
+    "operatingCashFlow": {
+      "value": 109860000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "capex": {
+      "value": 31605000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:39.449Z"
+}

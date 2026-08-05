@@ -1,0 +1,93 @@
+{
+  "ticker": "RNLXY",
+  "name": "Renalytix plc",
+  "cik": 1811115,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 100000,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-28"
+    },
+    "cogs": {
+      "value": 2133000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "grossProfit": {
+      "value": 156000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "operatingIncome": {
+      "value": -29608000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "netIncome": {
+      "value": -33456000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "epsBasic": {
+      "value": -0.31,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "epsDiluted": {
+      "value": -0.31,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "currentAssets": {
+      "value": 6118000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "totalAssets": {
+      "value": 7972000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "currentLiabilities": {
+      "value": 11495000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "totalLiabilities": {
+      "value": 15826000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "shareholdersEquity": {
+      "value": -7854000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "operatingCashFlow": {
+      "value": -30111000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:25.475Z"
+}

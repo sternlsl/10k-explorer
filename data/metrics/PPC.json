@@ -1,0 +1,93 @@
+{
+  "ticker": "PPC",
+  "name": "PILGRIMS PRIDE CORP",
+  "cik": 802481,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 18497553000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "cogs": {
+      "value": 16139410000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "grossProfit": {
+      "value": 2358143000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "operatingIncome": {
+      "value": 1613539000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "netIncome": {
+      "value": 1082359000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "epsBasic": {
+      "value": 4.56,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "epsDiluted": {
+      "value": 4.54,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "currentAssets": {
+      "value": 4237363000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "totalAssets": {
+      "value": 10343530000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "currentLiabilities": {
+      "value": 2890258000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "totalLiabilities": {
+      "value": 6649799000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "shareholdersEquity": {
+      "value": 3680050000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "operatingCashFlow": {
+      "value": 1371650000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "capex": {
+      "value": 718500000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:31.728Z"
+}

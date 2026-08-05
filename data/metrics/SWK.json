@@ -2,64 +2,87 @@
   "ticker": "SWK",
   "name": "STANLEY BLACK & DECKER, INC.",
   "cik": 93556,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
       "value": 15130400000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-24"
     },
     "cogs": {
       "value": 10542100000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-24"
     },
     "grossProfit": {
       "value": 4284100000,
       "year": 2022,
-      "periodEnd": "2022-12-31"
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-23"
     },
     "operatingIncome": {
       "value": 2176000000,
-      "year": 2020,
-      "periodEnd": "2021-01-02"
+      "year": 2021,
+      "periodEnd": "2021-01-02",
+      "filed": "2021-02-18"
     },
     "netIncome": {
       "value": 401900000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": 2.66,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-24"
+    },
+    "epsDiluted": {
+      "value": 2.65,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-24"
     },
     "currentAssets": {
       "value": 5979000000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-24"
     },
     "totalAssets": {
       "value": 21243700000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-24"
     },
     "currentLiabilities": {
       "value": 5245700000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-24"
     },
     "totalLiabilities": null,
     "shareholdersEquity": {
       "value": 9054600000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-24"
     },
     "operatingCashFlow": {
       "value": 971200000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-24"
     },
     "capex": {
       "value": 283300000,
-      "year": 2025,
-      "periodEnd": "2026-01-03"
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-24"
     }
   },
-  "fetchedAt": "2026-05-08T19:02:32.519Z"
+  "updatedAt": "2026-08-05T16:54:56.181Z"
 }

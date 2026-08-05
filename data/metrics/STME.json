@@ -1,0 +1,83 @@
+{
+  "ticker": "STME",
+  "name": "Stimcell Energetics Inc.",
+  "cik": 1493712,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-05-31",
+      "filed": "2024-08-29"
+    },
+    "cogs": {
+      "value": 2032,
+      "year": 2022,
+      "periodEnd": "2022-05-31",
+      "filed": "2023-04-07"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-05-31",
+      "filed": "2024-08-29"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -697379,
+      "year": 2022,
+      "periodEnd": "2022-05-31",
+      "filed": "2023-04-07"
+    },
+    "epsBasic": {
+      "value": -0.03,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 41344,
+      "year": 2022,
+      "periodEnd": "2022-05-31",
+      "filed": "2023-04-07"
+    },
+    "totalAssets": {
+      "value": 21222,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "currentLiabilities": {
+      "value": 1118677,
+      "year": 2018,
+      "periodEnd": "2018-05-31",
+      "filed": "2018-09-13"
+    },
+    "totalLiabilities": {
+      "value": 1267508,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "shareholdersEquity": {
+      "value": -1073418,
+      "year": 2018,
+      "periodEnd": "2018-05-31",
+      "filed": "2018-09-13"
+    },
+    "operatingCashFlow": {
+      "value": -141600,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2022,
+      "periodEnd": "2022-05-31",
+      "filed": "2023-04-07"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:18.888Z"
+}

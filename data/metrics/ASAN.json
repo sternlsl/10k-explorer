@@ -1,0 +1,93 @@
+{
+  "ticker": "ASAN",
+  "name": "Asana, Inc.",
+  "cik": 1477720,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 790806000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "cogs": {
+      "value": 86759000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "grossProfit": {
+      "value": 704047000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "operatingIncome": {
+      "value": -197331000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "netIncome": {
+      "value": -189024000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "epsBasic": {
+      "value": -0.8,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "epsDiluted": {
+      "value": -0.8,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "currentAssets": {
+      "value": 593348000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "totalAssets": {
+      "value": 844088000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "currentLiabilities": {
+      "value": 501020000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "totalLiabilities": {
+      "value": 689971000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "shareholdersEquity": {
+      "value": 154117000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "operatingCashFlow": {
+      "value": 90361000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "capex": {
+      "value": 3792000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:49.470Z"
+}

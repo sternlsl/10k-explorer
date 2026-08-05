@@ -1,0 +1,73 @@
+{
+  "ticker": "CTTH",
+  "name": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+  "cik": 1035422,
+  "fiscalYear": 2014,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -672162,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-04-14"
+    },
+    "netIncome": {
+      "value": 227838,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-04-14"
+    },
+    "epsBasic": {
+      "value": 0.01,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-02-10"
+    },
+    "epsDiluted": {
+      "value": 0.01,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-02-10"
+    },
+    "currentAssets": {
+      "value": 1049734,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-04-14"
+    },
+    "totalAssets": {
+      "value": 1662370,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-04-14"
+    },
+    "currentLiabilities": {
+      "value": 249378,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-02-10"
+    },
+    "totalLiabilities": {
+      "value": 1075740,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-04-14"
+    },
+    "shareholdersEquity": {
+      "value": 586630,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-04-14"
+    },
+    "operatingCashFlow": {
+      "value": -72250,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-04-14"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:35.196Z"
+}

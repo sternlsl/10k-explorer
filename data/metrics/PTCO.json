@@ -1,0 +1,83 @@
+{
+  "ticker": "PTCO",
+  "name": "PetroGas Co",
+  "cik": 1609258,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2022,
+      "periodEnd": "2022-03-31",
+      "filed": "2022-06-27"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 2484,
+      "year": 2017,
+      "periodEnd": "2017-03-31",
+      "filed": "2017-06-30"
+    },
+    "operatingIncome": {
+      "value": -24692,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "netIncome": {
+      "value": 8978,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "currentAssets": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "totalAssets": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "currentLiabilities": {
+      "value": 790250,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "totalLiabilities": {
+      "value": 790250,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "shareholdersEquity": {
+      "value": -790250,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "operatingCashFlow": {
+      "value": -29942,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:11.005Z"
+}

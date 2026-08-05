@@ -1,0 +1,68 @@
+{
+  "ticker": "SSEAU",
+  "name": "STARRY SEA ACQUISITION CORP",
+  "cik": 2059165,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -542614,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "netIncome": {
+      "value": 320643,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "epsBasic": {
+      "value": -0.78,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "epsDiluted": {
+      "value": -0.78,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "currentAssets": {
+      "value": 379616,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "totalAssets": {
+      "value": 58742879,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "currentLiabilities": {
+      "value": 550,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 5763587,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "operatingCashFlow": {
+      "value": -702523,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:28.803Z"
+}

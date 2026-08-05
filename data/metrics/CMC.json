@@ -1,0 +1,83 @@
+{
+  "ticker": "CMC",
+  "name": "COMMERCIAL METALS Co",
+  "cik": 22444,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7918430000,
+      "year": 2011,
+      "periodEnd": "2011-08-31",
+      "filed": "2011-10-31"
+    },
+    "cogs": {
+      "value": 6578324000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-16"
+    },
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 84662000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-16"
+    },
+    "epsBasic": {
+      "value": 0.75,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-16"
+    },
+    "epsDiluted": {
+      "value": 0.74,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-16"
+    },
+    "currentAssets": {
+      "value": 3494818000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-16"
+    },
+    "totalAssets": {
+      "value": 7171834000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-16"
+    },
+    "currentLiabilities": {
+      "value": 1258813000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-16"
+    },
+    "totalLiabilities": {
+      "value": 2978508000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-16"
+    },
+    "shareholdersEquity": {
+      "value": 4193066000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-16"
+    },
+    "operatingCashFlow": {
+      "value": 715070000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-16"
+    },
+    "capex": {
+      "value": 402821000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-16"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:30.249Z"
+}

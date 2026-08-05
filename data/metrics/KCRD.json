@@ -1,0 +1,93 @@
+{
+  "ticker": "KCRD",
+  "name": "Kindcard, Inc.",
+  "cik": 1696025,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 365708,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-19"
+    },
+    "cogs": {
+      "value": 96839,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-19"
+    },
+    "grossProfit": {
+      "value": 268869,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-19"
+    },
+    "operatingIncome": {
+      "value": -250791,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-05-19"
+    },
+    "netIncome": {
+      "value": -210436,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-19"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-05-19"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-19"
+    },
+    "currentAssets": {
+      "value": 41686,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-19"
+    },
+    "totalAssets": {
+      "value": 51413,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-19"
+    },
+    "currentLiabilities": {
+      "value": 1010854,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-19"
+    },
+    "totalLiabilities": {
+      "value": 1169622,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-19"
+    },
+    "shareholdersEquity": {
+      "value": -1118209,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-19"
+    },
+    "operatingCashFlow": {
+      "value": 47071,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-19"
+    },
+    "capex": {
+      "value": 13605,
+      "year": 2022,
+      "periodEnd": "2022-01-31",
+      "filed": "2022-05-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:42.044Z"
+}

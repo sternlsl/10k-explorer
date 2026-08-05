@@ -1,0 +1,73 @@
+{
+  "ticker": "XTGRF",
+  "name": "XTRA-GOLD RESOURCES CORP",
+  "cik": 1288770,
+  "fiscalYear": 2011,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -7713627,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "netIncome": {
+      "value": -5324757,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.12,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "currentAssets": {
+      "value": 7374906,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "totalAssets": {
+      "value": 9823316,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "currentLiabilities": {
+      "value": 745860,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "totalLiabilities": {
+      "value": 917255,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "shareholdersEquity": {
+      "value": 8906061,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "operatingCashFlow": {
+      "value": -7429927,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "capex": {
+      "value": 946956,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:59.616Z"
+}

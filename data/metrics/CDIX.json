@@ -1,0 +1,93 @@
+{
+  "ticker": "CDIX",
+  "name": "Cardiff Lexington Corp",
+  "cik": 811222,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 11535577,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "cogs": {
+      "value": 1431909,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2019-04-22"
+    },
+    "grossProfit": {
+      "value": 7206247,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "operatingIncome": {
+      "value": 1100586,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "netIncome": {
+      "value": -5507592,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2023-06-06"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2023-06-06"
+    },
+    "currentAssets": {
+      "value": 22593365,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "totalAssets": {
+      "value": 29086945,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "currentLiabilities": {
+      "value": 25832369,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "totalLiabilities": {
+      "value": 26014118,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "shareholdersEquity": {
+      "value": -2469661,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "operatingCashFlow": {
+      "value": -1721467,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-27"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-06"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:44.989Z"
+}

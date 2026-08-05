@@ -1,0 +1,83 @@
+{
+  "ticker": "GROW",
+  "name": "U S GLOBAL INVESTORS INC",
+  "cik": 754811,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 23850609,
+      "year": 2012,
+      "periodEnd": "2012-06-30",
+      "filed": "2012-08-30"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -2986000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "netIncome": {
+      "value": -334000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "epsBasic": {
+      "value": -0.03,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "epsDiluted": {
+      "value": -0.03,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "currentAssets": {
+      "value": 39119000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "totalAssets": {
+      "value": 48064000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "currentLiabilities": {
+      "value": 1874000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "totalLiabilities": {
+      "value": 2857000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "shareholdersEquity": {
+      "value": 45207000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "operatingCashFlow": {
+      "value": -822000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "capex": {
+      "value": 7000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:38.319Z"
+}

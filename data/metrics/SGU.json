@@ -1,0 +1,73 @@
+{
+  "ticker": "SGU",
+  "name": "STAR GROUP, L.P.",
+  "cik": 1002590,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1784418000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "cogs": {
+      "value": 675386000,
+      "year": 2017,
+      "periodEnd": "2017-09-30",
+      "filed": "2017-12-06"
+    },
+    "grossProfit": {
+      "value": 562866000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "operatingIncome": {
+      "value": 114471000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "netIncome": {
+      "value": 73495000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 207281000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "totalAssets": {
+      "value": 937331000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "currentLiabilities": {
+      "value": 349233000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 70950000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "capex": {
+      "value": 14920000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:26.132Z"
+}

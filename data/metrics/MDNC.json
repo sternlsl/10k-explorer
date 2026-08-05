@@ -1,0 +1,88 @@
+{
+  "ticker": "MDNC",
+  "name": "Medinotec Inc.",
+  "cik": 1931055,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 9729463,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "cogs": {
+      "value": 4601350,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "grossProfit": {
+      "value": 5128113,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "operatingIncome": {
+      "value": 1094512,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "netIncome": {
+      "value": 794502,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "epsBasic": {
+      "value": 0.07,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 6419805,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "totalAssets": {
+      "value": 6812888,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "currentLiabilities": {
+      "value": 1101192,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "totalLiabilities": {
+      "value": 1101693,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "shareholdersEquity": {
+      "value": 5711195,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "operatingCashFlow": {
+      "value": 906798,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "capex": {
+      "value": 1363,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:51.945Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "BJRI",
+  "name": "BJs RESTAURANTS INC",
+  "cik": 1013488,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1399126000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-02"
+    },
+    "cogs": {
+      "value": 353293000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-02"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 46310000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-02"
+    },
+    "netIncome": {
+      "value": 48808000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": 2.22,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-02"
+    },
+    "epsDiluted": {
+      "value": 2.16,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-02"
+    },
+    "currentAssets": {
+      "value": 74925000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-02"
+    },
+    "totalAssets": {
+      "value": 1015455000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": {
+      "value": 187775000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-02"
+    },
+    "totalLiabilities": {
+      "value": 649262000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-02"
+    },
+    "shareholdersEquity": {
+      "value": 366193000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-02"
+    },
+    "operatingCashFlow": {
+      "value": 110514000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-02"
+    },
+    "capex": {
+      "value": 69612000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-02"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:12.424Z"
+}

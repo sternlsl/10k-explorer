@@ -1,0 +1,83 @@
+{
+  "ticker": "CHDN",
+  "name": "Churchill Downs Inc",
+  "cik": 20212,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2925900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 683800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "netIncome": {
+      "value": 383000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsBasic": {
+      "value": 5.55,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-21"
+    },
+    "epsDiluted": {
+      "value": 5.49,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-21"
+    },
+    "currentAssets": {
+      "value": 443200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "totalAssets": {
+      "value": 7484500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": {
+      "value": 733300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "totalLiabilities": {
+      "value": 6428700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "shareholdersEquity": {
+      "value": 1009700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 141900000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-24"
+    },
+    "capex": {
+      "value": 29600000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:41.621Z"
+}

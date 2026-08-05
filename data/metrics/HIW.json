@@ -1,0 +1,63 @@
+{
+  "ticker": "HIW",
+  "name": "HIGHWOODS PROPERTIES, INC.",
+  "cik": 921082,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 806112000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 544739000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "netIncome": null,
+    "epsBasic": {
+      "value": 1.45,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "epsDiluted": {
+      "value": 1.45,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 6273838000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 3838184000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "shareholdersEquity": {
+      "value": 2378980000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "operatingCashFlow": {
+      "value": 359207000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:03.460Z"
+}

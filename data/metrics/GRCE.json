@@ -1,0 +1,83 @@
+{
+  "ticker": "GRCE",
+  "name": "Grace Therapeutics, Inc.",
+  "cik": 1444192,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 100000000,
+      "year": 2022,
+      "periodEnd": "2022-03-31",
+      "filed": "2023-06-23"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2022,
+      "periodEnd": "2022-03-31",
+      "filed": "2022-06-21"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -11077000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "netIncome": {
+      "value": -7793000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "epsBasic": {
+      "value": -0.47,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "epsDiluted": {
+      "value": -0.47,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "currentAssets": {
+      "value": 17380000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "totalAssets": {
+      "value": 66654000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "currentLiabilities": {
+      "value": 2146000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "totalLiabilities": {
+      "value": 2758000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "shareholdersEquity": {
+      "value": 63896000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "operatingCashFlow": {
+      "value": -8869000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:31.024Z"
+}

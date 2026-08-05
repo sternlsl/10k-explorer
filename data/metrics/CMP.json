@@ -1,0 +1,78 @@
+{
+  "ticker": "CMP",
+  "name": "COMPASS MINERALS INTERNATIONAL INC",
+  "cik": 1227654,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1243900000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 190700000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "operatingIncome": {
+      "value": 25300000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "netIncome": {
+      "value": -79800000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "epsBasic": {
+      "value": -4.99,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2024-12-16"
+    },
+    "epsDiluted": {
+      "value": -4.99,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2024-12-16"
+    },
+    "currentAssets": {
+      "value": 572200000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "totalAssets": {
+      "value": 1519400000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "currentLiabilities": {
+      "value": 265600000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 234100000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "operatingCashFlow": {
+      "value": 197700000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:40.453Z"
+}

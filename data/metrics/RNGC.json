@@ -1,0 +1,83 @@
+{
+  "ticker": "RNGC",
+  "name": "Ranger Gold Corp.",
+  "cik": 1434740,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2013,
+      "periodEnd": "2013-03-31",
+      "filed": "2013-07-12"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2013,
+      "periodEnd": "2013-03-31",
+      "filed": "2013-07-12"
+    },
+    "operatingIncome": {
+      "value": -27062,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "netIncome": {
+      "value": -27062,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "currentAssets": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "totalAssets": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "currentLiabilities": {
+      "value": 1704,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "totalLiabilities": {
+      "value": 43293,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "shareholdersEquity": {
+      "value": -43293,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "operatingCashFlow": {
+      "value": -24142,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:13.909Z"
+}

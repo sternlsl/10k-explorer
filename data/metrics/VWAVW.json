@@ -1,0 +1,58 @@
+{
+  "ticker": "VWAVW",
+  "name": "VisionWave Holdings, Inc.",
+  "cik": 2038439,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -6741189,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "netIncome": {
+      "value": -6548095,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 2692732,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 2693013,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 14488460,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": -11795447,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": -2837894,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:35.612Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "PLUS",
+  "name": "EPLUS INC",
+  "cik": 1022408,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1410997000,
+      "year": 2018,
+      "periodEnd": "2018-03-31",
+      "filed": "2018-05-25"
+    },
+    "cogs": {
+      "value": 1826468000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "grossProfit": {
+      "value": 616081000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "operatingIncome": {
+      "value": 166145000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "netIncome": {
+      "value": 132636000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "epsBasic": {
+      "value": 5.05,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "epsDiluted": {
+      "value": 5.03,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "currentAssets": {
+      "value": 1427734000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "totalAssets": {
+      "value": 1800952000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "currentLiabilities": {
+      "value": 638143000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "totalLiabilities": {
+      "value": 731982000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "shareholdersEquity": {
+      "value": 1068970000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "operatingCashFlow": {
+      "value": -116231000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "capex": {
+      "value": 4429000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:21.271Z"
+}

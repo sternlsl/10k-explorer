@@ -1,0 +1,88 @@
+{
+  "ticker": "MZTI",
+  "name": "MARZETTI CO",
+  "cik": 57515,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1909122000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "cogs": {
+      "value": 1453476000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "grossProfit": {
+      "value": 455646000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "operatingIncome": {
+      "value": 220317000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "netIncome": {
+      "value": 167347000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "epsBasic": {
+      "value": 6.08,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "epsDiluted": {
+      "value": 6.07,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "currentAssets": {
+      "value": 443631000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "totalAssets": {
+      "value": 1274724000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "currentLiabilities": {
+      "value": 186294000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 998495000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "operatingCashFlow": {
+      "value": 261496000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "capex": {
+      "value": 58000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:48.258Z"
+}

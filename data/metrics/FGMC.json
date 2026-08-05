@@ -1,0 +1,68 @@
+{
+  "ticker": "FGMC",
+  "name": "FG Merger II Corp.",
+  "cik": 1906364,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -972161,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": 1427086,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-21"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-21"
+    },
+    "currentAssets": {
+      "value": 584447,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 82721335,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 194918,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 389529,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": 1484355,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:01.598Z"
+}

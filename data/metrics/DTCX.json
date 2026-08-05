@@ -1,0 +1,93 @@
+{
+  "ticker": "DTCX",
+  "name": "Datacentrex, Inc.",
+  "cik": 1853825,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6963477,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "cogs": {
+      "value": 3559564,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "grossProfit": {
+      "value": 3403913,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "operatingIncome": {
+      "value": -7918371,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "netIncome": {
+      "value": -8502885,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "epsBasic": {
+      "value": -0.46,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "epsDiluted": {
+      "value": -0.46,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "currentAssets": {
+      "value": 43818505,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "totalAssets": {
+      "value": 66841910,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "currentLiabilities": {
+      "value": 594658,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "totalLiabilities": {
+      "value": 335203,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "shareholdersEquity": {
+      "value": 66247252,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "operatingCashFlow": {
+      "value": -6447474,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "capex": {
+      "value": 25938181,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:25.732Z"
+}

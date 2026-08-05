@@ -2,64 +2,87 @@
   "ticker": "DECK",
   "name": "DECKERS OUTDOOR CORP",
   "cik": 910521,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 4985612000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 5472296000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "cogs": {
-      "value": 2099949000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 2314570000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "grossProfit": {
-      "value": 2885663000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 3157726000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "operatingIncome": {
-      "value": 1179092000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 1262903000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "netIncome": {
-      "value": 966091000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 1024071000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "epsBasic": {
+      "value": 7.04,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "epsDiluted": {
+      "value": 7.02,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "currentAssets": {
-      "value": 2860475000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 2850420000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "totalAssets": {
-      "value": 3570252000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 3687765000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "currentLiabilities": {
-      "value": 769941000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 804074000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "totalLiabilities": null,
     "shareholdersEquity": {
-      "value": 2513013000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 2499638000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "operatingCashFlow": {
-      "value": 1044523000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 1181955000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "capex": {
-      "value": 86171000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 84623000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     }
   },
-  "fetchedAt": "2026-05-08T18:47:14.999Z"
+  "updatedAt": "2026-08-05T16:54:43.848Z"
 }

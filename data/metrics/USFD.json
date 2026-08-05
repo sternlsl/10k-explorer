@@ -1,0 +1,93 @@
+{
+  "ticker": "USFD",
+  "name": "US Foods Holding Corp.",
+  "cik": 1665918,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 39424000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-12"
+    },
+    "cogs": {
+      "value": 32560000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-12"
+    },
+    "grossProfit": {
+      "value": 6864000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-12"
+    },
+    "operatingIncome": {
+      "value": 1199000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-12"
+    },
+    "netIncome": {
+      "value": 676000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-12"
+    },
+    "epsBasic": {
+      "value": 2.98,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-12"
+    },
+    "epsDiluted": {
+      "value": 2.94,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-12"
+    },
+    "currentAssets": {
+      "value": 4164000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-12"
+    },
+    "totalAssets": {
+      "value": 13943000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-12"
+    },
+    "currentLiabilities": {
+      "value": 3591000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-12"
+    },
+    "totalLiabilities": {
+      "value": 9636000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-12"
+    },
+    "shareholdersEquity": {
+      "value": 4307000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-12"
+    },
+    "operatingCashFlow": {
+      "value": 1369000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-12"
+    },
+    "capex": {
+      "value": 410000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:22.683Z"
+}

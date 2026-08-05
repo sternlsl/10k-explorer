@@ -1,0 +1,73 @@
+{
+  "ticker": "ADVB",
+  "name": "Advanced Biomed Inc.",
+  "cik": 1941029,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -3258969,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-08"
+    },
+    "epsBasic": {
+      "value": -0.16,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-08"
+    },
+    "epsDiluted": {
+      "value": -0.16,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-08"
+    },
+    "currentAssets": {
+      "value": 6032571,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-08"
+    },
+    "totalAssets": {
+      "value": 6512343,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-08"
+    },
+    "currentLiabilities": {
+      "value": 2889128,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-08"
+    },
+    "totalLiabilities": {
+      "value": 3034779,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-08"
+    },
+    "shareholdersEquity": {
+      "value": 3477564,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-08"
+    },
+    "operatingCashFlow": {
+      "value": -5825055,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-08"
+    },
+    "capex": {
+      "value": 31650,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-08"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:59.472Z"
+}

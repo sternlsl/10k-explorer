@@ -1,0 +1,93 @@
+{
+  "ticker": "LNN",
+  "name": "LINDSAY CORP",
+  "cik": 836157,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 659074000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-23"
+    },
+    "cogs": {
+      "value": 465588000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-23"
+    },
+    "grossProfit": {
+      "value": 210780000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-23"
+    },
+    "operatingIncome": {
+      "value": 88124000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-23"
+    },
+    "netIncome": {
+      "value": 74052000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-23"
+    },
+    "epsBasic": {
+      "value": 6.82,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-23"
+    },
+    "epsDiluted": {
+      "value": 6.78,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-23"
+    },
+    "currentAssets": {
+      "value": 532764000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-23"
+    },
+    "totalAssets": {
+      "value": 840836000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-23"
+    },
+    "currentLiabilities": {
+      "value": 143592000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-23"
+    },
+    "totalLiabilities": {
+      "value": 307986000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-23"
+    },
+    "shareholdersEquity": {
+      "value": 532850000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-23"
+    },
+    "operatingCashFlow": {
+      "value": 132910000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-23"
+    },
+    "capex": {
+      "value": 42496000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-23"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:31.337Z"
+}

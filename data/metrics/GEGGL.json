@@ -1,0 +1,88 @@
+{
+  "ticker": "GEGGL",
+  "name": "Great Elm Group, Inc.",
+  "cik": 1831096,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 16316000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-02"
+    },
+    "cogs": {
+      "value": 1082000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-02"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -8003000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-02"
+    },
+    "netIncome": {
+      "value": 12891000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-02"
+    },
+    "epsBasic": {
+      "value": 0.47,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-02"
+    },
+    "epsDiluted": {
+      "value": 0.38,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-02"
+    },
+    "currentAssets": {
+      "value": 137897000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-02"
+    },
+    "totalAssets": {
+      "value": 153937000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-02"
+    },
+    "currentLiabilities": {
+      "value": 9614000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-02"
+    },
+    "totalLiabilities": {
+      "value": 73271000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-02"
+    },
+    "shareholdersEquity": {
+      "value": 70318000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-02"
+    },
+    "operatingCashFlow": {
+      "value": -9006000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-02"
+    },
+    "capex": {
+      "value": 53000,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:41.236Z"
+}

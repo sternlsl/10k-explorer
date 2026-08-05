@@ -1,0 +1,73 @@
+{
+  "ticker": "IMAQ",
+  "name": "International Media Acquisition Corp.",
+  "cik": 1846235,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -460999,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "netIncome": {
+      "value": -344794,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "epsBasic": {
+      "value": -0.05,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "epsDiluted": {
+      "value": -0.05,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "currentAssets": {
+      "value": 551440,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "totalAssets": {
+      "value": 4002200,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "currentLiabilities": {
+      "value": 7770485,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "totalLiabilities": {
+      "value": 15831722,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "shareholdersEquity": {
+      "value": -15220787,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "operatingCashFlow": {
+      "value": -633413,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:38.894Z"
+}

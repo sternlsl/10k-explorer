@@ -2,56 +2,77 @@
   "ticker": "FANG",
   "name": "Diamondback Energy, Inc.",
   "cik": 1539838,
-  "fiscalYear": 2022,
+  "fiscalYear": 2025,
   "metrics": {
     "revenue": {
       "value": 9566000000,
       "year": 2022,
-      "periodEnd": "2022-12-31"
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-23"
     },
     "cogs": null,
     "grossProfit": null,
     "operatingIncome": {
       "value": 1266000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
     },
     "netIncome": {
       "value": 1664000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsBasic": {
+      "value": 5.73,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": 5.73,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
     },
     "currentAssets": {
       "value": 1915000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
     },
     "totalAssets": {
       "value": 71059000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
     },
     "currentLiabilities": {
       "value": 4600000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
     },
     "totalLiabilities": {
       "value": 28092000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
     },
     "shareholdersEquity": {
       "value": 36972000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
     },
     "operatingCashFlow": {
       "value": 8758000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
     },
     "capex": null
   },
-  "fetchedAt": "2026-05-08T18:47:32.065Z"
+  "updatedAt": "2026-08-05T16:53:42.486Z"
 }

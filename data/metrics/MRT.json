@@ -1,0 +1,58 @@
+{
+  "ticker": "MRT",
+  "name": "Marti Technologies, Inc.",
+  "cik": 1852767,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -837116,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 323356,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "totalAssets": {
+      "value": 149068001,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "currentLiabilities": {
+      "value": 3153645,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "totalLiabilities": {
+      "value": 8184895,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -4986539,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -359061,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:13.996Z"
+}

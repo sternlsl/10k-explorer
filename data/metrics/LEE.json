@@ -1,0 +1,83 @@
+{
+  "ticker": "LEE",
+  "name": "LEE ENTERPRISES, Inc",
+  "cik": 58361,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 543955000,
+      "year": 2018,
+      "periodEnd": "2018-09-30",
+      "filed": "2018-12-14"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -4650000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-26"
+    },
+    "netIncome": {
+      "value": -37593000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-26"
+    },
+    "epsBasic": {
+      "value": -6.2,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-26"
+    },
+    "epsDiluted": {
+      "value": -6.2,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-26"
+    },
+    "currentAssets": {
+      "value": 89443000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-26"
+    },
+    "totalAssets": {
+      "value": 601729000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-26"
+    },
+    "currentLiabilities": {
+      "value": 113356000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-26"
+    },
+    "totalLiabilities": {
+      "value": 642688000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-26"
+    },
+    "shareholdersEquity": {
+      "value": -43306000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-26"
+    },
+    "operatingCashFlow": {
+      "value": -5541000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-26"
+    },
+    "capex": {
+      "value": 1543000,
+      "year": 2025,
+      "periodEnd": "2025-09-28",
+      "filed": "2025-11-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:10.181Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "ASII",
+  "name": "Accredited Solutions, Inc.",
+  "cik": 1464865,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 688875,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-16"
+    },
+    "cogs": {
+      "value": 550792,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-16"
+    },
+    "grossProfit": {
+      "value": 138083,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-16"
+    },
+    "operatingIncome": {
+      "value": -148773,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-16"
+    },
+    "netIncome": {
+      "value": -1488595,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-16"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 68932,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-16"
+    },
+    "totalAssets": {
+      "value": 229505,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-16"
+    },
+    "currentLiabilities": {
+      "value": 5302542,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-16"
+    },
+    "totalLiabilities": {
+      "value": 5302542,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-16"
+    },
+    "shareholdersEquity": {
+      "value": -5073037,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-16"
+    },
+    "operatingCashFlow": {
+      "value": -81458,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-16"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:18.748Z"
+}

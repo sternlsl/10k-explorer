@@ -1,0 +1,88 @@
+{
+  "ticker": "SFD",
+  "name": "SMITHFIELD FOODS INC",
+  "cik": 91388,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 15531000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-24"
+    },
+    "cogs": {
+      "value": 13442000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-24"
+    },
+    "grossProfit": {
+      "value": 2089000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-24"
+    },
+    "operatingIncome": {
+      "value": 1292000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-24"
+    },
+    "netIncome": {
+      "value": 987000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-24"
+    },
+    "epsBasic": {
+      "value": 2.52,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-24"
+    },
+    "epsDiluted": {
+      "value": 2.51,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-24"
+    },
+    "currentAssets": {
+      "value": 5166000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-24"
+    },
+    "totalAssets": {
+      "value": 12177000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-24"
+    },
+    "currentLiabilities": {
+      "value": 1741000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-24"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 6801000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-24"
+    },
+    "operatingCashFlow": {
+      "value": 172700000,
+      "year": 2013,
+      "periodEnd": "2013-04-28",
+      "filed": "2013-06-18"
+    },
+    "capex": {
+      "value": 301400000,
+      "year": 2014,
+      "periodEnd": "2014-12-28",
+      "filed": "2015-03-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:04.613Z"
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "ESHAR",
+  "name": "ESH Acquisition Corp.",
+  "cik": 1918661,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -996321,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-04"
+    },
+    "netIncome": {
+      "value": 3878173,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-04"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 1493118,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-04"
+    },
+    "totalAssets": {
+      "value": 9978330,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-04"
+    },
+    "currentLiabilities": {
+      "value": 1655711,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-04"
+    },
+    "totalLiabilities": {
+      "value": 1655711,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-04"
+    },
+    "shareholdersEquity": {
+      "value": 175329,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-04"
+    },
+    "operatingCashFlow": {
+      "value": -2219753,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-04"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:59.821Z"
+}

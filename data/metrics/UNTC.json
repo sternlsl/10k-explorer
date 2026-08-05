@@ -1,0 +1,78 @@
+{
+  "ticker": "UNTC",
+  "name": "UNIT CORP",
+  "cik": 798949,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 674634000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2021-03-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1616162000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-25"
+    },
+    "netIncome": {
+      "value": 148369000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-17"
+    },
+    "epsBasic": {
+      "value": 15.03,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-17"
+    },
+    "epsDiluted": {
+      "value": 14.78,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-17"
+    },
+    "currentAssets": {
+      "value": 275469000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-17"
+    },
+    "totalAssets": {
+      "value": 469255000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-17"
+    },
+    "currentLiabilities": {
+      "value": 68232000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-17"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 362626000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-17"
+    },
+    "operatingCashFlow": {
+      "value": 159421000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-17"
+    },
+    "capex": {
+      "value": 30386000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:56.140Z"
+}

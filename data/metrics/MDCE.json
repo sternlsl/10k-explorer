@@ -1,0 +1,63 @@
+{
+  "ticker": "MDCE",
+  "name": "Medical Care Technologies Inc.",
+  "cik": 1404593,
+  "fiscalYear": 2011,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -1923887,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-04-16"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 45062,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-04-16"
+    },
+    "totalAssets": {
+      "value": 513921,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-04-16"
+    },
+    "currentLiabilities": {
+      "value": 521455,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-04-16"
+    },
+    "totalLiabilities": {
+      "value": 652409,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-04-16"
+    },
+    "shareholdersEquity": {
+      "value": -289648,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-04-16"
+    },
+    "operatingCashFlow": {
+      "value": -371920,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-04-16"
+    },
+    "capex": {
+      "value": 6200,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-04-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:15.872Z"
+}

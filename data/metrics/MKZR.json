@@ -1,0 +1,63 @@
+{
+  "ticker": "MKZR",
+  "name": "MacKenzie Realty Capital, Inc.",
+  "cik": 1550913,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 22059843,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -23462044,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "netIncome": null,
+    "epsBasic": {
+      "value": -18.66,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "epsDiluted": {
+      "value": -18.66,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 235992178,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 142450735,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "shareholdersEquity": {
+      "value": 59858623,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "operatingCashFlow": {
+      "value": -1690102,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:31.355Z"
+}

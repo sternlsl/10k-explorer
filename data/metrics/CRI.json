@@ -1,0 +1,93 @@
+{
+  "ticker": "CRI",
+  "name": "CARTERS INC",
+  "cik": 1060822,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 2898426000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 2010736000,
+      "year": 2019,
+      "periodEnd": "2019-12-28",
+      "filed": "2020-02-24"
+    },
+    "grossProfit": {
+      "value": 1314636000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "operatingIncome": {
+      "value": 143933000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": 91796000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": 2.53,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": 2.53,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": {
+      "value": 1270773000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 2565470000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 505997000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": {
+      "value": 1640422000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 925048000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 122334000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 53704000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:25.129Z"
+}

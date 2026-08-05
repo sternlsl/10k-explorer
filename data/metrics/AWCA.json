@@ -1,0 +1,88 @@
+{
+  "ticker": "AWCA",
+  "name": "Awaysis Capital, Inc.",
+  "cik": 1021917,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 441059,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-11-14"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 529823,
+      "year": 2014,
+      "periodEnd": "2014-06-30",
+      "filed": "2014-10-07"
+    },
+    "operatingIncome": {
+      "value": -2699523,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-11-14"
+    },
+    "netIncome": {
+      "value": -2724941,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-11-14"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-11-14"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-11-14"
+    },
+    "currentAssets": {
+      "value": 12163615,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-11-14"
+    },
+    "totalAssets": {
+      "value": 17488780,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-11-14"
+    },
+    "currentLiabilities": {
+      "value": 12010682,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-11-14"
+    },
+    "totalLiabilities": {
+      "value": 12118431,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-11-14"
+    },
+    "shareholdersEquity": {
+      "value": 5370349,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-11-14"
+    },
+    "operatingCashFlow": {
+      "value": -4808550,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-11-14"
+    },
+    "capex": {
+      "value": 1042124,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-11-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:40.381Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "CWEN-A",
+  "name": "Clearway Energy, Inc.",
+  "cik": 1567683,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 239000000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-02"
+    },
+    "cogs": {
+      "value": 530000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 160000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "netIncome": {
+      "value": 169000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": 0.75,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-25"
+    },
+    "epsDiluted": {
+      "value": 0.75,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-25"
+    },
+    "currentAssets": {
+      "value": 1152000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "totalAssets": {
+      "value": 16655000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentLiabilities": {
+      "value": 1018000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "totalLiabilities": {
+      "value": 10741000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "shareholdersEquity": {
+      "value": 5811000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "operatingCashFlow": {
+      "value": 688000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "capex": {
+      "value": 319000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:25.855Z"
+}

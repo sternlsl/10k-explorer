@@ -1,0 +1,88 @@
+{
+  "ticker": "CVLT",
+  "name": "COMMVAULT SYSTEMS INC",
+  "cik": 1169561,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1183690000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
+    },
+    "cogs": {
+      "value": 223120000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
+    },
+    "grossProfit": {
+      "value": 960570000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
+    },
+    "operatingIncome": {
+      "value": 73990000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
+    },
+    "netIncome": {
+      "value": 70657000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
+    },
+    "epsBasic": {
+      "value": 1.61,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
+    },
+    "epsDiluted": {
+      "value": 1.58,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
+    },
+    "currentAssets": {
+      "value": 1286510000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
+    },
+    "totalAssets": {
+      "value": 1886305000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
+    },
+    "currentLiabilities": {
+      "value": 658170000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 7494000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
+    },
+    "operatingCashFlow": {
+      "value": 244680000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
+    },
+    "capex": {
+      "value": 7529000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:15.100Z"
+}

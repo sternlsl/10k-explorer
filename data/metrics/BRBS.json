@@ -1,0 +1,68 @@
+{
+  "ticker": "BRBS",
+  "name": "BLUE RIDGE BANKSHARES, INC.",
+  "cik": 842717,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3176000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-29"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 10709000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "epsBasic": {
+      "value": 0.12,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "epsDiluted": {
+      "value": 0.11,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2432589000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 2108898000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "shareholdersEquity": {
+      "value": 259373000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-10"
+    },
+    "operatingCashFlow": {
+      "value": 13625000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "capex": {
+      "value": 1679000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:11.951Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "PLUR",
+  "name": "Pluri Inc.",
+  "cik": 1158780,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1336000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "cogs": {
+      "value": 682000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "grossProfit": {
+      "value": 654000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "operatingIncome": {
+      "value": -22176000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "netIncome": {
+      "value": -22583000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "epsBasic": {
+      "value": -3.56,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "epsDiluted": {
+      "value": -3.56,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "currentAssets": {
+      "value": 22095000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "totalAssets": {
+      "value": 38683000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "currentLiabilities": {
+      "value": 32328000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -6842000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "operatingCashFlow": {
+      "value": -18211000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "capex": {
+      "value": 1618000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:32.153Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "SHIM",
+  "name": "Shimmick Corp",
+  "cik": 1887944,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 492844000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-03-13"
+    },
+    "cogs": {
+      "value": 459252000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-03-13"
+    },
+    "grossProfit": {
+      "value": 33592000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-03-13"
+    },
+    "operatingIncome": {
+      "value": -19401000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-03-13"
+    },
+    "netIncome": {
+      "value": -25584000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-03-13"
+    },
+    "epsBasic": {
+      "value": -0.74,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-03-13"
+    },
+    "epsDiluted": {
+      "value": -0.74,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-03-13"
+    },
+    "currentAssets": {
+      "value": 175381000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-03-13"
+    },
+    "totalAssets": {
+      "value": 218763000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-03-13"
+    },
+    "currentLiabilities": {
+      "value": 196116000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-03-13"
+    },
+    "totalLiabilities": {
+      "value": 275403000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-03-13"
+    },
+    "shareholdersEquity": {
+      "value": -56640000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-03-13"
+    },
+    "operatingCashFlow": {
+      "value": -65114000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-03-13"
+    },
+    "capex": {
+      "value": 6371000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-03-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:06.452Z"
+}

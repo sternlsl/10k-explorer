@@ -1,0 +1,83 @@
+{
+  "ticker": "TXRH",
+  "name": "Texas Roadhouse, Inc.",
+  "cik": 1289460,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5878075000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 474740000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": 269818000,
+      "year": 2022,
+      "periodEnd": "2022-12-27",
+      "filed": "2023-02-24"
+    },
+    "epsBasic": {
+      "value": 6.11,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": 6.1,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": {
+      "value": 451476000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 3549472000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 908837000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": {
+      "value": 2067770000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 1460820000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 730067000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 387996000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:06.435Z"
+}

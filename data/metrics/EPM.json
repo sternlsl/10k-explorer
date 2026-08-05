@@ -1,0 +1,83 @@
+{
+  "ticker": "EPM",
+  "name": "EVOLUTION PETROLEUM CORP",
+  "cik": 1006655,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 85840000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "cogs": {
+      "value": 49338000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 4175000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "netIncome": {
+      "value": 1473000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "epsBasic": {
+      "value": 0.03,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "epsDiluted": {
+      "value": 0.03,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "currentAssets": {
+      "value": 17375000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "totalAssets": {
+      "value": 160252000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "currentLiabilities": {
+      "value": 21387000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "totalLiabilities": {
+      "value": 88439000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "shareholdersEquity": {
+      "value": 71813000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "operatingCashFlow": {
+      "value": 33052000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:24.327Z"
+}

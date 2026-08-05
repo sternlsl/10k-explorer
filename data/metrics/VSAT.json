@@ -1,0 +1,88 @@
+{
+  "ticker": "VSAT",
+  "name": "VIASAT INC",
+  "cik": 797721,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 4640280000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "cogs": {
+      "value": 553677000,
+      "year": 2018,
+      "periodEnd": "2018-03-31",
+      "filed": "2018-05-30"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 108125000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "netIncome": {
+      "value": -34086000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "epsBasic": {
+      "value": -0.25,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "epsDiluted": {
+      "value": -0.25,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "currentAssets": {
+      "value": 3124007000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "totalAssets": {
+      "value": 15226596000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "currentLiabilities": {
+      "value": 1297099000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "totalLiabilities": {
+      "value": 10497334000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "shareholdersEquity": {
+      "value": 4660301000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "operatingCashFlow": {
+      "value": 1589885000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "capex": {
+      "value": 1076968000,
+      "year": 2023,
+      "periodEnd": "2023-03-31",
+      "filed": "2023-05-22"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:18.235Z"
+}

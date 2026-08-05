@@ -1,0 +1,93 @@
+{
+  "ticker": "DWAY",
+  "name": "Driveitaway Holdings, Inc.",
+  "cik": 1394638,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 987937,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "cogs": {
+      "value": 852244,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "grossProfit": {
+      "value": 135693,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "operatingIncome": {
+      "value": -868503,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "netIncome": {
+      "value": -930137,
+      "year": 2023,
+      "periodEnd": "2023-09-30",
+      "filed": "2024-03-08"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2023,
+      "periodEnd": "2023-09-30",
+      "filed": "2024-03-08"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2023,
+      "periodEnd": "2023-09-30",
+      "filed": "2024-03-08"
+    },
+    "currentAssets": {
+      "value": 82462,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "totalAssets": {
+      "value": 680292,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "currentLiabilities": {
+      "value": 9070576,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "totalLiabilities": {
+      "value": 9182416,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "shareholdersEquity": {
+      "value": -8502124,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "operatingCashFlow": {
+      "value": -477743,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "capex": {
+      "value": 157864,
+      "year": 2022,
+      "periodEnd": "2022-09-30",
+      "filed": "2023-01-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:21.145Z"
+}

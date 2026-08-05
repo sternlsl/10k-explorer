@@ -1,0 +1,63 @@
+{
+  "ticker": "ESBA",
+  "name": "Empire State Realty OP, L.P.",
+  "cik": 1553079,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 766787000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 135649000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "netIncome": {
+      "value": 116317000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-28"
+    },
+    "epsBasic": {
+      "value": 0.26,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsDiluted": {
+      "value": 0.25,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 4468961000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 2646769000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 249052000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:05.389Z"
+}

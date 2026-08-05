@@ -1,0 +1,78 @@
+{
+  "ticker": "MCLE",
+  "name": "Medicale Corp.",
+  "cik": 1827855,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2022,
+      "periodEnd": "2022-09-30",
+      "filed": "2022-12-02"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -33493,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-12"
+    },
+    "netIncome": {
+      "value": -41153,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-12"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-12"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-12"
+    },
+    "currentAssets": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-12"
+    },
+    "totalAssets": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-12"
+    },
+    "currentLiabilities": {
+      "value": 33652,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-12"
+    },
+    "totalLiabilities": {
+      "value": 140086,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-12"
+    },
+    "shareholdersEquity": {
+      "value": -140086,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-12"
+    },
+    "operatingCashFlow": {
+      "value": -23008,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-12"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:04.925Z"
+}

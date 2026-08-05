@@ -1,0 +1,83 @@
+{
+  "ticker": "MITK",
+  "name": "MITEK SYSTEMS INC",
+  "cik": 807863,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 179691000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 16790000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "netIncome": {
+      "value": 8796000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "epsBasic": {
+      "value": 0.19,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "epsDiluted": {
+      "value": 0.19,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "currentAssets": {
+      "value": 248494000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "totalAssets": {
+      "value": 459109000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "currentLiabilities": {
+      "value": 209034000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "totalLiabilities": {
+      "value": 218851000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "shareholdersEquity": {
+      "value": 240258000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "operatingCashFlow": {
+      "value": 55340000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "capex": {
+      "value": 1155000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:23.309Z"
+}

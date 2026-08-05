@@ -1,0 +1,88 @@
+{
+  "ticker": "ANVI",
+  "name": "ANVI GLOBAL HOLDINGS, INC.",
+  "cik": 1570132,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 137910,
+      "year": 2020,
+      "periodEnd": "2020-02-29",
+      "filed": "2021-06-08"
+    },
+    "cogs": {
+      "value": 103700,
+      "year": 2020,
+      "periodEnd": "2020-02-29",
+      "filed": "2021-06-08"
+    },
+    "grossProfit": {
+      "value": 34210,
+      "year": 2020,
+      "periodEnd": "2020-02-29",
+      "filed": "2021-06-08"
+    },
+    "operatingIncome": {
+      "value": -196933,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-03"
+    },
+    "netIncome": {
+      "value": -196933,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-03"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-03"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-03"
+    },
+    "currentAssets": {
+      "value": 14230,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-03"
+    },
+    "totalAssets": {
+      "value": 14230,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-03"
+    },
+    "currentLiabilities": {
+      "value": 2375129,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-03"
+    },
+    "totalLiabilities": {
+      "value": 2375129,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-03"
+    },
+    "shareholdersEquity": {
+      "value": -2360899,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-03"
+    },
+    "operatingCashFlow": {
+      "value": -65708,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-03"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:15.048Z"
+}

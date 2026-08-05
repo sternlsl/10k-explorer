@@ -1,0 +1,78 @@
+{
+  "ticker": "TMRC",
+  "name": "Texas Mineral Resources Corp.",
+  "cik": 1445942,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1208593,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "netIncome": {
+      "value": -1933253,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "epsBasic": {
+      "value": -0.03,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "epsDiluted": {
+      "value": -0.03,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "currentAssets": {
+      "value": 631810,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "totalAssets": {
+      "value": 1161182,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "currentLiabilities": {
+      "value": 125400,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "totalLiabilities": {
+      "value": 1380580,
+      "year": 2019,
+      "periodEnd": "2019-08-31",
+      "filed": "2019-11-27"
+    },
+    "shareholdersEquity": {
+      "value": 1035782,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "operatingCashFlow": {
+      "value": -897081,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "capex": {
+      "value": 34906,
+      "year": 2021,
+      "periodEnd": "2021-08-31",
+      "filed": "2022-11-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:08.473Z"
+}

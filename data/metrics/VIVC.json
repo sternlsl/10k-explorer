@@ -1,0 +1,93 @@
+{
+  "ticker": "VIVC",
+  "name": "VIVIC CORP.",
+  "cik": 1703073,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 44515,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "cogs": {
+      "value": 126927,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "grossProfit": {
+      "value": -82412,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "operatingIncome": {
+      "value": -3375687,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "netIncome": {
+      "value": -3446751,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "epsBasic": {
+      "value": -0.13,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "epsDiluted": {
+      "value": -0.13,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "currentAssets": {
+      "value": 1346322,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "totalAssets": {
+      "value": 3859558,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "currentLiabilities": {
+      "value": 1964867,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "totalLiabilities": {
+      "value": 2052367,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "shareholdersEquity": {
+      "value": 1807191,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "operatingCashFlow": {
+      "value": -458645,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "capex": {
+      "value": 142820,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:04.553Z"
+}

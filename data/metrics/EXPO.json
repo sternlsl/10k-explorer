@@ -1,0 +1,83 @@
+{
+  "ticker": "EXPO",
+  "name": "EXPONENT INC",
+  "cik": 851520,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 582014000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 119787000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": 106009000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": 2.08,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": 2.07,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": {
+      "value": 427580000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 777519000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 178002000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": {
+      "value": 387178000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 390341000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 131730000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 9390000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:49.301Z"
+}

@@ -1,0 +1,48 @@
+{
+  "ticker": "UNG",
+  "name": "United States Natural Gas Fund, LP",
+  "cik": 1376227,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 80016838,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 34228548,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 579489846,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 28849518,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 127147538,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:33.518Z"
+}

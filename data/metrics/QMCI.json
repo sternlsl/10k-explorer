@@ -1,0 +1,88 @@
+{
+  "ticker": "QMCI",
+  "name": "QUOTEMEDIA INC",
+  "cik": 1101433,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 20253917,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "cogs": {
+      "value": 10773983,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "grossProfit": {
+      "value": 9479934,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "operatingIncome": {
+      "value": -2099208,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "netIncome": {
+      "value": -2317424,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "epsDiluted": {
+      "value": -0.03,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "currentAssets": {
+      "value": 1843479,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "totalAssets": {
+      "value": 5773230,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "currentLiabilities": {
+      "value": 6212963,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -840342,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "operatingCashFlow": {
+      "value": 1105936,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "capex": {
+      "value": 56562,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:31.706Z"
+}

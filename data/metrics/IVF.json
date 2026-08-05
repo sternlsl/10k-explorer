@@ -1,0 +1,93 @@
+{
+  "ticker": "IVF",
+  "name": "INVO Fertility, Inc.",
+  "cik": 1417926,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6561000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-30"
+    },
+    "cogs": {
+      "value": 30571,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-02"
+    },
+    "grossProfit": {
+      "value": 490673,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "operatingIncome": {
+      "value": -7237356,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-02"
+    },
+    "netIncome": {
+      "value": -23323054,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-02"
+    },
+    "epsBasic": {
+      "value": -214.64,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-02"
+    },
+    "epsDiluted": {
+      "value": -214.64,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-02"
+    },
+    "currentAssets": {
+      "value": 2761503,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-02"
+    },
+    "totalAssets": {
+      "value": 20220124,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-02"
+    },
+    "currentLiabilities": {
+      "value": 10331629,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-02"
+    },
+    "totalLiabilities": {
+      "value": 12995903,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-02"
+    },
+    "shareholdersEquity": {
+      "value": 7224221,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-02"
+    },
+    "operatingCashFlow": {
+      "value": -7014485,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-02"
+    },
+    "capex": {
+      "value": 43412,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:49.203Z"
+}

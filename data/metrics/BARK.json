@@ -1,0 +1,88 @@
+{
+  "ticker": "BARK",
+  "name": "Bark, Inc.",
+  "cik": 1819574,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 394843000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-10"
+    },
+    "cogs": {
+      "value": 152958000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-10"
+    },
+    "grossProfit": {
+      "value": 241885000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-10"
+    },
+    "operatingIncome": {
+      "value": -40178000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-10"
+    },
+    "netIncome": {
+      "value": -39008000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-10"
+    },
+    "epsBasic": {
+      "value": -4.57,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-10"
+    },
+    "epsDiluted": {
+      "value": -4.57,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-10"
+    },
+    "currentAssets": {
+      "value": 121744000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-10"
+    },
+    "totalAssets": {
+      "value": 169990000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-10"
+    },
+    "currentLiabilities": {
+      "value": 65398000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-10"
+    },
+    "totalLiabilities": {
+      "value": 97972000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-10"
+    },
+    "shareholdersEquity": {
+      "value": 72018000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-10"
+    },
+    "operatingCashFlow": {
+      "value": -23158000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-10"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:23.891Z"
+}

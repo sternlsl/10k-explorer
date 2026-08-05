@@ -1,0 +1,78 @@
+{
+  "ticker": "APUS",
+  "name": "Apimeds Pharmaceuticals US, Inc.",
+  "cik": 1894525,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -11912562,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "netIncome": {
+      "value": -6001137,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "epsBasic": {
+      "value": -0.55,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "epsDiluted": {
+      "value": -0.55,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "currentAssets": {
+      "value": 13983859,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "totalAssets": {
+      "value": 164183736,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "currentLiabilities": {
+      "value": 10706455,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "totalLiabilities": {
+      "value": 10835909,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "shareholdersEquity": {
+      "value": 153347827,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "operatingCashFlow": {
+      "value": -8925777,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "capex": {
+      "value": 57333,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:57.223Z"
+}

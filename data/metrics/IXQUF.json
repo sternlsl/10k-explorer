@@ -1,0 +1,63 @@
+{
+  "ticker": "IXQUF",
+  "name": "IX Acquisition Corp.",
+  "cik": 1852019,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -204955,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "netIncome": {
+      "value": -842099,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 379475,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "totalAssets": {
+      "value": 9160696,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "currentLiabilities": {
+      "value": 7039832,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "totalLiabilities": {
+      "value": 15887332,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "shareholdersEquity": {
+      "value": -15507857,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "operatingCashFlow": {
+      "value": 595839,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:28.832Z"
+}

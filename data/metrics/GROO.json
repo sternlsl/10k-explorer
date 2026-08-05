@@ -1,0 +1,48 @@
+{
+  "ticker": "GROO",
+  "name": "GROOVY COMPANY, INC.",
+  "cik": 1499275,
+  "fiscalYear": 2012,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 50793,
+      "year": 2012,
+      "periodEnd": "2012-07-31",
+      "filed": "2012-11-13"
+    },
+    "totalAssets": {
+      "value": 135071,
+      "year": 2012,
+      "periodEnd": "2012-07-31",
+      "filed": "2012-11-13"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 125868,
+      "year": 2012,
+      "periodEnd": "2012-07-31",
+      "filed": "2012-11-13"
+    },
+    "shareholdersEquity": {
+      "value": 9203,
+      "year": 2012,
+      "periodEnd": "2012-07-31",
+      "filed": "2012-11-13"
+    },
+    "operatingCashFlow": {
+      "value": -136183,
+      "year": 2012,
+      "periodEnd": "2012-07-31",
+      "filed": "2012-11-13"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:34.031Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "DIT",
+  "name": "AMCON DISTRIBUTING CO",
+  "cik": 928465,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1392388157,
+      "year": 2019,
+      "periodEnd": "2019-09-30",
+      "filed": "2019-11-08"
+    },
+    "cogs": {
+      "value": 2628458039,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-07"
+    },
+    "grossProfit": {
+      "value": 188230248,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-07"
+    },
+    "operatingIncome": {
+      "value": 12555465,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-07"
+    },
+    "netIncome": {
+      "value": 568739,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-07"
+    },
+    "epsBasic": {
+      "value": 0.93,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-07"
+    },
+    "epsDiluted": {
+      "value": 0.92,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-07"
+    },
+    "currentAssets": {
+      "value": 239504858,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-07"
+    },
+    "totalAssets": {
+      "value": 391088526,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-07"
+    },
+    "currentLiabilities": {
+      "value": 112091781,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-07"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 113071414,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-07"
+    },
+    "operatingCashFlow": {
+      "value": 18667426,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-07"
+    },
+    "capex": {
+      "value": 9003396,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-07"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:17.524Z"
+}

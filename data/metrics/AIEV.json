@@ -1,0 +1,73 @@
+{
+  "ticker": "AIEV",
+  "name": "Thunder Power Holdings, Inc.",
+  "cik": 1912582,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1249577,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-06"
+    },
+    "netIncome": {
+      "value": -2119417,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "epsBasic": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "currentAssets": {
+      "value": 13154702,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "totalAssets": {
+      "value": 13172567,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "currentLiabilities": {
+      "value": 8355116,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "totalLiabilities": {
+      "value": 8356819,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "shareholdersEquity": {
+      "value": 4815748,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "operatingCashFlow": {
+      "value": -1514036,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-07"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:29.650Z"
+}

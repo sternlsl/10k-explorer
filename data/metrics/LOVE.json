@@ -1,0 +1,93 @@
+{
+  "ticker": "LOVE",
+  "name": "Lovesac Co",
+  "cik": 1701758,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 697115000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-02"
+    },
+    "cogs": {
+      "value": 303900000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-02"
+    },
+    "grossProfit": {
+      "value": 393215000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-02"
+    },
+    "operatingIncome": {
+      "value": 5363000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-02"
+    },
+    "netIncome": {
+      "value": 4065000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-02"
+    },
+    "epsBasic": {
+      "value": 0.28,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-02"
+    },
+    "epsDiluted": {
+      "value": 0.28,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-02"
+    },
+    "currentAssets": {
+      "value": 236636000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-02"
+    },
+    "totalAssets": {
+      "value": 534682000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-02"
+    },
+    "currentLiabilities": {
+      "value": 147111000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-02"
+    },
+    "totalLiabilities": {
+      "value": 315975000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-02"
+    },
+    "shareholdersEquity": {
+      "value": 218707000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-02"
+    },
+    "operatingCashFlow": {
+      "value": 49328000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-02"
+    },
+    "capex": {
+      "value": 23135000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:46.901Z"
+}

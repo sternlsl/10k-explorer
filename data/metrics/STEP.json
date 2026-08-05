@@ -1,0 +1,68 @@
+{
+  "ticker": "STEP",
+  "name": "StepStone Group Inc.",
+  "cik": 1796022,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1993603000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -535808000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "epsBasic": {
+      "value": -6.78,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "epsDiluted": {
+      "value": -6.78,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 6762702000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 5876676000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "shareholdersEquity": {
+      "value": -413559000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "operatingCashFlow": {
+      "value": 66481000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "capex": {
+      "value": 2620000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:37.909Z"
+}

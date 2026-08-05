@@ -1,0 +1,83 @@
+{
+  "ticker": "VFC",
+  "name": "V F CORP",
+  "cik": 103379,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 9605207000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "cogs": {
+      "value": 4343492000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 576569000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "netIncome": {
+      "value": 254920000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "epsBasic": {
+      "value": 0.65,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "epsDiluted": {
+      "value": 0.64,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "currentAssets": {
+      "value": 4009514000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "totalAssets": {
+      "value": 9290177000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "currentLiabilities": {
+      "value": 2181172000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "totalLiabilities": {
+      "value": 7440299000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "shareholdersEquity": {
+      "value": 1849878000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "operatingCashFlow": {
+      "value": 671274000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:55:31.973Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "CRWS",
+  "name": "CROWN CRAFTS INC",
+  "cik": 25895,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 70270000,
+      "year": 2018,
+      "periodEnd": "2018-04-01",
+      "filed": "2018-06-13"
+    },
+    "cogs": {
+      "value": 62188000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-24"
+    },
+    "grossProfit": {
+      "value": 20078000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-24"
+    },
+    "operatingIncome": {
+      "value": 1099000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-24"
+    },
+    "netIncome": {
+      "value": 1843000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-24"
+    },
+    "epsBasic": {
+      "value": 0.17,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-24"
+    },
+    "epsDiluted": {
+      "value": 0.17,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-24"
+    },
+    "currentAssets": {
+      "value": 49600000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-24"
+    },
+    "totalAssets": {
+      "value": 70653000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-24"
+    },
+    "currentLiabilities": {
+      "value": 13869000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-24"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 38813000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-24"
+    },
+    "operatingCashFlow": {
+      "value": 8272000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-24"
+    },
+    "capex": {
+      "value": 864000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-24"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:48.051Z"
+}

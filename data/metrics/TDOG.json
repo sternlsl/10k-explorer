@@ -1,0 +1,33 @@
+{
+  "ticker": "TDOG",
+  "name": "21Shares Dogecoin ETF",
+  "cik": 2064314,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 100,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-03-16"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 100,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-03-16"
+    },
+    "operatingCashFlow": null,
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:37.891Z"
+}

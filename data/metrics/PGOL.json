@@ -1,0 +1,88 @@
+{
+  "ticker": "PGOL",
+  "name": "PATRIOT GOLD CORP",
+  "cik": 1080448,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2017,
+      "periodEnd": "2017-05-31",
+      "filed": "2017-09-06"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2017,
+      "periodEnd": "2017-05-31",
+      "filed": "2017-09-06"
+    },
+    "operatingIncome": {
+      "value": -1897861,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "netIncome": {
+      "value": -1879452,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "epsBasic": {
+      "value": -0.03,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "epsDiluted": {
+      "value": -0.03,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "currentAssets": {
+      "value": 179103,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "totalAssets": {
+      "value": 179103,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "currentLiabilities": {
+      "value": 2027613,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -1848510,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "operatingCashFlow": {
+      "value": -1002318,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2013,
+      "periodEnd": "2013-05-31",
+      "filed": "2013-08-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:39.972Z"
+}

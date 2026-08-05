@@ -1,0 +1,88 @@
+{
+  "ticker": "CAVA",
+  "name": "CAVA GROUP, INC.",
+  "cik": 1639438,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1179664000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 180346000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-27"
+    },
+    "operatingIncome": {
+      "value": 55285000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "netIncome": {
+      "value": 63743000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "epsBasic": {
+      "value": 0.55,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": 0.54,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "currentAssets": {
+      "value": 431073000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "totalAssets": {
+      "value": 1360027000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": {
+      "value": 162657000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "totalLiabilities": {
+      "value": 580371000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "shareholdersEquity": {
+      "value": 779656000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 184840000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "capex": {
+      "value": 158699000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:05.131Z"
+}

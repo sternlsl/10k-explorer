@@ -1,0 +1,93 @@
+{
+  "ticker": "SLP",
+  "name": "Simulations Plus, Inc.",
+  "cik": 1023459,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 79179000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "cogs": {
+      "value": 32958000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "grossProfit": {
+      "value": 46221000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "operatingIncome": {
+      "value": -70729000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "netIncome": {
+      "value": -64718000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "epsBasic": {
+      "value": -3.22,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "epsDiluted": {
+      "value": -3.22,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "currentAssets": {
+      "value": 51549000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "totalAssets": {
+      "value": 131936000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "currentLiabilities": {
+      "value": 6725000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "totalLiabilities": {
+      "value": 7135000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "shareholdersEquity": {
+      "value": 124801000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "operatingCashFlow": {
+      "value": 18126000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "capex": {
+      "value": 713000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:09.135Z"
+}

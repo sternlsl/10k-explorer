@@ -1,0 +1,88 @@
+{
+  "ticker": "BLMH",
+  "name": "BLUM HOLDINGS, INC.",
+  "cik": 1996210,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 12990000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-13"
+    },
+    "cogs": {
+      "value": 6782000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-13"
+    },
+    "grossProfit": {
+      "value": 6208000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-13"
+    },
+    "operatingIncome": {
+      "value": 5382000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-13"
+    },
+    "netIncome": {
+      "value": -14130000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "epsBasic": {
+      "value": -1.72,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 2871000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-13"
+    },
+    "totalAssets": {
+      "value": 24820000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-13"
+    },
+    "currentLiabilities": {
+      "value": 9659000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-13"
+    },
+    "totalLiabilities": {
+      "value": 29564000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-13"
+    },
+    "shareholdersEquity": {
+      "value": -6749000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-13"
+    },
+    "operatingCashFlow": {
+      "value": -1549000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-13"
+    },
+    "capex": {
+      "value": 10000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:07.257Z"
+}

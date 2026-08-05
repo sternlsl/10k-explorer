@@ -1,0 +1,93 @@
+{
+  "ticker": "WDFC",
+  "name": "WD 40 CO",
+  "cik": 105132,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 619985000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "cogs": {
+      "value": 278642000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "grossProfit": {
+      "value": 341343000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "operatingIncome": {
+      "value": 103793000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "netIncome": {
+      "value": 90994000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "epsBasic": {
+      "value": 6.7,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "epsDiluted": {
+      "value": 6.69,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "currentAssets": {
+      "value": 284956000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "totalAssets": {
+      "value": 475809000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "currentLiabilities": {
+      "value": 102257000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "totalLiabilities": {
+      "value": 207657000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "shareholdersEquity": {
+      "value": 268152000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "operatingCashFlow": {
+      "value": 87925000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "capex": {
+      "value": 4528000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:03.285Z"
+}

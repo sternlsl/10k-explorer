@@ -2,48 +2,67 @@
   "ticker": "FRT",
   "name": "FEDERAL REALTY INVESTMENT TRUST",
   "cik": 34903,
-  "fiscalYear": 2024,
+  "fiscalYear": 2025,
   "metrics": {
     "revenue": {
       "value": 1278975000,
-      "year": 2024,
-      "periodEnd": "2025-12-31"
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
     },
     "cogs": null,
     "grossProfit": null,
     "operatingIncome": {
       "value": 602199000,
-      "year": 2024,
-      "periodEnd": "2025-12-31"
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
     },
     "netIncome": {
       "value": 411077000,
-      "year": 2024,
-      "periodEnd": "2025-12-31"
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "epsBasic": {
+      "value": 4.68,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "epsDiluted": {
+      "value": 4.68,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
     },
     "currentAssets": null,
     "totalAssets": {
       "value": 9130460000,
-      "year": 2024,
-      "periodEnd": "2025-12-31"
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
     },
     "currentLiabilities": null,
     "totalLiabilities": {
       "value": 5629819000,
-      "year": 2024,
-      "periodEnd": "2025-12-31"
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
     },
     "shareholdersEquity": {
       "value": 3248731000,
-      "year": 2024,
-      "periodEnd": "2025-12-31"
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
     },
     "operatingCashFlow": {
       "value": 622378000,
-      "year": 2024,
-      "periodEnd": "2025-12-31"
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
     },
     "capex": null
   },
-  "fetchedAt": "2026-05-08T18:50:11.760Z"
+  "updatedAt": "2026-08-05T16:55:09.428Z"
 }

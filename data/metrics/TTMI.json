@@ -1,0 +1,88 @@
+{
+  "ticker": "TTMI",
+  "name": "TTM TECHNOLOGIES INC",
+  "cik": 1116942,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2906345000,
+      "year": 2025,
+      "periodEnd": "2025-12-29",
+      "filed": "2026-02-17"
+    },
+    "cogs": {
+      "value": 2304659000,
+      "year": 2025,
+      "periodEnd": "2025-12-29",
+      "filed": "2026-02-17"
+    },
+    "grossProfit": {
+      "value": 601686000,
+      "year": 2025,
+      "periodEnd": "2025-12-29",
+      "filed": "2026-02-17"
+    },
+    "operatingIncome": {
+      "value": 264684000,
+      "year": 2025,
+      "periodEnd": "2025-12-29",
+      "filed": "2026-02-17"
+    },
+    "netIncome": {
+      "value": 177448000,
+      "year": 2025,
+      "periodEnd": "2025-12-29",
+      "filed": "2026-02-17"
+    },
+    "epsBasic": {
+      "value": 1.73,
+      "year": 2025,
+      "periodEnd": "2025-12-29",
+      "filed": "2026-02-17"
+    },
+    "epsDiluted": {
+      "value": 1.68,
+      "year": 2025,
+      "periodEnd": "2025-12-29",
+      "filed": "2026-02-17"
+    },
+    "currentAssets": {
+      "value": 1855406000,
+      "year": 2025,
+      "periodEnd": "2025-12-29",
+      "filed": "2026-02-17"
+    },
+    "totalAssets": {
+      "value": 3840331000,
+      "year": 2025,
+      "periodEnd": "2025-12-29",
+      "filed": "2026-02-17"
+    },
+    "currentLiabilities": {
+      "value": 962197000,
+      "year": 2025,
+      "periodEnd": "2025-12-29",
+      "filed": "2026-02-17"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1762253000,
+      "year": 2025,
+      "periodEnd": "2025-12-29",
+      "filed": "2026-02-17"
+    },
+    "operatingCashFlow": {
+      "value": 291882000,
+      "year": 2025,
+      "periodEnd": "2025-12-29",
+      "filed": "2026-02-17"
+    },
+    "capex": {
+      "value": 292565000,
+      "year": 2025,
+      "periodEnd": "2025-12-29",
+      "filed": "2026-02-17"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:34.668Z"
+}

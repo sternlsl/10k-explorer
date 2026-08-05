@@ -1,0 +1,68 @@
+{
+  "ticker": "GHST",
+  "name": "GHST World Inc.",
+  "cik": 1121795,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 60469,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -182848,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "currentAssets": {
+      "value": 2518,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "totalAssets": {
+      "value": 2518,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "currentLiabilities": {
+      "value": 493640,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -491122,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "operatingCashFlow": {
+      "value": -163701,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:38.607Z"
+}

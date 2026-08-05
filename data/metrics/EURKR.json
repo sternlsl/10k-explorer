@@ -1,0 +1,63 @@
+{
+  "ticker": "EURKR",
+  "name": "Eureka Acquisition Corp",
+  "cik": 2000410,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -859747,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "netIncome": {
+      "value": 1370753,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 99308,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "totalAssets": {
+      "value": 31437630,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "currentLiabilities": {
+      "value": 724581,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "totalLiabilities": {
+      "value": 724581,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "shareholdersEquity": {
+      "value": -625273,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "operatingCashFlow": {
+      "value": -668921,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:58.622Z"
+}

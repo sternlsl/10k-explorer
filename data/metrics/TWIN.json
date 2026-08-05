@@ -1,0 +1,93 @@
+{
+  "ticker": "TWIN",
+  "name": "TWIN DISC INC",
+  "cik": 100378,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 340738000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "cogs": {
+      "value": 248012000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "grossProfit": {
+      "value": 92726000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "operatingIncome": {
+      "value": 9887000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "netIncome": {
+      "value": -1894000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "epsBasic": {
+      "value": -0.14,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "epsDiluted": {
+      "value": -0.14,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "currentAssets": {
+      "value": 246915000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "totalAssets": {
+      "value": 355562000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "currentLiabilities": {
+      "value": 125793000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "totalLiabilities": {
+      "value": 191171000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "shareholdersEquity": {
+      "value": 164011000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "operatingCashFlow": {
+      "value": 23979000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "capex": {
+      "value": 15157000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:31.034Z"
+}

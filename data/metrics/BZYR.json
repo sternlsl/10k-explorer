@@ -1,0 +1,78 @@
+{
+  "ticker": "BZYR",
+  "name": "BURZYNSKI RESEARCH INSTITUTE INC",
+  "cik": 724445,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-02-28",
+      "filed": "2025-05-20"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1386207,
+      "year": 2025,
+      "periodEnd": "2025-02-28",
+      "filed": "2025-05-20"
+    },
+    "netIncome": {
+      "value": -1386207,
+      "year": 2025,
+      "periodEnd": "2025-02-28",
+      "filed": "2025-05-20"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-02-28",
+      "filed": "2025-05-20"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-02-28",
+      "filed": "2025-05-20"
+    },
+    "currentAssets": {
+      "value": 847,
+      "year": 2025,
+      "periodEnd": "2025-02-28",
+      "filed": "2025-05-20"
+    },
+    "totalAssets": {
+      "value": 847,
+      "year": 2025,
+      "periodEnd": "2025-02-28",
+      "filed": "2025-05-20"
+    },
+    "currentLiabilities": {
+      "value": 46799,
+      "year": 2021,
+      "periodEnd": "2021-02-28",
+      "filed": "2021-05-24"
+    },
+    "totalLiabilities": {
+      "value": 42484,
+      "year": 2025,
+      "periodEnd": "2025-02-28",
+      "filed": "2025-05-20"
+    },
+    "shareholdersEquity": {
+      "value": -41637,
+      "year": 2025,
+      "periodEnd": "2025-02-28",
+      "filed": "2025-05-20"
+    },
+    "operatingCashFlow": {
+      "value": -388531,
+      "year": 2025,
+      "periodEnd": "2025-02-28",
+      "filed": "2025-05-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:59.612Z"
+}

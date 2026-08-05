@@ -1,0 +1,93 @@
+{
+  "ticker": "BGS",
+  "name": "B&G Foods, Inc.",
+  "cik": 1278027,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1828687000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "cogs": {
+      "value": 1429870000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "grossProfit": {
+      "value": 398817000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "operatingIncome": {
+      "value": 97147000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "netIncome": {
+      "value": -43257000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "epsBasic": {
+      "value": -0.54,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "epsDiluted": {
+      "value": -0.54,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "currentAssets": {
+      "value": 739818000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "totalAssets": {
+      "value": 2834795000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "currentLiabilities": {
+      "value": 222841000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "totalLiabilities": {
+      "value": 2381870000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "shareholdersEquity": {
+      "value": 452925000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "operatingCashFlow": {
+      "value": 101396000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "capex": {
+      "value": 30647000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:16.960Z"
+}

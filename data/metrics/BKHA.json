@@ -1,0 +1,63 @@
+{
+  "ticker": "BKHA",
+  "name": "Black Hawk Acquisition Corp",
+  "cik": 2000775,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -915510,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-06"
+    },
+    "netIncome": {
+      "value": 1329557,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-06"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 50790,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-06"
+    },
+    "totalAssets": {
+      "value": 23877939,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-06"
+    },
+    "currentLiabilities": {
+      "value": 1482233,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-06"
+    },
+    "totalLiabilities": {
+      "value": 3897233,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-06"
+    },
+    "shareholdersEquity": {
+      "value": -3846443,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-06"
+    },
+    "operatingCashFlow": {
+      "value": -650321,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-06"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:07.700Z"
+}

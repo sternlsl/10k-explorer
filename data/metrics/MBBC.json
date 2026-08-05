@@ -1,0 +1,63 @@
+{
+  "ticker": "MBBC",
+  "name": "Marathon Bancorp, Inc. /MD/",
+  "cik": 1835385,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 42445,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "epsBasic": {
+      "value": 0.02,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "epsDiluted": {
+      "value": 0.02,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 238834800,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 193125579,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "shareholdersEquity": {
+      "value": 45709221,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "operatingCashFlow": {
+      "value": 1448511,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "capex": {
+      "value": 179043,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:19.354Z"
+}

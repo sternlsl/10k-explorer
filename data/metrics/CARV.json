@@ -1,0 +1,73 @@
+{
+  "ticker": "CARV",
+  "name": "CARVER BANCORP INC",
+  "cik": 1016178,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3003000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-24"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -170000,
+      "year": 2016,
+      "periodEnd": "2016-03-31",
+      "filed": "2016-08-12"
+    },
+    "netIncome": {
+      "value": -13744000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-24"
+    },
+    "epsBasic": {
+      "value": -2.65,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-24"
+    },
+    "epsDiluted": {
+      "value": -2.65,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-24"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 729991000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-24"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 700413000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-24"
+    },
+    "shareholdersEquity": {
+      "value": 29578000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-24"
+    },
+    "operatingCashFlow": {
+      "value": -12609000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-24"
+    },
+    "capex": {
+      "value": 331000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-24"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:07.093Z"
+}

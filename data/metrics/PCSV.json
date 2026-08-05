@@ -1,0 +1,93 @@
+{
+  "ticker": "PCSV",
+  "name": "PCS Edventures!, Inc.",
+  "cik": 1122020,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 6349761,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "cogs": {
+      "value": 2509692,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "grossProfit": {
+      "value": 3840069,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "operatingIncome": {
+      "value": 216978,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "netIncome": {
+      "value": 253182,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "epsBasic": {
+      "value": 0.03,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "epsDiluted": {
+      "value": 0.03,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "currentAssets": {
+      "value": 5631022,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "totalAssets": {
+      "value": 8902120,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "currentLiabilities": {
+      "value": 448856,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "totalLiabilities": {
+      "value": 1209360,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "shareholdersEquity": {
+      "value": 7692760,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "operatingCashFlow": {
+      "value": 96440,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "capex": {
+      "value": 18730,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:21.680Z"
+}

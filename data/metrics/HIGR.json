@@ -1,0 +1,83 @@
+{
+  "ticker": "HIGR",
+  "name": "Hi-Great Group Holding Co",
+  "cik": 1807616,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 36958,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-27"
+    },
+    "cogs": {
+      "value": 13230,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-27"
+    },
+    "grossProfit": {
+      "value": -24708,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-27"
+    },
+    "operatingIncome": {
+      "value": -87208,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-27"
+    },
+    "netIncome": {
+      "value": -87208,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-27"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-07-12"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 21494,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-27"
+    },
+    "totalAssets": {
+      "value": 21494,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-27"
+    },
+    "currentLiabilities": {
+      "value": 186181,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-27"
+    },
+    "totalLiabilities": {
+      "value": 269431,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-27"
+    },
+    "shareholdersEquity": {
+      "value": -247937,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-27"
+    },
+    "operatingCashFlow": {
+      "value": -89609,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:48.652Z"
+}

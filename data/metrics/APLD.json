@@ -1,0 +1,93 @@
+{
+  "ticker": "APLD",
+  "name": "Applied Digital Corp.",
+  "cik": 1144879,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 144193000,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-07-30"
+    },
+    "cogs": {
+      "value": 396858000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-29"
+    },
+    "grossProfit": {
+      "value": 11004000,
+      "year": 2023,
+      "periodEnd": "2023-05-31",
+      "filed": "2023-08-02"
+    },
+    "operatingIncome": {
+      "value": -236462000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-29"
+    },
+    "netIncome": {
+      "value": -149274000,
+      "year": 2024,
+      "periodEnd": "2024-05-31",
+      "filed": "2024-08-30"
+    },
+    "epsBasic": {
+      "value": -0.91,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-29"
+    },
+    "epsDiluted": {
+      "value": -0.91,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-29"
+    },
+    "currentAssets": {
+      "value": 4662857000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-29"
+    },
+    "totalAssets": {
+      "value": 9929312000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-29"
+    },
+    "currentLiabilities": {
+      "value": 1162856000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-29"
+    },
+    "totalLiabilities": {
+      "value": 6185735000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-29"
+    },
+    "shareholdersEquity": {
+      "value": 1717476000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-29"
+    },
+    "operatingCashFlow": {
+      "value": 89685000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-29"
+    },
+    "capex": {
+      "value": 58251000,
+      "year": 2022,
+      "periodEnd": "2022-05-31",
+      "filed": "2022-08-29"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:07.081Z"
+}

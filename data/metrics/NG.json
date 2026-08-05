@@ -1,0 +1,83 @@
+{
+  "ticker": "NG",
+  "name": "NOVAGOLD RESOURCES INC",
+  "cik": 1173420,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -47290000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "netIncome": {
+      "value": -94659000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "epsBasic": {
+      "value": -0.25,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "epsDiluted": {
+      "value": -0.2,
+      "year": 2013,
+      "periodEnd": "2013-11-30",
+      "filed": "2014-02-12"
+    },
+    "currentAssets": {
+      "value": 117487000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "totalAssets": {
+      "value": 335913000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "currentLiabilities": {
+      "value": 4938000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "totalLiabilities": {
+      "value": 172119000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "shareholdersEquity": {
+      "value": 163794000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "operatingCashFlow": {
+      "value": -14028000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "capex": {
+      "value": 21000,
+      "year": 2014,
+      "periodEnd": "2014-11-30",
+      "filed": "2015-01-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:38.130Z"
+}

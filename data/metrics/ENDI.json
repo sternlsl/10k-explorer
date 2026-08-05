@@ -1,0 +1,93 @@
+{
+  "ticker": "ENDI",
+  "name": "ENDI Corp.",
+  "cik": 1908984,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 9587523,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "cogs": {
+      "value": 218269,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "grossProfit": {
+      "value": 9369254,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "operatingIncome": {
+      "value": 1720447,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "netIncome": {
+      "value": 2529551,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "epsBasic": {
+      "value": 0.46,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "epsDiluted": {
+      "value": 0.46,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "currentAssets": {
+      "value": 17949900,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "totalAssets": {
+      "value": 25516988,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "currentLiabilities": {
+      "value": 1244859,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "totalLiabilities": {
+      "value": 2403898,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "shareholdersEquity": {
+      "value": 23113090,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "operatingCashFlow": {
+      "value": 2705976,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "capex": {
+      "value": 108501,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:55.878Z"
+}

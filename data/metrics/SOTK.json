@@ -1,0 +1,88 @@
+{
+  "ticker": "SOTK",
+  "name": "SONO TEK CORP",
+  "cik": 806172,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 20909315,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "cogs": {
+      "value": 10349373,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "grossProfit": {
+      "value": 10559942,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "operatingIncome": {
+      "value": 1824969,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "netIncome": null,
+    "epsBasic": {
+      "value": 0.11,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "epsDiluted": {
+      "value": 0.11,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "currentAssets": {
+      "value": 22826650,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "totalAssets": {
+      "value": 26421495,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "currentLiabilities": {
+      "value": 6591427,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "totalLiabilities": {
+      "value": 6647336,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "shareholdersEquity": {
+      "value": 19774159,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "operatingCashFlow": {
+      "value": 3245578,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    },
+    "capex": {
+      "value": 224558,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:29.711Z"
+}

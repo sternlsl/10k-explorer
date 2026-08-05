@@ -1,0 +1,73 @@
+{
+  "ticker": "CUZ",
+  "name": "COUSINS PROPERTIES INC",
+  "cik": 25232,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 993816000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "cogs": {
+      "value": 314498000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 673311000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "netIncome": {
+      "value": 40503000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "epsBasic": {
+      "value": 0.24,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "epsDiluted": {
+      "value": 0.24,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 8890132000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 4187930000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "shareholdersEquity": {
+      "value": 4679590000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "operatingCashFlow": {
+      "value": 402275000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:56:22.002Z"
+}

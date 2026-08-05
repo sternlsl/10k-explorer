@@ -1,0 +1,88 @@
+{
+  "ticker": "TRXA",
+  "name": "T-REX Acquisition Corp.",
+  "cik": 1437750,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 32390,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-31"
+    },
+    "cogs": {
+      "value": 118592,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-31"
+    },
+    "grossProfit": {
+      "value": -86202,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-31"
+    },
+    "operatingIncome": {
+      "value": -2115391,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-31"
+    },
+    "netIncome": {
+      "value": -2535552,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-31"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.13,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-31"
+    },
+    "currentAssets": {
+      "value": 95565,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-31"
+    },
+    "totalAssets": {
+      "value": 774328,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-31"
+    },
+    "currentLiabilities": {
+      "value": 1332539,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-31"
+    },
+    "totalLiabilities": {
+      "value": 1836849,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-31"
+    },
+    "shareholdersEquity": {
+      "value": -1062521,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-31"
+    },
+    "operatingCashFlow": {
+      "value": -763752,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-31"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-11-21"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:54.481Z"
+}

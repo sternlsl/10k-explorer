@@ -1,0 +1,58 @@
+{
+  "ticker": "CMCUF",
+  "name": "Piermont Valley Acquisition Corp",
+  "cik": 1865248,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -1696790,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 4540,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "totalAssets": {
+      "value": 2461520,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "currentLiabilities": {
+      "value": 330009,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "totalLiabilities": {
+      "value": 1480009,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "shareholdersEquity": {
+      "value": -1475469,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "operatingCashFlow": {
+      "value": -188812,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:57.093Z"
+}

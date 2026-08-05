@@ -1,0 +1,63 @@
+{
+  "ticker": "ALTX",
+  "name": "ALTEX INDUSTRIES INC",
+  "cik": 775057,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 18000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -192000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 2568000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "totalAssets": {
+      "value": 2745000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "currentLiabilities": {
+      "value": 1276000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "totalLiabilities": {
+      "value": 1403000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "shareholdersEquity": {
+      "value": 1342000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "operatingCashFlow": {
+      "value": -99000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:46.496Z"
+}

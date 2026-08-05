@@ -1,0 +1,93 @@
+{
+  "ticker": "BESS",
+  "name": "Bimergen Energy Corp",
+  "cik": 1066764,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 308,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-26"
+    },
+    "grossProfit": {
+      "value": 308,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "operatingIncome": {
+      "value": -4928861,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": -4973422,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": -1.11,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": -1.11,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 3299774,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 27200294,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 7837013,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 1657523,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-28"
+    },
+    "shareholdersEquity": {
+      "value": 19363281,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": 878442,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-01"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:15.925Z"
+}

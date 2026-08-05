@@ -1,0 +1,68 @@
+{
+  "ticker": "SFB",
+  "name": "STIFEL FINANCIAL CORP",
+  "cik": 720672,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3771017000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 928444000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-26"
+    },
+    "netIncome": {
+      "value": 683779000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": 6.25,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsDiluted": {
+      "value": 5.87,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 41270782000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 35293465000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "shareholdersEquity": {
+      "value": 4238766000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-19"
+    },
+    "operatingCashFlow": {
+      "value": 1117029000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:54:55.693Z"
+}

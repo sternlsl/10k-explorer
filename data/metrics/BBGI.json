@@ -1,0 +1,83 @@
+{
+  "ticker": "BBGI",
+  "name": "BEASLEY BROADCAST GROUP INC",
+  "cik": 1099160,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 205939627,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -229674064,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "netIncome": {
+      "value": -196549741,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "epsBasic": {
+      "value": -109.27,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "epsDiluted": {
+      "value": -109.27,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "currentAssets": {
+      "value": 60460910,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "totalAssets": {
+      "value": 299287976,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "currentLiabilities": {
+      "value": 60230758,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "totalLiabilities": {
+      "value": 348618407,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "shareholdersEquity": {
+      "value": -49330431,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "operatingCashFlow": {
+      "value": -8468895,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "capex": {
+      "value": 4835724,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:37.139Z"
+}

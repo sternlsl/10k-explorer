@@ -1,0 +1,73 @@
+{
+  "ticker": "WPC",
+  "name": "W. P. Carey Inc.",
+  "cik": 1025378,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1716485000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "cogs": {
+      "value": 368000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-09"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 209879000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-26"
+    },
+    "netIncome": {
+      "value": 466359000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "epsBasic": {
+      "value": 2.5,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-02-24"
+    },
+    "epsDiluted": {
+      "value": 2.49,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-02-24"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 17990232000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 9856090000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "shareholdersEquity": {
+      "value": 8118257000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "operatingCashFlow": {
+      "value": 1282319000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:54:35.777Z"
+}

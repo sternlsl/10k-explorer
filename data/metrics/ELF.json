@@ -1,0 +1,93 @@
+{
+  "ticker": "ELF",
+  "name": "e.l.f. Beauty, Inc.",
+  "cik": 1600033,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1636472000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "cogs": {
+      "value": 479125000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "grossProfit": {
+      "value": 1157347000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "operatingIncome": {
+      "value": 73632000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "netIncome": {
+      "value": 26318000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "epsBasic": {
+      "value": 0.45,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "epsDiluted": {
+      "value": 0.44,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "currentAssets": {
+      "value": 789367000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "totalAssets": {
+      "value": 2394158000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "currentLiabilities": {
+      "value": 336164000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "totalLiabilities": {
+      "value": 1263628000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "shareholdersEquity": {
+      "value": 1130530000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "operatingCashFlow": {
+      "value": 212511000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "capex": {
+      "value": 22449000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:35.489Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "CHWY",
+  "name": "Chewy, Inc.",
+  "cik": 1766502,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 12601500000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "cogs": {
+      "value": 8847600000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "grossProfit": {
+      "value": 3753900000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "operatingIncome": {
+      "value": 254300000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "netIncome": {
+      "value": 222800000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "epsBasic": {
+      "value": 0.54,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "epsDiluted": {
+      "value": 0.52,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "currentAssets": {
+      "value": 2035800000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "totalAssets": {
+      "value": 3366400000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "currentLiabilities": {
+      "value": 2301600000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "totalLiabilities": {
+      "value": 2868500000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "shareholdersEquity": {
+      "value": 497900000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "operatingCashFlow": {
+      "value": 691600000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:55:06.224Z"
+}

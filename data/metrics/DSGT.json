@@ -1,0 +1,93 @@
+{
+  "ticker": "DSGT",
+  "name": "DSG Global Inc.",
+  "cik": 1413909,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 3833853,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "cogs": {
+      "value": 30000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-05"
+    },
+    "grossProfit": {
+      "value": 1748682,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "operatingIncome": {
+      "value": -5249631,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "netIncome": {
+      "value": -7547391,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "epsBasic": {
+      "value": -0.06,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "epsDiluted": {
+      "value": -0.06,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-04-01"
+    },
+    "currentAssets": {
+      "value": 2162895,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "totalAssets": {
+      "value": 2244296,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "currentLiabilities": {
+      "value": 9009606,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "totalLiabilities": {
+      "value": 9164588,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "shareholdersEquity": {
+      "value": -13742617,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2019-05-28"
+    },
+    "operatingCashFlow": {
+      "value": -3627148,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "capex": {
+      "value": 8892,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:21.992Z"
+}

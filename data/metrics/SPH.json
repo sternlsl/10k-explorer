@@ -1,0 +1,83 @@
+{
+  "ticker": "SPH",
+  "name": "SUBURBAN PROPANE PARTNERS LP",
+  "cik": 1005210,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1432518000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "cogs": {
+      "value": 563706000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 206311000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "netIncome": {
+      "value": 106570000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "epsBasic": {
+      "value": 1.64,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "epsDiluted": {
+      "value": 1.62,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "currentAssets": {
+      "value": 166274000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "totalAssets": {
+      "value": 2296274000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "currentLiabilities": {
+      "value": 302820000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "totalLiabilities": {
+      "value": 1697703000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 186256000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "capex": {
+      "value": 71960000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:18.600Z"
+}

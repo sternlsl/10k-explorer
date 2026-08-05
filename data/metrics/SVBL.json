@@ -1,0 +1,78 @@
+{
+  "ticker": "SVBL",
+  "name": "SILVER BULL RESOURCES, INC.",
+  "cik": 1031093,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -5327692,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "netIncome": {
+      "value": -13103006,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "epsBasic": {
+      "value": -0.28,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "epsDiluted": {
+      "value": -0.28,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "currentAssets": {
+      "value": 1457612,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "totalAssets": {
+      "value": 1531359,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "currentLiabilities": {
+      "value": 7659875,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "totalLiabilities": {
+      "value": 8436970,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "shareholdersEquity": {
+      "value": -6905611,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "operatingCashFlow": {
+      "value": 36441,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "capex": {
+      "value": 1068,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2026-01-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:08.131Z"
+}

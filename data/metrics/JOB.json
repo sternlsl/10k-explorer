@@ -1,0 +1,93 @@
+{
+  "ticker": "JOB",
+  "name": "GEE Group Inc.",
+  "cik": 40570,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 96504000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "cogs": {
+      "value": 63132000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "grossProfit": {
+      "value": 33372000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "operatingIncome": {
+      "value": -25310000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "netIncome": {
+      "value": -34747000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "epsBasic": {
+      "value": -0.22,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2024-12-19"
+    },
+    "epsDiluted": {
+      "value": -0.32,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "currentAssets": {
+      "value": 31681000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "totalAssets": {
+      "value": 59997000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "currentLiabilities": {
+      "value": 7688000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "totalLiabilities": {
+      "value": 9987000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "shareholdersEquity": {
+      "value": 50010000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "operatingCashFlow": {
+      "value": 549000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "capex": {
+      "value": 16000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:57.567Z"
+}

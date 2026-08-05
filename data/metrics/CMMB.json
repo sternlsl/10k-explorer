@@ -1,0 +1,73 @@
+{
+  "ticker": "CMMB",
+  "name": "Chemomab Therapeutics Ltd.",
+  "cik": 1534248,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -27646000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-20"
+    },
+    "epsBasic": {
+      "value": 0.121,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-20"
+    },
+    "epsDiluted": {
+      "value": 0.121,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-20"
+    },
+    "currentAssets": {
+      "value": 41736000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-20"
+    },
+    "totalAssets": {
+      "value": 43063000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-20"
+    },
+    "currentLiabilities": {
+      "value": 6749000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-20"
+    },
+    "totalLiabilities": {
+      "value": 6840000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-20"
+    },
+    "shareholdersEquity": {
+      "value": 36223000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-20"
+    },
+    "operatingCashFlow": {
+      "value": -20370000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-20"
+    },
+    "capex": {
+      "value": 68000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:42.880Z"
+}

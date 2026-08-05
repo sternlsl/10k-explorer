@@ -1,0 +1,68 @@
+{
+  "ticker": "FREVS",
+  "name": "FIRST REAL ESTATE INVESTMENT TRUST OF NEW JERSEY, INC.",
+  "cik": 36840,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 29317000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 15167000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "netIncome": {
+      "value": 3509000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "epsBasic": {
+      "value": 0.47,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "epsDiluted": {
+      "value": 0.47,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 149874000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 124171000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "shareholdersEquity": {
+      "value": 34039000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "operatingCashFlow": {
+      "value": 6248000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:58.557Z"
+}

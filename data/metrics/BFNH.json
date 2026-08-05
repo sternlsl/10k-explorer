@@ -1,0 +1,88 @@
+{
+  "ticker": "BFNH",
+  "name": "BIOFORCE NANOSCIENCES HOLDINGS, INC.",
+  "cik": 1310488,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 17775,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2021-02-16"
+    },
+    "cogs": {
+      "value": 13415,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2021-02-16"
+    },
+    "grossProfit": {
+      "value": 4360,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2021-02-16"
+    },
+    "operatingIncome": {
+      "value": -46538,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-04"
+    },
+    "netIncome": {
+      "value": -1291951,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 786,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 786,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 619329,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 619329,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -618543,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -65150,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:45.458Z"
+}

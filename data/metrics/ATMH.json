@@ -1,0 +1,53 @@
+{
+  "ticker": "ATMH",
+  "name": "ALL THINGS MOBILE ANALYTIC, INC.",
+  "cik": 1484674,
+  "fiscalYear": 2014,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -71671,
+      "year": 2014,
+      "periodEnd": "2014-01-31",
+      "filed": "2014-07-07"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 30993,
+      "year": 2014,
+      "periodEnd": "2014-01-31",
+      "filed": "2014-07-07"
+    },
+    "totalAssets": null,
+    "currentLiabilities": {
+      "value": 499055,
+      "year": 2014,
+      "periodEnd": "2014-01-31",
+      "filed": "2014-07-07"
+    },
+    "totalLiabilities": {
+      "value": 509946,
+      "year": 2014,
+      "periodEnd": "2014-01-31",
+      "filed": "2014-07-07"
+    },
+    "shareholdersEquity": {
+      "value": -478953,
+      "year": 2014,
+      "periodEnd": "2014-01-31",
+      "filed": "2014-07-07"
+    },
+    "operatingCashFlow": {
+      "value": -32897,
+      "year": 2014,
+      "periodEnd": "2014-01-31",
+      "filed": "2014-07-07"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:03.630Z"
+}

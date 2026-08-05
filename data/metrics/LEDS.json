@@ -1,0 +1,93 @@
+{
+  "ticker": "LEDS",
+  "name": "SemiLEDs Corp",
+  "cik": 1333822,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 43009000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "cogs": {
+      "value": 40578000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "grossProfit": {
+      "value": 2431000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "operatingIncome": {
+      "value": -1595000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "netIncome": {
+      "value": -1130000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "epsBasic": {
+      "value": -0.15,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "epsDiluted": {
+      "value": -0.15,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "currentAssets": {
+      "value": 11302000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "totalAssets": {
+      "value": 15593000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "currentLiabilities": {
+      "value": 11383000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "totalLiabilities": {
+      "value": 12813000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "shareholdersEquity": {
+      "value": 2780000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "operatingCashFlow": {
+      "value": 2212000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "capex": {
+      "value": 569000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:32.655Z"
+}

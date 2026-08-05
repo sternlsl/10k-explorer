@@ -1,0 +1,53 @@
+{
+  "ticker": "GYRO",
+  "name": "Gyrodyne, LLC",
+  "cik": 1589061,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2798528,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2016-03-30"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -3105366,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2016-03-30"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 58690701,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 32831704,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "shareholdersEquity": {
+      "value": 43916720,
+      "year": 2015,
+      "periodEnd": "2015-08-31",
+      "filed": "2016-03-30"
+    },
+    "operatingCashFlow": {
+      "value": -5470298,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2016-03-30"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:24.514Z"
+}

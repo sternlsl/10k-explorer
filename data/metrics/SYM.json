@@ -1,0 +1,93 @@
+{
+  "ticker": "SYM",
+  "name": "Symbotic Inc.",
+  "cik": 1837240,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2246922000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "cogs": {
+      "value": 1824312000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "grossProfit": {
+      "value": 422610000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "operatingIncome": {
+      "value": -115006000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "netIncome": {
+      "value": -16937000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "epsBasic": {
+      "value": -0.16,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "epsDiluted": {
+      "value": -0.16,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "currentAssets": {
+      "value": 1890328000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "totalAssets": {
+      "value": 2401197000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "currentLiabilities": {
+      "value": 1729423000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "totalLiabilities": {
+      "value": 1917984000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "shareholdersEquity": {
+      "value": 221318000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "operatingCashFlow": {
+      "value": 866939000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "capex": {
+      "value": 42237000,
+      "year": 2024,
+      "periodEnd": "2024-09-28",
+      "filed": "2024-12-04"
+    }
+  },
+  "updatedAt": "2026-08-05T16:53:59.884Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "RMCF",
+  "name": "Rocky Mountain Chocolate Factory, Inc.",
+  "cik": 1616262,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 27497000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "cogs": {
+      "value": 20643000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "grossProfit": {
+      "value": 4001537,
+      "year": 2023,
+      "periodEnd": "2023-02-28",
+      "filed": "2023-05-30"
+    },
+    "operatingIncome": {
+      "value": -3587000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "netIncome": {
+      "value": -4560000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "epsBasic": {
+      "value": -0.56,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "epsDiluted": {
+      "value": -0.56,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "currentAssets": {
+      "value": 8768000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "totalAssets": {
+      "value": 20212000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "currentLiabilities": {
+      "value": 6786000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "totalLiabilities": {
+      "value": 14983000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "shareholdersEquity": {
+      "value": 5229000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "operatingCashFlow": {
+      "value": -1810000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "capex": {
+      "value": 569000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:06.349Z"
+}

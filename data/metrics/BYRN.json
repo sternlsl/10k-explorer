@@ -1,0 +1,93 @@
+{
+  "ticker": "BYRN",
+  "name": "Byrna Technologies Inc.",
+  "cik": 1354866,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 118120000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-05"
+    },
+    "cogs": {
+      "value": 46650000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-05"
+    },
+    "grossProfit": {
+      "value": 71470000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-05"
+    },
+    "operatingIncome": {
+      "value": 11838000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-05"
+    },
+    "netIncome": {
+      "value": 9687000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-05"
+    },
+    "epsBasic": {
+      "value": 0.43,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-05"
+    },
+    "epsDiluted": {
+      "value": 0.4,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-05"
+    },
+    "currentAssets": {
+      "value": 63696000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-05"
+    },
+    "totalAssets": {
+      "value": 84488000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-05"
+    },
+    "currentLiabilities": {
+      "value": 17094000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-05"
+    },
+    "totalLiabilities": {
+      "value": 18731000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-05"
+    },
+    "shareholdersEquity": {
+      "value": 65757000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-05"
+    },
+    "operatingCashFlow": {
+      "value": -1572000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-05"
+    },
+    "capex": {
+      "value": 7623000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-05"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:46.123Z"
+}

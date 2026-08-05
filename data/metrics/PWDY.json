@@ -1,0 +1,93 @@
+{
+  "ticker": "PWDY",
+  "name": "POWERDYNE INTERNATIONAL, INC.",
+  "cik": 1435617,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1160976,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "cogs": {
+      "value": 782549,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "grossProfit": {
+      "value": 378427,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "operatingIncome": {
+      "value": -1341616,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "netIncome": {
+      "value": -251410,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-05-08"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-05-08"
+    },
+    "currentAssets": {
+      "value": 273778,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "totalAssets": {
+      "value": 341923,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "currentLiabilities": {
+      "value": 778732,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "totalLiabilities": {
+      "value": 846877,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "shareholdersEquity": {
+      "value": -504954,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "operatingCashFlow": {
+      "value": -192005,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "capex": {
+      "value": 15000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2021-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:35.009Z"
+}

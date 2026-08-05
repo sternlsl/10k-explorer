@@ -1,0 +1,88 @@
+{
+  "ticker": "PNXP",
+  "name": "PINEAPPLE EXPRESS CANNABIS Co",
+  "cik": 1710495,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5385,
+      "year": 2023,
+      "periodEnd": "2023-01-31",
+      "filed": "2024-06-03"
+    },
+    "cogs": {
+      "value": 5610,
+      "year": 2021,
+      "periodEnd": "2021-01-31",
+      "filed": "2021-06-08"
+    },
+    "grossProfit": {
+      "value": 5385,
+      "year": 2023,
+      "periodEnd": "2023-01-31",
+      "filed": "2024-06-03"
+    },
+    "operatingIncome": {
+      "value": -16857,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-05-16"
+    },
+    "netIncome": {
+      "value": -31153,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-05-16"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-05-16"
+    },
+    "epsDiluted": {
+      "value": 0.01,
+      "year": 2024,
+      "periodEnd": "2024-01-31",
+      "filed": "2024-06-03"
+    },
+    "currentAssets": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-05-16"
+    },
+    "totalAssets": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-05-16"
+    },
+    "currentLiabilities": {
+      "value": 2079,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-05-16"
+    },
+    "totalLiabilities": {
+      "value": 2079,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-05-16"
+    },
+    "shareholdersEquity": {
+      "value": -15927,
+      "year": 2024,
+      "periodEnd": "2024-01-31",
+      "filed": "2024-06-03"
+    },
+    "operatingCashFlow": {
+      "value": -45031,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-05-16"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:21.740Z"
+}

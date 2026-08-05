@@ -7,59 +7,82 @@
     "revenue": {
       "value": 13184000000,
       "year": 2025,
-      "periodEnd": "2025-12-27"
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
     },
     "cogs": {
       "value": 9079000000,
       "year": 2025,
-      "periodEnd": "2025-12-27"
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
     },
     "grossProfit": {
       "value": 4105000000,
       "year": 2025,
-      "periodEnd": "2025-12-27"
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
     },
     "operatingIncome": {
       "value": 653000000,
       "year": 2025,
-      "periodEnd": "2025-12-27"
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
     },
     "netIncome": {
       "value": 398000000,
       "year": 2025,
-      "periodEnd": "2025-12-27"
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": 3.29,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "epsDiluted": {
+      "value": 3.27,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
     },
     "currentAssets": {
       "value": 4464000000,
       "year": 2025,
-      "periodEnd": "2025-12-27"
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
     },
     "totalAssets": {
       "value": 11215000000,
       "year": 2025,
-      "periodEnd": "2025-12-27"
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
     },
     "currentLiabilities": {
       "value": 3228000000,
       "year": 2025,
-      "periodEnd": "2025-12-27"
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
     },
     "totalLiabilities": {
       "value": 6421000000,
       "year": 2025,
-      "periodEnd": "2025-12-27"
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
     },
     "shareholdersEquity": {
       "value": 3245000000,
       "year": 2025,
-      "periodEnd": "2025-12-27"
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
     },
     "operatingCashFlow": {
       "value": 712000000,
       "year": 2025,
-      "periodEnd": "2025-12-27"
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
     },
     "capex": null
   },
-  "fetchedAt": "2026-05-08T18:52:04.264Z"
+  "updatedAt": "2026-08-05T16:55:22.883Z"
 }

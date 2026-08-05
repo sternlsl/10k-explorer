@@ -1,0 +1,73 @@
+{
+  "ticker": "AFRM",
+  "name": "Affirm Holdings, Inc.",
+  "cik": 1820953,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1113966000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -87273000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "netIncome": {
+      "value": 52186000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "epsBasic": {
+      "value": 0.16,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "epsDiluted": {
+      "value": 0.15,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 11154929000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 8085919000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "shareholdersEquity": {
+      "value": 3069009000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "operatingCashFlow": {
+      "value": 793909000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "capex": {
+      "value": 192189000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:17.956Z"
+}

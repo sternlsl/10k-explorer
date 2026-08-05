@@ -1,0 +1,93 @@
+{
+  "ticker": "MTRX",
+  "name": "MATRIX SERVICE CO",
+  "cik": 866273,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 769286000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "cogs": {
+      "value": 729609000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "grossProfit": {
+      "value": 39677000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "operatingIncome": {
+      "value": -35068000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "netIncome": {
+      "value": -29462000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "epsBasic": {
+      "value": -1.06,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "epsDiluted": {
+      "value": -1.06,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "currentAssets": {
+      "value": 419773000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "totalAssets": {
+      "value": 600256000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "currentLiabilities": {
+      "value": 436375000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "totalLiabilities": {
+      "value": 457540000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "shareholdersEquity": {
+      "value": 321809000,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-11"
+    },
+    "operatingCashFlow": {
+      "value": 117471000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "capex": {
+      "value": 7685000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:37.518Z"
+}

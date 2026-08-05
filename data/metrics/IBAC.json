@@ -1,0 +1,63 @@
+{
+  "ticker": "IBAC",
+  "name": "IB Acquisition Corp.",
+  "cik": 1998781,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -748908,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "netIncome": {
+      "value": 3416169,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 1243898,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "totalAssets": {
+      "value": 17134092,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "currentLiabilities": {
+      "value": 1832100,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "totalLiabilities": {
+      "value": 1832100,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "shareholdersEquity": {
+      "value": -681323,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "operatingCashFlow": {
+      "value": -1318100,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:48.593Z"
+}

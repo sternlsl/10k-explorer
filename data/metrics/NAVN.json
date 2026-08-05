@@ -1,0 +1,93 @@
+{
+  "ticker": "NAVN",
+  "name": "Navan, Inc.",
+  "cik": 1639723,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 702265000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "cogs": {
+      "value": 201794000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "grossProfit": {
+      "value": 500471000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "operatingIncome": {
+      "value": -196877000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "netIncome": {
+      "value": -398030000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "epsBasic": {
+      "value": -4.07,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "epsDiluted": {
+      "value": -4.07,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "currentAssets": {
+      "value": 1306987000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "totalAssets": {
+      "value": 1708761000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "currentLiabilities": {
+      "value": 320936000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "totalLiabilities": {
+      "value": 500700000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "shareholdersEquity": {
+      "value": 1208061000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "operatingCashFlow": {
+      "value": 33671000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "capex": {
+      "value": 917000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:11.464Z"
+}

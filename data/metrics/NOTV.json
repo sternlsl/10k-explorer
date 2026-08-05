@@ -1,0 +1,88 @@
+{
+  "ticker": "NOTV",
+  "name": "Inotiv, Inc.",
+  "cik": 720154,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 513024000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "cogs": {
+      "value": 59449000,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-12-21"
+    },
+    "grossProfit": {
+      "value": 30156000,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-12-21"
+    },
+    "operatingIncome": {
+      "value": -30902000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "netIncome": {
+      "value": -68625000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "epsBasic": {
+      "value": -2.11,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "epsDiluted": {
+      "value": -2.11,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "currentAssets": {
+      "value": 194591000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "totalAssets": {
+      "value": 771114000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "currentLiabilities": {
+      "value": 556784000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "totalLiabilities": {
+      "value": 635086000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "shareholdersEquity": {
+      "value": 136028000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "operatingCashFlow": {
+      "value": -10455000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:49.769Z"
+}

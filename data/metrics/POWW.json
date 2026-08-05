@@ -1,0 +1,93 @@
+{
+  "ticker": "POWW",
+  "name": "Outdoor Holding Co",
+  "cik": 1015383,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 51125398,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-22"
+    },
+    "cogs": {
+      "value": 6524437,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-22"
+    },
+    "grossProfit": {
+      "value": 44600961,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-22"
+    },
+    "operatingIncome": {
+      "value": -6292435,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-22"
+    },
+    "netIncome": {
+      "value": -3537641,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-22"
+    },
+    "epsBasic": {
+      "value": -0.05,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-22"
+    },
+    "epsDiluted": {
+      "value": -0.05,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-22"
+    },
+    "currentAssets": {
+      "value": 81988474,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-22"
+    },
+    "totalAssets": {
+      "value": 267483770,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-22"
+    },
+    "currentLiabilities": {
+      "value": 20720534,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-22"
+    },
+    "totalLiabilities": {
+      "value": 32528667,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-22"
+    },
+    "shareholdersEquity": {
+      "value": 234955103,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-22"
+    },
+    "operatingCashFlow": {
+      "value": 32631341,
+      "year": 2024,
+      "periodEnd": "2024-03-31",
+      "filed": "2024-06-13"
+    },
+    "capex": {
+      "value": 2890973,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-22"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:39.188Z"
+}

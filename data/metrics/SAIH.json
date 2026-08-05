@@ -1,0 +1,73 @@
+{
+  "ticker": "SAIH",
+  "name": "SAIHEAT Ltd",
+  "cik": 1847075,
+  "fiscalYear": 2021,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1925574,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-18"
+    },
+    "netIncome": {
+      "value": -1923605,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-18"
+    },
+    "epsBasic": {
+      "value": -1.46,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-18"
+    },
+    "epsDiluted": {
+      "value": -1.46,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-18"
+    },
+    "currentAssets": {
+      "value": 102157,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-18"
+    },
+    "totalAssets": {
+      "value": 44993986,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-18"
+    },
+    "currentLiabilities": {
+      "value": 1589098,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-18"
+    },
+    "totalLiabilities": {
+      "value": 3160243,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-18"
+    },
+    "shareholdersEquity": {
+      "value": -3056117,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-18"
+    },
+    "operatingCashFlow": {
+      "value": -822874,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-18"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:13.259Z"
+}

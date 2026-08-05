@@ -1,0 +1,83 @@
+{
+  "ticker": "ZNOGW",
+  "name": "ZION OIL & GAS INC",
+  "cik": 1131312,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 11260000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-17"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -7731000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "netIncome": {
+      "value": -7627000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsDiluted": {
+      "value": -0.014,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-20"
+    },
+    "currentAssets": {
+      "value": 11529000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalAssets": {
+      "value": 46280000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentLiabilities": {
+      "value": 2258000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalLiabilities": {
+      "value": 3852000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "shareholdersEquity": {
+      "value": 42428000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "operatingCashFlow": {
+      "value": -8013000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "capex": {
+      "value": 1000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:07.020Z"
+}

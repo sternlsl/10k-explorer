@@ -1,0 +1,78 @@
+{
+  "ticker": "HLI",
+  "name": "HOULIHAN LOKEY, INC.",
+  "cik": 1302215,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 2617516000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 772312000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-05-15"
+    },
+    "operatingIncome": {
+      "value": 527019000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "netIncome": {
+      "value": 425697000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "epsBasic": {
+      "value": 6.4,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "epsDiluted": {
+      "value": 6.22,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 4308955000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1856024000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "shareholdersEquity": {
+      "value": 651160000,
+      "year": 2016,
+      "periodEnd": "2016-03-31",
+      "filed": "2016-06-23"
+    },
+    "operatingCashFlow": {
+      "value": 704131000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "capex": {
+      "value": 22312000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:03.867Z"
+}

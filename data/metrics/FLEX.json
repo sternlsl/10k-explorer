@@ -1,0 +1,93 @@
+{
+  "ticker": "FLEX",
+  "name": "FLEX LTD.",
+  "cik": 866374,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 27914000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "cogs": {
+      "value": 25288000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "grossProfit": {
+      "value": 2567000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "operatingIncome": {
+      "value": 1368000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "netIncome": {
+      "value": 880000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "epsBasic": {
+      "value": 2.37,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "epsDiluted": {
+      "value": 2.33,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "currentAssets": {
+      "value": 16332000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "totalAssets": {
+      "value": 22060000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "currentLiabilities": {
+      "value": 12016000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "totalLiabilities": {
+      "value": 16916000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "shareholdersEquity": {
+      "value": 5144000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "operatingCashFlow": {
+      "value": 1685000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "capex": {
+      "value": 633000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:00.618Z"
+}

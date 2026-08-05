@@ -1,0 +1,88 @@
+{
+  "ticker": "LSEB",
+  "name": "LSEB Creative Corp.",
+  "cik": 1888740,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 17906,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-08-04"
+    },
+    "cogs": {
+      "value": 4154,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-08-04"
+    },
+    "grossProfit": {
+      "value": 13752,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-08-04"
+    },
+    "operatingIncome": {
+      "value": -58364,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-08-04"
+    },
+    "netIncome": {
+      "value": -59985,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-08-04"
+    },
+    "epsBasic": {
+      "value": -0.0037,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-08-04"
+    },
+    "epsDiluted": {
+      "value": -0.0037,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-08-04"
+    },
+    "currentAssets": {
+      "value": 178762,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-08-04"
+    },
+    "totalAssets": {
+      "value": 180500,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-08-04"
+    },
+    "currentLiabilities": {
+      "value": 200990,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-08-04"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -20490,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-08-04"
+    },
+    "operatingCashFlow": {
+      "value": -42909,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-08-04"
+    },
+    "capex": {
+      "value": 353,
+      "year": 2021,
+      "periodEnd": "2021-03-31",
+      "filed": "2022-07-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:37.969Z"
+}

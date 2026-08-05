@@ -1,0 +1,78 @@
+{
+  "ticker": "WLTH",
+  "name": "WEALTHFRONT CORP",
+  "cik": 1524566,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 364993000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-24"
+    },
+    "cogs": {
+      "value": 38007000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-24"
+    },
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -42066000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-24"
+    },
+    "epsBasic": {
+      "value": -0.74,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-24"
+    },
+    "epsDiluted": {
+      "value": -0.76,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-24"
+    },
+    "currentAssets": {
+      "value": 1275784000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-24"
+    },
+    "totalAssets": {
+      "value": 1415729000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-24"
+    },
+    "currentLiabilities": {
+      "value": 792755000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-24"
+    },
+    "totalLiabilities": {
+      "value": 801040000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-24"
+    },
+    "shareholdersEquity": {
+      "value": 614689000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-24"
+    },
+    "operatingCashFlow": {
+      "value": 152189000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-24"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:51.133Z"
+}

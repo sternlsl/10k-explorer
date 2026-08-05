@@ -1,0 +1,93 @@
+{
+  "ticker": "LODE",
+  "name": "Comstock Inc.",
+  "cik": 1120970,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1274449,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-27"
+    },
+    "cogs": {
+      "value": 2626962,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "grossProfit": {
+      "value": 178150,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-16"
+    },
+    "operatingIncome": {
+      "value": -38149056,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "netIncome": {
+      "value": -43076443,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "epsBasic": {
+      "value": -1.17,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "epsDiluted": {
+      "value": -1.17,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "currentAssets": {
+      "value": 20657979,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "totalAssets": {
+      "value": 169604637,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "currentLiabilities": {
+      "value": 10024965,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "totalLiabilities": {
+      "value": 58703647,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "shareholdersEquity": {
+      "value": 107579970,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "operatingCashFlow": {
+      "value": -24387033,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "capex": {
+      "value": 1655820,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:39.172Z"
+}

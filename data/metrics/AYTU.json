@@ -1,0 +1,93 @@
+{
+  "ticker": "AYTU",
+  "name": "AYTU BIOPHARMA, INC",
+  "cik": 1385818,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 66382000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "cogs": {
+      "value": 20551000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "grossProfit": {
+      "value": 45831000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "operatingIncome": {
+      "value": -7827000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "netIncome": {
+      "value": -13562000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "epsBasic": {
+      "value": -2.16,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "epsDiluted": {
+      "value": -5.11,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-10-12"
+    },
+    "currentAssets": {
+      "value": 79179000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "totalAssets": {
+      "value": 124177000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "currentLiabilities": {
+      "value": 63064000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "totalLiabilities": {
+      "value": 97106000,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-10-12"
+    },
+    "shareholdersEquity": {
+      "value": 18966000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "operatingCashFlow": {
+      "value": -1937000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "capex": {
+      "value": 228000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:52.832Z"
+}

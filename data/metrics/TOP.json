@@ -1,0 +1,73 @@
+{
+  "ticker": "TOP",
+  "name": "TOP Financial Group Ltd",
+  "cik": 1848275,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 4723765,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-07"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1177320,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-07"
+    },
+    "netIncome": {
+      "value": -1170823,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-07"
+    },
+    "epsBasic": {
+      "value": -0.03,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-07"
+    },
+    "epsDiluted": {
+      "value": -0.03,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-07"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 86056943,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-07"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 51811799,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-07"
+    },
+    "shareholdersEquity": {
+      "value": 33943714,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-07"
+    },
+    "operatingCashFlow": {
+      "value": 14021796,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-07"
+    },
+    "capex": {
+      "value": 899500,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-07"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:46.657Z"
+}

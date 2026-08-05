@@ -1,0 +1,63 @@
+{
+  "ticker": "IAU",
+  "name": "ISHARES GOLD TRUST",
+  "cik": 1278680,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": -606324000,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2016-02-29"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -124023218,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": 24262756542,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": 31.96,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 6214710000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-02-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1323000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 5209803000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-29"
+    },
+    "operatingCashFlow": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:25.134Z"
+}

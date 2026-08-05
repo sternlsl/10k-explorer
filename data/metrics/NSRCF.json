@@ -1,0 +1,68 @@
+{
+  "ticker": "NSRCF",
+  "name": "NextSource Materials Inc.",
+  "cik": 1302084,
+  "fiscalYear": 2017,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-28"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -3979087,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-28"
+    },
+    "netIncome": {
+      "value": -3999358,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-28"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 2043485,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-28"
+    },
+    "totalAssets": {
+      "value": 2071290,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-28"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 410271,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-28"
+    },
+    "shareholdersEquity": {
+      "value": 1661019,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-28"
+    },
+    "operatingCashFlow": {
+      "value": -2078081,
+      "year": 2016,
+      "periodEnd": "2016-06-30",
+      "filed": "2016-09-28"
+    },
+    "capex": {
+      "value": 132014,
+      "year": 2014,
+      "periodEnd": "2014-06-30",
+      "filed": "2014-09-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:58.422Z"
+}

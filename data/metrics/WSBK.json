@@ -1,0 +1,58 @@
+{
+  "ticker": "WSBK",
+  "name": "Winchester Bancorp, Inc./MD/",
+  "cik": 2047235,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -874000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "epsBasic": {
+      "value": -0.09,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "epsDiluted": {
+      "value": -0.09,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 949378000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 834026000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "shareholdersEquity": {
+      "value": 115352000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "operatingCashFlow": {
+      "value": 2465000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:52.819Z"
+}

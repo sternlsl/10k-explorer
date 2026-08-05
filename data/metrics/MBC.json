@@ -1,0 +1,93 @@
+{
+  "ticker": "MBC",
+  "name": "MasterBrand, Inc.",
+  "cik": 1941365,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2734700000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-13"
+    },
+    "cogs": {
+      "value": 1907100000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-13"
+    },
+    "grossProfit": {
+      "value": 827600000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-13"
+    },
+    "operatingIncome": {
+      "value": 119000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-13"
+    },
+    "netIncome": {
+      "value": 26700000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-13"
+    },
+    "epsBasic": {
+      "value": 0.21,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-13"
+    },
+    "epsDiluted": {
+      "value": 0.21,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-13"
+    },
+    "currentAssets": {
+      "value": 695900000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-13"
+    },
+    "totalAssets": {
+      "value": 3100400000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-13"
+    },
+    "currentLiabilities": {
+      "value": 415700000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-13"
+    },
+    "totalLiabilities": {
+      "value": 1755800000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-13"
+    },
+    "shareholdersEquity": {
+      "value": 1344600000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-13"
+    },
+    "operatingCashFlow": {
+      "value": 195700000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-13"
+    },
+    "capex": {
+      "value": 78200000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:41.827Z"
+}

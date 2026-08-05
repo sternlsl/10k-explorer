@@ -1,0 +1,88 @@
+{
+  "ticker": "HELE",
+  "name": "HELEN OF TROY LTD",
+  "cik": 916789,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1786290000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-23"
+    },
+    "cogs": {
+      "value": 970596000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-23"
+    },
+    "grossProfit": {
+      "value": 815694000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-23"
+    },
+    "operatingIncome": {
+      "value": -782081000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-23"
+    },
+    "netIncome": {
+      "value": -898982000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-23"
+    },
+    "epsBasic": {
+      "value": -39.08,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-23"
+    },
+    "epsDiluted": {
+      "value": -39.08,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-23"
+    },
+    "currentAssets": {
+      "value": 865519000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-23"
+    },
+    "totalAssets": {
+      "value": 2115548000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-23"
+    },
+    "currentLiabilities": {
+      "value": 504965000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-23"
+    },
+    "totalLiabilities": {
+      "value": 1317351000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-23"
+    },
+    "shareholdersEquity": {
+      "value": 798197000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-23"
+    },
+    "operatingCashFlow": {
+      "value": 171136000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-23"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:59:50.066Z"
+}

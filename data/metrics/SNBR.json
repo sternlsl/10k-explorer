@@ -1,0 +1,93 @@
+{
+  "ticker": "SNBR",
+  "name": "Sleep Number Corp",
+  "cik": 827187,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1411450000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "cogs": {
+      "value": 578499000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "grossProfit": {
+      "value": 832951000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "operatingIncome": {
+      "value": -46592000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "netIncome": {
+      "value": -131958000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "epsBasic": {
+      "value": -5.77,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "epsDiluted": {
+      "value": -5.77,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "currentAssets": {
+      "value": 149957000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "totalAssets": {
+      "value": 680060000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "currentLiabilities": {
+      "value": 912546000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "totalLiabilities": {
+      "value": 1258535000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "shareholdersEquity": {
+      "value": -578475000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "operatingCashFlow": {
+      "value": -3283000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "capex": {
+      "value": 14407000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:48.877Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "ATEX",
+  "name": "Anterix Inc.",
+  "cik": 1304492,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 6501000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "cogs": {
+      "value": 7251000,
+      "year": 2019,
+      "periodEnd": "2019-03-31",
+      "filed": "2019-05-20"
+    },
+    "grossProfit": {
+      "value": -752000,
+      "year": 2019,
+      "periodEnd": "2019-03-31",
+      "filed": "2019-05-20"
+    },
+    "operatingIncome": {
+      "value": 93930000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "netIncome": {
+      "value": 90635000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "epsBasic": {
+      "value": 4.85,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "epsDiluted": {
+      "value": 4.83,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "currentAssets": {
+      "value": 119985000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "totalAssets": {
+      "value": 465210000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "currentLiabilities": {
+      "value": 35995000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "totalLiabilities": {
+      "value": 202889000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "shareholdersEquity": {
+      "value": 262321000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "operatingCashFlow": {
+      "value": 5511000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "capex": {
+      "value": 31000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:56.652Z"
+}

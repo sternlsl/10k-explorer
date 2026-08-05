@@ -1,0 +1,88 @@
+{
+  "ticker": "VRDN",
+  "name": "Viridian Therapeutics, Inc.\\DE",
+  "cik": 1590750,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5706000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-03-21"
+    },
+    "cogs": {
+      "value": 2548000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-24"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -363395000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "netIncome": {
+      "value": -342601000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsBasic": {
+      "value": -5.31,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-27"
+    },
+    "epsDiluted": {
+      "value": -5.31,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-27"
+    },
+    "currentAssets": {
+      "value": 894233000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalAssets": {
+      "value": 899418000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentLiabilities": {
+      "value": 70696000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalLiabilities": {
+      "value": 177251000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "shareholdersEquity": {
+      "value": 722167000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "operatingCashFlow": {
+      "value": -276391000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "capex": {
+      "value": 495000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:09.272Z"
+}

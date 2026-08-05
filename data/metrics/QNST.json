@@ -1,0 +1,93 @@
+{
+  "ticker": "QNST",
+  "name": "QUINSTREET, INC",
+  "cik": 1117297,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 613514000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-21"
+    },
+    "cogs": {
+      "value": 567268000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-21"
+    },
+    "grossProfit": {
+      "value": 46246000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-21"
+    },
+    "operatingIncome": {
+      "value": -28065000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-21"
+    },
+    "netIncome": {
+      "value": -31331000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-21"
+    },
+    "epsBasic": {
+      "value": -0.57,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-21"
+    },
+    "epsDiluted": {
+      "value": -0.57,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-21"
+    },
+    "currentAssets": {
+      "value": 169087000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-21"
+    },
+    "totalAssets": {
+      "value": 368546000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-21"
+    },
+    "currentLiabilities": {
+      "value": 126398000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-21"
+    },
+    "totalLiabilities": {
+      "value": 151721000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-21"
+    },
+    "shareholdersEquity": {
+      "value": 216825000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-21"
+    },
+    "operatingCashFlow": {
+      "value": 12039000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-21"
+    },
+    "capex": {
+      "value": 5348000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-21"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:17.995Z"
+}

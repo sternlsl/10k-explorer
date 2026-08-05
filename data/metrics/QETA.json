@@ -1,0 +1,63 @@
+{
+  "ticker": "QETA",
+  "name": "Quetta Acquisition Corp",
+  "cik": 1978528,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1467731,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-23"
+    },
+    "netIncome": {
+      "value": -780924,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-23"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 22431,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-23"
+    },
+    "totalAssets": {
+      "value": 19255692,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-23"
+    },
+    "currentLiabilities": {
+      "value": 2653335,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-23"
+    },
+    "totalLiabilities": {
+      "value": 5068335,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-23"
+    },
+    "shareholdersEquity": {
+      "value": -5107041,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-23"
+    },
+    "operatingCashFlow": {
+      "value": -1828787,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-23"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:19.697Z"
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "TRNO",
+  "name": "Terreno Realty Corp",
+  "cik": 1476150,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 476383000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 402992000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "epsBasic": {
+      "value": 3.92,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "epsDiluted": {
+      "value": 3.91,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 5388083000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1241805000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "shareholdersEquity": {
+      "value": 4146278000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "operatingCashFlow": {
+      "value": 271862000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:55:36.295Z"
+}

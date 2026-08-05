@@ -1,0 +1,93 @@
+{
+  "ticker": "LSH",
+  "name": "Lakeside Holding Ltd",
+  "cik": 1996192,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 18315155,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "cogs": {
+      "value": 14911966,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "grossProfit": {
+      "value": 2878459,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "operatingIncome": {
+      "value": -4959169,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "netIncome": {
+      "value": -5246136,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "epsBasic": {
+      "value": -0.69,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "epsDiluted": {
+      "value": -0.69,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "currentAssets": {
+      "value": 10278926,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "totalAssets": {
+      "value": 14405461,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "currentLiabilities": {
+      "value": 9666053,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "totalLiabilities": {
+      "value": 11559776,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "shareholdersEquity": {
+      "value": 2845685,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "operatingCashFlow": {
+      "value": -2655006,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "capex": {
+      "value": 49816,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:10.881Z"
+}

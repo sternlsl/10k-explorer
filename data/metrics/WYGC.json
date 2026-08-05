@@ -1,0 +1,93 @@
+{
+  "ticker": "WYGC",
+  "name": "Wenyuan Group Corp.",
+  "cik": 723533,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 60285,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "cogs": {
+      "value": 38789,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "grossProfit": {
+      "value": -14162,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "operatingIncome": {
+      "value": -639043,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "netIncome": {
+      "value": -639043,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "currentAssets": {
+      "value": 45754,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "totalAssets": {
+      "value": 74556,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "currentLiabilities": {
+      "value": 86624,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "totalLiabilities": {
+      "value": 86624,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "shareholdersEquity": {
+      "value": -12068,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "operatingCashFlow": {
+      "value": -197571,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "capex": {
+      "value": 28849,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-05-08"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:00.399Z"
+}

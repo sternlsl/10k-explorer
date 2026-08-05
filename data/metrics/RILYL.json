@@ -1,0 +1,88 @@
+{
+  "ticker": "RILYL",
+  "name": "BRC Group Holdings, Inc.",
+  "cik": 1464790,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 788987000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "cogs": {
+      "value": 145364000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 75581000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": 307415000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": 9.8,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": 9.8,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 157981000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-10"
+    },
+    "totalAssets": {
+      "value": 1706592000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 83663000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-10"
+    },
+    "totalLiabilities": {
+      "value": 1826854000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -171533000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -59711000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 3461000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-10"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:11.202Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "RBC",
+  "name": "RBC Bearings INC",
+  "cik": 1324948,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1870900000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-15"
+    },
+    "cogs": {
+      "value": 1040700000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-15"
+    },
+    "grossProfit": {
+      "value": 830200000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-15"
+    },
+    "operatingIncome": {
+      "value": 421000000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-15"
+    },
+    "netIncome": {
+      "value": 287600000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-15"
+    },
+    "epsBasic": {
+      "value": 9.14,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-15"
+    },
+    "epsDiluted": {
+      "value": 9.09,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-15"
+    },
+    "currentAssets": {
+      "value": 1189800000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-15"
+    },
+    "totalAssets": {
+      "value": 5122700000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-15"
+    },
+    "currentLiabilities": {
+      "value": 546200000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-15"
+    },
+    "totalLiabilities": {
+      "value": 1761700000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-15"
+    },
+    "shareholdersEquity": {
+      "value": 3361000000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-15"
+    },
+    "operatingCashFlow": {
+      "value": 415700000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-15"
+    },
+    "capex": {
+      "value": 42000000,
+      "year": 2023,
+      "periodEnd": "2023-04-01",
+      "filed": "2023-05-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:27.367Z"
+}

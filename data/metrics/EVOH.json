@@ -1,0 +1,93 @@
+{
+  "ticker": "EVOH",
+  "name": "EvoAir Holdings Inc.",
+  "cik": 1700844,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 135557,
+      "year": 2024,
+      "periodEnd": "2024-08-31",
+      "filed": "2024-11-29"
+    },
+    "cogs": {
+      "value": 304433,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "grossProfit": {
+      "value": -19767,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "operatingIncome": {
+      "value": -14989751,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "netIncome": {
+      "value": -14626862,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "epsBasic": {
+      "value": -0.55,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "epsDiluted": {
+      "value": -0.55,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "currentAssets": {
+      "value": 527748,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "totalAssets": {
+      "value": 45688955,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "currentLiabilities": {
+      "value": 3212754,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "totalLiabilities": {
+      "value": 3247528,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "shareholdersEquity": {
+      "value": -53634,
+      "year": 2021,
+      "periodEnd": "2021-08-31",
+      "filed": "2021-11-29"
+    },
+    "operatingCashFlow": {
+      "value": -1158760,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "capex": {
+      "value": 16991,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:34.765Z"
+}

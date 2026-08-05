@@ -1,0 +1,93 @@
+{
+  "ticker": "SBH",
+  "name": "Sally Beauty Holdings, Inc.",
+  "cik": 1368458,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3701424000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "cogs": {
+      "value": 1790676000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "grossProfit": {
+      "value": 1910748000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "operatingIncome": {
+      "value": 327810000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "netIncome": {
+      "value": 195878000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "epsBasic": {
+      "value": 1.95,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "epsDiluted": {
+      "value": 1.89,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "currentAssets": {
+      "value": 1301453000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "totalAssets": {
+      "value": 2871096000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "currentLiabilities": {
+      "value": 575974000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "totalLiabilities": {
+      "value": 2076889000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "shareholdersEquity": {
+      "value": 794207000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "operatingCashFlow": {
+      "value": 274831000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "capex": {
+      "value": 102145000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:19.893Z"
+}

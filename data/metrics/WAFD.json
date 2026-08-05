@@ -1,0 +1,68 @@
+{
+  "ticker": "WAFD",
+  "name": "WAFD INC",
+  "cik": 936528,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 29650000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 226068000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "epsBasic": {
+      "value": 2.64,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "epsDiluted": {
+      "value": 2.63,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 26699699000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 23660124000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "shareholdersEquity": {
+      "value": 3039575000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "operatingCashFlow": {
+      "value": 236952000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "capex": {
+      "value": 28707000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:08.470Z"
+}

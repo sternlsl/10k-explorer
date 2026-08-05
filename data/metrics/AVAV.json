@@ -1,0 +1,83 @@
+{
+  "ticker": "AVAV",
+  "name": "AeroVironment Inc",
+  "cik": 1368622,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1976845000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-29"
+    },
+    "cogs": {
+      "value": 1476203000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-29"
+    },
+    "grossProfit": {
+      "value": 500642000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-29"
+    },
+    "operatingIncome": {
+      "value": -310995000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-29"
+    },
+    "netIncome": null,
+    "epsBasic": {
+      "value": -5.4,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-29"
+    },
+    "epsDiluted": {
+      "value": -5.4,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-29"
+    },
+    "currentAssets": {
+      "value": 1890423000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-29"
+    },
+    "totalAssets": {
+      "value": 5716742000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-29"
+    },
+    "currentLiabilities": {
+      "value": 439237000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-29"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 550970000,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-06-28"
+    },
+    "operatingCashFlow": {
+      "value": -78404000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-29"
+    },
+    "capex": {
+      "value": 62544000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-29"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:15.695Z"
+}

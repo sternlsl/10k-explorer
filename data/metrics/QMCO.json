@@ -1,0 +1,93 @@
+{
+  "ticker": "QMCO",
+  "name": "QUANTUM CORP /DE/",
+  "cik": 709283,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 279581000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "cogs": {
+      "value": 176540000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "grossProfit": {
+      "value": 103041000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "operatingIncome": {
+      "value": -24507000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "netIncome": {
+      "value": -101046000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "epsBasic": {
+      "value": -7.97,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "epsDiluted": {
+      "value": -7.97,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "currentAssets": {
+      "value": 112486000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "totalAssets": {
+      "value": 156892000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "currentLiabilities": {
+      "value": 205797000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "totalLiabilities": {
+      "value": 355749000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "shareholdersEquity": {
+      "value": -198857000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "operatingCashFlow": {
+      "value": -37856000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "capex": {
+      "value": 1706000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:56.530Z"
+}

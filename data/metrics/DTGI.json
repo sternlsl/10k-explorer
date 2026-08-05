@@ -1,0 +1,88 @@
+{
+  "ticker": "DTGI",
+  "name": "Digerati Technologies, Inc.",
+  "cik": 1014052,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 31623000,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-11-24"
+    },
+    "cogs": {
+      "value": 3128000,
+      "year": 2019,
+      "periodEnd": "2019-07-31",
+      "filed": "2019-10-28"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -5055000,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-11-24"
+    },
+    "netIncome": {
+      "value": -8291000,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-11-24"
+    },
+    "epsBasic": {
+      "value": -0.05,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-11-24"
+    },
+    "epsDiluted": {
+      "value": -0.05,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-11-24"
+    },
+    "currentAssets": {
+      "value": 2323000,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-11-24"
+    },
+    "totalAssets": {
+      "value": 38372000,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-11-24"
+    },
+    "currentLiabilities": {
+      "value": 67602000,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-11-24"
+    },
+    "totalLiabilities": {
+      "value": 69276000,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-11-24"
+    },
+    "shareholdersEquity": {
+      "value": -27611000,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-11-24"
+    },
+    "operatingCashFlow": {
+      "value": -3222000,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-11-24"
+    },
+    "capex": {
+      "value": 436000,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-11-24"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:10.603Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "IREN",
+  "name": "IREN Ltd",
+  "cik": 1878848,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 501023000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "cogs": {
+      "value": 158992000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 17327000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "netIncome": {
+      "value": 86941000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "epsBasic": {
+      "value": 0.41,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "epsDiluted": {
+      "value": 0.39,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "currentAssets": {
+      "value": 641173000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "totalAssets": {
+      "value": 2940323000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "currentLiabilities": {
+      "value": 149347000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "totalLiabilities": {
+      "value": 1122835000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "shareholdersEquity": {
+      "value": 1817488000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "operatingCashFlow": {
+      "value": 245886000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "capex": {
+      "value": 573456000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:34.181Z"
+}

@@ -1,0 +1,48 @@
+{
+  "ticker": "PNNT",
+  "name": "PENNANTPARK INVESTMENT CORP",
+  "cik": 1383414,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 32726000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1349554000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 885604000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "shareholdersEquity": {
+      "value": 463950000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "operatingCashFlow": {
+      "value": 104776000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:05.017Z"
+}

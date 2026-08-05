@@ -1,0 +1,93 @@
+{
+  "ticker": "BRWC",
+  "name": "Birdie Win Corp",
+  "cik": 1873213,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 30000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-10"
+    },
+    "cogs": {
+      "value": 294,
+      "year": 2022,
+      "periodEnd": "2022-07-31",
+      "filed": "2023-10-20"
+    },
+    "grossProfit": {
+      "value": 20000,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-10-20"
+    },
+    "operatingIncome": {
+      "value": -17299,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-10"
+    },
+    "netIncome": {
+      "value": -17299,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-10"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-10"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-10"
+    },
+    "currentAssets": {
+      "value": 19570,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-10"
+    },
+    "totalAssets": {
+      "value": 19570,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-10"
+    },
+    "currentLiabilities": {
+      "value": 5200,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-10"
+    },
+    "totalLiabilities": {
+      "value": 5200,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-10"
+    },
+    "shareholdersEquity": {
+      "value": 14370,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-10"
+    },
+    "operatingCashFlow": {
+      "value": 326,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-10"
+    },
+    "capex": {
+      "value": 1304,
+      "year": 2022,
+      "periodEnd": "2022-07-31",
+      "filed": "2023-10-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:21.912Z"
+}

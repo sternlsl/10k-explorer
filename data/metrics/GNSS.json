@@ -1,0 +1,93 @@
+{
+  "ticker": "GNSS",
+  "name": "Genasys Inc.",
+  "cik": 924383,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 26306790,
+      "year": 2018,
+      "periodEnd": "2018-09-30",
+      "filed": "2018-12-21"
+    },
+    "cogs": {
+      "value": 23801000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "grossProfit": {
+      "value": 16956000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "operatingIncome": {
+      "value": -16810000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "netIncome": {
+      "value": -18112000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "epsBasic": {
+      "value": -0.4,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "epsDiluted": {
+      "value": -0.4,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "currentAssets": {
+      "value": 39299000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "totalAssets": {
+      "value": 63869000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "currentLiabilities": {
+      "value": 54436000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "totalLiabilities": {
+      "value": 61702000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "shareholdersEquity": {
+      "value": 2167000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "operatingCashFlow": {
+      "value": -8762000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "capex": {
+      "value": 255000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:16.200Z"
+}

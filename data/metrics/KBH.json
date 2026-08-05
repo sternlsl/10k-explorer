@@ -1,0 +1,68 @@
+{
+  "ticker": "KBH",
+  "name": "KB HOME",
+  "cik": 795266,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6236214000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-23"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 345721000,
+      "year": 2018,
+      "periodEnd": "2018-11-30",
+      "filed": "2019-01-24"
+    },
+    "netIncome": {
+      "value": 428789000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-23"
+    },
+    "epsBasic": {
+      "value": 6.28,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-23"
+    },
+    "epsDiluted": {
+      "value": 6.15,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-23"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 6680252000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-23"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 3900858000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-23"
+    },
+    "operatingCashFlow": {
+      "value": 335682000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-23"
+    },
+    "capex": {
+      "value": 48400000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-23"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:55.057Z"
+}

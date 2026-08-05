@@ -1,0 +1,58 @@
+{
+  "ticker": "OCSL",
+  "name": "Oaktree Specialty Lending Corp",
+  "cik": 1414932,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 33920000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "epsBasic": {
+      "value": 0.39,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "epsDiluted": {
+      "value": 0.39,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 3002991000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1537178000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "shareholdersEquity": {
+      "value": 1465813000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "operatingCashFlow": {
+      "value": 228373000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:33.027Z"
+}

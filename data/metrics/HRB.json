@@ -1,0 +1,88 @@
+{
+  "ticker": "HRB",
+  "name": "H&R BLOCK INC",
+  "cik": 12659,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3760995000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "cogs": {
+      "value": 2086111000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 763211000,
+      "year": 2014,
+      "periodEnd": "2014-04-30",
+      "filed": "2014-06-19"
+    },
+    "netIncome": {
+      "value": 605773000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "epsBasic": {
+      "value": 4.45,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "epsDiluted": {
+      "value": 4.39,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "currentAssets": {
+      "value": 1162548000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "totalAssets": {
+      "value": 3263898000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "currentLiabilities": {
+      "value": 1298610000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "totalLiabilities": {
+      "value": 3175002000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "shareholdersEquity": {
+      "value": 88896000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "operatingCashFlow": {
+      "value": 680883000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "capex": {
+      "value": 82034000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:28.894Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "AGLY",
+  "name": "Atlantis Glory Inc.",
+  "cik": 1673504,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 155996,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2021-08-24"
+    },
+    "cogs": {
+      "value": 117122,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2021-08-24"
+    },
+    "grossProfit": {
+      "value": 38874,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2021-08-24"
+    },
+    "operatingIncome": {
+      "value": -68026,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-13"
+    },
+    "netIncome": {
+      "value": -39199,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "currentAssets": {
+      "value": 9000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-03-13"
+    },
+    "totalAssets": {
+      "value": 9000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-03-13"
+    },
+    "currentLiabilities": {
+      "value": 210628,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "totalLiabilities": {
+      "value": 210628,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "shareholdersEquity": {
+      "value": -210628,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "operatingCashFlow": {
+      "value": -34079,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "capex": {
+      "value": 205269,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2021-08-24"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:05.400Z"
+}

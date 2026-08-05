@@ -1,0 +1,93 @@
+{
+  "ticker": "LRN",
+  "name": "Stride, Inc.",
+  "cik": 1157408,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 2518081000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "cogs": {
+      "value": 1567481000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "grossProfit": {
+      "value": 950600000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "operatingIncome": {
+      "value": 450767000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "netIncome": {
+      "value": 338192000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "epsBasic": {
+      "value": 7.92,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "epsDiluted": {
+      "value": 7.14,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "currentAssets": {
+      "value": 1716123000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "totalAssets": {
+      "value": 2435552000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "currentLiabilities": {
+      "value": 288851000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "totalLiabilities": {
+      "value": 803223000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "shareholdersEquity": {
+      "value": 1632329000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "operatingCashFlow": {
+      "value": 433814000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "capex": {
+      "value": 587000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:28.973Z"
+}

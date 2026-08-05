@@ -1,0 +1,93 @@
+{
+  "ticker": "KBR",
+  "name": "KBR, INC.",
+  "cik": 1357615,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 7786000000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-26"
+    },
+    "cogs": {
+      "value": 6636000000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-26"
+    },
+    "grossProfit": {
+      "value": 1150000000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-26"
+    },
+    "operatingIncome": {
+      "value": 778000000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-26"
+    },
+    "netIncome": {
+      "value": 415000000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-26"
+    },
+    "epsBasic": {
+      "value": 3.21,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-26"
+    },
+    "epsDiluted": {
+      "value": 3.21,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-26"
+    },
+    "currentAssets": {
+      "value": 2051000000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-26"
+    },
+    "totalAssets": {
+      "value": 6584000000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-26"
+    },
+    "currentLiabilities": {
+      "value": 1688000000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-26"
+    },
+    "totalLiabilities": {
+      "value": 5072000000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-26"
+    },
+    "shareholdersEquity": {
+      "value": 1503000000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-26"
+    },
+    "operatingCashFlow": {
+      "value": 462000000,
+      "year": 2025,
+      "periodEnd": "2025-01-03",
+      "filed": "2025-02-25"
+    },
+    "capex": {
+      "value": 42000000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:06.549Z"
+}

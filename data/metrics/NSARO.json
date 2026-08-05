@@ -1,0 +1,63 @@
+{
+  "ticker": "NSARO",
+  "name": "NSTAR ELECTRIC CO",
+  "cik": 13372,
+  "fiscalYear": 2011,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 486662000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-07"
+    },
+    "netIncome": {
+      "value": 252494000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-07"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 626182000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-07"
+    },
+    "totalAssets": {
+      "value": 6791350000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-07"
+    },
+    "currentLiabilities": {
+      "value": 1102016000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-07"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 2231748000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-07"
+    },
+    "operatingCashFlow": {
+      "value": 721168000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-07"
+    },
+    "capex": {
+      "value": 381245000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-07"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:29.811Z"
+}

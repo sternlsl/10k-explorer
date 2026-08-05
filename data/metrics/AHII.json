@@ -1,0 +1,73 @@
+{
+  "ticker": "AHII",
+  "name": "American Heritage International Inc.",
+  "cik": 1545236,
+  "fiscalYear": 2013,
+  "metrics": {
+    "revenue": null,
+    "cogs": {
+      "value": 38021,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-04"
+    },
+    "grossProfit": {
+      "value": 13,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-31"
+    },
+    "operatingIncome": {
+      "value": -97589,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-04"
+    },
+    "netIncome": {
+      "value": -168761,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-31"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 48966,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-31"
+    },
+    "totalAssets": {
+      "value": 76925,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-31"
+    },
+    "currentLiabilities": {
+      "value": 123271,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-31"
+    },
+    "totalLiabilities": {
+      "value": 123271,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -46346,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -120530,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-31"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:22.321Z"
+}

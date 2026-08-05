@@ -1,0 +1,88 @@
+{
+  "ticker": "FWONK",
+  "name": "Liberty Media Corp",
+  "cik": 1560385,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4482000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "cogs": {
+      "value": 1219000000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-01"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 577000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "netIncome": {
+      "value": 555000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsBasic": {
+      "value": 0.19,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-26"
+    },
+    "epsDiluted": {
+      "value": 0.19,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-26"
+    },
+    "currentAssets": {
+      "value": 1373000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalAssets": {
+      "value": 15398000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentLiabilities": {
+      "value": 939000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalLiabilities": {
+      "value": 6948000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "shareholdersEquity": {
+      "value": 7757000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "operatingCashFlow": {
+      "value": 2464000000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-28"
+    },
+    "capex": {
+      "value": 194000000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-02-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:22.196Z"
+}

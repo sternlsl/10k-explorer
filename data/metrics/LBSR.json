@@ -1,0 +1,88 @@
+{
+  "ticker": "LBSR",
+  "name": "LIBERTY STAR URANIUM & METALS CORP.",
+  "cik": 1172178,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2015,
+      "periodEnd": "2015-01-31",
+      "filed": "2015-05-01"
+    },
+    "cogs": {
+      "value": 70332,
+      "year": 2020,
+      "periodEnd": "2020-01-31",
+      "filed": "2020-04-30"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1088161,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "netIncome": {
+      "value": -1243521,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "epsBasic": {
+      "value": -0.02,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "currentAssets": {
+      "value": 308164,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "totalAssets": {
+      "value": 312869,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "currentLiabilities": {
+      "value": 730324,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "totalLiabilities": {
+      "value": 762724,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "shareholdersEquity": {
+      "value": -449855,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "operatingCashFlow": {
+      "value": -780389,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "capex": {
+      "value": 500,
+      "year": 2021,
+      "periodEnd": "2021-01-31",
+      "filed": "2021-05-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:59.837Z"
+}

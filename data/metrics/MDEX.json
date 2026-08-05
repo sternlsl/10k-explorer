@@ -1,0 +1,88 @@
+{
+  "ticker": "MDEX",
+  "name": "Madison Technologies Inc.",
+  "cik": 1318268,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1374,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-04-15"
+    },
+    "cogs": {
+      "value": 796,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-04-15"
+    },
+    "grossProfit": {
+      "value": 578,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-04-15"
+    },
+    "operatingIncome": {
+      "value": -499658,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": -2980623,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": -0.008,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-01-25"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 11739053,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2025-08-22"
+    },
+    "totalAssets": {
+      "value": 130568,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 6055589,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-08-26"
+    },
+    "totalLiabilities": {
+      "value": 23441236,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -23310668,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -330965,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": {
+      "value": 167000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2024-01-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:17.945Z"
+}

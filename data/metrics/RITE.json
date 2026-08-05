@@ -1,0 +1,93 @@
+{
+  "ticker": "RITE",
+  "name": "MINERALRITE Corp",
+  "cik": 1096296,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-25"
+    },
+    "cogs": {
+      "value": 358288,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-08-12"
+    },
+    "grossProfit": {
+      "value": 5000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-25"
+    },
+    "operatingIncome": {
+      "value": -434819,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "netIncome": {
+      "value": -291519,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "epsBasic": {
+      "value": -0.00006,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "epsDiluted": {
+      "value": -0.00006,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "currentAssets": {
+      "value": 145980,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "totalAssets": {
+      "value": 433828780,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "currentLiabilities": {
+      "value": 5046248,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "totalLiabilities": {
+      "value": 5061768,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "shareholdersEquity": {
+      "value": 428767012,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "operatingCashFlow": {
+      "value": -306404,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "capex": {
+      "value": 11500,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:15.654Z"
+}

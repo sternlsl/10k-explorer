@@ -1,0 +1,93 @@
+{
+  "ticker": "WLYB",
+  "name": "JOHN WILEY & SONS, INC.",
+  "cik": 107140,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1676528000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-24"
+    },
+    "cogs": {
+      "value": 431509000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-24"
+    },
+    "grossProfit": {
+      "value": 1316200000,
+      "year": 2021,
+      "periodEnd": "2021-04-30",
+      "filed": "2021-07-06"
+    },
+    "operatingIncome": {
+      "value": 276859000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-24"
+    },
+    "netIncome": {
+      "value": 221617000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-24"
+    },
+    "epsBasic": {
+      "value": 4.22,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-24"
+    },
+    "epsDiluted": {
+      "value": 4.16,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-24"
+    },
+    "currentAssets": {
+      "value": 419665000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-24"
+    },
+    "totalAssets": {
+      "value": 2591818000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-24"
+    },
+    "currentLiabilities": {
+      "value": 778947000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-24"
+    },
+    "totalLiabilities": {
+      "value": 1743576000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-24"
+    },
+    "shareholdersEquity": {
+      "value": 848242000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-24"
+    },
+    "operatingCashFlow": {
+      "value": 260519000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-24"
+    },
+    "capex": {
+      "value": 51166000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-24"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:30.020Z"
+}

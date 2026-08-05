@@ -1,0 +1,93 @@
+{
+  "ticker": "AZZ",
+  "name": "AZZ INC",
+  "cik": 8947,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1650080000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-22"
+    },
+    "cogs": {
+      "value": 824589000,
+      "year": 2020,
+      "periodEnd": "2020-02-29",
+      "filed": "2020-04-29"
+    },
+    "grossProfit": {
+      "value": 394955000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-22"
+    },
+    "operatingIncome": {
+      "value": 264617000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-22"
+    },
+    "netIncome": {
+      "value": 317260000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-22"
+    },
+    "epsBasic": {
+      "value": 10.59,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-22"
+    },
+    "epsDiluted": {
+      "value": 10.5,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-22"
+    },
+    "currentAssets": {
+      "value": 395368000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-22"
+    },
+    "totalAssets": {
+      "value": 2213474000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-22"
+    },
+    "currentLiabilities": {
+      "value": 232274000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-22"
+    },
+    "totalLiabilities": {
+      "value": 876443000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-22"
+    },
+    "shareholdersEquity": {
+      "value": 1337031000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-22"
+    },
+    "operatingCashFlow": {
+      "value": 525446000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-22"
+    },
+    "capex": {
+      "value": 80776000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-22"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:20.705Z"
+}

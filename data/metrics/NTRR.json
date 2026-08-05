@@ -1,0 +1,83 @@
+{
+  "ticker": "NTRR",
+  "name": "NEUTRA CORP.",
+  "cik": 1512886,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 67996,
+      "year": 2023,
+      "periodEnd": "2023-01-31",
+      "filed": "2023-06-09"
+    },
+    "cogs": {
+      "value": 32690,
+      "year": 2023,
+      "periodEnd": "2023-01-31",
+      "filed": "2023-06-09"
+    },
+    "grossProfit": {
+      "value": 35306,
+      "year": 2023,
+      "periodEnd": "2023-01-31",
+      "filed": "2023-06-09"
+    },
+    "operatingIncome": {
+      "value": -297675,
+      "year": 2023,
+      "periodEnd": "2023-01-31",
+      "filed": "2023-06-09"
+    },
+    "netIncome": {
+      "value": -561417,
+      "year": 2023,
+      "periodEnd": "2023-01-31",
+      "filed": "2023-06-09"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 25815,
+      "year": 2023,
+      "periodEnd": "2023-01-31",
+      "filed": "2023-06-09"
+    },
+    "totalAssets": {
+      "value": 75175,
+      "year": 2023,
+      "periodEnd": "2023-01-31",
+      "filed": "2023-06-09"
+    },
+    "currentLiabilities": {
+      "value": 759639,
+      "year": 2023,
+      "periodEnd": "2023-01-31",
+      "filed": "2023-06-09"
+    },
+    "totalLiabilities": {
+      "value": 813795,
+      "year": 2023,
+      "periodEnd": "2023-01-31",
+      "filed": "2023-06-09"
+    },
+    "shareholdersEquity": {
+      "value": -773820,
+      "year": 2023,
+      "periodEnd": "2023-01-31",
+      "filed": "2023-06-09"
+    },
+    "operatingCashFlow": {
+      "value": -153243,
+      "year": 2023,
+      "periodEnd": "2023-01-31",
+      "filed": "2023-06-09"
+    },
+    "capex": {
+      "value": 40227,
+      "year": 2022,
+      "periodEnd": "2022-01-31",
+      "filed": "2023-06-09"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:17.171Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "BAH",
+  "name": "Booz Allen Hamilton Holding Corp",
+  "cik": 1443646,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 11217000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "cogs": {
+      "value": 5305000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1033000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "netIncome": {
+      "value": 851000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "epsBasic": {
+      "value": 6.92,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "epsDiluted": {
+      "value": 6.9,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "currentAssets": {
+      "value": 2961000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "totalAssets": {
+      "value": 7118000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "currentLiabilities": {
+      "value": 1663000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "totalLiabilities": {
+      "value": 6013000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "shareholdersEquity": {
+      "value": 1105000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "operatingCashFlow": {
+      "value": 1041000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "capex": {
+      "value": 78437000,
+      "year": 2018,
+      "periodEnd": "2018-03-31",
+      "filed": "2018-05-29"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:13.937Z"
+}

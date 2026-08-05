@@ -1,0 +1,93 @@
+{
+  "ticker": "ENVX",
+  "name": "Enovix Corp",
+  "cik": 1828318,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 31821000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "cogs": {
+      "value": 25119000,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-02-25"
+    },
+    "grossProfit": {
+      "value": 6105000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "operatingIncome": {
+      "value": -177254000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "netIncome": {
+      "value": -156741000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "epsBasic": {
+      "value": -0.75,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": -0.75,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "currentAssets": {
+      "value": 542210000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "totalAssets": {
+      "value": 878975000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": {
+      "value": 65016000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "totalLiabilities": {
+      "value": 604964000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "shareholdersEquity": {
+      "value": 271214000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": -95291000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "capex": {
+      "value": 18223000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:07.912Z"
+}

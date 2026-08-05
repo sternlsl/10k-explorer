@@ -1,0 +1,68 @@
+{
+  "ticker": "GLRE",
+  "name": "GREENLIGHT CAPITAL RE, LTD.",
+  "cik": 1385613,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 729777000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 74832000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "epsBasic": {
+      "value": 2.21,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "epsDiluted": {
+      "value": 2.17,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2169783000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1461806000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "shareholdersEquity": {
+      "value": 707977000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "operatingCashFlow": {
+      "value": 210212000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-22"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:41.192Z"
+}

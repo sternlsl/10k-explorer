@@ -1,0 +1,68 @@
+{
+  "ticker": "SCE-PM",
+  "name": "SOUTHERN CALIFORNIA EDISON Co",
+  "cik": 92103,
+  "fiscalYear": 2011,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 2123000000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-29"
+    },
+    "netIncome": {
+      "value": 1085000000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-29"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 2612000000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-29"
+    },
+    "totalAssets": {
+      "value": 40315000000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-29"
+    },
+    "currentLiabilities": {
+      "value": 3848000000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-29"
+    },
+    "totalLiabilities": {
+      "value": 30357000000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-29"
+    },
+    "shareholdersEquity": {
+      "value": 9958000000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-29"
+    },
+    "operatingCashFlow": {
+      "value": 3261000000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-29"
+    },
+    "capex": {
+      "value": 4122000000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:29.022Z"
+}

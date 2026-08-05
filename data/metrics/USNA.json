@@ -1,0 +1,93 @@
+{
+  "ticker": "USNA",
+  "name": "USANA HEALTH SCIENCES INC",
+  "cik": 896264,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 925257000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-16"
+    },
+    "cogs": {
+      "value": 200852000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-16"
+    },
+    "grossProfit": {
+      "value": 724405000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-16"
+    },
+    "operatingIncome": {
+      "value": 37432000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-16"
+    },
+    "netIncome": {
+      "value": 10760000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-16"
+    },
+    "epsBasic": {
+      "value": 0.58,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-16"
+    },
+    "epsDiluted": {
+      "value": 0.58,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-16"
+    },
+    "currentAssets": {
+      "value": 288405000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-16"
+    },
+    "totalAssets": {
+      "value": 742915000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-16"
+    },
+    "currentLiabilities": {
+      "value": 128565000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-16"
+    },
+    "totalLiabilities": {
+      "value": 156643000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-16"
+    },
+    "shareholdersEquity": {
+      "value": 533104000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-16"
+    },
+    "operatingCashFlow": {
+      "value": 22349000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-16"
+    },
+    "capex": {
+      "value": 13823000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:53.224Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "VBIX",
+  "name": "Viewbix Inc.",
+  "cik": 797542,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 26941000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-21"
+    },
+    "cogs": {
+      "value": 5000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-03-17"
+    },
+    "grossProfit": {
+      "value": 41000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-17"
+    },
+    "operatingIncome": {
+      "value": -2184000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "netIncome": {
+      "value": -19285000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsBasic": {
+      "value": 2.28,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsDiluted": {
+      "value": 2.28,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentAssets": {
+      "value": 1652000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalAssets": {
+      "value": 10757000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": {
+      "value": 4063000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalLiabilities": {
+      "value": 975153,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-29"
+    },
+    "shareholdersEquity": {
+      "value": 4989000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": 1543000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-21"
+    },
+    "capex": {
+      "value": 1000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-21"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:22.428Z"
+}

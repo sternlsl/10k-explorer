@@ -1,0 +1,88 @@
+{
+  "ticker": "USAU",
+  "name": "U.S. GOLD CORP.",
+  "cik": 27093,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 17402000,
+      "year": 2017,
+      "periodEnd": "2017-04-30",
+      "filed": "2017-07-31"
+    },
+    "cogs": {
+      "value": 19169000,
+      "year": 2017,
+      "periodEnd": "2017-04-30",
+      "filed": "2017-07-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -18999935,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "netIncome": {
+      "value": -17208080,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "epsBasic": {
+      "value": -1.15,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "epsDiluted": {
+      "value": -1.15,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "currentAssets": {
+      "value": 32195838,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "totalAssets": {
+      "value": 50213444,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "currentLiabilities": {
+      "value": 619527,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "totalLiabilities": {
+      "value": 1459011,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "shareholdersEquity": {
+      "value": 48754433,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "operatingCashFlow": {
+      "value": -18213416,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "capex": {
+      "value": 3331,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:29.230Z"
+}

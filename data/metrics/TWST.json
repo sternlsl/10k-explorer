@@ -1,0 +1,88 @@
+{
+  "ticker": "TWST",
+  "name": "Twist Bioscience Corp",
+  "cik": 1581280,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 376572000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "cogs": {
+      "value": 185570000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -136259000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "netIncome": {
+      "value": -77670000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "epsBasic": {
+      "value": -1.3,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "epsDiluted": {
+      "value": -1.3,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "currentAssets": {
+      "value": 332966000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "totalAssets": {
+      "value": 641861000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "currentLiabilities": {
+      "value": 91406000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "totalLiabilities": {
+      "value": 168903000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "shareholdersEquity": {
+      "value": 472958000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "operatingCashFlow": {
+      "value": -47628000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "capex": {
+      "value": 28004000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:39.245Z"
+}

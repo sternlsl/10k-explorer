@@ -1,0 +1,68 @@
+{
+  "ticker": "ALX",
+  "name": "ALEXANDERS INC",
+  "cik": 3499,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 232825000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-11"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 100622000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-11"
+    },
+    "netIncome": {
+      "value": 28224000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "epsBasic": {
+      "value": 5.5,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "epsDiluted": {
+      "value": 5.5,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1110708000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1001552000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "shareholdersEquity": {
+      "value": 109156000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "operatingCashFlow": {
+      "value": 73444000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:24.699Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "APYP",
+  "name": "APPYEA, INC",
+  "cik": 1568969,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 8000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "cogs": {
+      "value": 345,
+      "year": 2019,
+      "periodEnd": "2019-06-30",
+      "filed": "2019-10-18"
+    },
+    "grossProfit": {
+      "value": -15000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "operatingIncome": {
+      "value": -17060000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "netIncome": {
+      "value": -15097000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "epsBasic": {
+      "value": -0.026,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "epsDiluted": {
+      "value": -0.026,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "currentAssets": {
+      "value": 571000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "totalAssets": {
+      "value": 21733000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "currentLiabilities": {
+      "value": 7897000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "totalLiabilities": {
+      "value": 8798000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "shareholdersEquity": {
+      "value": 12949000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "operatingCashFlow": {
+      "value": -606000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "capex": {
+      "value": 3000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2023-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:29.385Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "DEVS",
+  "name": "DevvStream Corp.",
+  "cik": 1854480,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 25794,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-06"
+    },
+    "cogs": {
+      "value": 10187,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-06"
+    },
+    "grossProfit": {
+      "value": 15607,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-06"
+    },
+    "operatingIncome": {
+      "value": -5219930,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-08"
+    },
+    "netIncome": {
+      "value": -12067231,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-06"
+    },
+    "epsBasic": {
+      "value": -4.79,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-06"
+    },
+    "epsDiluted": {
+      "value": -4.79,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-06"
+    },
+    "currentAssets": {
+      "value": 4337627,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-06"
+    },
+    "totalAssets": {
+      "value": 11871295,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-06"
+    },
+    "currentLiabilities": {
+      "value": 18750355,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-06"
+    },
+    "totalLiabilities": {
+      "value": 31464840,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-06"
+    },
+    "shareholdersEquity": {
+      "value": -19593545,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-06"
+    },
+    "operatingCashFlow": {
+      "value": -6429905,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-06"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:50.398Z"
+}

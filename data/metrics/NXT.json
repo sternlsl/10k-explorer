@@ -1,0 +1,93 @@
+{
+  "ticker": "NXT",
+  "name": "Nextpower Inc.",
+  "cik": 1852131,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 3559390000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "cogs": {
+      "value": 2399295000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "grossProfit": {
+      "value": 1160095000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "operatingIncome": {
+      "value": 697266000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "netIncome": {
+      "value": 585883000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "epsBasic": {
+      "value": 3.96,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "epsDiluted": {
+      "value": 3.84,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "currentAssets": {
+      "value": 2846556000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "totalAssets": {
+      "value": 4073212000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "currentLiabilities": {
+      "value": 1163862000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "totalLiabilities": {
+      "value": 1738815000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "shareholdersEquity": {
+      "value": 2334397000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "operatingCashFlow": {
+      "value": 562911000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "capex": {
+      "value": 49277000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:29.931Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "TVRD",
+  "name": "Tvardi Therapeutics, Inc.",
+  "cik": 1346830,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7137000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-01"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -26748000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": -18214000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": -2.46,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": -3.26,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 31538000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 32073000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 11042000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 11127000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 20946000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -23499000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 1046000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:38.061Z"
+}

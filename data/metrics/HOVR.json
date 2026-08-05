@@ -1,0 +1,63 @@
+{
+  "ticker": "HOVR",
+  "name": "New Horizon Aircraft Ltd.",
+  "cik": 1930021,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1666371,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "netIncome": {
+      "value": 8614602,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 121771,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "totalAssets": {
+      "value": 122083192,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "currentLiabilities": {
+      "value": 986158,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "totalLiabilities": {
+      "value": 7086158,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "shareholdersEquity": {
+      "value": -6864387,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "operatingCashFlow": {
+      "value": -2124922,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:59.715Z"
+}

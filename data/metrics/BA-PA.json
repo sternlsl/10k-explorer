@@ -1,0 +1,93 @@
+{
+  "ticker": "BA-PA",
+  "name": "BOEING CO",
+  "cik": 12927,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 76559000000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-01-31"
+    },
+    "cogs": {
+      "value": 85174000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "grossProfit": {
+      "value": 4289000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "operatingIncome": {
+      "value": 4281000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "netIncome": {
+      "value": 2235000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "epsBasic": {
+      "value": 2.49,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "epsDiluted": {
+      "value": 2.48,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "currentAssets": {
+      "value": 128459000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "totalAssets": {
+      "value": 168235000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "currentLiabilities": {
+      "value": 108115000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "totalLiabilities": {
+      "value": 162778000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "shareholdersEquity": {
+      "value": 5454000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "operatingCashFlow": {
+      "value": 1065000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "capex": {
+      "value": 2942000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    }
+  },
+  "updatedAt": "2026-08-05T16:53:20.240Z"
+}

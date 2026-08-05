@@ -1,0 +1,88 @@
+{
+  "ticker": "HLEO",
+  "name": "Helio Corp /FL/",
+  "cik": 1953988,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3875793,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-17"
+    },
+    "cogs": {
+      "value": 2952619,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-17"
+    },
+    "grossProfit": {
+      "value": 923174,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-17"
+    },
+    "operatingIncome": {
+      "value": -3698754,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-17"
+    },
+    "netIncome": {
+      "value": -4030471,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-17"
+    },
+    "epsBasic": {
+      "value": -0.36,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-17"
+    },
+    "epsDiluted": {
+      "value": -0.36,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-17"
+    },
+    "currentAssets": {
+      "value": 598874,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-17"
+    },
+    "totalAssets": {
+      "value": 1306616,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-17"
+    },
+    "currentLiabilities": {
+      "value": 4498435,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-17"
+    },
+    "totalLiabilities": {
+      "value": 5366754,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-17"
+    },
+    "shareholdersEquity": {
+      "value": -4060138,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-17"
+    },
+    "operatingCashFlow": {
+      "value": -2065017,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-17"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:01.308Z"
+}

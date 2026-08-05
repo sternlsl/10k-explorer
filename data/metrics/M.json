@@ -1,0 +1,88 @@
+{
+  "ticker": "M",
+  "name": "Macy's, Inc.",
+  "cik": 794367,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 21764000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "cogs": {
+      "value": 13497000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "grossProfit": {
+      "value": 9685000000,
+      "year": 2018,
+      "periodEnd": "2018-02-03",
+      "filed": "2018-04-04"
+    },
+    "operatingIncome": {
+      "value": 1030000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "netIncome": {
+      "value": 642000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "epsBasic": {
+      "value": 2.37,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "epsDiluted": {
+      "value": 2.32,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "currentAssets": {
+      "value": 6673000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "totalAssets": {
+      "value": 16238000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": {
+      "value": 4493000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 4860000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": 1430000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "capex": {
+      "value": 373000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:04.773Z"
+}

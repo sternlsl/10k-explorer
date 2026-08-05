@@ -1,0 +1,58 @@
+{
+  "ticker": "KKRS",
+  "name": "KKR & Co. Inc.",
+  "cik": 1404912,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2006791000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-19"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 2370463000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 410144072000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 328512161000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 30902561000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 477760000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 194569000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-18"
+    }
+  },
+  "updatedAt": "2026-08-05T16:53:29.486Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "WEN",
+  "name": "Wendy's Co",
+  "cik": 30697,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2176891000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-23"
+    },
+    "cogs": {
+      "value": 791724000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-23"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 343452000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-23"
+    },
+    "netIncome": {
+      "value": 165075000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-23"
+    },
+    "epsBasic": {
+      "value": 0.85,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-23"
+    },
+    "epsDiluted": {
+      "value": 0.85,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-23"
+    },
+    "currentAssets": {
+      "value": 618039000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-23"
+    },
+    "totalAssets": {
+      "value": 4956561000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-23"
+    },
+    "currentLiabilities": {
+      "value": 351101000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-23"
+    },
+    "totalLiabilities": {
+      "value": 4839178000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-23"
+    },
+    "shareholdersEquity": {
+      "value": 117383000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-23"
+    },
+    "operatingCashFlow": {
+      "value": 344543000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-23"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:24.015Z"
+}

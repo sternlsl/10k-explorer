@@ -1,0 +1,68 @@
+{
+  "ticker": "FXA",
+  "name": "Invesco CurrencyShares Australian Dollar Trust",
+  "cik": 1353614,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1184327,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 878882,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": 0.74,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsDiluted": {
+      "value": 0.74,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentAssets": {
+      "value": 120634683,
+      "year": 2018,
+      "periodEnd": "2018-10-31",
+      "filed": "2019-01-11"
+    },
+    "totalAssets": {
+      "value": 89294509,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": {
+      "value": 40253,
+      "year": 2018,
+      "periodEnd": "2018-10-31",
+      "filed": "2019-01-11"
+    },
+    "totalLiabilities": {
+      "value": 3419615,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 892716,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:33.157Z"
+}

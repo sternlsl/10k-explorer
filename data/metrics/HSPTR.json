@@ -1,0 +1,63 @@
+{
+  "ticker": "HSPTR",
+  "name": "Horizon Space Acquisition II Corp.",
+  "cik": 2032950,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 1809006,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 0.32,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "currentAssets": {
+      "value": 29531,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "totalAssets": {
+      "value": 72953591,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "currentLiabilities": {
+      "value": 1349180,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "totalLiabilities": {
+      "value": 1349180,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "shareholdersEquity": {
+      "value": -1319649,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "operatingCashFlow": {
+      "value": -1038803,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:07.327Z"
+}

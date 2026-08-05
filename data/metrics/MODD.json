@@ -1,0 +1,93 @@
+{
+  "ticker": "MODD",
+  "name": "Modular Medical, Inc.",
+  "cik": 1074871,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2018,
+      "periodEnd": "2018-03-31",
+      "filed": "2018-06-29"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2016,
+      "periodEnd": "2016-06-30",
+      "filed": "2016-09-26"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2016,
+      "periodEnd": "2016-06-30",
+      "filed": "2016-09-26"
+    },
+    "operatingIncome": {
+      "value": -27560000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "netIncome": {
+      "value": -28242000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "epsBasic": {
+      "value": -12.36,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "epsDiluted": {
+      "value": -12.36,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "currentAssets": {
+      "value": 7542000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "totalAssets": {
+      "value": 14832000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "currentLiabilities": {
+      "value": 1873000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "totalLiabilities": {
+      "value": 1873000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "shareholdersEquity": {
+      "value": 12959000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "operatingCashFlow": {
+      "value": -23753000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "capex": {
+      "value": 3932000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:06.143Z"
+}

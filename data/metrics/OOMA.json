@@ -1,0 +1,93 @@
+{
+  "ticker": "OOMA",
+  "name": "OOMA INC",
+  "cik": 1327688,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 114490000,
+      "year": 2018,
+      "periodEnd": "2018-01-31",
+      "filed": "2018-04-02"
+    },
+    "cogs": {
+      "value": 106362000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-03"
+    },
+    "grossProfit": {
+      "value": 167240000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-03"
+    },
+    "operatingIncome": {
+      "value": 4256000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-03"
+    },
+    "netIncome": {
+      "value": 6459000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-03"
+    },
+    "epsBasic": {
+      "value": 0.23,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-03"
+    },
+    "epsDiluted": {
+      "value": 0.23,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-03"
+    },
+    "currentAssets": {
+      "value": 66739000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-03"
+    },
+    "totalAssets": {
+      "value": 227537000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-03"
+    },
+    "currentLiabilities": {
+      "value": 71727000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-03"
+    },
+    "totalLiabilities": {
+      "value": 134621000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-03"
+    },
+    "shareholdersEquity": {
+      "value": 92916000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-03"
+    },
+    "operatingCashFlow": {
+      "value": 27690000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-03"
+    },
+    "capex": {
+      "value": 5592000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:01.874Z"
+}

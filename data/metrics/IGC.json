@@ -1,0 +1,93 @@
+{
+  "ticker": "IGC",
+  "name": "IGC Pharma, Inc.",
+  "cik": 1326205,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1271000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "cogs": {
+      "value": 652000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "grossProfit": {
+      "value": 619000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "operatingIncome": {
+      "value": -7446000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "netIncome": {
+      "value": -7122000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "epsBasic": {
+      "value": -0.09,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "epsDiluted": {
+      "value": -0.09,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "currentAssets": {
+      "value": 2896000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "totalAssets": {
+      "value": 8747000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "currentLiabilities": {
+      "value": 2257000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "totalLiabilities": {
+      "value": 2417000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "shareholdersEquity": {
+      "value": 6330000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "operatingCashFlow": {
+      "value": -4795000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "capex": {
+      "value": 112000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:41.376Z"
+}

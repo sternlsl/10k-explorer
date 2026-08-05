@@ -1,0 +1,88 @@
+{
+  "ticker": "CLSDQ",
+  "name": "Clearside Biomedical, Inc.",
+  "cik": 1539029,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 1664000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "cogs": {
+      "value": 149000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -28882000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "netIncome": {
+      "value": -34352000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "epsBasic": {
+      "value": -0.47,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "epsDiluted": {
+      "value": -0.47,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "currentAssets": {
+      "value": 21274000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "totalAssets": {
+      "value": 25126000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "currentLiabilities": {
+      "value": 4794000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "totalLiabilities": {
+      "value": 63981000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "shareholdersEquity": {
+      "value": -38855000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "operatingCashFlow": {
+      "value": -24698000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "capex": {
+      "value": 977000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:13.439Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "GNE",
+  "name": "Genie Energy Ltd.",
+  "cik": 1528356,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 501971000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-01"
+    },
+    "cogs": {
+      "value": 100000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-14"
+    },
+    "grossProfit": {
+      "value": 124685000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-01"
+    },
+    "operatingIncome": {
+      "value": 27717000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-01"
+    },
+    "netIncome": {
+      "value": 24006000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-01"
+    },
+    "epsBasic": {
+      "value": 0.91,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-01"
+    },
+    "epsDiluted": {
+      "value": 0.9,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-01"
+    },
+    "currentAssets": {
+      "value": 323433000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-01"
+    },
+    "totalAssets": {
+      "value": 389380000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-01"
+    },
+    "currentLiabilities": {
+      "value": 136026000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-01"
+    },
+    "totalLiabilities": {
+      "value": 144934000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-01"
+    },
+    "shareholdersEquity": {
+      "value": 250902000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-01"
+    },
+    "operatingCashFlow": {
+      "value": 46335000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-01"
+    },
+    "capex": {
+      "value": 584000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-19"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:37.751Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "CYAN",
+  "name": "CYANOTECH CORP",
+  "cik": 768408,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 24215000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-20"
+    },
+    "cogs": {
+      "value": 17339000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-20"
+    },
+    "grossProfit": {
+      "value": 6876000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-20"
+    },
+    "operatingIncome": {
+      "value": -2508000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-20"
+    },
+    "netIncome": {
+      "value": -3203000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-20"
+    },
+    "epsBasic": {
+      "value": -0.45,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-20"
+    },
+    "epsDiluted": {
+      "value": -0.81,
+      "year": 2024,
+      "periodEnd": "2024-03-31",
+      "filed": "2024-06-26"
+    },
+    "currentAssets": {
+      "value": 10545000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-20"
+    },
+    "totalAssets": {
+      "value": 23490000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-20"
+    },
+    "currentLiabilities": {
+      "value": 10243000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-20"
+    },
+    "totalLiabilities": {
+      "value": 14606000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-20"
+    },
+    "shareholdersEquity": {
+      "value": 8884000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-20"
+    },
+    "operatingCashFlow": {
+      "value": -1193000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:55.999Z"
+}

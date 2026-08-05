@@ -1,0 +1,68 @@
+{
+  "ticker": "HFBL",
+  "name": "Home Federal Bancorp, Inc. of Louisiana",
+  "cik": 1500375,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1303000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 3888000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "epsBasic": {
+      "value": 1.27,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "epsDiluted": {
+      "value": 1.26,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 609492000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 554287000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "shareholdersEquity": {
+      "value": 55205000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "operatingCashFlow": {
+      "value": 5472000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "capex": {
+      "value": 671000,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-21"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:56.375Z"
+}

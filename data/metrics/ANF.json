@@ -1,0 +1,88 @@
+{
+  "ticker": "ANF",
+  "name": "ABERCROMBIE & FITCH CO /DE/",
+  "cik": 1018840,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 5266292000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "cogs": {
+      "value": 1408848000,
+      "year": 2018,
+      "periodEnd": "2018-02-03",
+      "filed": "2018-04-02"
+    },
+    "grossProfit": {
+      "value": 2693412000,
+      "year": 2024,
+      "periodEnd": "2024-02-03",
+      "filed": "2024-04-01"
+    },
+    "operatingIncome": {
+      "value": 699143000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "netIncome": {
+      "value": 506921000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": 10.71,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": 10.46,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "currentAssets": {
+      "value": 1650464000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "totalAssets": {
+      "value": 3541874000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "currentLiabilities": {
+      "value": 1106000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1403895000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "operatingCashFlow": {
+      "value": 619142000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "capex": {
+      "value": 240774000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:37.035Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "YETI",
+  "name": "YETI Holdings, Inc.",
+  "cik": 1670592,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1868494000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 58600000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-27"
+    },
+    "grossProfit": {
+      "value": 1072684000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "operatingIncome": {
+      "value": 213557000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": 165387000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": 2.05,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": 2.03,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": {
+      "value": 660326000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 1235418000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 334339000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": {
+      "value": 585142000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 650276000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 254737000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 42667000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:58.644Z"
+}

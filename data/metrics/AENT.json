@@ -1,0 +1,88 @@
+{
+  "ticker": "AENT",
+  "name": "ALLIANCE ENTERTAINMENT HOLDING CORP",
+  "cik": 1823584,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1063457000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 30136000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "netIncome": {
+      "value": 15078000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "epsBasic": {
+      "value": 0.3,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "epsDiluted": {
+      "value": 0.3,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "currentAssets": {
+      "value": 218132000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "totalAssets": {
+      "value": 361228000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "currentLiabilities": {
+      "value": 172729000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "totalLiabilities": {
+      "value": 258006000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "shareholdersEquity": {
+      "value": 103222000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "operatingCashFlow": {
+      "value": 26809000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    },
+    "capex": {
+      "value": 54000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-10"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:33.234Z"
+}

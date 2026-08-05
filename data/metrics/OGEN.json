@@ -1,0 +1,93 @@
+{
+  "ticker": "OGEN",
+  "name": "ORAGENICS INC",
+  "cik": 1174940,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 37653,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-14"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-16"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-16"
+    },
+    "operatingIncome": {
+      "value": -9362503,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "netIncome": {
+      "value": -9842487,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "epsBasic": {
+      "value": -4.56,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "epsDiluted": {
+      "value": -4.56,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentAssets": {
+      "value": 10067764,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "totalAssets": {
+      "value": 10067764,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentLiabilities": {
+      "value": 1798181,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "totalLiabilities": {
+      "value": 1786359,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "shareholdersEquity": {
+      "value": 8281405,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "operatingCashFlow": {
+      "value": -9246387,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "capex": {
+      "value": 127519,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-03-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:52.786Z"
+}

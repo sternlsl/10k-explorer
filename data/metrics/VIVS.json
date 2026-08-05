@@ -1,0 +1,88 @@
+{
+  "ticker": "VIVS",
+  "name": "VivoSim Labs, INC.",
+  "cik": 1497253,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 131000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -11487000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "netIncome": {
+      "value": -13843000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "epsBasic": {
+      "value": -5.35,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "epsDiluted": {
+      "value": -5.35,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "currentAssets": {
+      "value": 6627000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "totalAssets": {
+      "value": 7386000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "currentLiabilities": {
+      "value": 2785000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "totalLiabilities": {
+      "value": 8485000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "shareholdersEquity": {
+      "value": -1099000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "operatingCashFlow": {
+      "value": -10827000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:40.399Z"
+}

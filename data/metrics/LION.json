@@ -1,0 +1,83 @@
+{
+  "ticker": "LION",
+  "name": "Lionsgate Studios Corp.",
+  "cik": 2052959,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 2631800000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 97100000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "netIncome": {
+      "value": -198300000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "epsBasic": {
+      "value": -0.7,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "epsDiluted": {
+      "value": -0.7,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "currentAssets": {
+      "value": 1488700000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "totalAssets": {
+      "value": 5327100000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "currentLiabilities": {
+      "value": 3046900000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "totalLiabilities": {
+      "value": 6376500000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "shareholdersEquity": {
+      "value": -1192900000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "operatingCashFlow": {
+      "value": 24800000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "capex": {
+      "value": 13400000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:34.947Z"
+}

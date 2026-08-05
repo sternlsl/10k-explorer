@@ -1,0 +1,88 @@
+{
+  "ticker": "CTXR",
+  "name": "Citius Pharmaceuticals, Inc.",
+  "cik": 1506251,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2013,
+      "periodEnd": "2013-09-30",
+      "filed": "2014-02-06"
+    },
+    "cogs": {
+      "value": 75000,
+      "year": 2018,
+      "periodEnd": "2018-09-30",
+      "filed": "2019-12-16"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -38525608,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "netIncome": {
+      "value": -32542912,
+      "year": 2023,
+      "periodEnd": "2023-09-30",
+      "filed": "2023-12-29"
+    },
+    "epsBasic": {
+      "value": -3.38,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "epsDiluted": {
+      "value": -3.38,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "currentAssets": {
+      "value": 27934473,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "totalAssets": {
+      "value": 130938025,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "currentLiabilities": {
+      "value": 44914740,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "totalLiabilities": {
+      "value": 53410425,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "shareholdersEquity": {
+      "value": 67550178,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "operatingCashFlow": {
+      "value": -26552738,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "capex": {
+      "value": 6938,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2022-12-22"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:14.543Z"
+}

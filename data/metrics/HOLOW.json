@@ -1,0 +1,88 @@
+{
+  "ticker": "HOLOW",
+  "name": "MicroCloud Hologram Inc.",
+  "cik": 1841209,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 72512835,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-14"
+    },
+    "cogs": {
+      "value": 39334158,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-14"
+    },
+    "grossProfit": {
+      "value": 33178677,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-14"
+    },
+    "operatingIncome": {
+      "value": -21214581,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-14"
+    },
+    "netIncome": {
+      "value": -20279224,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-14"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 1454000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "currentAssets": {
+      "value": 34718448,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-14"
+    },
+    "totalAssets": {
+      "value": 40903832,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-14"
+    },
+    "currentLiabilities": {
+      "value": 11761400,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-14"
+    },
+    "totalLiabilities": {
+      "value": 12356837,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-14"
+    },
+    "shareholdersEquity": {
+      "value": 28503613,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-14"
+    },
+    "operatingCashFlow": {
+      "value": -20011706,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-14"
+    },
+    "capex": {
+      "value": 270756,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:27.487Z"
+}

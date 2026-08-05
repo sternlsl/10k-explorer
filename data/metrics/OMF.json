@@ -1,0 +1,58 @@
+{
+  "ticker": "OMF",
+  "name": "OneMain Holdings, Inc.",
+  "cik": 1584207,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 783000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "epsBasic": {
+      "value": 6.59,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "epsDiluted": {
+      "value": 6.56,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 27388000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 23987000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "shareholdersEquity": {
+      "value": 3401000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "operatingCashFlow": {
+      "value": 3132000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:55:42.087Z"
+}

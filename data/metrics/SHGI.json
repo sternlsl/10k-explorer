@@ -1,0 +1,48 @@
+{
+  "ticker": "SHGI",
+  "name": "Sparx Holdings Group, Inc.",
+  "cik": 1874138,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -47685,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-08"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 100219,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-08"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 600,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-08"
+    },
+    "shareholdersEquity": {
+      "value": 99619,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-08"
+    },
+    "operatingCashFlow": {
+      "value": -3782,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-08"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:19.489Z"
+}

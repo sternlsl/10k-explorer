@@ -1,0 +1,83 @@
+{
+  "ticker": "ADV",
+  "name": "Advantage Solutions Inc.",
+  "cik": 1776661,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3542642000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -126466000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "netIncome": {
+      "value": -227735000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "epsBasic": {
+      "value": -0.2,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-01"
+    },
+    "epsDiluted": {
+      "value": -0.2,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-01"
+    },
+    "currentAssets": {
+      "value": 972615000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalAssets": {
+      "value": 2793415000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "currentLiabilities": {
+      "value": 432634000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalLiabilities": {
+      "value": 2239457000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "shareholdersEquity": {
+      "value": 748735000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-07"
+    },
+    "operatingCashFlow": {
+      "value": 61532000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "capex": {
+      "value": 6477000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:02.877Z"
+}

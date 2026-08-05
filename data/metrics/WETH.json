@@ -1,0 +1,93 @@
+{
+  "ticker": "WETH",
+  "name": "Wetouch Technology Inc.",
+  "cik": 1826660,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 14202012,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "cogs": {
+      "value": 23872632,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "grossProfit": {
+      "value": 14370514,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "operatingIncome": {
+      "value": 9966327,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "netIncome": {
+      "value": 7160510,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "epsBasic": {
+      "value": 0.6,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "epsDiluted": {
+      "value": 0.6,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "currentAssets": {
+      "value": 126103304,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "totalAssets": {
+      "value": 140637048,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "currentLiabilities": {
+      "value": 3243571,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "totalLiabilities": {
+      "value": 3243571,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "shareholdersEquity": {
+      "value": 137393477,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "operatingCashFlow": {
+      "value": 7391570,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "capex": {
+      "value": 322304,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:07.093Z"
+}

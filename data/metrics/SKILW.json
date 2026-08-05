@@ -1,0 +1,88 @@
+{
+  "ticker": "SKILW",
+  "name": "Skillsoft Corp.",
+  "cik": 1774675,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 512674000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-07"
+    },
+    "cogs": {
+      "value": 134638000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-07"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -89493000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-07"
+    },
+    "netIncome": {
+      "value": -139824000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-07"
+    },
+    "epsBasic": {
+      "value": -16.27,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-07"
+    },
+    "epsDiluted": {
+      "value": -8483.57,
+      "year": 2020,
+      "periodEnd": "2020-01-31",
+      "filed": "2022-04-18"
+    },
+    "currentAssets": {
+      "value": 333027000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-07"
+    },
+    "totalAssets": {
+      "value": 963118000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-07"
+    },
+    "currentLiabilities": {
+      "value": 373000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-07"
+    },
+    "totalLiabilities": {
+      "value": 23602761,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-15"
+    },
+    "shareholdersEquity": {
+      "value": -30227000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-07"
+    },
+    "operatingCashFlow": {
+      "value": 25050000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-07"
+    },
+    "capex": {
+      "value": 1766000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-07"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:40.309Z"
+}

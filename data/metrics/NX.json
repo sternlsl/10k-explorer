@@ -1,0 +1,88 @@
+{
+  "ticker": "NX",
+  "name": "Quanex Building Products CORP",
+  "cik": 1423221,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1277862000,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-12-12"
+    },
+    "cogs": {
+      "value": 1338413000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-12"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -193952000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-12"
+    },
+    "netIncome": {
+      "value": -250806000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-12"
+    },
+    "epsBasic": {
+      "value": -5.43,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-12"
+    },
+    "epsDiluted": {
+      "value": -5.43,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-12"
+    },
+    "currentAssets": {
+      "value": 573775000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-12"
+    },
+    "totalAssets": {
+      "value": 1968233000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-12"
+    },
+    "currentLiabilities": {
+      "value": 281545000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-12"
+    },
+    "totalLiabilities": {
+      "value": 1242054000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-12"
+    },
+    "shareholdersEquity": {
+      "value": 726179000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-12"
+    },
+    "operatingCashFlow": {
+      "value": 164897000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-12"
+    },
+    "capex": {
+      "value": 62642000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:02.633Z"
+}

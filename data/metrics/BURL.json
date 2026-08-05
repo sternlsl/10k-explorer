@@ -1,0 +1,78 @@
+{
+  "ticker": "BURL",
+  "name": "Burlington Stores, Inc.",
+  "cik": 1579298,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 11549607000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "cogs": {
+      "value": 6486922000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 610153000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "epsBasic": {
+      "value": 9.69,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "epsDiluted": {
+      "value": 9.51,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "currentAssets": {
+      "value": 2771532000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "totalAssets": {
+      "value": 9919057000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "currentLiabilities": {
+      "value": 2249211000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1807259000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "operatingCashFlow": {
+      "value": 1231382000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "capex": {
+      "value": 1059793000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:24.636Z"
+}

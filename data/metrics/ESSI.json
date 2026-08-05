@@ -1,0 +1,88 @@
+{
+  "ticker": "ESSI",
+  "name": "ECO SCIENCE SOLUTIONS, INC.",
+  "cik": 1490873,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-06-09"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-05-15"
+    },
+    "grossProfit": {
+      "value": 348,
+      "year": 2012,
+      "periodEnd": "2012-01-31",
+      "filed": "2012-04-30"
+    },
+    "operatingIncome": {
+      "value": -958352,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-06-09"
+    },
+    "netIncome": {
+      "value": 9442219,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-06-09"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 4.37,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-06-09"
+    },
+    "currentAssets": {
+      "value": 70824,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-06-09"
+    },
+    "totalAssets": {
+      "value": 170824,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-06-09"
+    },
+    "currentLiabilities": {
+      "value": 1239788,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-06-09"
+    },
+    "totalLiabilities": {
+      "value": 1239788,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-06-09"
+    },
+    "shareholdersEquity": {
+      "value": -1068964,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-06-09"
+    },
+    "operatingCashFlow": {
+      "value": -367781,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-06-09"
+    },
+    "capex": {
+      "value": 13266,
+      "year": 2018,
+      "periodEnd": "2018-01-31",
+      "filed": "2019-06-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:17.489Z"
+}

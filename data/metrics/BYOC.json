@@ -1,0 +1,88 @@
+{
+  "ticker": "BYOC",
+  "name": "Beyond Commerce, Inc.",
+  "cik": 1386049,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 4046071,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "cogs": {
+      "value": 1128196,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1557150,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "netIncome": {
+      "value": -2380261,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "currentAssets": {
+      "value": 1381058,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "totalAssets": {
+      "value": 4664586,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "currentLiabilities": {
+      "value": 6998671,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "totalLiabilities": {
+      "value": 10075218,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -5471014,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -1178379,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:13.122Z"
+}

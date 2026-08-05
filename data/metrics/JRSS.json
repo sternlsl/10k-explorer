@@ -1,0 +1,93 @@
+{
+  "ticker": "JRSS",
+  "name": "JRSIS HEALTH CARE Corp",
+  "cik": 1597892,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 3461933,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-26"
+    },
+    "cogs": {
+      "value": 2978882,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-26"
+    },
+    "grossProfit": {
+      "value": 483051,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-26"
+    },
+    "operatingIncome": {
+      "value": -188598,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-26"
+    },
+    "netIncome": {
+      "value": -80912,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-26"
+    },
+    "epsBasic": {
+      "value": -0.001,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-26"
+    },
+    "epsDiluted": {
+      "value": -0.001,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-26"
+    },
+    "currentAssets": {
+      "value": 1833890,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-26"
+    },
+    "totalAssets": {
+      "value": 2144525,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-26"
+    },
+    "currentLiabilities": {
+      "value": 2280227,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-26"
+    },
+    "totalLiabilities": {
+      "value": 2305177,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-26"
+    },
+    "shareholdersEquity": {
+      "value": -137406,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-26"
+    },
+    "operatingCashFlow": {
+      "value": 516724,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-26"
+    },
+    "capex": {
+      "value": 1484,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:12.743Z"
+}

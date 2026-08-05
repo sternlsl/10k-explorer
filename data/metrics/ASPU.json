@@ -1,0 +1,88 @@
+{
+  "ticker": "ASPU",
+  "name": "ASPEN GROUP, INC.",
+  "cik": 1487198,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 76694366,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-07-29"
+    },
+    "cogs": {
+      "value": 35259281,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-07-29"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -8970323,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-07-29"
+    },
+    "netIncome": {
+      "value": -9585781,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-07-29"
+    },
+    "epsBasic": {
+      "value": -0.38,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-07-29"
+    },
+    "epsDiluted": {
+      "value": -0.38,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-07-29"
+    },
+    "currentAssets": {
+      "value": 39382591,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-07-29"
+    },
+    "totalAssets": {
+      "value": 91066051,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-07-29"
+    },
+    "currentLiabilities": {
+      "value": 16835273,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-07-29"
+    },
+    "totalLiabilities": {
+      "value": 48520327,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-07-29"
+    },
+    "shareholdersEquity": {
+      "value": 42545724,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-07-29"
+    },
+    "operatingCashFlow": {
+      "value": -11278225,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-07-29"
+    },
+    "capex": {
+      "value": 4160318,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-07-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:07.293Z"
+}

@@ -2,64 +2,87 @@
   "ticker": "DRI",
   "name": "DARDEN RESTAURANTS INC",
   "cik": 940944,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 12076700000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 13210900000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
     },
     "cogs": {
       "value": 4990500000,
       "year": 2014,
-      "periodEnd": "2014-05-25"
+      "periodEnd": "2014-05-25",
+      "filed": "2014-07-18"
     },
     "grossProfit": {
-      "value": 2472700000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 2682100000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
     },
     "operatingIncome": {
-      "value": 1362300000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 1582800000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
     },
     "netIncome": {
-      "value": 1049600000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 1206700000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
+    },
+    "epsBasic": {
+      "value": 10.45,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
+    },
+    "epsDiluted": {
+      "value": 10.38,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
     },
     "currentAssets": {
-      "value": 937700000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 942900000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
     },
     "totalAssets": {
-      "value": 12587000000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 12862400000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
     },
     "currentLiabilities": {
-      "value": 2247500000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 3005400000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
     },
     "totalLiabilities": {
-      "value": 10275700000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 10654900000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
     },
     "shareholdersEquity": {
-      "value": 2311300000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 2207500000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
     },
     "operatingCashFlow": null,
     "capex": {
-      "value": 644600000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 734000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
     }
   },
-  "fetchedAt": "2026-05-08T18:47:04.916Z"
+  "updatedAt": "2026-08-05T16:54:18.179Z"
 }

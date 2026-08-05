@@ -1,0 +1,73 @@
+{
+  "ticker": "CCS",
+  "name": "Century Communities, Inc.",
+  "cik": 1576940,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4117816000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-29"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 71872000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-02-15"
+    },
+    "netIncome": {
+      "value": 147597000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-29"
+    },
+    "epsBasic": {
+      "value": 4.92,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-29"
+    },
+    "epsDiluted": {
+      "value": 4.86,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-29"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 4459895000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-29"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1868163000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-29"
+    },
+    "shareholdersEquity": {
+      "value": 2591732000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-29"
+    },
+    "operatingCashFlow": {
+      "value": 153081000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-29"
+    },
+    "capex": {
+      "value": 28767000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-29"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:06.393Z"
+}

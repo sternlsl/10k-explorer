@@ -1,0 +1,68 @@
+{
+  "ticker": "CBKM",
+  "name": "CONSUMERS BANCORP INC /OH/",
+  "cik": 1006830,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4648000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 8667000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "epsBasic": {
+      "value": 2.77,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "epsDiluted": {
+      "value": 2.77,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1165008000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1088737000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "shareholdersEquity": {
+      "value": 76271000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "operatingCashFlow": {
+      "value": 7934000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "capex": {
+      "value": 3071000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:19.851Z"
+}

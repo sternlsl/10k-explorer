@@ -1,0 +1,88 @@
+{
+  "ticker": "ATHR",
+  "name": "Aether Holdings, Inc.",
+  "cik": 2026353,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1380850,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "cogs": {
+      "value": 403381,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "grossProfit": {
+      "value": 977469,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -3141311,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "epsBasic": {
+      "value": -0.29,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "epsDiluted": {
+      "value": -0.29,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "currentAssets": {
+      "value": 4783242,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "totalAssets": {
+      "value": 5036161,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "currentLiabilities": {
+      "value": 519078,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "totalLiabilities": {
+      "value": 519078,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "shareholdersEquity": {
+      "value": 4517083,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "operatingCashFlow": {
+      "value": -3570318,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "capex": {
+      "value": 1817,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:08.070Z"
+}

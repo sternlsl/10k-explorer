@@ -1,0 +1,78 @@
+{
+  "ticker": "IMAA",
+  "name": "IMA Tech",
+  "cik": 1980295,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 55374,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-22"
+    },
+    "cogs": {
+      "value": 55374,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-22"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -55071,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-22"
+    },
+    "netIncome": {
+      "value": -55071,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-22"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-22"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 9400,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-22"
+    },
+    "totalAssets": {
+      "value": 221656,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-22"
+    },
+    "currentLiabilities": {
+      "value": 267297,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-22"
+    },
+    "totalLiabilities": {
+      "value": 267297,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-22"
+    },
+    "shareholdersEquity": {
+      "value": -45641,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-22"
+    },
+    "operatingCashFlow": {
+      "value": -89744,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-22"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:40.035Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "VTIX",
+  "name": "Virtuix Holdings Inc.",
+  "cik": 1606242,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 4252643,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "cogs": {
+      "value": 3206021,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "grossProfit": {
+      "value": 1046622,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "operatingIncome": {
+      "value": -10319352,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "netIncome": {
+      "value": -16799253,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "epsBasic": {
+      "value": -0.73,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "epsDiluted": {
+      "value": -0.73,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "currentAssets": {
+      "value": 11936309,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "totalAssets": {
+      "value": 14761370,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "currentLiabilities": {
+      "value": 8768103,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "totalLiabilities": {
+      "value": 11713267,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "shareholdersEquity": {
+      "value": 3048103,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "operatingCashFlow": {
+      "value": -9504380,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:55.591Z"
+}

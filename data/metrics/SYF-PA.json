@@ -1,0 +1,58 @@
+{
+  "ticker": "SYF-PA",
+  "name": "Synchrony Financial",
+  "cik": 1601712,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 3552000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "epsBasic": {
+      "value": 9.38,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "epsDiluted": {
+      "value": 9.28,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 119095000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 102329000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "shareholdersEquity": {
+      "value": 16766000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "operatingCashFlow": {
+      "value": 9851000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:54:13.826Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "AMRC",
+  "name": "Ameresco, Inc.",
+  "cik": 1488139,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 1769928000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    },
+    "cogs": {
+      "value": 1513837000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    },
+    "grossProfit": {
+      "value": 256091000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    },
+    "operatingIncome": {
+      "value": 108745000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    },
+    "netIncome": {
+      "value": 56757000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    },
+    "epsBasic": {
+      "value": 1.08,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    },
+    "epsDiluted": {
+      "value": 1.07,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    },
+    "currentAssets": {
+      "value": 1301134000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    },
+    "totalAssets": {
+      "value": 4158508000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    },
+    "currentLiabilities": {
+      "value": 889008000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    },
+    "totalLiabilities": {
+      "value": 260908657,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-15"
+    },
+    "shareholdersEquity": {
+      "value": 1013225000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    },
+    "operatingCashFlow": {
+      "value": 117598000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    },
+    "capex": {
+      "value": 4291000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:53.931Z"
+}

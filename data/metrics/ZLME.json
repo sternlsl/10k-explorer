@@ -1,0 +1,73 @@
+{
+  "ticker": "ZLME",
+  "name": "Zhanling International Ltd",
+  "cik": 1489300,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -39857,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-21"
+    },
+    "netIncome": {
+      "value": -39857,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-21"
+    },
+    "epsBasic": {
+      "value": -0.54,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-21"
+    },
+    "epsDiluted": {
+      "value": -0.54,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-21"
+    },
+    "currentAssets": {
+      "value": 166,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-21"
+    },
+    "totalAssets": {
+      "value": 166,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-21"
+    },
+    "currentLiabilities": {
+      "value": 9122,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-21"
+    },
+    "totalLiabilities": {
+      "value": 48397,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-21"
+    },
+    "shareholdersEquity": {
+      "value": -48231,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-21"
+    },
+    "operatingCashFlow": {
+      "value": -35933,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-21"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:47.738Z"
+}

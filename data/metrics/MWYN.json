@@ -1,0 +1,93 @@
+{
+  "ticker": "MWYN",
+  "name": "Marwynn Holdings, Inc.",
+  "cik": 2030522,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 4242866,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-30"
+    },
+    "cogs": {
+      "value": 3592391,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-30"
+    },
+    "grossProfit": {
+      "value": 650475,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-30"
+    },
+    "operatingIncome": {
+      "value": -3279865,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-30"
+    },
+    "netIncome": {
+      "value": -3919942,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-30"
+    },
+    "epsBasic": {
+      "value": -0.21,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-30"
+    },
+    "epsDiluted": {
+      "value": -0.21,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-30"
+    },
+    "currentAssets": {
+      "value": 2879937,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-30"
+    },
+    "totalAssets": {
+      "value": 3010318,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-30"
+    },
+    "currentLiabilities": {
+      "value": 427970,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-30"
+    },
+    "totalLiabilities": {
+      "value": 427970,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-30"
+    },
+    "shareholdersEquity": {
+      "value": 2582348,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-30"
+    },
+    "operatingCashFlow": {
+      "value": -1547185,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-30"
+    },
+    "capex": {
+      "value": 13080,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2026-07-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:35.244Z"
+}

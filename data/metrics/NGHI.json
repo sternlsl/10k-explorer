@@ -1,0 +1,83 @@
+{
+  "ticker": "NGHI",
+  "name": "Galenfeha, Inc.",
+  "cik": 1574676,
+  "fiscalYear": 2017,
+  "metrics": {
+    "revenue": {
+      "value": 280063,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-04-16"
+    },
+    "cogs": {
+      "value": 958604,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-03-30"
+    },
+    "grossProfit": {
+      "value": 331680,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-03-30"
+    },
+    "operatingIncome": {
+      "value": -94923,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-28"
+    },
+    "netIncome": {
+      "value": -162572,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-28"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 54964,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-28"
+    },
+    "totalAssets": {
+      "value": 54964,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-28"
+    },
+    "currentLiabilities": {
+      "value": 122378,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-28"
+    },
+    "totalLiabilities": {
+      "value": 122378,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-28"
+    },
+    "shareholdersEquity": {
+      "value": -67414,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-28"
+    },
+    "operatingCashFlow": {
+      "value": -97324,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-28"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:07.698Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "DJCO",
+  "name": "DAILY JOURNAL CORP",
+  "cik": 783412,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 41384000,
+      "year": 2017,
+      "periodEnd": "2017-09-30",
+      "filed": "2017-12-13"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 9528000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "netIncome": {
+      "value": 112137000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "epsBasic": {
+      "value": 81.41,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "epsDiluted": {
+      "value": 81.41,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "currentAssets": {
+      "value": 539188000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "totalAssets": {
+      "value": 548118000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "currentLiabilities": {
+      "value": 38806000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "totalLiabilities": {
+      "value": 157057000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "shareholdersEquity": {
+      "value": 391061000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "operatingCashFlow": {
+      "value": 13333000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "capex": {
+      "value": 8000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:26.256Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "SNEX",
+  "name": "StoneX Group Inc.",
+  "cik": 913760,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 132378200000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "cogs": {
+      "value": 26646900000,
+      "year": 2018,
+      "periodEnd": "2018-09-30",
+      "filed": "2018-12-12"
+    },
+    "grossProfit": {
+      "value": 4126900000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "operatingIncome": {
+      "value": -64700000,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2024-11-29"
+    },
+    "netIncome": {
+      "value": 305900000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "epsBasic": {
+      "value": 6.22,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "epsDiluted": {
+      "value": 5.89,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 45268000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 42890600000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "shareholdersEquity": {
+      "value": 2377400000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "operatingCashFlow": {
+      "value": 4388300000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    },
+    "capex": {
+      "value": 65400000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:22.507Z"
+}

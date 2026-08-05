@@ -1,0 +1,93 @@
+{
+  "ticker": "LRHC",
+  "name": "La Rosa Holdings Corp.",
+  "cik": 1879403,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 68507806,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-04"
+    },
+    "cogs": {
+      "value": 61539417,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-04"
+    },
+    "grossProfit": {
+      "value": 6968389,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-04"
+    },
+    "operatingIncome": {
+      "value": -20336172,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-04"
+    },
+    "netIncome": {
+      "value": -30544564,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-04"
+    },
+    "epsBasic": {
+      "value": -3531,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-04"
+    },
+    "epsDiluted": {
+      "value": -3531,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-04"
+    },
+    "currentAssets": {
+      "value": 6113354,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-04"
+    },
+    "totalAssets": {
+      "value": 13443517,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-04"
+    },
+    "currentLiabilities": {
+      "value": 5574606,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-04"
+    },
+    "totalLiabilities": {
+      "value": 13291769,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-04"
+    },
+    "shareholdersEquity": {
+      "value": -6089358,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-04"
+    },
+    "operatingCashFlow": {
+      "value": -7528859,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-04"
+    },
+    "capex": {
+      "value": 5033,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-06-04"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:00.877Z"
+}

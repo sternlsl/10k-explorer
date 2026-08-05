@@ -1,0 +1,78 @@
+{
+  "ticker": "WEWA",
+  "name": "WEWARDS, INC.",
+  "cik": 1616156,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-20"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -90670,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-20"
+    },
+    "netIncome": {
+      "value": -596140,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-20"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-20"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-20"
+    },
+    "currentAssets": {
+      "value": 693777,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-20"
+    },
+    "totalAssets": {
+      "value": 693777,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-20"
+    },
+    "currentLiabilities": {
+      "value": 4046231,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-20"
+    },
+    "totalLiabilities": {
+      "value": 14546231,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-20"
+    },
+    "shareholdersEquity": {
+      "value": -13852454,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-20"
+    },
+    "operatingCashFlow": {
+      "value": -70915,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:52.727Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "CURR",
+  "name": "Currenc Group Inc.",
+  "cik": 1862935,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 46435412,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "cogs": {
+      "value": 31843467,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "grossProfit": {
+      "value": 14591945,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "operatingIncome": {
+      "value": -27375759,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "netIncome": {
+      "value": -39475321,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "epsBasic": {
+      "value": -1.03,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "epsDiluted": {
+      "value": -1.03,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "currentAssets": {
+      "value": 91277035,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "totalAssets": {
+      "value": 108470162,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "currentLiabilities": {
+      "value": 149147372,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "totalLiabilities": {
+      "value": 150226220,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "shareholdersEquity": {
+      "value": -65987533,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "operatingCashFlow": {
+      "value": 3450240,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "capex": {
+      "value": 576674,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:33.976Z"
+}

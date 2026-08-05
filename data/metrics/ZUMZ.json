@@ -1,0 +1,93 @@
+{
+  "ticker": "ZUMZ",
+  "name": "Zumiez Inc",
+  "cik": 1318008,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 929057000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "cogs": {
+      "value": 596522000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "grossProfit": {
+      "value": 332535000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "operatingIncome": {
+      "value": 17041000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "netIncome": {
+      "value": 13377000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "epsBasic": {
+      "value": 0.8,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "epsDiluted": {
+      "value": 0.78,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "currentAssets": {
+      "value": 335983000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "totalAssets": {
+      "value": 644171000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "currentLiabilities": {
+      "value": 167530000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "totalLiabilities": {
+      "value": 319886000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "shareholdersEquity": {
+      "value": 324285000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "operatingCashFlow": {
+      "value": 53474000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "capex": {
+      "value": 11061000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:30.272Z"
+}

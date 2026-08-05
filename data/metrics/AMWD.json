@@ -1,0 +1,88 @@
+{
+  "ticker": "AMWD",
+  "name": "AMERICAN WOODMARK CORP",
+  "cik": 794619,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1709585000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-06-25"
+    },
+    "cogs": {
+      "value": 1403035000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-06-25"
+    },
+    "grossProfit": {
+      "value": 306550000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-06-25"
+    },
+    "operatingIncome": {
+      "value": 140239000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-06-25"
+    },
+    "netIncome": {
+      "value": 99456000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-06-25"
+    },
+    "epsBasic": {
+      "value": 6.55,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-06-25"
+    },
+    "epsDiluted": {
+      "value": 6.5,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-06-25"
+    },
+    "currentAssets": {
+      "value": 364453000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-06-25"
+    },
+    "totalAssets": {
+      "value": 1570569000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-06-25"
+    },
+    "currentLiabilities": {
+      "value": 182942000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-06-25"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 915998000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-06-25"
+    },
+    "operatingCashFlow": {
+      "value": 108447000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-06-25"
+    },
+    "capex": {
+      "value": 39719000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-06-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:42.107Z"
+}

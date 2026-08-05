@@ -1,0 +1,58 @@
+{
+  "ticker": "DGICB",
+  "name": "DONEGAL GROUP INC",
+  "cik": 800457,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 978014322,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 79340740,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2386629452,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1746211373,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "shareholdersEquity": {
+      "value": 640418079,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "operatingCashFlow": {
+      "value": 70199466,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "capex": {
+      "value": 151536,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-03-18"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:38.326Z"
+}

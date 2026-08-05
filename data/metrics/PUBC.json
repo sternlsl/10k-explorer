@@ -1,0 +1,93 @@
+{
+  "ticker": "PUBC",
+  "name": "Purebase Corp",
+  "cik": 1575858,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 285435,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-18"
+    },
+    "cogs": {
+      "value": 72933,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-18"
+    },
+    "grossProfit": {
+      "value": 212502,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-18"
+    },
+    "operatingIncome": {
+      "value": -1479577,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-18"
+    },
+    "netIncome": {
+      "value": -2279704,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-18"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-18"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-18"
+    },
+    "currentAssets": {
+      "value": 49331,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-18"
+    },
+    "totalAssets": {
+      "value": 224721,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-18"
+    },
+    "currentLiabilities": {
+      "value": 1153690,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-18"
+    },
+    "totalLiabilities": {
+      "value": 1153690,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-18"
+    },
+    "shareholdersEquity": {
+      "value": -928969,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-18"
+    },
+    "operatingCashFlow": {
+      "value": -1111833,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-18"
+    },
+    "capex": {
+      "value": 1538,
+      "year": 2024,
+      "periodEnd": "2024-11-30",
+      "filed": "2026-03-18"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:20.189Z"
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "LEGT-WT",
+  "name": "Legato Merger Corp. III",
+  "cik": 2002038,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1038758,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-10"
+    },
+    "netIncome": {
+      "value": 7897897,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-10"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 872260,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-10"
+    },
+    "totalAssets": {
+      "value": 219811964,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-10"
+    },
+    "currentLiabilities": {
+      "value": 15738,
+      "year": 2023,
+      "periodEnd": "2023-11-30",
+      "filed": "2025-02-19"
+    },
+    "totalLiabilities": {
+      "value": 7043750,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-10"
+    },
+    "shareholdersEquity": {
+      "value": -6076491,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-10"
+    },
+    "operatingCashFlow": {
+      "value": -785914,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-10"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:19.531Z"
+}

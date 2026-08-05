@@ -1,0 +1,88 @@
+{
+  "ticker": "SGLA",
+  "name": "Sino Green Land Corp.",
+  "cik": 1433551,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1338300,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "cogs": {
+      "value": 2593124,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "grossProfit": {
+      "value": -1254824,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "operatingIncome": {
+      "value": -1691773,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "netIncome": {
+      "value": -1808994,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "epsBasic": {
+      "value": -0.02,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 279622,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "totalAssets": {
+      "value": 4434219,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "currentLiabilities": {
+      "value": 4722571,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "totalLiabilities": {
+      "value": 6828878,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "shareholdersEquity": {
+      "value": -2394659,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "operatingCashFlow": {
+      "value": -845971,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    },
+    "capex": {
+      "value": 46158,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:33.337Z"
+}

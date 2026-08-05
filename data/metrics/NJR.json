@@ -1,0 +1,83 @@
+{
+  "ticker": "NJR",
+  "name": "NEW JERSEY RESOURCES CORP",
+  "cik": 356309,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1351305000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "cogs": {
+      "value": 1990832000,
+      "year": 2018,
+      "periodEnd": "2018-09-30",
+      "filed": "2018-11-20"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 508867000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "netIncome": {
+      "value": 335627000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "epsBasic": {
+      "value": 3.35,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "epsDiluted": {
+      "value": 3.33,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "currentAssets": {
+      "value": 569876000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "totalAssets": {
+      "value": 7578775000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "currentLiabilities": {
+      "value": 780859000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 2391666000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "operatingCashFlow": {
+      "value": 466349000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "capex": {
+      "value": 300031000,
+      "year": 2019,
+      "periodEnd": "2019-09-30",
+      "filed": "2019-11-22"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:53.148Z"
+}

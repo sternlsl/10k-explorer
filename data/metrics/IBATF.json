@@ -1,0 +1,88 @@
+{
+  "ticker": "IBATF",
+  "name": "INTERNATIONAL BATTERY METALS LTD.",
+  "cik": 1786318,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": null,
+    "cogs": {
+      "value": 34000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "grossProfit": {
+      "value": 130000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "operatingIncome": {
+      "value": -13493000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "netIncome": {
+      "value": 122000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "currentAssets": {
+      "value": 10589000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "totalAssets": {
+      "value": 39762000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "currentLiabilities": {
+      "value": 1386000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "totalLiabilities": {
+      "value": 11398000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "shareholdersEquity": {
+      "value": 28364000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "operatingCashFlow": {
+      "value": -9667000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    },
+    "capex": {
+      "value": 401000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-18"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:30.580Z"
+}

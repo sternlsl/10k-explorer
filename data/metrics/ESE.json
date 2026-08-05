@@ -1,0 +1,83 @@
+{
+  "ticker": "ESE",
+  "name": "ESCO TECHNOLOGIES INC",
+  "cik": 866706,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1095388000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-01"
+    },
+    "cogs": {
+      "value": 634303000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-01"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 170355000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-01"
+    },
+    "netIncome": {
+      "value": 299223000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-01"
+    },
+    "epsBasic": {
+      "value": 11.59,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-01"
+    },
+    "epsDiluted": {
+      "value": 11.55,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-01"
+    },
+    "currentAssets": {
+      "value": 688506000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-01"
+    },
+    "totalAssets": {
+      "value": 2410388000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-01"
+    },
+    "currentLiabilities": {
+      "value": 508148000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-01"
+    },
+    "totalLiabilities": {
+      "value": 869517000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-01"
+    },
+    "shareholdersEquity": {
+      "value": 1540871000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-01"
+    },
+    "operatingCashFlow": {
+      "value": 241939000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-01"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:55:20.858Z"
+}

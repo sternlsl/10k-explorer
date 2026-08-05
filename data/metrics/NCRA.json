@@ -1,0 +1,93 @@
+{
+  "ticker": "NCRA",
+  "name": "NOCERA, INC.",
+  "cik": 1756180,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 17013132,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-05-06"
+    },
+    "cogs": {
+      "value": 13455267,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "grossProfit": {
+      "value": 172677,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingIncome": {
+      "value": -4401917,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-05-06"
+    },
+    "netIncome": {
+      "value": -2880041,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": -0.2069,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": -0.2069,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 8269342,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 10111219,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 685646,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 7916954,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -440735,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -2585122,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": {
+      "value": 956,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-05-06"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:37.657Z"
+}

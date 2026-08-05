@@ -1,0 +1,88 @@
+{
+  "ticker": "MH",
+  "name": "McGraw Hill, Inc.",
+  "cik": 1951070,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 2102781000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-11"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 1701642000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-11"
+    },
+    "operatingIncome": {
+      "value": 276780000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-11"
+    },
+    "netIncome": {
+      "value": 35320000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-11"
+    },
+    "epsBasic": {
+      "value": 0.19,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-11"
+    },
+    "epsDiluted": {
+      "value": 0.19,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-11"
+    },
+    "currentAssets": {
+      "value": 973649000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-11"
+    },
+    "totalAssets": {
+      "value": 5485521000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-11"
+    },
+    "currentLiabilities": {
+      "value": 1266549000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-11"
+    },
+    "totalLiabilities": {
+      "value": 4759303000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-11"
+    },
+    "shareholdersEquity": {
+      "value": 726218000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-11"
+    },
+    "operatingCashFlow": {
+      "value": 331173000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-11"
+    },
+    "capex": {
+      "value": 84862000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-11"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:24.821Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "GTCH",
+  "name": "GBT Technologies Inc.",
+  "cik": 1471781,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 90000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-04-19"
+    },
+    "cogs": {
+      "value": 817754,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-12"
+    },
+    "grossProfit": {
+      "value": 90000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-04-19"
+    },
+    "operatingIncome": {
+      "value": -315279,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": -718292,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 603,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 603,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 10521610,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 10871610,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -9792500,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": 470,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": {
+      "value": 4200,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-03-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:59.140Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "CNXC",
+  "name": "Concentrix Corp",
+  "cik": 1803599,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 9825771000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "cogs": {
+      "value": 6390760000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "grossProfit": {
+      "value": 3435011000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "operatingIncome": {
+      "value": -918183000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "netIncome": {
+      "value": -1278924000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "epsBasic": {
+      "value": -20.36,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "epsDiluted": {
+      "value": -20.36,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "currentAssets": {
+      "value": 3084503000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "totalAssets": {
+      "value": 10761086000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "currentLiabilities": {
+      "value": 2196350000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "totalLiabilities": {
+      "value": 8016741000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "shareholdersEquity": {
+      "value": 2744345000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "operatingCashFlow": {
+      "value": 806967000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "capex": {
+      "value": 234496000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:10.938Z"
+}

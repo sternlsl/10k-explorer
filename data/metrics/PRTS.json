@@ -1,0 +1,93 @@
+{
+  "ticker": "PRTS",
+  "name": "CarParts.com, Inc.",
+  "cik": 1378950,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 547525000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-05"
+    },
+    "cogs": {
+      "value": 368177000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-05"
+    },
+    "grossProfit": {
+      "value": 179348000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-05"
+    },
+    "operatingIncome": {
+      "value": -48875000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-05"
+    },
+    "netIncome": {
+      "value": -50443000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-05"
+    },
+    "epsBasic": {
+      "value": -0.82,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-05"
+    },
+    "epsDiluted": {
+      "value": -0.82,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-05"
+    },
+    "currentAssets": {
+      "value": 135058000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-05"
+    },
+    "totalAssets": {
+      "value": 184856000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-05"
+    },
+    "currentLiabilities": {
+      "value": 81241000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-05"
+    },
+    "totalLiabilities": {
+      "value": 131380000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-05"
+    },
+    "shareholdersEquity": {
+      "value": 53476000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-05"
+    },
+    "operatingCashFlow": {
+      "value": -34076000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-05"
+    },
+    "capex": {
+      "value": 7961000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-05"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:35.923Z"
+}

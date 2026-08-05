@@ -1,0 +1,73 @@
+{
+  "ticker": "CLDT",
+  "name": "Chatham Lodging Trust",
+  "cik": 1476045,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 317209000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-26"
+    },
+    "cogs": {
+      "value": 181176000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-26"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 40876000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": 15053000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": 0.14,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": 0.14,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1170381000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 392332000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 740802000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 64078000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:20.149Z"
+}

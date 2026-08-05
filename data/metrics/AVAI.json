@@ -1,0 +1,83 @@
+{
+  "ticker": "AVAI",
+  "name": "AVAI BIO, INC.",
+  "cik": 1740797,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 276324,
+      "year": 2023,
+      "periodEnd": "2023-03-31",
+      "filed": "2024-07-03"
+    },
+    "cogs": {
+      "value": 316778,
+      "year": 2023,
+      "periodEnd": "2023-03-31",
+      "filed": "2024-07-03"
+    },
+    "grossProfit": {
+      "value": -40453,
+      "year": 2023,
+      "periodEnd": "2023-03-31",
+      "filed": "2024-07-03"
+    },
+    "operatingIncome": {
+      "value": -1749509,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "netIncome": {
+      "value": -1749509,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 89340,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "totalAssets": {
+      "value": 572696,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "currentLiabilities": {
+      "value": 3387851,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "totalLiabilities": {
+      "value": 3387851,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "shareholdersEquity": {
+      "value": -2815155,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "operatingCashFlow": {
+      "value": -1009844,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:13.305Z"
+}

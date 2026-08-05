@@ -1,0 +1,93 @@
+{
+  "ticker": "UPYY",
+  "name": "UPAY",
+  "cik": 1677897,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 746311,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-02"
+    },
+    "cogs": {
+      "value": 198801,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-02"
+    },
+    "grossProfit": {
+      "value": 547510,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-02"
+    },
+    "operatingIncome": {
+      "value": -453517,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-02"
+    },
+    "netIncome": {
+      "value": -1406623,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-02"
+    },
+    "epsBasic": {
+      "value": -0.08,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-02"
+    },
+    "epsDiluted": {
+      "value": -0.08,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-02"
+    },
+    "currentAssets": {
+      "value": 153611,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-02"
+    },
+    "totalAssets": {
+      "value": 227409,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-02"
+    },
+    "currentLiabilities": {
+      "value": 420326,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-02"
+    },
+    "totalLiabilities": {
+      "value": 741267,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-02"
+    },
+    "shareholdersEquity": {
+      "value": -513858,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-02"
+    },
+    "operatingCashFlow": {
+      "value": -288039,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-02"
+    },
+    "capex": {
+      "value": 1993,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:27.905Z"
+}

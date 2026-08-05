@@ -1,0 +1,83 @@
+{
+  "ticker": "SFES",
+  "name": "SAFEGUARD SCIENTIFICS INC",
+  "cik": 86115,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 34839000,
+      "year": 2009,
+      "periodEnd": "2009-12-31",
+      "filed": "2012-03-02"
+    },
+    "cogs": {
+      "value": 13811000,
+      "year": 2009,
+      "periodEnd": "2009-12-31",
+      "filed": "2012-03-02"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -5683000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-26"
+    },
+    "netIncome": {
+      "value": 110597000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-02"
+    },
+    "epsBasic": {
+      "value": -0.61,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-26"
+    },
+    "epsDiluted": {
+      "value": -0.61,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-26"
+    },
+    "currentAssets": {
+      "value": 9911000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-26"
+    },
+    "totalAssets": {
+      "value": 22836000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-26"
+    },
+    "currentLiabilities": {
+      "value": 2046000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-26"
+    },
+    "totalLiabilities": {
+      "value": 2856000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-26"
+    },
+    "shareholdersEquity": {
+      "value": 19980000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-26"
+    },
+    "operatingCashFlow": {
+      "value": -3308000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-26"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:03.861Z"
+}

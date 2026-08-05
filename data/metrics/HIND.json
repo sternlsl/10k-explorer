@@ -1,0 +1,93 @@
+{
+  "ticker": "HIND",
+  "name": "Vyome Holdings, Inc",
+  "cik": 1427570,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 8006000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-04"
+    },
+    "cogs": {
+      "value": 100943,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "grossProfit": {
+      "value": 218771,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "operatingIncome": {
+      "value": -10452570,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "netIncome": {
+      "value": -10262007,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsBasic": {
+      "value": -4.86,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsDiluted": {
+      "value": -4.86,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentAssets": {
+      "value": 5438321,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "totalAssets": {
+      "value": 6497177,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentLiabilities": {
+      "value": 2735160,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "totalLiabilities": {
+      "value": 2735160,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "shareholdersEquity": {
+      "value": -253000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-04"
+    },
+    "operatingCashFlow": {
+      "value": -3748853,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "capex": {
+      "value": 171000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-12"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:31.224Z"
+}

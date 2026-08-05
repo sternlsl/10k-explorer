@@ -2,64 +2,87 @@
   "ticker": "EA",
   "name": "ELECTRONIC ARTS INC.",
   "cik": 712515,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 7463000000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 7531000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
     },
     "cogs": {
       "value": 1277000000,
       "year": 2018,
-      "periodEnd": "2018-03-31"
+      "periodEnd": "2018-03-31",
+      "filed": "2018-05-23"
     },
     "grossProfit": {
-      "value": 5920000000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 5947000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
     },
     "operatingIncome": {
-      "value": 1520000000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 1162000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
     },
     "netIncome": {
-      "value": 1121000000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 887000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
+    },
+    "epsBasic": {
+      "value": 3.55,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
+    },
+    "epsDiluted": {
+      "value": 3.51,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
     },
     "currentAssets": {
-      "value": 3276000000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 3973000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
     },
     "totalAssets": {
-      "value": 12368000000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 13131000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
     },
     "currentLiabilities": {
-      "value": 3459000000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 3797000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
     },
     "totalLiabilities": {
-      "value": 5982000000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 6367000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
     },
     "shareholdersEquity": {
-      "value": 6386000000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 6764000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
     },
     "operatingCashFlow": {
-      "value": 2079000000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 2553000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-11"
     },
     "capex": null
   },
-  "fetchedAt": "2026-05-08T18:48:38.576Z"
+  "updatedAt": "2026-08-05T16:53:47.886Z"
 }

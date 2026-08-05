@@ -1,0 +1,88 @@
+{
+  "ticker": "VGES",
+  "name": "Vanguard Green Investment Ltd",
+  "cik": 1746119,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 120938,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2024-11-12"
+    },
+    "cogs": {
+      "value": 108844,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2024-11-12"
+    },
+    "grossProfit": {
+      "value": 12094,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2024-11-12"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -76778,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-24"
+    },
+    "epsBasic": {
+      "value": -0.0013,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-24"
+    },
+    "epsDiluted": {
+      "value": -0.0013,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-24"
+    },
+    "currentAssets": {
+      "value": 15258,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-24"
+    },
+    "totalAssets": {
+      "value": 15258,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-24"
+    },
+    "currentLiabilities": {
+      "value": 704912,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-24"
+    },
+    "totalLiabilities": {
+      "value": 739836,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-24"
+    },
+    "shareholdersEquity": {
+      "value": -724578,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-24"
+    },
+    "operatingCashFlow": {
+      "value": -63517,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-10-30"
+    },
+    "capex": {
+      "value": 41811,
+      "year": 2022,
+      "periodEnd": "2022-07-31",
+      "filed": "2023-10-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:37.645Z"
+}

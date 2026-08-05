@@ -1,0 +1,83 @@
+{
+  "ticker": "TBH",
+  "name": "Brag House Holdings, Inc.",
+  "cik": 1903595,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 105,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-31"
+    },
+    "cogs": {
+      "value": 464,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-31"
+    },
+    "grossProfit": {
+      "value": -359,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -15890509,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": -1.31,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": -1.31,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 12688299,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 14788299,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 7366391,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 11353437,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 3434862,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -6625058,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:30.475Z"
+}

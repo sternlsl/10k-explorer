@@ -1,0 +1,83 @@
+{
+  "ticker": "MLI",
+  "name": "MUELLER INDUSTRIES INC",
+  "cik": 89439,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4178547000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "cogs": {
+      "value": 1966161000,
+      "year": 2020,
+      "periodEnd": "2020-12-26",
+      "filed": "2021-02-24"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 958542000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "netIncome": {
+      "value": 765191000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "epsBasic": {
+      "value": 6.99,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": 6.86,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "currentAssets": {
+      "value": 2445745000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "totalAssets": {
+      "value": 3733029000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": {
+      "value": 413134000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "totalLiabilities": {
+      "value": 497123000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "shareholdersEquity": {
+      "value": 3209966000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 755444000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:54:41.709Z"
+}

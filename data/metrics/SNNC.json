@@ -1,0 +1,78 @@
+{
+  "ticker": "SNNC",
+  "name": "Sibannac, Inc.",
+  "cik": 1313938,
+  "fiscalYear": 2016,
+  "metrics": {
+    "revenue": {
+      "value": 523677,
+      "year": 2016,
+      "periodEnd": "2016-08-31",
+      "filed": "2016-12-14"
+    },
+    "cogs": {
+      "value": 453295,
+      "year": 2016,
+      "periodEnd": "2016-08-31",
+      "filed": "2016-12-14"
+    },
+    "grossProfit": {
+      "value": 70382,
+      "year": 2016,
+      "periodEnd": "2016-08-31",
+      "filed": "2016-12-14"
+    },
+    "operatingIncome": {
+      "value": -199384,
+      "year": 2016,
+      "periodEnd": "2016-08-31",
+      "filed": "2016-12-14"
+    },
+    "netIncome": {
+      "value": -351019,
+      "year": 2016,
+      "periodEnd": "2016-08-31",
+      "filed": "2016-12-14"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 72771,
+      "year": 2016,
+      "periodEnd": "2016-08-31",
+      "filed": "2016-12-14"
+    },
+    "totalAssets": {
+      "value": 322771,
+      "year": 2016,
+      "periodEnd": "2016-08-31",
+      "filed": "2016-12-14"
+    },
+    "currentLiabilities": {
+      "value": 365600,
+      "year": 2016,
+      "periodEnd": "2016-08-31",
+      "filed": "2016-12-14"
+    },
+    "totalLiabilities": {
+      "value": 615600,
+      "year": 2016,
+      "periodEnd": "2016-08-31",
+      "filed": "2016-12-14"
+    },
+    "shareholdersEquity": {
+      "value": -292829,
+      "year": 2016,
+      "periodEnd": "2016-08-31",
+      "filed": "2016-12-14"
+    },
+    "operatingCashFlow": {
+      "value": 59458,
+      "year": 2014,
+      "periodEnd": "2014-08-31",
+      "filed": "2015-01-16"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:13.189Z"
+}

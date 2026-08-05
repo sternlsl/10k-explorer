@@ -2,68 +2,92 @@
   "ticker": "SJM",
   "name": "J M SMUCKER Co",
   "cik": 91419,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 8726100000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 9050900000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
     },
     "cogs": {
-      "value": 5341400000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 6016400000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
     },
     "grossProfit": {
-      "value": 3384700000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 3034500000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
     },
     "operatingIncome": {
-      "value": -673900000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 360200000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
     },
     "netIncome": {
-      "value": -1230800000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": -138700000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
+    },
+    "epsBasic": {
+      "value": -1.3,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
+    },
+    "epsDiluted": {
+      "value": -1.3,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
     },
     "currentAssets": {
-      "value": 2146600000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 1973100000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
     },
     "totalAssets": {
-      "value": 17563300000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 16219400000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
     },
     "currentLiabilities": {
-      "value": 2652000000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 2538200000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
     },
     "totalLiabilities": {
-      "value": 11480700000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 10675600000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
     },
     "shareholdersEquity": {
-      "value": 6082600000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 5543800000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
     },
     "operatingCashFlow": {
-      "value": 1210400000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 1473600000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
     },
     "capex": {
-      "value": 393800000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 317400000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
     }
   },
-  "fetchedAt": "2026-05-08T19:02:14.988Z"
+  "updatedAt": "2026-08-05T16:55:06.106Z"
 }

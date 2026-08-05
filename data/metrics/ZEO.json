@@ -1,0 +1,88 @@
+{
+  "ticker": "ZEO",
+  "name": "Zeo Energy Corp.",
+  "cik": 1865506,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 73244083,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-05-28"
+    },
+    "cogs": {
+      "value": 4915064,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-05-28"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -20532132,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "netIncome": {
+      "value": -14008754,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "epsBasic": {
+      "value": -0.48,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-05-28"
+    },
+    "epsDiluted": {
+      "value": -0.48,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-05-28"
+    },
+    "currentAssets": {
+      "value": 22552047,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "totalAssets": {
+      "value": 56928444,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "currentLiabilities": {
+      "value": 8391417,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "totalLiabilities": {
+      "value": 9451443,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "shareholdersEquity": {
+      "value": 5330332,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "operatingCashFlow": {
+      "value": -8691421,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "capex": {
+      "value": 1223400,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:50.071Z"
+}

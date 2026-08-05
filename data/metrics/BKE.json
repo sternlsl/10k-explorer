@@ -1,0 +1,93 @@
+{
+  "ticker": "BKE",
+  "name": "BUCKLE INC",
+  "cik": 885245,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1297835000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "cogs": {
+      "value": 661977000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "grossProfit": {
+      "value": 635858000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "operatingIncome": {
+      "value": 261444000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "netIncome": {
+      "value": 209744000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "epsBasic": {
+      "value": 4.17,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "epsDiluted": {
+      "value": 4.14,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "currentAssets": {
+      "value": 447878000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "totalAssets": {
+      "value": 991279000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "currentLiabilities": {
+      "value": 236705000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "totalLiabilities": {
+      "value": 566636000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "shareholdersEquity": {
+      "value": 424643000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "operatingCashFlow": {
+      "value": 251140000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "capex": {
+      "value": 45361000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:03.870Z"
+}

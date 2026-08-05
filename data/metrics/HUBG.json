@@ -1,0 +1,88 @@
+{
+  "ticker": "HUBG",
+  "name": "Hub Group, Inc.",
+  "cik": 940942,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 3946390000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-25"
+    },
+    "cogs": {
+      "value": 4450985000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-24"
+    },
+    "grossProfit": {
+      "value": 889505000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-24"
+    },
+    "operatingIncome": {
+      "value": 140291000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-25"
+    },
+    "netIncome": {
+      "value": 103993000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-25"
+    },
+    "epsBasic": {
+      "value": 1.72,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-25"
+    },
+    "epsDiluted": {
+      "value": 1.7,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-25"
+    },
+    "currentAssets": {
+      "value": 768329000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-25"
+    },
+    "totalAssets": {
+      "value": 2868343000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-25"
+    },
+    "currentLiabilities": {
+      "value": 579481000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-25"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1644997000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 194419000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-25"
+    },
+    "capex": {
+      "value": 50847000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:13.205Z"
+}

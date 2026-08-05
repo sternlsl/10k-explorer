@@ -1,0 +1,93 @@
+{
+  "ticker": "VRA",
+  "name": "Vera Bradley, Inc.",
+  "cik": 1495320,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 269651000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "cogs": {
+      "value": 144614000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "grossProfit": {
+      "value": 125037000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "operatingIncome": {
+      "value": -31912000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "netIncome": {
+      "value": -47840000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "epsBasic": {
+      "value": -1.71,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "epsDiluted": {
+      "value": -1.71,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "currentAssets": {
+      "value": 119721000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "totalAssets": {
+      "value": 234005000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": {
+      "value": 50450000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "totalLiabilities": {
+      "value": 102366000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "shareholdersEquity": {
+      "value": 131639000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": -9971000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "capex": {
+      "value": 3290000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:51.183Z"
+}

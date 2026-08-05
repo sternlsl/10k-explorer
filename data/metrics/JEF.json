@@ -1,0 +1,88 @@
+{
+  "ticker": "JEF",
+  "name": "Jefferies Financial Group Inc.",
+  "cik": 96223,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5546490000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "cogs": {
+      "value": 190934000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -250973000,
+      "year": 2009,
+      "periodEnd": "2009-12-31",
+      "filed": "2010-02-26"
+    },
+    "netIncome": {
+      "value": 1667403000,
+      "year": 2021,
+      "periodEnd": "2021-11-30",
+      "filed": "2022-01-28"
+    },
+    "epsBasic": {
+      "value": 2.93,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "epsDiluted": {
+      "value": 2.83,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "currentAssets": {
+      "value": 2521266000,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-02-25"
+    },
+    "totalAssets": {
+      "value": 76012347000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "currentLiabilities": {
+      "value": 1280479000,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-02-25"
+    },
+    "totalLiabilities": {
+      "value": 65369738000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "shareholdersEquity": {
+      "value": 10574696000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "operatingCashFlow": {
+      "value": -1933626000,
+      "year": 2023,
+      "periodEnd": "2023-11-30",
+      "filed": "2024-01-26"
+    },
+    "capex": {
+      "value": 207467000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:09.998Z"
+}

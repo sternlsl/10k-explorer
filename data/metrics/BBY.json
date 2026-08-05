@@ -7,59 +7,82 @@
     "revenue": {
       "value": 41691000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-18"
     },
     "cogs": {
       "value": 32318000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-18"
     },
     "grossProfit": {
       "value": 9373000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-18"
     },
     "operatingIncome": {
       "value": 1389000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-18"
     },
     "netIncome": {
       "value": 1069000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-18"
+    },
+    "epsBasic": {
+      "value": 5.06,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-18"
+    },
+    "epsDiluted": {
+      "value": 5.04,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-18"
     },
     "currentAssets": {
       "value": 8504000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-18"
     },
     "totalAssets": {
       "value": 14670000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-18"
     },
     "currentLiabilities": {
       "value": 7679000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-18"
     },
     "totalLiabilities": null,
     "shareholdersEquity": {
       "value": 2964000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-18"
     },
     "operatingCashFlow": {
       "value": 1962000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-18"
     },
     "capex": {
       "value": 704000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-18"
     }
   },
-  "fetchedAt": "2026-05-08T18:42:27.695Z"
+  "updatedAt": "2026-08-05T16:54:53.532Z"
 }

@@ -1,0 +1,48 @@
+{
+  "ticker": "PFLT",
+  "name": "PennantPark Floating Rate Capital Ltd.",
+  "cik": 1504619,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 66365000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2913681000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1839165000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "shareholdersEquity": {
+      "value": 1074516000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "operatingCashFlow": {
+      "value": -720581000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:55.514Z"
+}

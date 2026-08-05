@@ -1,0 +1,63 @@
+{
+  "ticker": "AFCG",
+  "name": "Advanced Flower Capital Inc.",
+  "cik": 1822523,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 24563601,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 20951999,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-07"
+    },
+    "epsBasic": {
+      "value": -0.95,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "epsDiluted": {
+      "value": -0.95,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 275594747,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 100026760,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "shareholdersEquity": {
+      "value": 175567987,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "operatingCashFlow": {
+      "value": 11235352,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:39.141Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "DOCS",
+  "name": "Doximity, Inc.",
+  "cik": 1516513,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 644863000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "cogs": {
+      "value": 70326000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "grossProfit": {
+      "value": 574537000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "operatingIncome": {
+      "value": 214920000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "netIncome": {
+      "value": 196051000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "epsBasic": {
+      "value": 1.05,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "epsDiluted": {
+      "value": 0.98,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "currentAssets": {
+      "value": 944264000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "totalAssets": {
+      "value": 1123687000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "currentLiabilities": {
+      "value": 154973000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "totalLiabilities": {
+      "value": 172850000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "shareholdersEquity": {
+      "value": 950837000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "operatingCashFlow": {
+      "value": 326458000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:09.977Z"
+}

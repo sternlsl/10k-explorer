@@ -1,0 +1,78 @@
+{
+  "ticker": "NHP",
+  "name": "National Healthcare Properties, Inc.",
+  "cik": 1561032,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 342279000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 123381000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "operatingIncome": {
+      "value": 3300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "netIncome": {
+      "value": -88087000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-24"
+    },
+    "epsBasic": {
+      "value": -2.51,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsDiluted": {
+      "value": -2.51,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1711772000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1107247000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "shareholdersEquity": {
+      "value": 600064000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "operatingCashFlow": {
+      "value": 6951000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "capex": {
+      "value": 16719000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-24"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:50.588Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "KWIK",
+  "name": "KwikClick, Inc.",
+  "cik": 1884164,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 102311,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-04-15"
+    },
+    "cogs": {
+      "value": 76671,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-04-15"
+    },
+    "grossProfit": {
+      "value": 175640,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-04-15"
+    },
+    "operatingIncome": {
+      "value": -1199912,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": -1316827,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": -0.34,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": -0.34,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 306516,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 868764,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 4077735,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 4081355,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -3212591,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -202102,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:00.786Z"
+}

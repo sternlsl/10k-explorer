@@ -1,0 +1,83 @@
+{
+  "ticker": "MLGO",
+  "name": "MicroAlgo Inc.",
+  "cik": 1800392,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 87132230,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-29"
+    },
+    "cogs": {
+      "value": 68180339,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-29"
+    },
+    "grossProfit": {
+      "value": 18951891,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-29"
+    },
+    "operatingIncome": {
+      "value": -7860700,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-29"
+    },
+    "netIncome": {
+      "value": -6963546,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-29"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 55210655,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-29"
+    },
+    "totalAssets": {
+      "value": 72086734,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-29"
+    },
+    "currentLiabilities": {
+      "value": 4803435,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-29"
+    },
+    "totalLiabilities": {
+      "value": 5075274,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-29"
+    },
+    "shareholdersEquity": {
+      "value": 66755805,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-29"
+    },
+    "operatingCashFlow": {
+      "value": 1955358,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-29"
+    },
+    "capex": {
+      "value": 160923,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:18.332Z"
+}

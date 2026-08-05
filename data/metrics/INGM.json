@@ -1,0 +1,93 @@
+{
+  "ticker": "INGM",
+  "name": "Ingram Micro Holding Corp",
+  "cik": 1897762,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 52556263000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-03"
+    },
+    "cogs": {
+      "value": 49052292000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-03"
+    },
+    "grossProfit": {
+      "value": 3503971000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-03"
+    },
+    "operatingIncome": {
+      "value": 876928000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-03"
+    },
+    "netIncome": {
+      "value": 327882000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-03"
+    },
+    "epsBasic": {
+      "value": 1.4,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-03"
+    },
+    "epsDiluted": {
+      "value": 1.39,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-03"
+    },
+    "currentAssets": {
+      "value": 18240639000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-03"
+    },
+    "totalAssets": {
+      "value": 21244384000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-03"
+    },
+    "currentLiabilities": {
+      "value": 13680962000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-03"
+    },
+    "totalLiabilities": {
+      "value": 16995966000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-03"
+    },
+    "shareholdersEquity": {
+      "value": 4248418000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-03"
+    },
+    "operatingCashFlow": {
+      "value": 916127000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-03"
+    },
+    "capex": {
+      "value": 130754000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-03"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:40.057Z"
+}

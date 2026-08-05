@@ -1,0 +1,63 @@
+{
+  "ticker": "AYR",
+  "name": "Aircastle LTD",
+  "cik": 1362988,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 975119000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-21"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 194048000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-21"
+    },
+    "epsBasic": {
+      "value": 2.09,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-13"
+    },
+    "epsDiluted": {
+      "value": 2.06,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-13"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 8989786000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-21"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 6322135000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-21"
+    },
+    "shareholdersEquity": {
+      "value": 2667651000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-21"
+    },
+    "operatingCashFlow": {
+      "value": 483053000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-21"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:16.707Z"
+}

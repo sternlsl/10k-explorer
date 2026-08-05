@@ -1,0 +1,88 @@
+{
+  "ticker": "EBF",
+  "name": "ENNIS, INC.",
+  "cik": 33002,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 392403000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-08"
+    },
+    "cogs": {
+      "value": 271992000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-08"
+    },
+    "grossProfit": {
+      "value": 120411000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-08"
+    },
+    "operatingIncome": {
+      "value": 52690000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-08"
+    },
+    "netIncome": {
+      "value": 42627000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-08"
+    },
+    "epsBasic": {
+      "value": 1.66,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-08"
+    },
+    "epsDiluted": {
+      "value": 1.66,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-08"
+    },
+    "currentAssets": {
+      "value": 131770000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-08"
+    },
+    "totalAssets": {
+      "value": 356911000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-08"
+    },
+    "currentLiabilities": {
+      "value": 35381000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-08"
+    },
+    "totalLiabilities": {
+      "value": 48179000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-08"
+    },
+    "shareholdersEquity": {
+      "value": 308732000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-08"
+    },
+    "operatingCashFlow": {
+      "value": 52733000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-08"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:59:54.651Z"
+}

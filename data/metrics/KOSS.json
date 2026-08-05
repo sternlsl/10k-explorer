@@ -1,0 +1,93 @@
+{
+  "ticker": "KOSS",
+  "name": "KOSS CORP",
+  "cik": 56701,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 23515441,
+      "year": 2018,
+      "periodEnd": "2018-06-30",
+      "filed": "2018-08-23"
+    },
+    "cogs": {
+      "value": 7850572,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-29"
+    },
+    "grossProfit": {
+      "value": 4773598,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-29"
+    },
+    "operatingIncome": {
+      "value": -1737123,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-29"
+    },
+    "netIncome": {
+      "value": -874831,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-29"
+    },
+    "epsBasic": {
+      "value": -0.09,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-29"
+    },
+    "epsDiluted": {
+      "value": -0.09,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-29"
+    },
+    "currentAssets": {
+      "value": 22604105,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-29"
+    },
+    "totalAssets": {
+      "value": 37184609,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-29"
+    },
+    "currentLiabilities": {
+      "value": 1939651,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-29"
+    },
+    "totalLiabilities": {
+      "value": 6574574,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-29"
+    },
+    "shareholdersEquity": {
+      "value": 30610035,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-29"
+    },
+    "operatingCashFlow": {
+      "value": -214908,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-29"
+    },
+    "capex": {
+      "value": 490717,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:25.991Z"
+}

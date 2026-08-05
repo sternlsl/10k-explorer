@@ -1,0 +1,88 @@
+{
+  "ticker": "ILMN",
+  "name": "ILLUMINA, INC.",
+  "cik": 1110803,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4343000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "cogs": {
+      "value": 563648000,
+      "year": 2014,
+      "periodEnd": "2014-12-28",
+      "filed": "2015-02-18"
+    },
+    "grossProfit": {
+      "value": 2870000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "operatingIncome": {
+      "value": 807000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "netIncome": {
+      "value": 850000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "epsBasic": {
+      "value": 5.47,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "epsDiluted": {
+      "value": 5.45,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "currentAssets": {
+      "value": 3289000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "totalAssets": {
+      "value": 6644000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "currentLiabilities": {
+      "value": 1585000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 2723000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "operatingCashFlow": {
+      "value": 1079000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "capex": {
+      "value": 148000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:20.770Z"
+}

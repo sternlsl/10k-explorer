@@ -1,0 +1,58 @@
+{
+  "ticker": "SAR",
+  "name": "SARATOGA INVESTMENT CORP.",
+  "cik": 1377936,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 36604298,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-05"
+    },
+    "epsBasic": {
+      "value": 2.31,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-05"
+    },
+    "epsDiluted": {
+      "value": 2.31,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-05"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1139265104,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-05"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 743109350,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-05"
+    },
+    "shareholdersEquity": {
+      "value": 396155754,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-05"
+    },
+    "operatingCashFlow": {
+      "value": -88029733,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-05"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:32.788Z"
+}

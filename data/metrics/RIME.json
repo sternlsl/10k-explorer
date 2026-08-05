@@ -1,0 +1,93 @@
+{
+  "ticker": "RIME",
+  "name": "Algorhythm Holdings, Inc.",
+  "cik": 923601,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4391000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "cogs": {
+      "value": 5706000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "grossProfit": {
+      "value": -1315000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "operatingIncome": {
+      "value": -7948000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "netIncome": {
+      "value": -15871000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "epsBasic": {
+      "value": -6.41,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "epsDiluted": {
+      "value": -6.41,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "currentAssets": {
+      "value": 7936000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "totalAssets": {
+      "value": 12724000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "currentLiabilities": {
+      "value": 14440000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "totalLiabilities": {
+      "value": 14584000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "shareholdersEquity": {
+      "value": 10331045,
+      "year": 2023,
+      "periodEnd": "2023-03-31",
+      "filed": "2023-07-14"
+    },
+    "operatingCashFlow": {
+      "value": -8556000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "capex": {
+      "value": 14000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:33.766Z"
+}

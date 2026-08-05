@@ -1,0 +1,88 @@
+{
+  "ticker": "NCL",
+  "name": "Northann Corp.",
+  "cik": 1923780,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 15349854,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-01"
+    },
+    "cogs": {
+      "value": 11370028,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-01"
+    },
+    "grossProfit": {
+      "value": 3979826,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-01"
+    },
+    "operatingIncome": {
+      "value": -1673940,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-01"
+    },
+    "netIncome": {
+      "value": -4379875,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-01"
+    },
+    "epsBasic": {
+      "value": -0.17,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-01"
+    },
+    "epsDiluted": {
+      "value": -0.17,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-01"
+    },
+    "currentAssets": {
+      "value": 5913268,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-01"
+    },
+    "totalAssets": {
+      "value": 13875685,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-01"
+    },
+    "currentLiabilities": {
+      "value": 9673053,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-01"
+    },
+    "totalLiabilities": {
+      "value": 11276512,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-01"
+    },
+    "shareholdersEquity": {
+      "value": 2599173,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-01"
+    },
+    "operatingCashFlow": {
+      "value": -1233491,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-01"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:03.523Z"
+}

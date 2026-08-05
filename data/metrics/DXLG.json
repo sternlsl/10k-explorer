@@ -1,0 +1,88 @@
+{
+  "ticker": "DXLG",
+  "name": "DESTINATION XL GROUP, INC.",
+  "cik": 813298,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 435017000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "cogs": {
+      "value": 246030000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "grossProfit": {
+      "value": 188987000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "operatingIncome": {
+      "value": -18159000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "netIncome": {
+      "value": -35908000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "epsBasic": {
+      "value": -0.66,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "epsDiluted": {
+      "value": -0.66,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "currentAssets": {
+      "value": 110966000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "totalAssets": {
+      "value": 366947000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "currentLiabilities": {
+      "value": 85450000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 108094000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "operatingCashFlow": {
+      "value": 2065000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "capex": {
+      "value": 20067000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:35.555Z"
+}

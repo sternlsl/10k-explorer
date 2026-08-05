@@ -1,0 +1,63 @@
+{
+  "ticker": "AX",
+  "name": "Axos Financial, Inc.",
+  "cik": 1299709,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 65789000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 432908000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "epsBasic": {
+      "value": 7.61,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "epsDiluted": {
+      "value": 7.43,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 24783078000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 22102401000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "shareholdersEquity": {
+      "value": 2680677000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "operatingCashFlow": {
+      "value": 490331000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:56:05.529Z"
+}

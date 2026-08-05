@@ -1,0 +1,88 @@
+{
+  "ticker": "GOLD",
+  "name": "Gold.com, Inc.",
+  "cik": 1591588,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 10978614000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "cogs": {
+      "value": 10767698000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "grossProfit": {
+      "value": 210916000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 17320000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "epsBasic": {
+      "value": 0.73,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "epsDiluted": {
+      "value": 0.71,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "currentAssets": {
+      "value": 1743495000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "totalAssets": {
+      "value": 2215431000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "currentLiabilities": {
+      "value": 1114128000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "totalLiabilities": {
+      "value": 1512760000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "shareholdersEquity": {
+      "value": 649516000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "operatingCashFlow": {
+      "value": 152347000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "capex": {
+      "value": 10678000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:26.616Z"
+}

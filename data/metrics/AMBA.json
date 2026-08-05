@@ -1,0 +1,93 @@
+{
+  "ticker": "AMBA",
+  "name": "AMBARELLA INC",
+  "cik": 1280263,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 390702000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "cogs": {
+      "value": 159436000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "grossProfit": {
+      "value": 231266000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "operatingIncome": {
+      "value": -82527000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "netIncome": {
+      "value": -75865000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "epsBasic": {
+      "value": -1.78,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "epsDiluted": {
+      "value": -1.78,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "currentAssets": {
+      "value": 410275000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "totalAssets": {
+      "value": 798600000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "currentLiabilities": {
+      "value": 177944000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "totalLiabilities": {
+      "value": 203811000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "shareholdersEquity": {
+      "value": 594789000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "operatingCashFlow": {
+      "value": 73519000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "capex": {
+      "value": 1952000,
+      "year": 2021,
+      "periodEnd": "2021-01-31",
+      "filed": "2021-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:51.596Z"
+}

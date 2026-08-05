@@ -1,0 +1,93 @@
+{
+  "ticker": "ENFY",
+  "name": "Enlightify Inc.",
+  "cik": 857949,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 334932,
+      "year": 2015,
+      "periodEnd": "2015-06-30",
+      "filed": "2015-09-17"
+    },
+    "cogs": {
+      "value": 58175089,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-21"
+    },
+    "grossProfit": {
+      "value": 17109782,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-21"
+    },
+    "operatingIncome": {
+      "value": -14754978,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-21"
+    },
+    "netIncome": {
+      "value": -15602160,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-21"
+    },
+    "epsBasic": {
+      "value": -1.05,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-21"
+    },
+    "epsDiluted": {
+      "value": -1.05,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-21"
+    },
+    "currentAssets": {
+      "value": 131602520,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-21"
+    },
+    "totalAssets": {
+      "value": 157697048,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-21"
+    },
+    "currentLiabilities": {
+      "value": 65687751,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-21"
+    },
+    "totalLiabilities": {
+      "value": 73577378,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-21"
+    },
+    "shareholdersEquity": {
+      "value": 84119670,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-21"
+    },
+    "operatingCashFlow": {
+      "value": -2561222,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-21"
+    },
+    "capex": {
+      "value": 256641,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-21"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:25.144Z"
+}

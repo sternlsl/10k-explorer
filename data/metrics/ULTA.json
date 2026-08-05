@@ -2,68 +2,92 @@
   "ticker": "ULTA",
   "name": "Ulta Beauty, Inc.",
   "cik": 1403568,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
       "value": 12392820000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
     },
     "cogs": {
       "value": 3787697000,
-      "year": 2017,
-      "periodEnd": "2018-02-03"
+      "year": 2018,
+      "periodEnd": "2018-02-03",
+      "filed": "2018-04-03"
     },
     "grossProfit": {
       "value": 4845224000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
     },
     "operatingIncome": {
       "value": 1532992000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
     },
     "netIncome": {
       "value": 1153479000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": 25.72,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": 25.64,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
     },
     "currentAssets": {
       "value": 3144146000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
     },
     "totalAssets": {
       "value": 6999294000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
     },
     "currentLiabilities": {
       "value": 2224342000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
     },
     "totalLiabilities": {
       "value": 4195843000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
     },
     "shareholdersEquity": {
       "value": 2803451000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
     },
     "operatingCashFlow": {
       "value": 1502780000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
     },
     "capex": {
       "value": 434829000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-26"
     }
   },
-  "fetchedAt": "2026-05-08T19:04:43.077Z"
+  "updatedAt": "2026-08-05T16:54:17.158Z"
 }

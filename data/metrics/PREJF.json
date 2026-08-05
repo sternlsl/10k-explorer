@@ -1,0 +1,68 @@
+{
+  "ticker": "PREJF",
+  "name": "PARTNERRE LTD",
+  "cik": 911421,
+  "fiscalYear": 2015,
+  "metrics": {
+    "revenue": {
+      "value": 5430627000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-25"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 895000000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-25"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 104381000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-25"
+    },
+    "epsBasic": {
+      "value": 1,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-25"
+    },
+    "epsDiluted": {
+      "value": 0.97,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-25"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 21406043000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-25"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 14503092000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-25"
+    },
+    "shareholdersEquity": {
+      "value": 6900501000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 1226920000,
+      "year": 2010,
+      "periodEnd": "2010-12-31",
+      "filed": "2011-02-28"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:44.516Z"
+}

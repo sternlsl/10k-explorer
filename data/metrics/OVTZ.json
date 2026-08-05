@@ -1,0 +1,73 @@
+{
+  "ticker": "OVTZ",
+  "name": "OCULUS INC.",
+  "cik": 1107280,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-10"
+    },
+    "cogs": {
+      "value": 425,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2017-03-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -2068870,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-28"
+    },
+    "netIncome": {
+      "value": -319139,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 383719,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-10"
+    },
+    "totalAssets": {
+      "value": 32195,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "currentLiabilities": {
+      "value": 769982,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -737787,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "operatingCashFlow": {
+      "value": 6866,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:54.252Z"
+}

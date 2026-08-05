@@ -2,64 +2,87 @@
   "ticker": "RL",
   "name": "RALPH LAUREN CORP",
   "cik": 1037038,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 7079000000,
-      "year": 2025,
-      "periodEnd": "2025-03-29"
+      "value": 8114500000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-21"
     },
     "cogs": {
-      "value": 2226100000,
-      "year": 2025,
-      "periodEnd": "2025-03-29"
+      "value": 2445300000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-21"
     },
     "grossProfit": {
-      "value": 4852900000,
-      "year": 2025,
-      "periodEnd": "2025-03-29"
+      "value": 5669200000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-21"
     },
     "operatingIncome": {
-      "value": 932100000,
-      "year": 2025,
-      "periodEnd": "2025-03-29"
+      "value": 1179200000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-21"
     },
     "netIncome": {
-      "value": 742900000,
-      "year": 2025,
-      "periodEnd": "2025-03-29"
+      "value": 941100000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-21"
+    },
+    "epsBasic": {
+      "value": 15.42,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-21"
+    },
+    "epsDiluted": {
+      "value": 15.11,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-21"
     },
     "currentAssets": {
-      "value": 3789900000,
-      "year": 2025,
-      "periodEnd": "2025-03-29"
+      "value": 3887200000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-21"
     },
     "totalAssets": {
-      "value": 7047300000,
-      "year": 2025,
-      "periodEnd": "2025-03-29"
+      "value": 7739500000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-21"
     },
     "currentLiabilities": {
-      "value": 2133700000,
-      "year": 2025,
-      "periodEnd": "2025-03-29"
+      "value": 1826500000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-21"
     },
     "totalLiabilities": {
-      "value": 4458800000,
-      "year": 2025,
-      "periodEnd": "2025-03-29"
+      "value": 4898100000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-21"
     },
     "shareholdersEquity": {
-      "value": 2588500000,
-      "year": 2025,
-      "periodEnd": "2025-03-29"
+      "value": 2841400000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-21"
     },
     "operatingCashFlow": {
-      "value": 1235100000,
-      "year": 2025,
-      "periodEnd": "2025-03-29"
+      "value": 1154200000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-21"
     },
     "capex": null
   },
-  "fetchedAt": "2026-05-08T19:00:39.528Z"
+  "updatedAt": "2026-08-05T16:54:20.021Z"
 }

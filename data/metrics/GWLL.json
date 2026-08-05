@@ -1,0 +1,78 @@
+{
+  "ticker": "GWLL",
+  "name": "GOLDENWELL BIOTECH, INC.",
+  "cik": 1800373,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2340,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-12"
+    },
+    "cogs": {
+      "value": 43,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-01"
+    },
+    "grossProfit": {
+      "value": 12,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-01"
+    },
+    "operatingIncome": {
+      "value": -113326,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-01"
+    },
+    "netIncome": {
+      "value": -296471,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-01"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-01"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 36120,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-01"
+    },
+    "currentLiabilities": {
+      "value": 101860,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-01"
+    },
+    "totalLiabilities": {
+      "value": 379833,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-01"
+    },
+    "shareholdersEquity": {
+      "value": -343713,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-01"
+    },
+    "operatingCashFlow": {
+      "value": -22629,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-01"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:01.824Z"
+}

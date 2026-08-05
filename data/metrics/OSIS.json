@@ -1,0 +1,93 @@
+{
+  "ticker": "OSIS",
+  "name": "OSI SYSTEMS INC",
+  "cik": 1039065,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1089286000,
+      "year": 2018,
+      "periodEnd": "2018-06-30",
+      "filed": "2018-08-28"
+    },
+    "cogs": {
+      "value": 1125984000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-25"
+    },
+    "grossProfit": {
+      "value": 587182000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-25"
+    },
+    "operatingIncome": {
+      "value": 217524000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-25"
+    },
+    "netIncome": {
+      "value": 149637000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-25"
+    },
+    "epsBasic": {
+      "value": 8.93,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-25"
+    },
+    "epsDiluted": {
+      "value": 8.71,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-25"
+    },
+    "currentAssets": {
+      "value": 1422861000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-25"
+    },
+    "totalAssets": {
+      "value": 2241257000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-25"
+    },
+    "currentLiabilities": {
+      "value": 696938000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-25"
+    },
+    "totalLiabilities": {
+      "value": 1290173000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-25"
+    },
+    "shareholdersEquity": {
+      "value": 951084000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-25"
+    },
+    "operatingCashFlow": {
+      "value": 97592000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-25"
+    },
+    "capex": {
+      "value": 23832000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:10.745Z"
+}

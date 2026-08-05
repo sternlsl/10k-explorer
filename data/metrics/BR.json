@@ -2,68 +2,92 @@
   "ticker": "BR",
   "name": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
   "cik": 1383312,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 6889100000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 7476800000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "cogs": {
-      "value": 4752300000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 5100700000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "grossProfit": {
       "value": 1423000000,
       "year": 2021,
-      "periodEnd": "2021-06-30"
+      "periodEnd": "2021-06-30",
+      "filed": "2021-08-12"
     },
     "operatingIncome": {
-      "value": 1188600000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 1300600000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "netIncome": {
-      "value": 839500000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 1124300000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
+    },
+    "epsBasic": {
+      "value": 9.67,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
+    },
+    "epsDiluted": {
+      "value": 9.6,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "currentAssets": {
-      "value": 1817100000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 1748100000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "totalAssets": {
-      "value": 8545000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 8945300000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "currentLiabilities": {
-      "value": 1861200000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 1414800000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "totalLiabilities": {
-      "value": 5889900000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 6104700000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "shareholdersEquity": {
-      "value": 2655100000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 2840500000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "operatingCashFlow": {
-      "value": 1171300000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 1345600000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "capex": {
-      "value": 43800000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 67200000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     }
   },
-  "fetchedAt": "2026-05-08T18:43:10.678Z"
+  "updatedAt": "2026-08-05T16:54:29.618Z"
 }

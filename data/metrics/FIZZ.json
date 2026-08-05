@@ -1,0 +1,93 @@
+{
+  "ticker": "FIZZ",
+  "name": "NATIONAL BEVERAGE CORP",
+  "cik": 69891,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1180552000,
+      "year": 2026,
+      "periodEnd": "2026-05-02",
+      "filed": "2026-07-01"
+    },
+    "cogs": {
+      "value": 743290000,
+      "year": 2026,
+      "periodEnd": "2026-05-02",
+      "filed": "2026-07-01"
+    },
+    "grossProfit": {
+      "value": 437262000,
+      "year": 2026,
+      "periodEnd": "2026-05-02",
+      "filed": "2026-07-01"
+    },
+    "operatingIncome": {
+      "value": 230110000,
+      "year": 2026,
+      "periodEnd": "2026-05-02",
+      "filed": "2026-07-01"
+    },
+    "netIncome": {
+      "value": 183648000,
+      "year": 2026,
+      "periodEnd": "2026-05-02",
+      "filed": "2026-07-01"
+    },
+    "epsBasic": {
+      "value": 1.96,
+      "year": 2026,
+      "periodEnd": "2026-05-02",
+      "filed": "2026-07-01"
+    },
+    "epsDiluted": {
+      "value": 1.96,
+      "year": 2026,
+      "periodEnd": "2026-05-02",
+      "filed": "2026-07-01"
+    },
+    "currentAssets": {
+      "value": 593059000,
+      "year": 2026,
+      "periodEnd": "2026-05-02",
+      "filed": "2026-07-01"
+    },
+    "totalAssets": {
+      "value": 851647000,
+      "year": 2026,
+      "periodEnd": "2026-05-02",
+      "filed": "2026-07-01"
+    },
+    "currentLiabilities": {
+      "value": 135214000,
+      "year": 2026,
+      "periodEnd": "2026-05-02",
+      "filed": "2026-07-01"
+    },
+    "totalLiabilities": {
+      "value": 215933000,
+      "year": 2026,
+      "periodEnd": "2026-05-02",
+      "filed": "2026-07-01"
+    },
+    "shareholdersEquity": {
+      "value": 635714000,
+      "year": 2026,
+      "periodEnd": "2026-05-02",
+      "filed": "2026-07-01"
+    },
+    "operatingCashFlow": {
+      "value": 181254000,
+      "year": 2026,
+      "periodEnd": "2026-05-02",
+      "filed": "2026-07-01"
+    },
+    "capex": {
+      "value": 25142000,
+      "year": 2026,
+      "periodEnd": "2026-05-02",
+      "filed": "2026-07-01"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:46.896Z"
+}

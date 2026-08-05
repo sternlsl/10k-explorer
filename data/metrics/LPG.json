@@ -1,0 +1,83 @@
+{
+  "ticker": "LPG",
+  "name": "DORIAN LPG LTD.",
+  "cik": 1596993,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 389749215,
+      "year": 2023,
+      "periodEnd": "2023-03-31",
+      "filed": "2023-06-02"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 210175509,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "netIncome": {
+      "value": 193665933,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "epsBasic": {
+      "value": 4.55,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "epsDiluted": {
+      "value": 4.54,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "currentAssets": {
+      "value": 450250080,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "totalAssets": {
+      "value": 1871692717,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "currentLiabilities": {
+      "value": 168826618,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "totalLiabilities": {
+      "value": 732696339,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "shareholdersEquity": {
+      "value": 1138996378,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "operatingCashFlow": {
+      "value": 210143612,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "capex": {
+      "value": 68781071,
+      "year": 2023,
+      "periodEnd": "2023-03-31",
+      "filed": "2023-06-02"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:52.737Z"
+}

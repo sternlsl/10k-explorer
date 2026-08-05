@@ -1,0 +1,88 @@
+{
+  "ticker": "MIDD",
+  "name": "MIDDLEBY Corp",
+  "cik": 769520,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 3201202000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "cogs": {
+      "value": 1949287000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "grossProfit": {
+      "value": 1251915000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "operatingIncome": {
+      "value": 574891000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "netIncome": {
+      "value": -277731000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "epsBasic": {
+      "value": -5.38,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "epsDiluted": {
+      "value": -5.32,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "currentAssets": {
+      "value": 2742643000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "totalAssets": {
+      "value": 6315166000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "currentLiabilities": {
+      "value": 1068231000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 2776229000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "operatingCashFlow": {
+      "value": 630197000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "capex": {
+      "value": 70729000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:41.502Z"
+}

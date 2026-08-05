@@ -1,0 +1,78 @@
+{
+  "ticker": "CHSCM",
+  "name": "CHS INC",
+  "cik": 823277,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 35462608000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-05"
+    },
+    "cogs": {
+      "value": 34325794000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-05"
+    },
+    "grossProfit": {
+      "value": 1136814000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-05"
+    },
+    "operatingIncome": {
+      "value": 90755000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-05"
+    },
+    "netIncome": {
+      "value": 597917000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-05"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 8086351000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-05"
+    },
+    "totalAssets": {
+      "value": 18863849000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-05"
+    },
+    "currentLiabilities": {
+      "value": 5282486000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-05"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 11076695000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-05"
+    },
+    "operatingCashFlow": {
+      "value": 635787000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-05"
+    },
+    "capex": {
+      "value": 728575000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-05"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:31.476Z"
+}

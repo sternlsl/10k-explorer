@@ -1,0 +1,93 @@
+{
+  "ticker": "ACM",
+  "name": "AECOM",
+  "cik": 868857,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 16139622000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "cogs": {
+      "value": 14922909000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "grossProfit": {
+      "value": 1216713000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "operatingIncome": {
+      "value": 1026522000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "netIncome": {
+      "value": 561774000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "epsBasic": {
+      "value": 4.24,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "epsDiluted": {
+      "value": 4.21,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "currentAssets": {
+      "value": 6730227000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "totalAssets": {
+      "value": 12200249000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "currentLiabilities": {
+      "value": 5928816000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "totalLiabilities": {
+      "value": 9504065000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "shareholdersEquity": {
+      "value": 2492584000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "operatingCashFlow": {
+      "value": 821602000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "capex": {
+      "value": 136675000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:01.775Z"
+}

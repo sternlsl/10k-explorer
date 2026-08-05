@@ -1,0 +1,93 @@
+{
+  "ticker": "SNPW",
+  "name": "Sun Pacific Holding Corp.",
+  "cik": 1343465,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 265573,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "cogs": {
+      "value": 16643,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "grossProfit": {
+      "value": 248930,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "operatingIncome": {
+      "value": -287629,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "netIncome": {
+      "value": -278610,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "currentAssets": {
+      "value": 153359,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "totalAssets": {
+      "value": 177390,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "currentLiabilities": {
+      "value": 3273948,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "totalLiabilities": {
+      "value": 3273948,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "shareholdersEquity": {
+      "value": -2817948,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2023-04-18"
+    },
+    "operatingCashFlow": {
+      "value": -17925,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "capex": {
+      "value": 496984,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:21.343Z"
+}

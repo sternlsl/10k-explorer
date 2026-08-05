@@ -1,0 +1,88 @@
+{
+  "ticker": "LEXX",
+  "name": "Lexaria Bioscience Corp.",
+  "cik": 1348362,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 464278,
+      "year": 2024,
+      "periodEnd": "2024-08-31",
+      "filed": "2024-11-26"
+    },
+    "cogs": {
+      "value": 2720,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "grossProfit": {
+      "value": 703203,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "operatingIncome": {
+      "value": -11880737,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "netIncome": {
+      "value": -11901841,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.66,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "currentAssets": {
+      "value": 3468345,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "totalAssets": {
+      "value": 4175121,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "currentLiabilities": {
+      "value": 1493463,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "totalLiabilities": {
+      "value": 1572366,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "shareholdersEquity": {
+      "value": 2989697,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "operatingCashFlow": {
+      "value": -10450387,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    },
+    "capex": {
+      "value": 24646,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:24.270Z"
+}

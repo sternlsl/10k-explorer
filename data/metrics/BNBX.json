@@ -1,0 +1,93 @@
+{
+  "ticker": "BNBX",
+  "name": "BNB PLUS CORP.",
+  "cik": 744452,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5389089,
+      "year": 2019,
+      "periodEnd": "2019-09-30",
+      "filed": "2019-12-12"
+    },
+    "cogs": {
+      "value": 877613,
+      "year": 2019,
+      "periodEnd": "2019-09-30",
+      "filed": "2019-12-12"
+    },
+    "grossProfit": {
+      "value": 838907,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "operatingIncome": {
+      "value": -16046595,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "netIncome": {
+      "value": -15160724,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "epsBasic": {
+      "value": -134.23,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "epsDiluted": {
+      "value": -134.23,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "currentAssets": {
+      "value": 2238426,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "totalAssets": {
+      "value": 4437441,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "currentLiabilities": {
+      "value": 2463911,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "totalLiabilities": {
+      "value": 2495748,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "shareholdersEquity": {
+      "value": 2304747,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "operatingCashFlow": {
+      "value": -13711397,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2024-12-17"
+    },
+    "capex": {
+      "value": 313121,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:52.916Z"
+}

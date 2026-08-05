@@ -2,68 +2,92 @@
   "ticker": "STE",
   "name": "STERIS plc",
   "cik": 1757898,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 5459515000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 5935900000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
     },
     "cogs": {
-      "value": 3056751000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 3309400000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
     },
     "grossProfit": {
-      "value": 2402764000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 2626500000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
     },
     "operatingIncome": {
-      "value": 866641000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 1101800000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
     },
     "netIncome": {
-      "value": 614641000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 782300000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "epsBasic": {
+      "value": 7.97,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
+    },
+    "epsDiluted": {
+      "value": 7.93,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
     },
     "currentAssets": {
-      "value": 2000765000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 2394600000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
     },
     "totalAssets": {
-      "value": 10146811000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 10737200000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
     },
     "currentLiabilities": {
-      "value": 1022173000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 1145000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
     },
     "totalLiabilities": {
-      "value": 3531054000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 3540000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
     },
     "shareholdersEquity": {
-      "value": 6603405000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 7183600000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
     },
     "operatingCashFlow": {
-      "value": 1148087000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 1341400000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
     },
     "capex": {
-      "value": 370091000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 369000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-29"
     }
   },
-  "fetchedAt": "2026-05-08T19:02:46.228Z"
+  "updatedAt": "2026-08-05T16:54:21.459Z"
 }

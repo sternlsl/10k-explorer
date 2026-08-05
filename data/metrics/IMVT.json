@@ -1,0 +1,73 @@
+{
+  "ticker": "IMVT",
+  "name": "Immunovant, Inc.",
+  "cik": 1764013,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -505606000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "epsBasic": {
+      "value": -2.77,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "epsDiluted": {
+      "value": -2.77,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "currentAssets": {
+      "value": 948819000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "totalAssets": {
+      "value": 957014000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "currentLiabilities": {
+      "value": 104422000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "totalLiabilities": {
+      "value": 104422000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "shareholdersEquity": {
+      "value": 852592000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "operatingCashFlow": {
+      "value": -407310000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "capex": {
+      "value": 8000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:52.572Z"
+}

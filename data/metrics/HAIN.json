@@ -1,0 +1,88 @@
+{
+  "ticker": "HAIN",
+  "name": "HAIN CELESTIAL GROUP INC",
+  "cik": 910406,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1559780000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "cogs": {
+      "value": 1225722000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "grossProfit": {
+      "value": 334058000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "operatingIncome": {
+      "value": -461603000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "netIncome": {
+      "value": -530841000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "epsBasic": {
+      "value": -5.89,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "epsDiluted": {
+      "value": -5.89,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "currentAssets": {
+      "value": 530298000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "totalAssets": {
+      "value": 1603278000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "currentLiabilities": {
+      "value": 277373000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "totalLiabilities": {
+      "value": 1128273000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "shareholdersEquity": {
+      "value": 475005000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "operatingCashFlow": {
+      "value": 22115000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:56.433Z"
+}

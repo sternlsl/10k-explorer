@@ -1,0 +1,93 @@
+{
+  "ticker": "VANI",
+  "name": "Vivani Medical, Inc.",
+  "cik": 1266806,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4000000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-16"
+    },
+    "cogs": {
+      "value": 130000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-29"
+    },
+    "grossProfit": {
+      "value": 130000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-29"
+    },
+    "operatingIncome": {
+      "value": -27556000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "netIncome": {
+      "value": -26609000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": -0.43,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": -0.43,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentAssets": {
+      "value": 17898000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalAssets": {
+      "value": 39393000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentLiabilities": {
+      "value": 6602000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalLiabilities": {
+      "value": 23663000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "shareholdersEquity": {
+      "value": 15730000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "operatingCashFlow": {
+      "value": -24320000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "capex": {
+      "value": 1173000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:52.496Z"
+}

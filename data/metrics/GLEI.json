@@ -1,0 +1,63 @@
+{
+  "ticker": "GLEI",
+  "name": "Galaxy Enterprises Inc. /WY/",
+  "cik": 1871890,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -9748,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 15185,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "totalAssets": {
+      "value": 15185,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "currentLiabilities": {
+      "value": 48447,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "totalLiabilities": {
+      "value": 48447,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "shareholdersEquity": {
+      "value": -33262,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "operatingCashFlow": {
+      "value": -453,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:01.079Z"
+}

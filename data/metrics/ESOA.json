@@ -1,0 +1,93 @@
+{
+  "ticker": "ESOA",
+  "name": "Energy Services of America CORP",
+  "cik": 1357971,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 411001373,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "cogs": {
+      "value": 372225660,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "grossProfit": {
+      "value": 38775713,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "operatingIncome": {
+      "value": 4215473,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "netIncome": {
+      "value": 2509023,
+      "year": 2018,
+      "periodEnd": "2018-09-30",
+      "filed": "2018-12-28"
+    },
+    "epsBasic": {
+      "value": 0.02,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "epsDiluted": {
+      "value": 0.02,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "currentAssets": {
+      "value": 144923587,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "totalAssets": {
+      "value": 215207056,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "currentLiabilities": {
+      "value": 97979084,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "totalLiabilities": {
+      "value": 155971263,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "shareholdersEquity": {
+      "value": 59235793,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "operatingCashFlow": {
+      "value": 4137006,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "capex": {
+      "value": 6354069,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:02.023Z"
+}

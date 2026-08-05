@@ -1,0 +1,83 @@
+{
+  "ticker": "NIMU",
+  "name": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
+  "cik": 720762,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6000,
+      "year": 2017,
+      "periodEnd": "2017-07-31",
+      "filed": "2018-11-13"
+    },
+    "cogs": {
+      "value": 100000,
+      "year": 2017,
+      "periodEnd": "2017-07-31",
+      "filed": "2018-11-13"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -160000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-30"
+    },
+    "netIncome": {
+      "value": -222000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-30"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-30"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-30"
+    },
+    "currentAssets": {
+      "value": 7000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-30"
+    },
+    "totalAssets": {
+      "value": 7000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-30"
+    },
+    "currentLiabilities": {
+      "value": 954000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-30"
+    },
+    "totalLiabilities": {
+      "value": 954000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-30"
+    },
+    "shareholdersEquity": {
+      "value": -947000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-30"
+    },
+    "operatingCashFlow": {
+      "value": -117000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-30"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:56.847Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "REX",
+  "name": "REX AMERICAN RESOURCES Corp",
+  "cik": 744187,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 417700000,
+      "year": 2020,
+      "periodEnd": "2020-01-31",
+      "filed": "2020-04-01"
+    },
+    "cogs": {
+      "value": 556781000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "grossProfit": {
+      "value": 93706000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 60935000,
+      "year": 2024,
+      "periodEnd": "2024-01-31",
+      "filed": "2024-03-29"
+    },
+    "epsBasic": {
+      "value": 2.5,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "epsDiluted": {
+      "value": 2.5,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "currentAssets": {
+      "value": 447828000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "totalAssets": {
+      "value": 797731000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "currentLiabilities": {
+      "value": 75377000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "totalLiabilities": {
+      "value": 121000,
+      "year": 2018,
+      "periodEnd": "2018-01-31",
+      "filed": "2019-03-29"
+    },
+    "shareholdersEquity": {
+      "value": 610712000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "operatingCashFlow": {
+      "value": 117829000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "capex": {
+      "value": 68439000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:52.453Z"
+}

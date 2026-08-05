@@ -2,56 +2,77 @@
   "ticker": "FDX",
   "name": "FEDEX CORP",
   "cik": 1048911,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 87926000000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 94720000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-20"
     },
     "cogs": {
       "value": 16654000000,
       "year": 2019,
-      "periodEnd": "2019-05-31"
+      "periodEnd": "2019-05-31",
+      "filed": "2019-07-16"
     },
     "grossProfit": null,
     "operatingIncome": {
-      "value": 5217000000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 5463000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-20"
     },
     "netIncome": {
-      "value": 4092000000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 4433000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-20"
+    },
+    "epsBasic": {
+      "value": 18.71,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-20"
+    },
+    "epsDiluted": {
+      "value": 18.55,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-20"
     },
     "currentAssets": {
-      "value": 18386000000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 27903000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-20"
     },
     "totalAssets": {
-      "value": 87627000000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 98937000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-20"
     },
     "currentLiabilities": {
-      "value": 15411000000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 18912000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-20"
     },
     "totalLiabilities": null,
     "shareholdersEquity": {
-      "value": 28074000000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 31647000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-20"
     },
     "operatingCashFlow": {
-      "value": 7036000000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 8925000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-20"
     },
     "capex": null
   },
-  "fetchedAt": "2026-05-08T18:50:14.834Z"
+  "updatedAt": "2026-08-05T16:53:32.113Z"
 }

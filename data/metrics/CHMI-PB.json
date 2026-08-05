@@ -1,0 +1,68 @@
+{
+  "ticker": "CHMI-PB",
+  "name": "Cherry Hill Mortgage Investment Corp",
+  "cik": 1571776,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": {
+      "value": 9275000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "grossProfit": {
+      "value": 56779000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-16"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 24832000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-15"
+    },
+    "epsBasic": {
+      "value": -0.09,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "epsDiluted": {
+      "value": -0.09,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1540556000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1302024000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "shareholdersEquity": {
+      "value": 236041000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "operatingCashFlow": {
+      "value": 19097000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:07.701Z"
+}

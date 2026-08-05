@@ -1,0 +1,88 @@
+{
+  "ticker": "AIR",
+  "name": "AAR CORP",
+  "cik": 1750,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1748300000,
+      "year": 2018,
+      "periodEnd": "2018-05-31",
+      "filed": "2018-07-11"
+    },
+    "cogs": {
+      "value": 2686000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "grossProfit": {
+      "value": 622000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 187700000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "epsBasic": {
+      "value": 4.88,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "epsDiluted": {
+      "value": 4.86,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "currentAssets": {
+      "value": 1742100000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "totalAssets": {
+      "value": 3355900000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "currentLiabilities": {
+      "value": 613200000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "totalLiabilities": {
+      "value": 1800000,
+      "year": 2023,
+      "periodEnd": "2023-02-28",
+      "filed": "2024-07-19"
+    },
+    "shareholdersEquity": {
+      "value": 1703800000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "operatingCashFlow": {
+      "value": 98700000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "capex": {
+      "value": 36600000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:16.622Z"
+}

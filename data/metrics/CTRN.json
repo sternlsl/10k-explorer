@@ -1,0 +1,88 @@
+{
+  "ticker": "CTRN",
+  "name": "Citi Trends Inc",
+  "cik": 1318484,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 819962000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "cogs": {
+      "value": 416779000,
+      "year": 2016,
+      "periodEnd": "2016-01-30",
+      "filed": "2016-04-13"
+    },
+    "grossProfit": {
+      "value": 227749000,
+      "year": 2013,
+      "periodEnd": "2013-02-02",
+      "filed": "2013-04-17"
+    },
+    "operatingIncome": {
+      "value": 3852000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": 5207000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": 0.65,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": 0.63,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 193048000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 471171000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 173407000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 354851000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": 116320000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": 20954000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:35.778Z"
+}

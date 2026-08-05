@@ -1,0 +1,93 @@
+{
+  "ticker": "FOXF",
+  "name": "FOX FACTORY HOLDING CORP",
+  "cik": 1424929,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1467321000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 1024074000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "grossProfit": {
+      "value": 443247000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "operatingIncome": {
+      "value": -522933000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": -544579000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": -13.03,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": -13.03,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": {
+      "value": 745737000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 1671749000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 260348000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": {
+      "value": 1001744000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 1221761000,
+      "year": 2023,
+      "periodEnd": "2023-12-29",
+      "filed": "2024-02-23"
+    },
+    "operatingCashFlow": {
+      "value": 60918000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 33967000,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:21.486Z"
+}

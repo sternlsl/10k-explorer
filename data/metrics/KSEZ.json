@@ -1,0 +1,93 @@
+{
+  "ticker": "KSEZ",
+  "name": "Kinetic Seas Inc.",
+  "cik": 1945619,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 71268,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "cogs": {
+      "value": 66749,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "grossProfit": {
+      "value": 351019,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "operatingIncome": {
+      "value": -1202662,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "netIncome": {
+      "value": -1235227,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "epsBasic": {
+      "value": -0.05,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "epsDiluted": {
+      "value": -0.05,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "currentAssets": {
+      "value": 51517,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "totalAssets": {
+      "value": 10608843,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "currentLiabilities": {
+      "value": 2887275,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "totalLiabilities": {
+      "value": 10959453,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "shareholdersEquity": {
+      "value": -350609,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "operatingCashFlow": {
+      "value": -553929,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:54.891Z"
+}

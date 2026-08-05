@@ -1,0 +1,88 @@
+{
+  "ticker": "BGSF",
+  "name": "BGSF, INC.",
+  "cik": 1474903,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 93310000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-30"
+    },
+    "cogs": {
+      "value": 59977000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-30"
+    },
+    "grossProfit": {
+      "value": 33333000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-30"
+    },
+    "operatingIncome": {
+      "value": -8903000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-30"
+    },
+    "netIncome": {
+      "value": -11430000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-30"
+    },
+    "epsBasic": {
+      "value": -1.04,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-30"
+    },
+    "epsDiluted": {
+      "value": -1.04,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-30"
+    },
+    "currentAssets": {
+      "value": 38450000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-30"
+    },
+    "totalAssets": {
+      "value": 57837000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-30"
+    },
+    "currentLiabilities": {
+      "value": 9334000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-30"
+    },
+    "totalLiabilities": {
+      "value": 9732000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-30"
+    },
+    "shareholdersEquity": {
+      "value": 48105000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-30"
+    },
+    "operatingCashFlow": {
+      "value": 142000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-30"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:46.668Z"
+}

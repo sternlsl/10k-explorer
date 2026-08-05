@@ -1,0 +1,83 @@
+{
+  "ticker": "CRAI",
+  "name": "CRA INTERNATIONAL, INC.",
+  "cik": 1053706,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 751583000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-26"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 97399000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-15"
+    },
+    "operatingIncome": {
+      "value": 83124000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-26"
+    },
+    "netIncome": {
+      "value": 54782000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-26"
+    },
+    "epsBasic": {
+      "value": 8.23,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-26"
+    },
+    "epsDiluted": {
+      "value": 8.14,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-26"
+    },
+    "currentAssets": {
+      "value": 303129000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-26"
+    },
+    "totalAssets": {
+      "value": 628873000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-26"
+    },
+    "currentLiabilities": {
+      "value": 330029000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-26"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 213598000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-26"
+    },
+    "operatingCashFlow": {
+      "value": 22424000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-26"
+    },
+    "capex": {
+      "value": 3868000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:41.582Z"
+}

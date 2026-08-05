@@ -1,0 +1,88 @@
+{
+  "ticker": "CENTA",
+  "name": "CENTRAL GARDEN & PET CO",
+  "cik": 887733,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3129064000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "cogs": {
+      "value": 2131728000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "grossProfit": {
+      "value": 997336000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "operatingIncome": {
+      "value": 250042000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "netIncome": {
+      "value": 162843000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "epsBasic": {
+      "value": 2.58,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "epsDiluted": {
+      "value": 2.55,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "currentAssets": {
+      "value": 1976130000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "totalAssets": {
+      "value": 3625643000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "currentLiabilities": {
+      "value": 538758000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1583268000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "operatingCashFlow": {
+      "value": 332506000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "capex": {
+      "value": 41418000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:23.338Z"
+}

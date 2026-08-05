@@ -1,0 +1,73 @@
+{
+  "ticker": "NKLR",
+  "name": "Terra Innovatum Global N.V.",
+  "cik": 2067627,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -33699000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-16"
+    },
+    "netIncome": {
+      "value": 539524000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-16"
+    },
+    "epsBasic": {
+      "value": 9.74,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-16"
+    },
+    "epsDiluted": {
+      "value": 9.74,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-16"
+    },
+    "currentAssets": {
+      "value": 106034000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-16"
+    },
+    "totalAssets": {
+      "value": 106136000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-16"
+    },
+    "currentLiabilities": {
+      "value": 3159000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-16"
+    },
+    "totalLiabilities": {
+      "value": 199726000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-16"
+    },
+    "shareholdersEquity": {
+      "value": -93590000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-16"
+    },
+    "operatingCashFlow": {
+      "value": -10297000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-16"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:17.162Z"
+}

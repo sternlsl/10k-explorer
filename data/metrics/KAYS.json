@@ -1,0 +1,93 @@
+{
+  "ticker": "KAYS",
+  "name": "Kaya Holdings, Inc.",
+  "cik": 1530746,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 7134,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-29"
+    },
+    "cogs": {
+      "value": 310685,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-31"
+    },
+    "grossProfit": {
+      "value": -366,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-29"
+    },
+    "operatingIncome": {
+      "value": -2022028,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-29"
+    },
+    "netIncome": {
+      "value": -2080856,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-29"
+    },
+    "epsBasic": {
+      "value": -0.07,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-29"
+    },
+    "epsDiluted": {
+      "value": -0.07,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-29"
+    },
+    "currentAssets": {
+      "value": 67938,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-29"
+    },
+    "totalAssets": {
+      "value": 216369,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-29"
+    },
+    "currentLiabilities": {
+      "value": 5157400,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-29"
+    },
+    "totalLiabilities": {
+      "value": 17344502,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-29"
+    },
+    "shareholdersEquity": {
+      "value": -15030054,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-29"
+    },
+    "operatingCashFlow": {
+      "value": -830820,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-29"
+    },
+    "capex": {
+      "value": 27138,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:04.406Z"
+}

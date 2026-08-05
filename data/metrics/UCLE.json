@@ -1,0 +1,93 @@
+{
+  "ticker": "UCLE",
+  "name": "US NUCLEAR CORP.",
+  "cik": 1543623,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2168999,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-23"
+    },
+    "cogs": {
+      "value": 1078697,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-23"
+    },
+    "grossProfit": {
+      "value": 1090302,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-23"
+    },
+    "operatingIncome": {
+      "value": -939439,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-23"
+    },
+    "netIncome": {
+      "value": -1239051,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-23"
+    },
+    "epsBasic": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-23"
+    },
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-23"
+    },
+    "currentAssets": {
+      "value": 1477158,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-23"
+    },
+    "totalAssets": {
+      "value": 1921883,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-23"
+    },
+    "currentLiabilities": {
+      "value": 2176141,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-23"
+    },
+    "totalLiabilities": {
+      "value": 2435574,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-23"
+    },
+    "shareholdersEquity": {
+      "value": -513691,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-23"
+    },
+    "operatingCashFlow": {
+      "value": -199343,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-23"
+    },
+    "capex": {
+      "value": 858,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-06-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:12.325Z"
+}

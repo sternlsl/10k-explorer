@@ -1,0 +1,88 @@
+{
+  "ticker": "MAGE",
+  "name": "MAGELLAN COPPER & GOLD Corp",
+  "cik": 1515317,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 32500,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-05-28"
+    },
+    "cogs": {
+      "value": 286085,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-05-28"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -281548,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": -432025,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 10497,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 10497,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 2103757,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 2103757,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -2093260,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -36959,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-05-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:32.391Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "SANM",
+  "name": "SANMINA CORP",
+  "cik": 897723,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 8128382000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-13"
+    },
+    "cogs": {
+      "value": 7412025000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-13"
+    },
+    "grossProfit": {
+      "value": 716357000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-13"
+    },
+    "operatingIncome": {
+      "value": 354568000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-13"
+    },
+    "netIncome": {
+      "value": 245893000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-13"
+    },
+    "epsBasic": {
+      "value": 4.56,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-13"
+    },
+    "epsDiluted": {
+      "value": 4.46,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-13"
+    },
+    "currentAssets": {
+      "value": 4865458000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-13"
+    },
+    "totalAssets": {
+      "value": 5858173000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-13"
+    },
+    "currentLiabilities": {
+      "value": 2822015000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-13"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1861269000,
+      "year": 2022,
+      "periodEnd": "2022-10-01",
+      "filed": "2022-11-10"
+    },
+    "operatingCashFlow": {
+      "value": 620657000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-13"
+    },
+    "capex": {
+      "value": 147357000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:56.981Z"
+}

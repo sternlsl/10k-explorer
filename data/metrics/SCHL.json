@@ -1,0 +1,83 @@
+{
+  "ticker": "SCHL",
+  "name": "SCHOLASTIC CORP",
+  "cik": 866729,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1581900000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
+    },
+    "cogs": {
+      "value": 689800000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 15200000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
+    },
+    "netIncome": {
+      "value": 56700000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
+    },
+    "epsBasic": {
+      "value": 2.39,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
+    },
+    "epsDiluted": {
+      "value": 2.34,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
+    },
+    "currentAssets": {
+      "value": 721300000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
+    },
+    "totalAssets": {
+      "value": 1728100000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
+    },
+    "currentLiabilities": {
+      "value": 585500000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 750800000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
+    },
+    "operatingCashFlow": {
+      "value": 50900000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-24"
+    },
+    "capex": {
+      "value": 95000000,
+      "year": 2019,
+      "periodEnd": "2019-05-31",
+      "filed": "2019-07-29"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:18.759Z"
+}

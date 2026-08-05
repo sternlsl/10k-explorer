@@ -1,0 +1,93 @@
+{
+  "ticker": "XAIR",
+  "name": "Beyond Air, Inc.",
+  "cik": 1641631,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 7679000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "cogs": {
+      "value": 7427000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "grossProfit": {
+      "value": 252000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "operatingIncome": {
+      "value": -29044000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "netIncome": {
+      "value": -33249000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "epsBasic": {
+      "value": -4.01,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "epsDiluted": {
+      "value": -4.01,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "currentAssets": {
+      "value": 24767000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "totalAssets": {
+      "value": 35385000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "currentLiabilities": {
+      "value": 6511000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "totalLiabilities": {
+      "value": 29175000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "shareholdersEquity": {
+      "value": 6126000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "operatingCashFlow": {
+      "value": -18144000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "capex": {
+      "value": 1025000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:20.856Z"
+}

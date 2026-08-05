@@ -1,0 +1,93 @@
+{
+  "ticker": "PL",
+  "name": "Planet Labs PBC",
+  "cik": 1836833,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 307727000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "cogs": {
+      "value": 135242000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "grossProfit": {
+      "value": 172485000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "operatingIncome": {
+      "value": -95073000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "netIncome": {
+      "value": -246860000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "epsBasic": {
+      "value": -0.8,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "epsDiluted": {
+      "value": -0.8,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "currentAssets": {
+      "value": 775362000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "totalAssets": {
+      "value": 1145686000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "currentLiabilities": {
+      "value": 469455000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "totalLiabilities": {
+      "value": 957255000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "shareholdersEquity": {
+      "value": 188431000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "operatingCashFlow": {
+      "value": 134362000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    },
+    "capex": {
+      "value": 76714000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-23"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:46.728Z"
+}

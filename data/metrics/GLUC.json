@@ -1,0 +1,78 @@
+{
+  "ticker": "GLUC",
+  "name": "Glucose Health, Inc.",
+  "cik": 1420108,
+  "fiscalYear": 2016,
+  "metrics": {
+    "revenue": null,
+    "cogs": {
+      "value": 3875,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-04-14"
+    },
+    "grossProfit": {
+      "value": 19167,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-29"
+    },
+    "operatingIncome": {
+      "value": -86647,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-29"
+    },
+    "netIncome": {
+      "value": -410443,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-29"
+    },
+    "epsBasic": {
+      "value": -0.15,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-29"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 32905,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-29"
+    },
+    "totalAssets": {
+      "value": 33145,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-29"
+    },
+    "currentLiabilities": {
+      "value": 528592,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-29"
+    },
+    "totalLiabilities": {
+      "value": 528592,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-29"
+    },
+    "shareholdersEquity": {
+      "value": -495447,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-29"
+    },
+    "operatingCashFlow": {
+      "value": -39263,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:06.740Z"
+}

@@ -1,0 +1,68 @@
+{
+  "ticker": "VICP",
+  "name": "Vicapsys Life Sciences, Inc.",
+  "cik": 1468639,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1046978,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-10-21"
+    },
+    "netIncome": {
+      "value": -1182112,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-10-21"
+    },
+    "epsBasic": {
+      "value": -0.03,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-10-21"
+    },
+    "epsDiluted": {
+      "value": -0.03,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-10-21"
+    },
+    "currentAssets": {
+      "value": 39656,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-10-21"
+    },
+    "totalAssets": {
+      "value": 39656,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-10-21"
+    },
+    "currentLiabilities": {
+      "value": 1968337,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-10-21"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -1928681,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-10-21"
+    },
+    "operatingCashFlow": {
+      "value": -417524,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-10-21"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:59.342Z"
+}

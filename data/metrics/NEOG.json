@@ -1,0 +1,93 @@
+{
+  "ticker": "NEOG",
+  "name": "NEOGEN CORP",
+  "cik": 711377,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 870400000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "cogs": {
+      "value": 461900000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "grossProfit": {
+      "value": 408500000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "operatingIncome": {
+      "value": -21600000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "netIncome": {
+      "value": -7900000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "epsBasic": {
+      "value": -0.04,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "currentAssets": {
+      "value": 604600000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "totalAssets": {
+      "value": 3346000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "currentLiabilities": {
+      "value": 158200000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "totalLiabilities": {
+      "value": 1253100000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "shareholdersEquity": {
+      "value": 2092900000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "operatingCashFlow": {
+      "value": 83200000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "capex": {
+      "value": 1500000,
+      "year": 2012,
+      "periodEnd": "2012-05-31",
+      "filed": "2012-07-30"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:34.574Z"
+}

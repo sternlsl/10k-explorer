@@ -1,0 +1,93 @@
+{
+  "ticker": "CAPC",
+  "name": "CAPSTONE COMPANIES, INC.",
+  "cik": 814926,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 143269,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-04-01"
+    },
+    "cogs": {
+      "value": 38019,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-04-01"
+    },
+    "grossProfit": {
+      "value": 105250,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-04-01"
+    },
+    "operatingIncome": {
+      "value": -1070894,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "netIncome": {
+      "value": -920168,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "epsBasic": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "currentAssets": {
+      "value": 59105,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "totalAssets": {
+      "value": 59105,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "currentLiabilities": {
+      "value": 518174,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "totalLiabilities": {
+      "value": 518174,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "shareholdersEquity": {
+      "value": -459069,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "operatingCashFlow": {
+      "value": -282959,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "capex": {
+      "value": 42970,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:09.171Z"
+}

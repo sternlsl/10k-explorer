@@ -1,0 +1,93 @@
+{
+  "ticker": "AYI",
+  "name": "ACUITY INC. (DE)",
+  "cik": 1144215,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4345600000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "cogs": {
+      "value": 2267100000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "grossProfit": {
+      "value": 2078500000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "operatingIncome": {
+      "value": 563900000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "netIncome": {
+      "value": 396600000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "epsBasic": {
+      "value": 12.85,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "epsDiluted": {
+      "value": 12.53,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "currentAssets": {
+      "value": 1651500000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "totalAssets": {
+      "value": 4755200000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "currentLiabilities": {
+      "value": 845800000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "totalLiabilities": {
+      "value": 2030300000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "shareholdersEquity": {
+      "value": 2724900000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "operatingCashFlow": {
+      "value": 601400000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    },
+    "capex": {
+      "value": 68400000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:18.654Z"
+}

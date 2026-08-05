@@ -1,0 +1,83 @@
+{
+  "ticker": "CVM",
+  "name": "CEL SCI CORP",
+  "cik": 725363,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 264033,
+      "year": 2014,
+      "periodEnd": "2014-09-30",
+      "filed": "2014-12-23"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -24809736,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "netIncome": {
+      "value": -25411055,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "epsBasic": {
+      "value": -0.87,
+      "year": 2022,
+      "periodEnd": "2022-09-30",
+      "filed": "2022-12-27"
+    },
+    "epsDiluted": {
+      "value": -6.27,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "currentAssets": {
+      "value": 11596128,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "totalAssets": {
+      "value": 28155748,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "currentLiabilities": {
+      "value": 5130546,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "totalLiabilities": {
+      "value": 12198663,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "shareholdersEquity": {
+      "value": 15957085,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "operatingCashFlow": {
+      "value": -17119737,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "capex": {
+      "value": 38109,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:31.663Z"
+}

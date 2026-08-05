@@ -1,0 +1,93 @@
+{
+  "ticker": "MKC-V",
+  "name": "MCCORMICK & CO INC",
+  "cik": 63754,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6840300000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "cogs": {
+      "value": 4248100000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "grossProfit": {
+      "value": 2592200000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "operatingIncome": {
+      "value": 1070800000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "netIncome": {
+      "value": 789400000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "epsBasic": {
+      "value": 2.94,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "epsDiluted": {
+      "value": 2.93,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "currentAssets": {
+      "value": 2138100000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "totalAssets": {
+      "value": 13200400000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "currentLiabilities": {
+      "value": 3062200000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "totalLiabilities": {
+      "value": 7432300000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "shareholdersEquity": {
+      "value": 5736500000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "operatingCashFlow": {
+      "value": 962200000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-22"
+    },
+    "capex": {
+      "value": 262000000,
+      "year": 2022,
+      "periodEnd": "2022-11-30",
+      "filed": "2023-01-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:48.216Z"
+}

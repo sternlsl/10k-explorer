@@ -1,0 +1,93 @@
+{
+  "ticker": "IPSI",
+  "name": "Innovative Payment Solutions, Inc.",
+  "cik": 1591913,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 410,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-31"
+    },
+    "cogs": {
+      "value": 3547,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-31"
+    },
+    "grossProfit": {
+      "value": -3137,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-31"
+    },
+    "operatingIncome": {
+      "value": -1019357,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": -4394384,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 71473,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 4274163,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 11718260,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 11868260,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -7594097,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -787722,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 43049,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-03-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:48.126Z"
+}

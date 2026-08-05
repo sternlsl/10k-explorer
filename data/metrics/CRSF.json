@@ -1,0 +1,88 @@
+{
+  "ticker": "CRSF",
+  "name": "Crisp Momentum Inc.",
+  "cik": 924396,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 262,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-28"
+    },
+    "cogs": {
+      "value": 1508,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2026-01-28"
+    },
+    "grossProfit": {
+      "value": 262,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-28"
+    },
+    "operatingIncome": {
+      "value": -7993447,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-28"
+    },
+    "netIncome": {
+      "value": -8085574,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-28"
+    },
+    "epsBasic": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-28"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-28"
+    },
+    "currentAssets": {
+      "value": 305120,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-28"
+    },
+    "totalAssets": {
+      "value": 305120,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-28"
+    },
+    "currentLiabilities": {
+      "value": 503705,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-28"
+    },
+    "totalLiabilities": {
+      "value": 503705,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-28"
+    },
+    "shareholdersEquity": {
+      "value": -198585,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-28"
+    },
+    "operatingCashFlow": {
+      "value": -422410,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2026-01-28"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:09.538Z"
+}

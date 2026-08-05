@@ -1,0 +1,78 @@
+{
+  "ticker": "OZVN",
+  "name": "OZ VISION INC.",
+  "cik": 1751707,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 240717,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "cogs": {
+      "value": 59550,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "grossProfit": {
+      "value": 181167,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -2481158,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "currentAssets": {
+      "value": 15602,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "totalAssets": {
+      "value": 13724909,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "currentLiabilities": {
+      "value": 1091459,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 12633450,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "operatingCashFlow": {
+      "value": 112983,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:33.356Z"
+}

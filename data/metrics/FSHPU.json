@@ -1,0 +1,68 @@
+{
+  "ticker": "FSHPU",
+  "name": "Flag Ship Acquisition Corp",
+  "cik": 1850059,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 1828909,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "epsBasic": {
+      "value": 0.24,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "epsDiluted": {
+      "value": 0.24,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "currentAssets": {
+      "value": 25074,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "totalAssets": {
+      "value": 33105112,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "currentLiabilities": {
+      "value": 1463875,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "totalLiabilities": {
+      "value": 3188875,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "shareholdersEquity": {
+      "value": -3163801,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "operatingCashFlow": {
+      "value": -479096,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:58.539Z"
+}

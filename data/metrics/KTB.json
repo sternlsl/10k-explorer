@@ -1,0 +1,88 @@
+{
+  "ticker": "KTB",
+  "name": "Kontoor Brands, Inc.",
+  "cik": 1760965,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 3152456000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "cogs": {
+      "value": 1729067000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 336808000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "netIncome": {
+      "value": 227452000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "epsBasic": {
+      "value": 4.1,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "epsDiluted": {
+      "value": 4.05,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "currentAssets": {
+      "value": 1081116000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "totalAssets": {
+      "value": 2582672000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "currentLiabilities": {
+      "value": 593627000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "totalLiabilities": {
+      "value": 2017805000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "shareholdersEquity": {
+      "value": 564867000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "operatingCashFlow": {
+      "value": 455809000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "capex": {
+      "value": 21047000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:30.598Z"
+}

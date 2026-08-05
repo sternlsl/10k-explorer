@@ -1,0 +1,68 @@
+{
+  "ticker": "CMCT",
+  "name": "Creative Media & Community Trust Corp",
+  "cik": 908311,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 39642000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -39002000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "epsBasic": {
+      "value": -67.08,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "epsDiluted": {
+      "value": -67.08,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 859187000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 592938000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "shareholdersEquity": {
+      "value": 265361000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "operatingCashFlow": {
+      "value": 5788000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "capex": {
+      "value": 10000,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-10"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:32.135Z"
+}

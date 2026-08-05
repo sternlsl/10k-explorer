@@ -1,0 +1,58 @@
+{
+  "ticker": "GLD",
+  "name": "SPDR GOLD TRUST",
+  "cik": 1222333,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": {
+      "value": 0,
+      "year": 2016,
+      "periodEnd": "2016-09-30",
+      "filed": "2016-11-28"
+    },
+    "operatingIncome": {
+      "value": -136084000,
+      "year": 2017,
+      "periodEnd": "2017-09-30",
+      "filed": "2017-11-28"
+    },
+    "netIncome": {
+      "value": 35553539000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "epsBasic": {
+      "value": 111.13,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 124571115000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 38255000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:32.687Z"
+}

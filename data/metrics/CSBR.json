@@ -1,0 +1,88 @@
+{
+  "ticker": "CSBR",
+  "name": "CHAMPIONS ONCOLOGY, INC.",
+  "cik": 771856,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 59425000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-27"
+    },
+    "cogs": {
+      "value": 30900000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-27"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1140000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-27"
+    },
+    "netIncome": {
+      "value": -1175000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-27"
+    },
+    "epsBasic": {
+      "value": -0.08,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-27"
+    },
+    "epsDiluted": {
+      "value": -0.08,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-27"
+    },
+    "currentAssets": {
+      "value": 19219000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-27"
+    },
+    "totalAssets": {
+      "value": 26989000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-27"
+    },
+    "currentLiabilities": {
+      "value": 19922000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-27"
+    },
+    "totalLiabilities": {
+      "value": 22921000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-27"
+    },
+    "shareholdersEquity": {
+      "value": 3939000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-27"
+    },
+    "operatingCashFlow": {
+      "value": -4472000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-27"
+    },
+    "capex": {
+      "value": 564000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-27"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:22.753Z"
+}

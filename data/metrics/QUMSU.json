@@ -1,0 +1,58 @@
+{
+  "ticker": "QUMSU",
+  "name": "Quantumsphere Acquisition Corp",
+  "cik": 2070900,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1076186,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "netIncome": null,
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 317303,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "totalAssets": {
+      "value": 85200365,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "currentLiabilities": {
+      "value": 273747,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "totalLiabilities": {
+      "value": 3585747,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "shareholdersEquity": {
+      "value": -3231507,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "operatingCashFlow": {
+      "value": -947443,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:51.636Z"
+}

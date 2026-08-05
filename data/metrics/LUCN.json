@@ -1,0 +1,68 @@
+{
+  "ticker": "LUCN",
+  "name": "Lucent, Inc.",
+  "cik": 1726079,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -15345,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-27"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-27"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-27"
+    },
+    "totalAssets": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-27"
+    },
+    "currentLiabilities": {
+      "value": 33065,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-27"
+    },
+    "totalLiabilities": {
+      "value": 33065,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-27"
+    },
+    "shareholdersEquity": {
+      "value": -33065,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-27"
+    },
+    "operatingCashFlow": {
+      "value": -9550,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:54.960Z"
+}

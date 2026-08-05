@@ -1,0 +1,63 @@
+{
+  "ticker": "SJ",
+  "name": "Scienjoy Holding Corp",
+  "cik": 1753673,
+  "fiscalYear": 2019,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -936745,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-20"
+    },
+    "netIncome": {
+      "value": 151393,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-20"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 12443,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-20"
+    },
+    "totalAssets": {
+      "value": 58600581,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-20"
+    },
+    "currentLiabilities": {
+      "value": 221909,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-20"
+    },
+    "totalLiabilities": {
+      "value": 2700050,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-20"
+    },
+    "shareholdersEquity": {
+      "value": 5000002,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-20"
+    },
+    "operatingCashFlow": {
+      "value": -715669,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:13.795Z"
+}

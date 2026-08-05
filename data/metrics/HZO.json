@@ -1,0 +1,93 @@
+{
+  "ticker": "HZO",
+  "name": "MARINEMAX INC",
+  "cik": 1057060,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2309288000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "cogs": {
+      "value": 566603000,
+      "year": 2015,
+      "periodEnd": "2015-09-30",
+      "filed": "2015-12-08"
+    },
+    "grossProfit": {
+      "value": 750228000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "operatingIncome": {
+      "value": 34017000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "netIncome": {
+      "value": -31631000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "epsBasic": {
+      "value": -1.43,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "epsDiluted": {
+      "value": -1.43,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "currentAssets": {
+      "value": 1180879000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "totalAssets": {
+      "value": 2470438000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "currentLiabilities": {
+      "value": 984880000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "totalLiabilities": {
+      "value": 1521685000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "shareholdersEquity": {
+      "value": 937190000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "operatingCashFlow": {
+      "value": 72806000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    },
+    "capex": {
+      "value": 60864000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-17"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:37.169Z"
+}

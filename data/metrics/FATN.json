@@ -1,0 +1,93 @@
+{
+  "ticker": "FATN",
+  "name": "Fatpipe Inc/UT",
+  "cik": 1993400,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 19208294,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-18"
+    },
+    "cogs": {
+      "value": 1728384,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-18"
+    },
+    "grossProfit": {
+      "value": 17479910,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-18"
+    },
+    "operatingIncome": {
+      "value": 3589370,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-18"
+    },
+    "netIncome": {
+      "value": 4969961,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-18"
+    },
+    "epsBasic": {
+      "value": 0.36,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-18"
+    },
+    "epsDiluted": {
+      "value": 0.35,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-18"
+    },
+    "currentAssets": {
+      "value": 16456909,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-18"
+    },
+    "totalAssets": {
+      "value": 34523087,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-18"
+    },
+    "currentLiabilities": {
+      "value": 4270316,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-18"
+    },
+    "totalLiabilities": {
+      "value": 9307457,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-18"
+    },
+    "shareholdersEquity": {
+      "value": 25215630,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-18"
+    },
+    "operatingCashFlow": {
+      "value": -780393,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-18"
+    },
+    "capex": {
+      "value": 52483,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-18"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:18.795Z"
+}

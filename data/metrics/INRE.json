@@ -1,0 +1,68 @@
+{
+  "ticker": "INRE",
+  "name": "Inland Real Estate Income Trust, Inc.",
+  "cik": 1528985,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 153581000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 18010000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-20"
+    },
+    "netIncome": {
+      "value": -11047000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsBasic": {
+      "value": -0.31,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsDiluted": {
+      "value": -0.31,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1247928000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 922570000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "shareholdersEquity": {
+      "value": 325358000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "operatingCashFlow": {
+      "value": 42697000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:33.830Z"
+}

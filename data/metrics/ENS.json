@@ -1,0 +1,93 @@
+{
+  "ticker": "ENS",
+  "name": "EnerSys",
+  "cik": 1289308,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 216125000,
+      "year": 2020,
+      "periodEnd": "2020-03-31",
+      "filed": "2020-06-01"
+    },
+    "cogs": {
+      "value": 2604747000,
+      "year": 2022,
+      "periodEnd": "2022-03-31",
+      "filed": "2022-05-25"
+    },
+    "grossProfit": {
+      "value": 1097562000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "operatingIncome": {
+      "value": 426460000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "netIncome": {
+      "value": 293557000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "epsBasic": {
+      "value": 7.84,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "epsDiluted": {
+      "value": 7.7,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "currentAssets": {
+      "value": 2141810000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "totalAssets": {
+      "value": 4003324000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "currentLiabilities": {
+      "value": 804038000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "totalLiabilities": {
+      "value": 2094452000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "shareholdersEquity": {
+      "value": 1905284000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "operatingCashFlow": {
+      "value": 547596000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    },
+    "capex": {
+      "value": 80074000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-20"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:26.816Z"
+}

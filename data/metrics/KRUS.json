@@ -1,0 +1,83 @@
+{
+  "ticker": "KRUS",
+  "name": "KURA SUSHI USA, INC.",
+  "cik": 1772177,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 282763000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-06"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -4761000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-06"
+    },
+    "netIncome": {
+      "value": -1904000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-06"
+    },
+    "epsBasic": {
+      "value": -0.16,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-06"
+    },
+    "epsDiluted": {
+      "value": -0.16,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-06"
+    },
+    "currentAssets": {
+      "value": 75447000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-06"
+    },
+    "totalAssets": {
+      "value": 430942000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-06"
+    },
+    "currentLiabilities": {
+      "value": 42780000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-06"
+    },
+    "totalLiabilities": {
+      "value": 199872000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-06"
+    },
+    "shareholdersEquity": {
+      "value": 231070000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-06"
+    },
+    "operatingCashFlow": {
+      "value": 24711000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-06"
+    },
+    "capex": {
+      "value": 46150000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-06"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:29.492Z"
+}

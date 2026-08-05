@@ -1,0 +1,68 @@
+{
+  "ticker": "FXF",
+  "name": "Invesco CurrencyShares Swiss Franc Trust",
+  "cik": 1353615,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -1686937,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": -0.53,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsDiluted": {
+      "value": -0.53,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentAssets": {
+      "value": 176670999,
+      "year": 2018,
+      "periodEnd": "2018-10-31",
+      "filed": "2019-01-11"
+    },
+    "totalAssets": {
+      "value": 396589627,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": {
+      "value": 173708,
+      "year": 2018,
+      "periodEnd": "2018-10-31",
+      "filed": "2019-01-11"
+    },
+    "totalLiabilities": {
+      "value": 320522,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": -1539765,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:41.501Z"
+}

@@ -2,60 +2,82 @@
   "ticker": "HAL",
   "name": "HALLIBURTON CO",
   "cik": 45012,
-  "fiscalYear": 2010,
+  "fiscalYear": 2025,
   "metrics": {
     "revenue": {
       "value": 17973000000,
       "year": 2010,
-      "periodEnd": "2010-12-31"
+      "periodEnd": "2010-12-31",
+      "filed": "2011-02-17"
     },
     "cogs": {
       "value": 4142000000,
       "year": 2017,
-      "periodEnd": "2017-12-31"
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-09"
     },
     "grossProfit": null,
     "operatingIncome": {
       "value": 2260000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
     },
     "netIncome": {
       "value": 1283000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "epsBasic": {
+      "value": -6.69,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-02-07"
+    },
+    "epsDiluted": {
+      "value": -1.29,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-11"
     },
     "currentAssets": {
       "value": 11398000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
     },
     "totalAssets": {
       "value": 25010000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
     },
     "currentLiabilities": {
       "value": 5588000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
     },
     "totalLiabilities": {
       "value": 14505000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
     },
     "shareholdersEquity": {
       "value": 10461000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
     },
     "operatingCashFlow": {
       "value": 2926000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
     },
     "capex": null
   },
-  "fetchedAt": "2026-05-08T18:51:47.346Z"
+  "updatedAt": "2026-08-05T16:53:59.169Z"
 }

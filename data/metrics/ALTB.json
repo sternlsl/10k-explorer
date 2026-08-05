@@ -1,0 +1,73 @@
+{
+  "ticker": "ALTB",
+  "name": "Alpine Auto Brokers Inc.",
+  "cik": 1642365,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-09-24"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 5691,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-04-14"
+    },
+    "operatingIncome": {
+      "value": -29740,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-13"
+    },
+    "netIncome": {
+      "value": -29740,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-13"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 0,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-09-24"
+    },
+    "totalAssets": {
+      "value": 0,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-09-24"
+    },
+    "currentLiabilities": {
+      "value": 44444,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-13"
+    },
+    "totalLiabilities": {
+      "value": 44444,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-13"
+    },
+    "shareholdersEquity": {
+      "value": -44444,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-13"
+    },
+    "operatingCashFlow": {
+      "value": -29740,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-13"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:49.343Z"
+}

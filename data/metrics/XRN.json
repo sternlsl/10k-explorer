@@ -1,0 +1,73 @@
+{
+  "ticker": "XRN",
+  "name": "Chiron Real Estate Inc.",
+  "cik": 1533615,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 148208000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 18342000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-01"
+    },
+    "epsBasic": {
+      "value": -0.91,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsDiluted": {
+      "value": -0.91,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentAssets": {
+      "value": 3519,
+      "year": 2013,
+      "periodEnd": "2013-08-31",
+      "filed": "2013-11-29"
+    },
+    "totalAssets": {
+      "value": 1242465000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": {
+      "value": 19424,
+      "year": 2013,
+      "periodEnd": "2013-08-31",
+      "filed": "2013-11-29"
+    },
+    "totalLiabilities": {
+      "value": 712400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "shareholdersEquity": {
+      "value": 509770000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "operatingCashFlow": {
+      "value": 73610000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:49.374Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "FGCO",
+  "name": "Financial Gravity Companies, Inc.",
+  "cik": 1377167,
+  "fiscalYear": 2021,
+  "metrics": {
+    "revenue": {
+      "value": 6672793,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-12-30"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2012,
+      "periodEnd": "2012-09-30",
+      "filed": "2013-01-14"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-12-30"
+    },
+    "operatingIncome": {
+      "value": -701910,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-12-30"
+    },
+    "netIncome": {
+      "value": -7423081,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-12-30"
+    },
+    "epsBasic": {
+      "value": -0.09,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-12-30"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 842001,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-12-30"
+    },
+    "totalAssets": {
+      "value": 4349282,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-12-30"
+    },
+    "currentLiabilities": {
+      "value": 1571174,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-12-30"
+    },
+    "totalLiabilities": {
+      "value": 2197588,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-12-30"
+    },
+    "shareholdersEquity": {
+      "value": 2151693,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-12-30"
+    },
+    "operatingCashFlow": {
+      "value": -487071,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-12-30"
+    },
+    "capex": {
+      "value": 8112,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-12-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:09.698Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "TULP",
+  "name": "BLOOMIA HOLDINGS, INC.",
+  "cik": 875355,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 37773000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "cogs": {
+      "value": 31264000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "grossProfit": {
+      "value": 6509000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "operatingIncome": {
+      "value": -6717000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "netIncome": {
+      "value": -5743000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "epsBasic": {
+      "value": -3.24,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "epsDiluted": {
+      "value": -3.24,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "currentAssets": {
+      "value": 18838000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "totalAssets": {
+      "value": 99985000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "currentLiabilities": {
+      "value": 7812000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 9840000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "operatingCashFlow": {
+      "value": -4052000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "capex": {
+      "value": 1170000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:08.144Z"
+}

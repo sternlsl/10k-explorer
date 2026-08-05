@@ -1,0 +1,93 @@
+{
+  "ticker": "SPWR",
+  "name": "SunPower Inc.",
+  "cik": 1838987,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 300000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-04-14"
+    },
+    "cogs": {
+      "value": 170788000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-04-14"
+    },
+    "grossProfit": {
+      "value": 129212000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-04-14"
+    },
+    "operatingIncome": {
+      "value": -26931000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-04-14"
+    },
+    "netIncome": {
+      "value": -45354000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-04-14"
+    },
+    "epsBasic": {
+      "value": -0.52,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-04-14"
+    },
+    "epsDiluted": {
+      "value": -0.52,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-04-14"
+    },
+    "currentAssets": {
+      "value": 112851000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-04-14"
+    },
+    "totalAssets": {
+      "value": 241187000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-04-14"
+    },
+    "currentLiabilities": {
+      "value": 154638000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-04-14"
+    },
+    "totalLiabilities": {
+      "value": 331331000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-04-14"
+    },
+    "shareholdersEquity": {
+      "value": -90144000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-04-14"
+    },
+    "operatingCashFlow": {
+      "value": -15327000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-04-14"
+    },
+    "capex": {
+      "value": 35000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-04-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:27.635Z"
+}

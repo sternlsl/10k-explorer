@@ -1,0 +1,93 @@
+{
+  "ticker": "TLYS",
+  "name": "TILLY'S, INC.",
+  "cik": 1524025,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 598478000,
+      "year": 2019,
+      "periodEnd": "2019-02-02",
+      "filed": "2019-03-29"
+    },
+    "cogs": {
+      "value": 389118000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-09"
+    },
+    "grossProfit": {
+      "value": 164467000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-09"
+    },
+    "operatingIncome": {
+      "value": -19340000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-09"
+    },
+    "netIncome": {
+      "value": -17452000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-09"
+    },
+    "epsBasic": {
+      "value": 0.93,
+      "year": 2013,
+      "periodEnd": "2013-02-02",
+      "filed": "2013-04-03"
+    },
+    "epsDiluted": {
+      "value": -0.58,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-09"
+    },
+    "currentAssets": {
+      "value": 125193000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-09"
+    },
+    "totalAssets": {
+      "value": 310760000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-09"
+    },
+    "currentLiabilities": {
+      "value": 100115000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-09"
+    },
+    "totalLiabilities": {
+      "value": 225618000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-09"
+    },
+    "shareholdersEquity": {
+      "value": 85142000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-09"
+    },
+    "operatingCashFlow": {
+      "value": 4098000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-09"
+    },
+    "capex": {
+      "value": 4687000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-09"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:34.744Z"
+}

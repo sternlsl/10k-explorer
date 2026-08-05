@@ -1,0 +1,93 @@
+{
+  "ticker": "ATKR",
+  "name": "Atkore Inc.",
+  "cik": 1666138,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2850378000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "cogs": {
+      "value": 2174286000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "grossProfit": {
+      "value": 676092000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "operatingIncome": {
+      "value": 23173000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "netIncome": {
+      "value": -15175000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "epsBasic": {
+      "value": -0.45,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "epsDiluted": {
+      "value": -0.45,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "currentAssets": {
+      "value": 1600804000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "totalAssets": {
+      "value": 2851922000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "currentLiabilities": {
+      "value": 524519000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "totalLiabilities": {
+      "value": 1453581000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "shareholdersEquity": {
+      "value": 1398341000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "operatingCashFlow": {
+      "value": 402762000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "capex": {
+      "value": 107108000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:13.865Z"
+}

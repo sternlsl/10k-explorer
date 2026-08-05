@@ -1,0 +1,78 @@
+{
+  "ticker": "ELME",
+  "name": "Elme Communities",
+  "cik": 104894,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 206360000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 76602000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-27"
+    },
+    "grossProfit": {
+      "value": 129758000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-27"
+    },
+    "operatingIncome": {
+      "value": -122208000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": -154162000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": -1.75,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": -1.75,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2114281000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1875366000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 1081797000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 62243000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:04.391Z"
+}

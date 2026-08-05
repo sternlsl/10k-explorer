@@ -1,0 +1,88 @@
+{
+  "ticker": "NCMI",
+  "name": "National CineMedia, Inc.",
+  "cik": 1377630,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 243200000,
+      "year": 2026,
+      "periodEnd": "2026-01-01",
+      "filed": "2026-02-26"
+    },
+    "cogs": {
+      "value": 13000000,
+      "year": 2026,
+      "periodEnd": "2026-01-01",
+      "filed": "2026-02-26"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -13900000,
+      "year": 2026,
+      "periodEnd": "2026-01-01",
+      "filed": "2026-02-26"
+    },
+    "netIncome": {
+      "value": -10600000,
+      "year": 2026,
+      "periodEnd": "2026-01-01",
+      "filed": "2026-02-26"
+    },
+    "epsBasic": {
+      "value": -0.11,
+      "year": 2026,
+      "periodEnd": "2026-01-01",
+      "filed": "2026-02-26"
+    },
+    "epsDiluted": {
+      "value": -0.11,
+      "year": 2026,
+      "periodEnd": "2026-01-01",
+      "filed": "2026-02-26"
+    },
+    "currentAssets": {
+      "value": 138100000,
+      "year": 2026,
+      "periodEnd": "2026-01-01",
+      "filed": "2026-02-26"
+    },
+    "totalAssets": {
+      "value": 490600000,
+      "year": 2026,
+      "periodEnd": "2026-01-01",
+      "filed": "2026-02-26"
+    },
+    "currentLiabilities": {
+      "value": 62100000,
+      "year": 2026,
+      "periodEnd": "2026-01-01",
+      "filed": "2026-02-26"
+    },
+    "totalLiabilities": {
+      "value": 115200000,
+      "year": 2026,
+      "periodEnd": "2026-01-01",
+      "filed": "2026-02-26"
+    },
+    "shareholdersEquity": {
+      "value": 375400000,
+      "year": 2026,
+      "periodEnd": "2026-01-01",
+      "filed": "2026-02-26"
+    },
+    "operatingCashFlow": {
+      "value": 8400000,
+      "year": 2026,
+      "periodEnd": "2026-01-01",
+      "filed": "2026-02-26"
+    },
+    "capex": {
+      "value": 5600000,
+      "year": 2026,
+      "periodEnd": "2026-01-01",
+      "filed": "2026-02-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:05.152Z"
+}

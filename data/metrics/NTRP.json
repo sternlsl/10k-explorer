@@ -1,0 +1,93 @@
+{
+  "ticker": "NTRP",
+  "name": "NextTrip, Inc.",
+  "cik": 788611,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 3715528,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "cogs": {
+      "value": 3063042,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "grossProfit": {
+      "value": 652486,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "operatingIncome": {
+      "value": -16365174,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "netIncome": {
+      "value": -15911934,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "epsBasic": {
+      "value": -1.82,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "epsDiluted": {
+      "value": -1.82,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "currentAssets": {
+      "value": 3151284,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "totalAssets": {
+      "value": 13076958,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "currentLiabilities": {
+      "value": 3912288,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "totalLiabilities": {
+      "value": 7315557,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "shareholdersEquity": {
+      "value": 5374401,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "operatingCashFlow": {
+      "value": -4561463,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "capex": {
+      "value": 9253,
+      "year": 2024,
+      "periodEnd": "2024-02-29",
+      "filed": "2025-05-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:32.514Z"
+}

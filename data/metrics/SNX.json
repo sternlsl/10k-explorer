@@ -1,0 +1,93 @@
+{
+  "ticker": "SNX",
+  "name": "TD SYNNEX CORP",
+  "cik": 1177394,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 62508086000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-27"
+    },
+    "cogs": {
+      "value": 1514470000,
+      "year": 2018,
+      "periodEnd": "2018-11-30",
+      "filed": "2019-01-28"
+    },
+    "grossProfit": {
+      "value": 4368982000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-27"
+    },
+    "operatingIncome": {
+      "value": 1414919000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-27"
+    },
+    "netIncome": {
+      "value": 827660000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-27"
+    },
+    "epsBasic": {
+      "value": 9.99,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-27"
+    },
+    "epsDiluted": {
+      "value": 9.95,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-27"
+    },
+    "currentAssets": {
+      "value": 25289438000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-27"
+    },
+    "totalAssets": {
+      "value": 34250898000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-27"
+    },
+    "currentLiabilities": {
+      "value": 20960840000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-27"
+    },
+    "totalLiabilities": {
+      "value": 25800469000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-27"
+    },
+    "shareholdersEquity": {
+      "value": 8450429000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-27"
+    },
+    "operatingCashFlow": {
+      "value": 1531704000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-27"
+    },
+    "capex": {
+      "value": 65291000,
+      "year": 2022,
+      "periodEnd": "2022-11-30",
+      "filed": "2023-01-24"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:29.348Z"
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "TWO-PB",
+  "name": "TWO HARBORS INVESTMENT CORP.",
+  "cik": 1465740,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -454300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsBasic": {
+      "value": -4.88,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsDiluted": {
+      "value": -4.88,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentAssets": {
+      "value": 7618351000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-28"
+    },
+    "totalAssets": {
+      "value": 10859217000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 9071290000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "shareholdersEquity": {
+      "value": 3088926000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 88917000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:21.564Z"
+}

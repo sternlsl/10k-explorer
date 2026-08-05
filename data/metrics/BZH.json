@@ -1,0 +1,83 @@
+{
+  "ticker": "BZH",
+  "name": "BEAZER HOMES USA INC",
+  "cik": 915840,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2371555000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "cogs": {
+      "value": 1773085000,
+      "year": 2019,
+      "periodEnd": "2019-09-30",
+      "filed": "2019-11-13"
+    },
+    "grossProfit": {
+      "value": 337514000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "operatingIncome": {
+      "value": 36605000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "netIncome": {
+      "value": 45588000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "epsBasic": {
+      "value": 1.53,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "epsDiluted": {
+      "value": 1.52,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2609708000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1360802000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "shareholdersEquity": {
+      "value": 1248906000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "operatingCashFlow": {
+      "value": 31981000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "capex": {
+      "value": 28501000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:56.223Z"
+}

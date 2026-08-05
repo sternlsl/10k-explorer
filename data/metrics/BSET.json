@@ -1,0 +1,88 @@
+{
+  "ticker": "BSET",
+  "name": "BASSETT FURNITURE INDUSTRIES INC",
+  "cik": 10329,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 335280000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-02-05"
+    },
+    "cogs": {
+      "value": 146598000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-02-05"
+    },
+    "grossProfit": {
+      "value": 188682000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-02-05"
+    },
+    "operatingIncome": {
+      "value": 7827000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-02-05"
+    },
+    "netIncome": {
+      "value": 6100000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-02-05"
+    },
+    "epsBasic": {
+      "value": 0.7,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-02-05"
+    },
+    "epsDiluted": {
+      "value": 0.7,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-02-05"
+    },
+    "currentAssets": {
+      "value": 145542000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-02-05"
+    },
+    "totalAssets": {
+      "value": 323819000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-02-05"
+    },
+    "currentLiabilities": {
+      "value": 76984000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-02-05"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 165107000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-02-05"
+    },
+    "operatingCashFlow": {
+      "value": 13491000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-02-05"
+    },
+    "capex": {
+      "value": 4530000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-02-05"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:46.252Z"
+}

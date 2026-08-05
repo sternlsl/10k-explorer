@@ -1,0 +1,73 @@
+{
+  "ticker": "BTBD",
+  "name": "BT Brands, Inc.",
+  "cik": 1718224,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 14823472,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-03-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1832308,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-03-31"
+    },
+    "netIncome": {
+      "value": -2311208,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-03-31"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 4999404,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "totalAssets": {
+      "value": 11996797,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "currentLiabilities": {
+      "value": 1442935,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "totalLiabilities": {
+      "value": 5031570,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 6965227,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -723505,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-03-31"
+    },
+    "capex": {
+      "value": 494064,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:45.192Z"
+}

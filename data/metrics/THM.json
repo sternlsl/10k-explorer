@@ -1,0 +1,88 @@
+{
+  "ticker": "THM",
+  "name": "INTERNATIONAL TOWER HILL MINES LTD",
+  "cik": 1134115,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "cogs": {
+      "value": 1576251,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-15"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -8373288,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-03-11"
+    },
+    "netIncome": {
+      "value": -4638333,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsBasic": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentAssets": {
+      "value": 1513134,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "totalAssets": {
+      "value": 56895723,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentLiabilities": {
+      "value": 15083847,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-15"
+    },
+    "totalLiabilities": {
+      "value": 497952,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "shareholdersEquity": {
+      "value": 56397771,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "operatingCashFlow": {
+      "value": -3631727,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "capex": {
+      "value": -3635,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2015-03-11"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:36.477Z"
+}

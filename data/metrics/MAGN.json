@@ -1,0 +1,93 @@
+{
+  "ticker": "MAGN",
+  "name": "Magnera Corp",
+  "cik": 41719,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3204000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-25"
+    },
+    "cogs": {
+      "value": 2867000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-25"
+    },
+    "grossProfit": {
+      "value": 129707000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-28"
+    },
+    "operatingIncome": {
+      "value": 5000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-25"
+    },
+    "netIncome": {
+      "value": -159000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-25"
+    },
+    "epsBasic": {
+      "value": -4.47,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-25"
+    },
+    "epsDiluted": {
+      "value": -4.47,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-25"
+    },
+    "currentAssets": {
+      "value": 1423000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-25"
+    },
+    "totalAssets": {
+      "value": 3989000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-25"
+    },
+    "currentLiabilities": {
+      "value": 601000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-25"
+    },
+    "totalLiabilities": {
+      "value": 2925000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-25"
+    },
+    "shareholdersEquity": {
+      "value": 1064000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-25"
+    },
+    "operatingCashFlow": {
+      "value": 103000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-25"
+    },
+    "capex": {
+      "value": 67000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:46.017Z"
+}

@@ -1,0 +1,68 @@
+{
+  "ticker": "KRC",
+  "name": "KILROY REALTY CORP",
+  "cik": 1025996,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 19080000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 259318000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-08"
+    },
+    "netIncome": {
+      "value": 195443000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-13"
+    },
+    "epsBasic": {
+      "value": 2.33,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "epsDiluted": {
+      "value": 2.32,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 10915076000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 5277333000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "shareholdersEquity": {
+      "value": 5420807000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "operatingCashFlow": {
+      "value": 566313000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:56:30.510Z"
+}

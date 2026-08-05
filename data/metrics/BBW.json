@@ -1,0 +1,83 @@
+{
+  "ticker": "BBW",
+  "name": "BUILD-A-BEAR WORKSHOP INC",
+  "cik": 1113809,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 529832000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "cogs": {
+      "value": 234203000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "grossProfit": {
+      "value": 295629000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 52203000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "epsBasic": {
+      "value": 4,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "epsDiluted": {
+      "value": 3.99,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "currentAssets": {
+      "value": 140020000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "totalAssets": {
+      "value": 345453000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "currentLiabilities": {
+      "value": 90626000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 155028000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "operatingCashFlow": {
+      "value": 65052000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "capex": {
+      "value": 25545000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:10.455Z"
+}

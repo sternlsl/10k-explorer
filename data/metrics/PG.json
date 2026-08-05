@@ -2,64 +2,87 @@
   "ticker": "PG",
   "name": "PROCTER & GAMBLE Co",
   "cik": 80424,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 84284000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 87032000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "cogs": {
-      "value": 41164000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 43362000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "grossProfit": null,
     "operatingIncome": {
-      "value": 20451000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 19748000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "netIncome": {
-      "value": 15974000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 16046000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
+    },
+    "epsBasic": {
+      "value": 6.75,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
+    },
+    "epsDiluted": {
+      "value": 6.62,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "currentAssets": {
-      "value": 25392000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 26208000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "totalAssets": {
-      "value": 125231000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 126521000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "currentLiabilities": {
-      "value": 36058000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 38694000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "totalLiabilities": {
-      "value": 72946000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 72210000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "shareholdersEquity": {
-      "value": 52284000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 54311000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "operatingCashFlow": {
-      "value": 17817000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 19556000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     },
     "capex": {
-      "value": 3773000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 4409000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-04"
     }
   },
-  "fetchedAt": "2026-05-08T18:59:51.867Z"
+  "updatedAt": "2026-08-05T16:53:16.005Z"
 }

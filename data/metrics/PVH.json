@@ -1,0 +1,88 @@
+{
+  "ticker": "PVH",
+  "name": "PVH CORP. /DE/",
+  "cik": 78239,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 8950200000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-31"
+    },
+    "cogs": {
+      "value": 3801600000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-31"
+    },
+    "grossProfit": {
+      "value": 5148600000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-31"
+    },
+    "operatingIncome": {
+      "value": 230600000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": 25300000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": 0.53,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": 0.52,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 3605200000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 11681000000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 2376200000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 4792300000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": 680400000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 142000000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:25.516Z"
+}

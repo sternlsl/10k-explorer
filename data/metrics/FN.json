@@ -1,0 +1,93 @@
+{
+  "ticker": "FN",
+  "name": "Fabrinet",
+  "cik": 1408710,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3419327000,
+      "year": 2025,
+      "periodEnd": "2025-06-27",
+      "filed": "2025-08-19"
+    },
+    "cogs": {
+      "value": 3005978000,
+      "year": 2025,
+      "periodEnd": "2025-06-27",
+      "filed": "2025-08-19"
+    },
+    "grossProfit": {
+      "value": 413349000,
+      "year": 2025,
+      "periodEnd": "2025-06-27",
+      "filed": "2025-08-19"
+    },
+    "operatingIncome": {
+      "value": 324447000,
+      "year": 2025,
+      "periodEnd": "2025-06-27",
+      "filed": "2025-08-19"
+    },
+    "netIncome": {
+      "value": 332527000,
+      "year": 2025,
+      "periodEnd": "2025-06-27",
+      "filed": "2025-08-19"
+    },
+    "epsBasic": {
+      "value": 9.23,
+      "year": 2025,
+      "periodEnd": "2025-06-27",
+      "filed": "2025-08-19"
+    },
+    "epsDiluted": {
+      "value": 9.17,
+      "year": 2025,
+      "periodEnd": "2025-06-27",
+      "filed": "2025-08-19"
+    },
+    "currentAssets": {
+      "value": 2428839000,
+      "year": 2025,
+      "periodEnd": "2025-06-27",
+      "filed": "2025-08-19"
+    },
+    "totalAssets": {
+      "value": 2831432000,
+      "year": 2025,
+      "periodEnd": "2025-06-27",
+      "filed": "2025-08-19"
+    },
+    "currentLiabilities": {
+      "value": 809842000,
+      "year": 2025,
+      "periodEnd": "2025-06-27",
+      "filed": "2025-08-19"
+    },
+    "totalLiabilities": {
+      "value": 849620000,
+      "year": 2025,
+      "periodEnd": "2025-06-27",
+      "filed": "2025-08-19"
+    },
+    "shareholdersEquity": {
+      "value": 1981812000,
+      "year": 2025,
+      "periodEnd": "2025-06-27",
+      "filed": "2025-08-19"
+    },
+    "operatingCashFlow": {
+      "value": 328365000,
+      "year": 2025,
+      "periodEnd": "2025-06-27",
+      "filed": "2025-08-19"
+    },
+    "capex": {
+      "value": 121078000,
+      "year": 2025,
+      "periodEnd": "2025-06-27",
+      "filed": "2025-08-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:12.277Z"
+}

@@ -1,0 +1,73 @@
+{
+  "ticker": "BCTXZ",
+  "name": "BriaCell Therapeutics Corp.",
+  "cik": 1610820,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -27204803,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-16"
+    },
+    "netIncome": {
+      "value": -26311867,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-16"
+    },
+    "epsBasic": {
+      "value": -62.19,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-16"
+    },
+    "epsDiluted": {
+      "value": -62.19,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-16"
+    },
+    "currentAssets": {
+      "value": 19926576,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-16"
+    },
+    "totalAssets": {
+      "value": 21649706,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-16"
+    },
+    "currentLiabilities": {
+      "value": 3977988,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-16"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -3777181,
+      "year": 2023,
+      "periodEnd": "2023-07-31",
+      "filed": "2023-10-25"
+    },
+    "operatingCashFlow": {
+      "value": -28170520,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-16"
+    },
+    "capex": {
+      "value": 456801,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2025-10-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:46.286Z"
+}

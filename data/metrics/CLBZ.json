@@ -1,0 +1,88 @@
+{
+  "ticker": "CLBZ",
+  "name": "Collab Z Inc.",
+  "cik": 2050338,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1378149,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "cogs": {
+      "value": 412783,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "grossProfit": {
+      "value": 965366,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "operatingIncome": {
+      "value": -115311,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "netIncome": {
+      "value": -102195,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "epsBasic": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "currentAssets": {
+      "value": 1614627,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "totalAssets": {
+      "value": 2490483,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "currentLiabilities": {
+      "value": 428566,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "totalLiabilities": {
+      "value": 453566,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "shareholdersEquity": {
+      "value": 1916917,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "operatingCashFlow": {
+      "value": 71281,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:05.233Z"
+}

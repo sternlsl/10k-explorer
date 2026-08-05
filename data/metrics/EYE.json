@@ -1,0 +1,83 @@
+{
+  "ticker": "EYE",
+  "name": "National Vision Holdings, Inc.",
+  "cik": 1710155,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1987488000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "cogs": {
+      "value": 713571000,
+      "year": 2018,
+      "periodEnd": "2018-12-29",
+      "filed": "2019-02-27"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 58829000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "netIncome": {
+      "value": 29600000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "epsBasic": {
+      "value": 0.37,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "epsDiluted": {
+      "value": 0.37,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "currentAssets": {
+      "value": 225722000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "totalAssets": {
+      "value": 1983678000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "currentLiabilities": {
+      "value": 412408000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 869533000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "operatingCashFlow": {
+      "value": 146293000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "capex": {
+      "value": 72840000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:48.825Z"
+}

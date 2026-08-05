@@ -1,0 +1,78 @@
+{
+  "ticker": "GLCP",
+  "name": "GLOBAL LEADERS CORP",
+  "cik": 1830696,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 14061,
+      "year": 2023,
+      "periodEnd": "2023-10-31",
+      "filed": "2024-01-26"
+    },
+    "cogs": {
+      "value": 24940,
+      "year": 2021,
+      "periodEnd": "2021-10-31",
+      "filed": "2022-01-28"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -105905,
+      "year": 2022,
+      "periodEnd": "2022-10-31",
+      "filed": "2023-02-07"
+    },
+    "netIncome": {
+      "value": -62113,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-24"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-24"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-24"
+    },
+    "currentAssets": {
+      "value": 3540,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-24"
+    },
+    "totalAssets": {
+      "value": 3540,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-24"
+    },
+    "currentLiabilities": {
+      "value": 94556,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-24"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -91016,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-24"
+    },
+    "operatingCashFlow": {
+      "value": -70297,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-24"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:39.602Z"
+}

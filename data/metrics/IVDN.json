@@ -1,0 +1,88 @@
+{
+  "ticker": "IVDN",
+  "name": "INNOVATIVE DESIGNS INC",
+  "cik": 1190370,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2765149,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-30"
+    },
+    "cogs": {
+      "value": 146912,
+      "year": 2022,
+      "periodEnd": "2022-10-31",
+      "filed": "2023-02-13"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 500606,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-30"
+    },
+    "netIncome": {
+      "value": 494703,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-30"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-02-20"
+    },
+    "epsDiluted": {
+      "value": 0.01,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-30"
+    },
+    "currentAssets": {
+      "value": 1498043,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-30"
+    },
+    "totalAssets": {
+      "value": 2212017,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-30"
+    },
+    "currentLiabilities": {
+      "value": 129538,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-30"
+    },
+    "totalLiabilities": {
+      "value": 152438,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-30"
+    },
+    "shareholdersEquity": {
+      "value": 2059579,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-30"
+    },
+    "operatingCashFlow": {
+      "value": 459847,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-30"
+    },
+    "capex": {
+      "value": 10666,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:50.002Z"
+}

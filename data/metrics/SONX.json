@@ -1,0 +1,93 @@
+{
+  "ticker": "SONX",
+  "name": "Sonendo, Inc.",
+  "cik": 1407973,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 31702000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-26"
+    },
+    "cogs": {
+      "value": 31559000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-11"
+    },
+    "grossProfit": {
+      "value": 11842000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-26"
+    },
+    "operatingIncome": {
+      "value": -29366000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-26"
+    },
+    "netIncome": {
+      "value": -28033000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-26"
+    },
+    "epsBasic": {
+      "value": -59.03,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-26"
+    },
+    "epsDiluted": {
+      "value": -59.03,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-26"
+    },
+    "currentAssets": {
+      "value": 27805000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-26"
+    },
+    "totalAssets": {
+      "value": 31265000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-26"
+    },
+    "currentLiabilities": {
+      "value": 19939000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-26"
+    },
+    "totalLiabilities": {
+      "value": 26074000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-26"
+    },
+    "shareholdersEquity": {
+      "value": 5191000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-26"
+    },
+    "operatingCashFlow": {
+      "value": -24652000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-26"
+    },
+    "capex": {
+      "value": 161000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:20.944Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "QDEL",
+  "name": "QuidelOrtho Corp",
+  "cik": 1906324,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2730200000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -919200000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "netIncome": {
+      "value": -1131800000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "epsBasic": {
+      "value": -16.69,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "epsDiluted": {
+      "value": -16.69,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "currentAssets": {
+      "value": 1447300000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "totalAssets": {
+      "value": 5769300000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "currentLiabilities": {
+      "value": 966100000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "totalLiabilities": {
+      "value": 3848800000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "shareholdersEquity": {
+      "value": 1920500000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "operatingCashFlow": {
+      "value": 105200000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "capex": {
+      "value": 188200000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:03.466Z"
+}

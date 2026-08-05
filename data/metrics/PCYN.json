@@ -1,0 +1,93 @@
+{
+  "ticker": "PCYN",
+  "name": "PROCYON CORP",
+  "cik": 812306,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 4984433,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-10-25"
+    },
+    "cogs": {
+      "value": 1092998,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-10-25"
+    },
+    "grossProfit": {
+      "value": 3891435,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-10-25"
+    },
+    "operatingIncome": {
+      "value": -231705,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-10-25"
+    },
+    "netIncome": {
+      "value": -341140,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-10-25"
+    },
+    "epsBasic": {
+      "value": -0.04,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-10-25"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-10-25"
+    },
+    "currentAssets": {
+      "value": 2365885,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-10-25"
+    },
+    "totalAssets": {
+      "value": 3204412,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-10-25"
+    },
+    "currentLiabilities": {
+      "value": 769234,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-10-25"
+    },
+    "totalLiabilities": {
+      "value": 917122,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-10-25"
+    },
+    "shareholdersEquity": {
+      "value": 2287290,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-10-25"
+    },
+    "operatingCashFlow": {
+      "value": -61251,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-10-25"
+    },
+    "capex": {
+      "value": 63912,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-10-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:15.741Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "APHD",
+  "name": "VERDE BIO HOLDINGS, INC.",
+  "cik": 1490054,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2019,
+      "periodEnd": "2019-04-30",
+      "filed": "2020-01-24"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2019,
+      "periodEnd": "2019-04-30",
+      "filed": "2020-01-24"
+    },
+    "grossProfit": {
+      "value": -1665,
+      "year": 2021,
+      "periodEnd": "2021-04-30",
+      "filed": "2021-09-15"
+    },
+    "operatingIncome": {
+      "value": -1639926,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-08-02"
+    },
+    "netIncome": {
+      "value": -1863243,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-08-02"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -1.03,
+      "year": 2020,
+      "periodEnd": "2020-04-30",
+      "filed": "2020-07-31"
+    },
+    "currentAssets": {
+      "value": 97748,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-08-02"
+    },
+    "totalAssets": {
+      "value": 4160238,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-08-02"
+    },
+    "currentLiabilities": {
+      "value": 1839182,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-08-02"
+    },
+    "totalLiabilities": {
+      "value": 1839182,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-08-02"
+    },
+    "shareholdersEquity": {
+      "value": 2211683,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-08-02"
+    },
+    "operatingCashFlow": {
+      "value": -872226,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-08-02"
+    },
+    "capex": {
+      "value": 6985,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-08-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:06.405Z"
+}

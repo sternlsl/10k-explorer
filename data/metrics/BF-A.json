@@ -1,0 +1,93 @@
+{
+  "ticker": "BF-A",
+  "name": "BROWN FORMAN CORP",
+  "cik": 14693,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 3928000000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-12"
+    },
+    "cogs": {
+      "value": 1550000000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-12"
+    },
+    "grossProfit": {
+      "value": 2378000000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-12"
+    },
+    "operatingIncome": {
+      "value": 1001000000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-12"
+    },
+    "netIncome": {
+      "value": 715000000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-12"
+    },
+    "epsBasic": {
+      "value": 1.53,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-12"
+    },
+    "epsDiluted": {
+      "value": 1.53,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-12"
+    },
+    "currentAssets": {
+      "value": 3991000000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-12"
+    },
+    "totalAssets": {
+      "value": 7894000000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-12"
+    },
+    "currentLiabilities": {
+      "value": 1232000000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-12"
+    },
+    "totalLiabilities": {
+      "value": 3874000000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-12"
+    },
+    "shareholdersEquity": {
+      "value": 4020000000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-12"
+    },
+    "operatingCashFlow": {
+      "value": 1000000000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-12"
+    },
+    "capex": {
+      "value": 107000000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:57.223Z"
+}

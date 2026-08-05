@@ -1,0 +1,73 @@
+{
+  "ticker": "JOCM",
+  "name": "JOCOM HOLDINGS CORP.",
+  "cik": 1907425,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 24000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-04-16"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 24000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-04-16"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -844160,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 8271,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-05-05"
+    },
+    "totalAssets": {
+      "value": 15840,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "currentLiabilities": {
+      "value": 122080,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "totalLiabilities": {
+      "value": 122080,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "shareholdersEquity": {
+      "value": -106240,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "operatingCashFlow": {
+      "value": -491306,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "capex": {
+      "value": 2163,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-04-08"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:57.212Z"
+}

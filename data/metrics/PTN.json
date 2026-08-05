@@ -1,0 +1,88 @@
+{
+  "ticker": "PTN",
+  "name": "PALATIN TECHNOLOGIES INC",
+  "cik": 911216,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "cogs": {
+      "value": 97637,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -17459939,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "netIncome": {
+      "value": -17307349,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "epsBasic": {
+      "value": -2.02,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "epsDiluted": {
+      "value": -32.15,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "currentAssets": {
+      "value": 2919428,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "totalAssets": {
+      "value": 3266954,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "currentLiabilities": {
+      "value": 8010030,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "totalLiabilities": {
+      "value": 8043999,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "shareholdersEquity": {
+      "value": -4777045,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "operatingCashFlow": {
+      "value": -21306637,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:27.459Z"
+}

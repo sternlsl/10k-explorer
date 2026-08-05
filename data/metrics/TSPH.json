@@ -1,0 +1,93 @@
+{
+  "ticker": "TSPH",
+  "name": "TuSimple Holdings Inc.",
+  "cik": 1823593,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 9369000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-09-07"
+    },
+    "cogs": {
+      "value": 19780000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-09-07"
+    },
+    "grossProfit": {
+      "value": -10411000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-09-07"
+    },
+    "operatingIncome": {
+      "value": -489063000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-09-07"
+    },
+    "netIncome": {
+      "value": -472045000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-09-07"
+    },
+    "epsBasic": {
+      "value": -2.11,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-09-07"
+    },
+    "epsDiluted": {
+      "value": -2.11,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-09-07"
+    },
+    "currentAssets": {
+      "value": 1007552000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-09-07"
+    },
+    "totalAssets": {
+      "value": 1074279000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-09-07"
+    },
+    "currentLiabilities": {
+      "value": 71520000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-09-07"
+    },
+    "totalLiabilities": {
+      "value": 119798000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-09-07"
+    },
+    "shareholdersEquity": {
+      "value": 954481000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-09-07"
+    },
+    "operatingCashFlow": {
+      "value": -329865000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-09-07"
+    },
+    "capex": {
+      "value": 13604000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-09-07"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:41.113Z"
+}

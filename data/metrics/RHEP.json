@@ -1,0 +1,88 @@
+{
+  "ticker": "RHEP",
+  "name": "REGIONAL HEALTH PROPERTIES, INC",
+  "cik": 1004724,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 53160000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "cogs": {
+      "value": 6982000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1664000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "netIncome": {
+      "value": -3888000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "epsBasic": {
+      "value": 1.09,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "epsDiluted": {
+      "value": 1.09,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "currentAssets": {
+      "value": 16290000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "totalAssets": {
+      "value": 67809000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "currentLiabilities": {
+      "value": 24156000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "totalLiabilities": {
+      "value": 62769000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "shareholdersEquity": {
+      "value": 349000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "operatingCashFlow": {
+      "value": -2260000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "capex": {
+      "value": 869000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:30.650Z"
+}

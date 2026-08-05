@@ -1,0 +1,58 @@
+{
+  "ticker": "SIVR",
+  "name": "abrdn Silver ETF Trust",
+  "cik": 1450922,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": {
+      "value": -163000,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-02-28"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 2836674000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": 47.07,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 5431606000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1374000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "shareholdersEquity": {
+      "value": 5430232000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "operatingCashFlow": {
+      "value": 0,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2016-02-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:25.617Z"
+}

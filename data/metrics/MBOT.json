@@ -1,0 +1,93 @@
+{
+  "ticker": "MBOT",
+  "name": "Microbot Medical Inc.",
+  "cik": 883975,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 116887,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-03-15"
+    },
+    "cogs": {
+      "value": 316628,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-13"
+    },
+    "grossProfit": {
+      "value": 886642,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-13"
+    },
+    "operatingIncome": {
+      "value": -14743000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "netIncome": {
+      "value": -13142000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": -0.29,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": -0.29,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentAssets": {
+      "value": 79822000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalAssets": {
+      "value": 81544000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentLiabilities": {
+      "value": 3421000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalLiabilities": {
+      "value": 3990000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "shareholdersEquity": {
+      "value": 77554000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "operatingCashFlow": {
+      "value": -13046000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "capex": {
+      "value": 60000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:33.396Z"
+}

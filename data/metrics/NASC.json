@@ -1,0 +1,93 @@
+{
+  "ticker": "NASC",
+  "name": "Can B Corp",
+  "cik": 1509957,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 2155744,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "cogs": {
+      "value": 1797047,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "grossProfit": {
+      "value": 358698,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "operatingIncome": {
+      "value": -7486442,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "netIncome": {
+      "value": -9737464,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "epsBasic": {
+      "value": -0.77,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "epsDiluted": {
+      "value": -0.77,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "currentAssets": {
+      "value": 5381029,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "totalAssets": {
+      "value": 10126164,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "currentLiabilities": {
+      "value": 11128132,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "totalLiabilities": {
+      "value": 11128132,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -1001968,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -1304495,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "capex": {
+      "value": 15000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:24.459Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "HCKT",
+  "name": "HACKETT GROUP, INC.",
+  "cik": 1057379,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 305626000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 188461000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-27"
+    },
+    "grossProfit": {
+      "value": 84351000,
+      "year": 2023,
+      "periodEnd": "2023-12-29",
+      "filed": "2024-03-01"
+    },
+    "operatingIncome": {
+      "value": 23534000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": 12943000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": 0.47,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": 0.46,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": {
+      "value": 83877000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 206447000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 48769000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": {
+      "value": 138347000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 68100000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 40304000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 7867000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:51.814Z"
+}

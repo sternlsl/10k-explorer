@@ -1,0 +1,78 @@
+{
+  "ticker": "LSTR",
+  "name": "LANDSTAR SYSTEM INC",
+  "cik": 853816,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4743760000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 151577000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "netIncome": {
+      "value": 115007000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": 3.31,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "epsDiluted": {
+      "value": 3.31,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "currentAssets": {
+      "value": 1216326000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "totalAssets": {
+      "value": 1635935000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "currentLiabilities": {
+      "value": 695840000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 795665000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "operatingCashFlow": {
+      "value": 224882000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "capex": {
+      "value": 9880000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:47.342Z"
+}

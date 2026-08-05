@@ -1,0 +1,88 @@
+{
+  "ticker": "CMPR",
+  "name": "CIMPRESS plc",
+  "cik": 1262976,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3403079000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-08"
+    },
+    "cogs": {
+      "value": 1785635000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-08"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 226270000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-08"
+    },
+    "netIncome": {
+      "value": 14952000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-08"
+    },
+    "epsBasic": {
+      "value": 0.6,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-08"
+    },
+    "epsDiluted": {
+      "value": 0.58,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-08"
+    },
+    "currentAssets": {
+      "value": 502606000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-08"
+    },
+    "totalAssets": {
+      "value": 1968144000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-08"
+    },
+    "currentLiabilities": {
+      "value": 758662000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-08"
+    },
+    "totalLiabilities": {
+      "value": 2531590000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-08"
+    },
+    "shareholdersEquity": {
+      "value": -583490000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-08"
+    },
+    "operatingCashFlow": {
+      "value": 298070000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-08"
+    },
+    "capex": {
+      "value": 89024000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-08"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:20.536Z"
+}

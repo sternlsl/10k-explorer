@@ -1,0 +1,93 @@
+{
+  "ticker": "HMMR",
+  "name": "HAMMER TECHNOLOGY HOLDINGS CORP.",
+  "cik": 1539680,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "cogs": {
+      "value": 2398667,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2025-02-04"
+    },
+    "grossProfit": {
+      "value": 881279,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2025-02-04"
+    },
+    "operatingIncome": {
+      "value": -3408574,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "netIncome": {
+      "value": -2797393,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "epsBasic": {
+      "value": -0.05,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "epsDiluted": {
+      "value": -0.05,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "currentAssets": {
+      "value": 19304,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "totalAssets": {
+      "value": 235534,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "currentLiabilities": {
+      "value": 877663,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "totalLiabilities": {
+      "value": 963609,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "shareholdersEquity": {
+      "value": -728075,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "operatingCashFlow": {
+      "value": -760238,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2025-02-04"
+    },
+    "capex": {
+      "value": 19719,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2025-02-04"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:05.202Z"
+}

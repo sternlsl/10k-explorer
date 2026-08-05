@@ -1,0 +1,88 @@
+{
+  "ticker": "NCPLW",
+  "name": "Netcapital Inc.",
+  "cik": 1414767,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 869460,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-12"
+    },
+    "cogs": {
+      "value": 40344,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-12"
+    },
+    "grossProfit": {
+      "value": 829116,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-12"
+    },
+    "operatingIncome": {
+      "value": -8321317,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-12"
+    },
+    "netIncome": {
+      "value": -28301325,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-12"
+    },
+    "epsBasic": {
+      "value": -20.39,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-12"
+    },
+    "epsDiluted": {
+      "value": -20.39,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-12"
+    },
+    "currentAssets": {
+      "value": 399612,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-12"
+    },
+    "totalAssets": {
+      "value": 20901491,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-12"
+    },
+    "currentLiabilities": {
+      "value": 5495767,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-12"
+    },
+    "totalLiabilities": {
+      "value": 5995767,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-12"
+    },
+    "shareholdersEquity": {
+      "value": 14905724,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-12"
+    },
+    "operatingCashFlow": {
+      "value": -5339211,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-12"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:50.137Z"
+}

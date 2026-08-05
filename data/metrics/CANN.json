@@ -1,0 +1,93 @@
+{
+  "ticker": "CANN",
+  "name": "TREES Corp (Colorado)",
+  "cik": 1477009,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 18136880,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-10"
+    },
+    "cogs": {
+      "value": 8577487,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "grossProfit": {
+      "value": -27078,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-01"
+    },
+    "operatingIncome": {
+      "value": -3974658,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-10"
+    },
+    "netIncome": {
+      "value": -7082258,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-10"
+    },
+    "epsBasic": {
+      "value": -0.06,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-10"
+    },
+    "epsDiluted": {
+      "value": -0.06,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-10"
+    },
+    "currentAssets": {
+      "value": 2354368,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-10"
+    },
+    "totalAssets": {
+      "value": 23246893,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-10"
+    },
+    "currentLiabilities": {
+      "value": 7365233,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-10"
+    },
+    "totalLiabilities": {
+      "value": 23098734,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-10"
+    },
+    "shareholdersEquity": {
+      "value": 148159,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-10"
+    },
+    "operatingCashFlow": {
+      "value": -1125482,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-10"
+    },
+    "capex": {
+      "value": 61611,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:10.768Z"
+}

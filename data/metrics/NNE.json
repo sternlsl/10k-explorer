@@ -1,0 +1,73 @@
+{
+  "ticker": "NNE",
+  "name": "Nano Nuclear Energy Inc.",
+  "cik": 1923891,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -40067076,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-18"
+    },
+    "epsBasic": {
+      "value": -1.06,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-18"
+    },
+    "epsDiluted": {
+      "value": -1.06,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-18"
+    },
+    "currentAssets": {
+      "value": 204667913,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-18"
+    },
+    "totalAssets": {
+      "value": 228656866,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-18"
+    },
+    "currentLiabilities": {
+      "value": 3826724,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-18"
+    },
+    "totalLiabilities": {
+      "value": 6088138,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-18"
+    },
+    "shareholdersEquity": {
+      "value": 222568728,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-18"
+    },
+    "operatingCashFlow": {
+      "value": -19621963,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-18"
+    },
+    "capex": {
+      "value": 8449332,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-18"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:25.959Z"
+}

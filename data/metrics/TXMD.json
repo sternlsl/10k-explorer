@@ -1,0 +1,93 @@
+{
+  "ticker": "TXMD",
+  "name": "TherapeuticsMD, Inc.",
+  "cik": 25743,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 69963000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-07"
+    },
+    "cogs": {
+      "value": 1397000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-03-29"
+    },
+    "grossProfit": {
+      "value": 1302000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "operatingIncome": {
+      "value": -4390000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "netIncome": {
+      "value": -569000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsBasic": {
+      "value": -0.05,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsDiluted": {
+      "value": -0.05,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "currentAssets": {
+      "value": 14445000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "totalAssets": {
+      "value": 37656000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "currentLiabilities": {
+      "value": 4785000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "totalLiabilities": {
+      "value": 10780000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "shareholdersEquity": {
+      "value": 26876000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "operatingCashFlow": {
+      "value": -142693000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-23"
+    },
+    "capex": {
+      "value": 34000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2023-04-07"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:03.064Z"
+}

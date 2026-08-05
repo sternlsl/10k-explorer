@@ -1,0 +1,93 @@
+{
+  "ticker": "ASYS",
+  "name": "AMTECH SYSTEMS INC",
+  "cik": 720500,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 79364000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "cogs": {
+      "value": 52381000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "grossProfit": {
+      "value": 26983000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "operatingIncome": {
+      "value": -28488000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "netIncome": {
+      "value": -30326000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "epsBasic": {
+      "value": -2.12,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "epsDiluted": {
+      "value": -2.12,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "currentAssets": {
+      "value": 60177000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "totalAssets": {
+      "value": 92873000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "currentLiabilities": {
+      "value": 20482000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "totalLiabilities": {
+      "value": 39488000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "shareholdersEquity": {
+      "value": 53385000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "operatingCashFlow": {
+      "value": 7877000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "capex": {
+      "value": 950000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:41.310Z"
+}

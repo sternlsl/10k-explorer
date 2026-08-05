@@ -1,0 +1,88 @@
+{
+  "ticker": "RSVR",
+  "name": "Reservoir Media, Inc.",
+  "cik": 1824403,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 175664491,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "cogs": {
+      "value": 61991231,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 38230815,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "netIncome": {
+      "value": 8302664,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "epsBasic": {
+      "value": 0.13,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "epsDiluted": {
+      "value": 0.13,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "currentAssets": {
+      "value": 92538262,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "totalAssets": {
+      "value": 949677081,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "currentLiabilities": {
+      "value": 65541453,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "totalLiabilities": {
+      "value": 571112829,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "shareholdersEquity": {
+      "value": 377719212,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "operatingCashFlow": {
+      "value": 50139990,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "capex": {
+      "value": 482000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:29.372Z"
+}

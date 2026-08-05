@@ -1,0 +1,88 @@
+{
+  "ticker": "EVTV",
+  "name": "Envirotech Vehicles, Inc.",
+  "cik": 1563568,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 425000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-12"
+    },
+    "cogs": {
+      "value": 19137380,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "grossProfit": {
+      "value": -13198372,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "operatingIncome": {
+      "value": -38681179,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "netIncome": {
+      "value": -39126986,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "epsBasic": {
+      "value": -11.54,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 3484380,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "totalAssets": {
+      "value": 4667816,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "currentLiabilities": {
+      "value": 13289017,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "totalLiabilities": {
+      "value": 13595921,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "shareholdersEquity": {
+      "value": -8928105,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "operatingCashFlow": {
+      "value": -5587517,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    },
+    "capex": {
+      "value": 176828,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:05.937Z"
+}

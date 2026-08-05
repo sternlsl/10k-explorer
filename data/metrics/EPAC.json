@@ -1,0 +1,88 @@
+{
+  "ticker": "EPAC",
+  "name": "ENERPAC TOOL GROUP CORP",
+  "cik": 6955,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 616899000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-17"
+    },
+    "cogs": {
+      "value": 305070000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-17"
+    },
+    "grossProfit": {
+      "value": 311829000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-17"
+    },
+    "operatingIncome": {
+      "value": 133471000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-17"
+    },
+    "netIncome": {
+      "value": 92749000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-17"
+    },
+    "epsBasic": {
+      "value": 1.72,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-17"
+    },
+    "epsDiluted": {
+      "value": 1.7,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-17"
+    },
+    "currentAssets": {
+      "value": 376118000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-17"
+    },
+    "totalAssets": {
+      "value": 827867000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-17"
+    },
+    "currentLiabilities": {
+      "value": 137102000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-17"
+    },
+    "totalLiabilities": {
+      "value": 394173000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-17"
+    },
+    "shareholdersEquity": {
+      "value": 433694000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-17"
+    },
+    "operatingCashFlow": {
+      "value": 111284000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-17"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:43.673Z"
+}

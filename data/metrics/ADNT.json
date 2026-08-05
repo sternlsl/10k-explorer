@@ -1,0 +1,78 @@
+{
+  "ticker": "ADNT",
+  "name": "Adient plc",
+  "cik": 1670541,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 14535000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "cogs": {
+      "value": 14805000000,
+      "year": 2017,
+      "periodEnd": "2017-09-30",
+      "filed": "2017-11-22"
+    },
+    "grossProfit": {
+      "value": 961000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -281000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "epsBasic": {
+      "value": -3.39,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "epsDiluted": {
+      "value": -3.39,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "currentAssets": {
+      "value": 4133000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "totalAssets": {
+      "value": 8954000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "currentLiabilities": {
+      "value": 3687000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1766000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "operatingCashFlow": {
+      "value": 449000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:57.182Z"
+}

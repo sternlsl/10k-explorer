@@ -1,0 +1,93 @@
+{
+  "ticker": "LDDD",
+  "name": "Longduoduo Co Ltd",
+  "cik": 1892316,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4262663,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "cogs": {
+      "value": 591574,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-11-14"
+    },
+    "grossProfit": {
+      "value": 4171564,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "operatingIncome": {
+      "value": 552679,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "netIncome": {
+      "value": 460435,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "epsBasic": {
+      "value": 0.015,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "epsDiluted": {
+      "value": 0.015,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "currentAssets": {
+      "value": 1813587,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "totalAssets": {
+      "value": 2126496,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "currentLiabilities": {
+      "value": 830464,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "totalLiabilities": {
+      "value": 830464,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "shareholdersEquity": {
+      "value": 1184565,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "operatingCashFlow": {
+      "value": 277365,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "capex": {
+      "value": 59375,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:51.472Z"
+}

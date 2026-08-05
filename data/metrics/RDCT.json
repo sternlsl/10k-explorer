@@ -1,0 +1,88 @@
+{
+  "ticker": "RDCT",
+  "name": "VNUE, Inc.",
+  "cik": 1376804,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 529439,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 182638,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "operatingIncome": {
+      "value": -1411119,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "netIncome": {
+      "value": -1136776,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "currentAssets": {
+      "value": 25430,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "totalAssets": {
+      "value": 25430,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "currentLiabilities": {
+      "value": 6607435,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "totalLiabilities": {
+      "value": 6607435,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -6582006,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -1084903,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2014,
+      "periodEnd": "2014-05-31",
+      "filed": "2014-09-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:28.408Z"
+}

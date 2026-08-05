@@ -1,0 +1,88 @@
+{
+  "ticker": "LBRDK",
+  "name": "Liberty Broadband Corp",
+  "cik": 1611983,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1016000000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-27"
+    },
+    "cogs": {
+      "value": 466000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-03-12"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -36000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "netIncome": {
+      "value": -2676000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "epsBasic": {
+      "value": 6.08,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-27"
+    },
+    "epsDiluted": {
+      "value": 6.08,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-27"
+    },
+    "currentAssets": {
+      "value": 103000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "totalAssets": {
+      "value": 8830000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "currentLiabilities": {
+      "value": 987000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "totalLiabilities": {
+      "value": 3132000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "shareholdersEquity": {
+      "value": 5698000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "operatingCashFlow": {
+      "value": 104000000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-27"
+    },
+    "capex": {
+      "value": 247000000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:54.639Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "FRGT",
+  "name": "Freight Technologies, Inc.",
+  "cik": 1687542,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 13728922,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -6490251,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "netIncome": {
+      "value": -5601227,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "epsBasic": {
+      "value": -6.14,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "epsDiluted": {
+      "value": -6.14,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "currentAssets": {
+      "value": 5049546,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "totalAssets": {
+      "value": 5690245,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "currentLiabilities": {
+      "value": 6345005,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "totalLiabilities": {
+      "value": 6345005,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "shareholdersEquity": {
+      "value": -654760,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "operatingCashFlow": {
+      "value": -4206168,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    },
+    "capex": {
+      "value": 9570,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:59.094Z"
+}

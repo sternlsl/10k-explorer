@@ -1,0 +1,93 @@
+{
+  "ticker": "HWKN",
+  "name": "HAWKINS INC",
+  "cik": 46250,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1083696000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-05-13"
+    },
+    "cogs": {
+      "value": 838641000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-05-13"
+    },
+    "grossProfit": {
+      "value": 245055000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-05-13"
+    },
+    "operatingIncome": {
+      "value": 121293000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-05-13"
+    },
+    "netIncome": {
+      "value": 81548000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-05-13"
+    },
+    "epsBasic": {
+      "value": 3.93,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-05-13"
+    },
+    "epsDiluted": {
+      "value": 3.91,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-05-13"
+    },
+    "currentAssets": {
+      "value": 231465000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-05-13"
+    },
+    "totalAssets": {
+      "value": 986290000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-05-13"
+    },
+    "currentLiabilities": {
+      "value": 104844000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-05-13"
+    },
+    "totalLiabilities": {
+      "value": 452281000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-05-13"
+    },
+    "shareholdersEquity": {
+      "value": 534009000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-05-13"
+    },
+    "operatingCashFlow": {
+      "value": 144327000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-05-13"
+    },
+    "capex": {
+      "value": 58239000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-05-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:39.027Z"
+}

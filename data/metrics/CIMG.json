@@ -1,0 +1,93 @@
+{
+  "ticker": "CIMG",
+  "name": "CIMG Inc.",
+  "cik": 1527613,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 10297778,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-13"
+    },
+    "cogs": {
+      "value": 1319232,
+      "year": 2017,
+      "periodEnd": "2017-09-30",
+      "filed": "2018-02-22"
+    },
+    "grossProfit": {
+      "value": 125841,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-13"
+    },
+    "operatingIncome": {
+      "value": -5198364,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-13"
+    },
+    "netIncome": {
+      "value": -4883396,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-13"
+    },
+    "epsBasic": {
+      "value": -2.8,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-13"
+    },
+    "epsDiluted": {
+      "value": -2.8,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-13"
+    },
+    "currentAssets": {
+      "value": 17126342,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-13"
+    },
+    "totalAssets": {
+      "value": 74175548,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-13"
+    },
+    "currentLiabilities": {
+      "value": 27645099,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-13"
+    },
+    "totalLiabilities": {
+      "value": 27645099,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-13"
+    },
+    "shareholdersEquity": {
+      "value": 45735232,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-13"
+    },
+    "operatingCashFlow": {
+      "value": -17593993,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-02-13"
+    },
+    "capex": {
+      "value": 319843,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2026-02-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:35.485Z"
+}

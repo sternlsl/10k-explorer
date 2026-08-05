@@ -1,0 +1,63 @@
+{
+  "ticker": "CULL",
+  "name": "Cullman Bancorp, Inc. /MD/",
+  "cik": 1845799,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 3953000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-22"
+    },
+    "epsBasic": {
+      "value": 0.56,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-22"
+    },
+    "epsDiluted": {
+      "value": 0.54,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-22"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 411641000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-22"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 309906000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-22"
+    },
+    "shareholdersEquity": {
+      "value": 101735000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-22"
+    },
+    "operatingCashFlow": {
+      "value": 5861000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-22"
+    },
+    "capex": {
+      "value": 3630000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-22"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:56.887Z"
+}

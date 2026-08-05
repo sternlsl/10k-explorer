@@ -1,0 +1,83 @@
+{
+  "ticker": "DXC",
+  "name": "DXC Technology Co",
+  "cik": 1688568,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 12644000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-08"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 970000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-08"
+    },
+    "netIncome": {
+      "value": 18000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-08"
+    },
+    "epsBasic": {
+      "value": 0.1,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-08"
+    },
+    "epsDiluted": {
+      "value": 0.1,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-08"
+    },
+    "currentAssets": {
+      "value": 5362000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-08"
+    },
+    "totalAssets": {
+      "value": 12890000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-08"
+    },
+    "currentLiabilities": {
+      "value": 3939000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-08"
+    },
+    "totalLiabilities": {
+      "value": 9681000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-08"
+    },
+    "shareholdersEquity": {
+      "value": 2941000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-08"
+    },
+    "operatingCashFlow": {
+      "value": 1248000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-08"
+    },
+    "capex": {
+      "value": 212000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-08"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:36.936Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "CIIT",
+  "name": "Tianci International, Inc.",
+  "cik": 1557798,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 9282997,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-03"
+    },
+    "cogs": {
+      "value": 8832874,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-03"
+    },
+    "grossProfit": {
+      "value": 450123,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-03"
+    },
+    "operatingIncome": {
+      "value": -2707915,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-03"
+    },
+    "netIncome": {
+      "value": -2640789,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-03"
+    },
+    "epsBasic": {
+      "value": 0.1,
+      "year": 2022,
+      "periodEnd": "2022-07-31",
+      "filed": "2022-10-31"
+    },
+    "epsDiluted": {
+      "value": 0.1,
+      "year": 2022,
+      "periodEnd": "2022-07-31",
+      "filed": "2022-10-31"
+    },
+    "currentAssets": {
+      "value": 3003252,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-03"
+    },
+    "totalAssets": {
+      "value": 3145971,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-03"
+    },
+    "currentLiabilities": {
+      "value": 97651,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-03"
+    },
+    "totalLiabilities": {
+      "value": 159054,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-03"
+    },
+    "shareholdersEquity": {
+      "value": 2984306,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-03"
+    },
+    "operatingCashFlow": {
+      "value": -3225714,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-03"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:31.530Z"
+}

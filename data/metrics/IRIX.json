@@ -1,0 +1,93 @@
+{
+  "ticker": "IRIX",
+  "name": "IRIDEX CORP",
+  "cik": 1006045,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 52675000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-04-02"
+    },
+    "cogs": {
+      "value": 33448000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-04-02"
+    },
+    "grossProfit": {
+      "value": 19227000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-04-02"
+    },
+    "operatingIncome": {
+      "value": -2571000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-04-02"
+    },
+    "netIncome": {
+      "value": -4437000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-04-02"
+    },
+    "epsBasic": {
+      "value": -0.26,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-04-02"
+    },
+    "epsDiluted": {
+      "value": -0.26,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-04-02"
+    },
+    "currentAssets": {
+      "value": 25252000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-04-02"
+    },
+    "totalAssets": {
+      "value": 29151000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-04-02"
+    },
+    "currentLiabilities": {
+      "value": 13208000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-04-02"
+    },
+    "totalLiabilities": {
+      "value": 24229000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-04-02"
+    },
+    "shareholdersEquity": {
+      "value": 4922000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-04-02"
+    },
+    "operatingCashFlow": {
+      "value": -2115000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-04-02"
+    },
+    "capex": {
+      "value": 143000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-04-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:17.049Z"
+}

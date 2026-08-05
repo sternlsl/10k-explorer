@@ -1,0 +1,63 @@
+{
+  "ticker": "MGYR",
+  "name": "Magyar Bancorp, Inc.",
+  "cik": 1337068,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 9760000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "epsBasic": {
+      "value": 1.57,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "epsDiluted": {
+      "value": 1.56,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 997660000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 878818000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "shareholdersEquity": {
+      "value": 118842000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "operatingCashFlow": {
+      "value": 10389000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "capex": {
+      "value": 574000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:54.518Z"
+}

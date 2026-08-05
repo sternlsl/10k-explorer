@@ -1,0 +1,73 @@
+{
+  "ticker": "GBX",
+  "name": "GREENBRIER COMPANIES INC",
+  "cik": 923120,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3240200000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-28"
+    },
+    "cogs": {
+      "value": 35655000,
+      "year": 2013,
+      "periodEnd": "2013-08-31",
+      "filed": "2013-10-31"
+    },
+    "grossProfit": {
+      "value": 607500000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-28"
+    },
+    "operatingIncome": {
+      "value": 360100000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-28"
+    },
+    "netIncome": {
+      "value": 204100000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-28"
+    },
+    "epsBasic": {
+      "value": 6.55,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-28"
+    },
+    "epsDiluted": {
+      "value": 6.35,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-28"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 4360600000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-28"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1532500000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-28"
+    },
+    "operatingCashFlow": {
+      "value": 265700000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-28"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:04.292Z"
+}

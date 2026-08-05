@@ -1,0 +1,88 @@
+{
+  "ticker": "TRCK",
+  "name": "Track Group, Inc.",
+  "cik": 1045942,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 33875167,
+      "year": 2020,
+      "periodEnd": "2020-09-30",
+      "filed": "2020-12-23"
+    },
+    "cogs": {
+      "value": 13306108,
+      "year": 2020,
+      "periodEnd": "2020-09-30",
+      "filed": "2020-12-23"
+    },
+    "grossProfit": {
+      "value": 17499648,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "operatingIncome": {
+      "value": 1244337,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "netIncome": {
+      "value": -1883753,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "epsBasic": {
+      "value": -0.16,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "epsDiluted": {
+      "value": -0.16,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "currentAssets": {
+      "value": 11380807,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "totalAssets": {
+      "value": 40303520,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "currentLiabilities": {
+      "value": 8596256,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "totalLiabilities": {
+      "value": 51846465,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "shareholdersEquity": {
+      "value": -11542945,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "operatingCashFlow": {
+      "value": 4317469,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:02.609Z"
+}

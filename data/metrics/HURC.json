@@ -1,0 +1,88 @@
+{
+  "ticker": "HURC",
+  "name": "HURCO COMPANIES INC",
+  "cik": 315374,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 178554000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-09"
+    },
+    "cogs": {
+      "value": 145574000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-09"
+    },
+    "grossProfit": {
+      "value": 32980000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-09"
+    },
+    "operatingIncome": {
+      "value": -10268000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-09"
+    },
+    "netIncome": {
+      "value": -15117000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-09"
+    },
+    "epsBasic": {
+      "value": -2.34,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-09"
+    },
+    "epsDiluted": {
+      "value": -2.34,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-09"
+    },
+    "currentAssets": {
+      "value": 225078000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-09"
+    },
+    "totalAssets": {
+      "value": 264298000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-09"
+    },
+    "currentLiabilities": {
+      "value": 52023000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-09"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 198787000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-09"
+    },
+    "operatingCashFlow": {
+      "value": 17561000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-09"
+    },
+    "capex": {
+      "value": 910000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-09"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:59.474Z"
+}

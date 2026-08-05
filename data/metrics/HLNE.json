@@ -1,0 +1,63 @@
+{
+  "ticker": "HLNE",
+  "name": "Hamilton Lane INC",
+  "cik": 1433642,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 758993000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 249180000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 3.98,
+      "year": 2022,
+      "periodEnd": "2022-03-31",
+      "filed": "2022-05-26"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2304896000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 838357000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "shareholdersEquity": {
+      "value": 915232000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "operatingCashFlow": {
+      "value": 424917000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "capex": {
+      "value": 5844000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:03.479Z"
+}

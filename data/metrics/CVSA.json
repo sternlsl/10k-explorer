@@ -1,0 +1,88 @@
+{
+  "ticker": "CVSA",
+  "name": "Covista Inc.",
+  "cik": 730464,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1788290000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "cogs": {
+      "value": 771430000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 341542000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "netIncome": {
+      "value": 237065000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "epsBasic": {
+      "value": 6.39,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "epsDiluted": {
+      "value": 6.18,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "currentAssets": {
+      "value": 416190000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "totalAssets": {
+      "value": 2752352000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "currentLiabilities": {
+      "value": 507927000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "totalLiabilities": {
+      "value": 1318727000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "shareholdersEquity": {
+      "value": 1433625000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "operatingCashFlow": {
+      "value": 337899000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "capex": {
+      "value": 50327000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:29.985Z"
+}
