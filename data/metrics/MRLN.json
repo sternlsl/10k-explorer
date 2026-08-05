@@ -3,6 +3,10 @@
   "name": "Merlin, Inc.",
   "cik": 2028707,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T16:59:06.876Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -3857197
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 6008347
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 2312022,
+      "2025": 913610
+    },
+    "totalAssets": {
+      "2024": 254219522,
+      "2025": 263149350
+    },
+    "currentLiabilities": {
+      "2024": 1078451,
+      "2025": 3329932
+    },
+    "totalLiabilities": {
+      "2024": 9828451,
+      "2025": 12079932
+    },
+    "shareholdersEquity": {
+      "2024": -7365127,
+      "2025": -11166322
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -1328713
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:58:23.852Z"
 }

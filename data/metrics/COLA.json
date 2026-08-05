@@ -3,6 +3,10 @@
   "name": "Columbus Acquisition Corp/Cayman Islands",
   "cik": 2028201,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -69,5 +73,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:04:11.265Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": -77094,
+      "2025": -946512
+    },
+    "netIncome": {
+      "2024": -77094,
+      "2025": 1285090
+    },
+    "epsBasic": {
+      "2024": -0.05,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": -0.05,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": 489447
+    },
+    "totalAssets": {
+      "2024": 200034,
+      "2025": 62721049
+    },
+    "currentLiabilities": {
+      "2024": 252128,
+      "2025": 310209
+    },
+    "totalLiabilities": {
+      "2024": 252128,
+      "2025": 310209
+    },
+    "shareholdersEquity": {
+      "2024": -52094,
+      "2025": 179238
+    },
+    "operatingCashFlow": {
+      "2024": -74678,
+      "2025": -582932
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:51.495Z"
 }

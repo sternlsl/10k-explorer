@@ -3,6 +3,9 @@
   "name": "SilverBox Corp V",
   "cik": 2081909,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +47,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:49.999Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 959927
+    },
+    "totalAssets": {
+      "2025": 277803811
+    },
+    "currentLiabilities": {
+      "2025": 92083
+    },
+    "totalLiabilities": {
+      "2025": 20309946
+    },
+    "shareholdersEquity": {
+      "2025": -19275019
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:36.577Z"
 }

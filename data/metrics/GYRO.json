@@ -3,6 +3,13 @@
   "name": "Gyrodyne, LLC",
   "cik": 1589061,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2013,
+    2014,
+    2015,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 2798528,
@@ -49,5 +56,105 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:05:24.514Z"
+  "history": {
+    "revenue": {
+      "2013": null,
+      "2014": 2798528,
+      "2015": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2013": null,
+      "2014": -3105366,
+      "2015": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsBasic": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2013": null,
+      "2014": 43876364,
+      "2015": 58334819,
+      "2024": 56660091,
+      "2025": 58690701
+    },
+    "currentLiabilities": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2013": null,
+      "2014": 20418753,
+      "2015": 14879242,
+      "2024": 26063778,
+      "2025": 32831704
+    },
+    "shareholdersEquity": {
+      "2013": 27997481,
+      "2014": 23457611,
+      "2015": 43916720,
+      "2024": null,
+      "2025": null
+    },
+    "operatingCashFlow": {
+      "2013": null,
+      "2014": -5470298,
+      "2015": null,
+      "2024": null,
+      "2025": null
+    },
+    "capex": {
+      "2013": null,
+      "2014": null,
+      "2015": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:02:37.763Z"
 }

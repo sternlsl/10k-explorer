@@ -3,6 +3,13 @@
   "name": "ALLIANCEBERNSTEIN HOLDING L.P.",
   "cik": 825313,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -39,5 +46,105 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T16:56:35.787Z"
+  "history": {
+    "revenue": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2021": 385843000,
+      "2022": 274165000,
+      "2023": 264184000,
+      "2024": 423374000,
+      "2025": 299836000
+    },
+    "epsBasic": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2021": 1623764000,
+      "2022": 2074626000,
+      "2023": 2077540000,
+      "2024": 2034632000,
+      "2025": 1240042000
+    },
+    "currentLiabilities": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2021": 2140000,
+      "2022": 1623000,
+      "2023": 1295000,
+      "2024": 2770000,
+      "2025": 1664000
+    },
+    "shareholdersEquity": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingCashFlow": {
+      "2021": 355109000,
+      "2022": 362614000,
+      "2023": 293975000,
+      "2024": 340481000,
+      "2025": 352372000
+    },
+    "capex": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:56:29.575Z"
 }

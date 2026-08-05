@@ -3,6 +3,9 @@
   "name": "Bluerock Acquisition Corp.",
   "cik": 2081532,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +47,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:46.589Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 781394
+    },
+    "totalAssets": {
+      "2025": 173583797
+    },
+    "currentLiabilities": {
+      "2025": 79617
+    },
+    "totalLiabilities": {
+      "2025": 7429617
+    },
+    "shareholdersEquity": {
+      "2025": -6584494
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:16.600Z"
 }

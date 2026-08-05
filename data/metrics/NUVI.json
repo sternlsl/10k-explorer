@@ -3,6 +3,13 @@
   "name": "Emo Capital Corp.",
   "cik": 1410708,
   "fiscalYear": 2015,
+  "fiscalYears": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -49,5 +56,105 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:09:10.856Z"
+  "history": {
+    "revenue": {
+      "2011": null,
+      "2012": null,
+      "2013": null,
+      "2014": null,
+      "2015": null
+    },
+    "cogs": {
+      "2011": null,
+      "2012": null,
+      "2013": null,
+      "2014": null,
+      "2015": null
+    },
+    "grossProfit": {
+      "2011": null,
+      "2012": null,
+      "2013": null,
+      "2014": null,
+      "2015": null
+    },
+    "operatingIncome": {
+      "2011": -3800,
+      "2012": -9052,
+      "2013": -19529,
+      "2014": -3721,
+      "2015": -8869
+    },
+    "netIncome": {
+      "2011": -3800,
+      "2012": -9052,
+      "2013": -19529,
+      "2014": -3721,
+      "2015": -8869
+    },
+    "epsBasic": {
+      "2011": null,
+      "2012": null,
+      "2013": null,
+      "2014": null,
+      "2015": null
+    },
+    "epsDiluted": {
+      "2011": null,
+      "2012": null,
+      "2013": null,
+      "2014": null,
+      "2015": null
+    },
+    "currentAssets": {
+      "2011": 0,
+      "2012": 584,
+      "2013": null,
+      "2014": null,
+      "2015": null
+    },
+    "totalAssets": {
+      "2011": 0,
+      "2012": 584,
+      "2013": 0,
+      "2014": 0,
+      "2015": 0
+    },
+    "currentLiabilities": {
+      "2011": 19244,
+      "2012": 28880,
+      "2013": 47825,
+      "2014": 51546,
+      "2015": 60415
+    },
+    "totalLiabilities": {
+      "2011": null,
+      "2012": null,
+      "2013": null,
+      "2014": null,
+      "2015": null
+    },
+    "shareholdersEquity": {
+      "2011": -19244,
+      "2012": -28296,
+      "2013": -47825,
+      "2014": -51546,
+      "2015": -60415
+    },
+    "operatingCashFlow": {
+      "2011": null,
+      "2012": null,
+      "2013": null,
+      "2014": null,
+      "2015": null
+    },
+    "capex": {
+      "2011": null,
+      "2012": null,
+      "2013": null,
+      "2014": null,
+      "2015": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:28.515Z"
 }

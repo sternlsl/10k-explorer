@@ -3,6 +3,10 @@
   "name": "Renatus Tactical Acquisition Corp I",
   "cik": 2035173,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +58,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:30.287Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 5055742
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 26577,
+      "2025": 428133
+    },
+    "totalAssets": {
+      "2024": 624375,
+      "2025": 248611625
+    },
+    "currentLiabilities": {
+      "2024": 599375,
+      "2025": 40100
+    },
+    "totalLiabilities": {
+      "2024": 599375,
+      "2025": 10423035
+    },
+    "shareholdersEquity": {
+      "2024": 25000,
+      "2025": -9994902
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -991948
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:21.892Z"
 }

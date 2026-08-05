@@ -3,6 +3,10 @@
   "name": "Iron Horse Acquisition II Corp.",
   "cik": 2051985,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -64,5 +68,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:16.253Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -204391
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": -204391
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": -0.04
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": -0.04
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": 25432
+    },
+    "totalAssets": {
+      "2024": 15000,
+      "2025": 364681
+    },
+    "currentLiabilities": {
+      "2024": 16275,
+      "2025": 538347
+    },
+    "totalLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "shareholdersEquity": {
+      "2024": -1275,
+      "2025": -173666
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -142761
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:55.206Z"
 }

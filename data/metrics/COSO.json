@@ -3,6 +3,11 @@
   "name": "CoastalSouth Bancshares, Inc.",
   "cik": 1297107,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 1985000,
@@ -64,5 +69,77 @@
       "filed": "2026-03-12"
     }
   },
-  "updatedAt": "2026-08-05T17:01:09.337Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": 1865000,
+      "2025": 1985000
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 21904000,
+      "2025": 24892000
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": 2.15,
+      "2025": 2.24
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": 2.09,
+      "2025": 2.16
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 2098712000,
+      "2025": 2306586000
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 1903480000,
+      "2025": 2047057000
+    },
+    "shareholdersEquity": {
+      "2023": 156043000,
+      "2024": 195232000,
+      "2025": 259529000
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -12669000,
+      "2025": 63128000
+    },
+    "capex": {
+      "2023": null,
+      "2024": 1414000,
+      "2025": 1830000
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:50.617Z"
 }

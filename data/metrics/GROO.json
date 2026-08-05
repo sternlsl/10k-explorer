@@ -3,6 +3,10 @@
   "name": "GROOVY COMPANY, INC.",
   "cik": 1499275,
   "fiscalYear": 2012,
+  "fiscalYears": [
+    2011,
+    2012
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +48,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:09:34.031Z"
+  "history": {
+    "revenue": {
+      "2011": null,
+      "2012": null
+    },
+    "cogs": {
+      "2011": null,
+      "2012": null
+    },
+    "grossProfit": {
+      "2011": null,
+      "2012": null
+    },
+    "operatingIncome": {
+      "2011": null,
+      "2012": null
+    },
+    "netIncome": {
+      "2011": null,
+      "2012": null
+    },
+    "epsBasic": {
+      "2011": null,
+      "2012": null
+    },
+    "epsDiluted": {
+      "2011": null,
+      "2012": null
+    },
+    "currentAssets": {
+      "2011": 2187,
+      "2012": 50793
+    },
+    "totalAssets": {
+      "2011": 6764,
+      "2012": 135071
+    },
+    "currentLiabilities": {
+      "2011": null,
+      "2012": null
+    },
+    "totalLiabilities": {
+      "2011": 39927,
+      "2012": 125868
+    },
+    "shareholdersEquity": {
+      "2011": -33163,
+      "2012": 9203
+    },
+    "operatingCashFlow": {
+      "2011": -50165,
+      "2012": -136183
+    },
+    "capex": {
+      "2011": null,
+      "2012": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:42.264Z"
 }

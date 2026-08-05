@@ -3,6 +3,11 @@
   "name": "AtlasClear Holdings, Inc.",
   "cik": 1963088,
   "fiscalYear": 2023,
+  "fiscalYears": [
+    2021,
+    2022,
+    2023
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +64,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:04:18.625Z"
+  "history": {
+    "revenue": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "cogs": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "grossProfit": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "operatingIncome": {
+      "2021": null,
+      "2022": -3024231,
+      "2023": -2737871
+    },
+    "netIncome": {
+      "2021": null,
+      "2022": 11045567,
+      "2023": 794950
+    },
+    "epsBasic": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "epsDiluted": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "currentAssets": {
+      "2021": null,
+      "2022": 163212,
+      "2023": 678382
+    },
+    "totalAssets": {
+      "2021": null,
+      "2022": 204207681,
+      "2023": 55477860
+    },
+    "currentLiabilities": {
+      "2021": null,
+      "2022": 5612724,
+      "2023": 12064611
+    },
+    "totalLiabilities": {
+      "2021": null,
+      "2022": 5797318,
+      "2023": 12372267
+    },
+    "shareholdersEquity": {
+      "2021": -13885204,
+      "2022": -5009839,
+      "2023": -11512876
+    },
+    "operatingCashFlow": {
+      "2021": null,
+      "2022": -1084259,
+      "2023": -1819835
+    },
+    "capex": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:56.281Z"
 }

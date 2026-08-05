@@ -3,6 +3,10 @@
   "name": "GigCapital7 Corp.",
   "cik": 2023730,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 0,
@@ -64,5 +68,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:45.288Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": 0
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -3340796
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 3825465
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 1551908,
+      "2025": 240706
+    },
+    "totalAssets": {
+      "2024": 204826596,
+      "2025": 211878016
+    },
+    "currentLiabilities": {
+      "2024": 173487,
+      "2025": 2116387
+    },
+    "totalLiabilities": {
+      "2024": 415222,
+      "2025": 3641177
+    },
+    "shareholdersEquity": {
+      "2024": 1322670,
+      "2025": -3300471
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -1179866
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:32.857Z"
 }

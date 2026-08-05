@@ -3,6 +3,11 @@
   "name": "Black Hawk Acquisition Corp",
   "cik": 2000775,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +64,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:04:07.700Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -576076,
+      "2025": -915510
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 1915703,
+      "2025": 1329557
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": 156000,
+      "2024": 314071,
+      "2025": 50790
+    },
+    "totalAssets": {
+      "2023": 263000,
+      "2024": 72143335,
+      "2025": 23877939
+    },
+    "currentLiabilities": {
+      "2023": 256853,
+      "2024": 70978,
+      "2025": 1482233
+    },
+    "totalLiabilities": {
+      "2023": 256853,
+      "2024": 2485978,
+      "2025": 3897233
+    },
+    "shareholdersEquity": {
+      "2023": 6147,
+      "2024": -2171907,
+      "2025": -3846443
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -553665,
+      "2025": -650321
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:49.157Z"
 }

@@ -3,6 +3,9 @@
   "name": "Bain Capital GSS Investment Corp.",
   "cik": 2064355,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +47,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T16:59:39.983Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 1023538
+    },
+    "totalAssets": {
+      "2025": 465840596
+    },
+    "currentLiabilities": {
+      "2025": 291711
+    },
+    "totalLiabilities": {
+      "2025": 16391711
+    },
+    "shareholdersEquity": {
+      "2025": -15199198
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:58:46.594Z"
 }

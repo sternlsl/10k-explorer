@@ -3,6 +3,13 @@
   "name": "Woodbridge Liquidation Trust",
   "cik": 1785494,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -29,5 +36,105 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:04:47.025Z"
+  "history": {
+    "revenue": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsBasic": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2021": 199970000,
+      "2022": 137818000,
+      "2023": 33592000,
+      "2024": 63380000,
+      "2025": 64154000
+    },
+    "currentLiabilities": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2021": 70430000,
+      "2022": 103423000,
+      "2023": 26819000,
+      "2024": 23511000,
+      "2025": 26820000
+    },
+    "shareholdersEquity": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingCashFlow": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "capex": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:02:15.225Z"
 }

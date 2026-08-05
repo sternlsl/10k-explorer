@@ -3,6 +3,11 @@
   "name": "Caring Brands, Inc.",
   "cik": 2020737,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 4215,
@@ -84,5 +89,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:05:29.503Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": 4215
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": 1873
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": 2342
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": -5935025
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -1517431,
+      "2025": -6278191
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": -0.46
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": -0.46
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 527481,
+      "2025": 2326818
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 3877481,
+      "2025": 2326818
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 186105,
+      "2025": 176844
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 186105,
+      "2025": 235494
+    },
+    "shareholdersEquity": {
+      "2023": -265774,
+      "2024": 3691376,
+      "2025": 2091324
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": null,
+      "2025": -1692258
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:02:39.907Z"
 }

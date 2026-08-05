@@ -3,6 +3,10 @@
   "name": "Blue Line Holdings, Inc.",
   "cik": 2029586,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -69,5 +73,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:09:48.358Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -106125
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": -106125
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": -0.11
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": -0.11
+    },
+    "currentAssets": {
+      "2024": 24719,
+      "2025": 20316
+    },
+    "totalAssets": {
+      "2024": 24719,
+      "2025": 20316
+    },
+    "currentLiabilities": {
+      "2024": 6000,
+      "2025": 32622
+    },
+    "totalLiabilities": {
+      "2024": 6000,
+      "2025": 32622
+    },
+    "shareholdersEquity": {
+      "2024": 403,
+      "2025": -12306
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -83878
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:48.177Z"
 }

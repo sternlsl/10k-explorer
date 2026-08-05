@@ -3,6 +3,11 @@
   "name": "Tech Tonic Group Corp.",
   "cik": 2029303,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 92000,
@@ -74,5 +79,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:09:40.323Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": 0,
+      "2025": 92000
+    },
+    "cogs": {
+      "2023": null,
+      "2024": 0,
+      "2025": 48000
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": 44000
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -5494,
+      "2025": -1211
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": 0,
+      "2025": 0
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 2000,
+      "2025": 73430
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 2000,
+      "2025": 80365
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 5000,
+      "2025": 28122
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 5000,
+      "2025": 28122
+    },
+    "shareholdersEquity": {
+      "2023": 0,
+      "2024": -3000,
+      "2025": 52243
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -3994,
+      "2025": 16123
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:44.672Z"
 }

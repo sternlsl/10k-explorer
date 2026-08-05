@@ -3,6 +3,10 @@
   "name": "Kestrel Group Ltd",
   "cik": 2055116,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 34049000,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:03:14.806Z"
+  "history": {
+    "revenue": {
+      "2024": 3847000,
+      "2025": 34049000
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2024": -1291000,
+      "2025": 46725000
+    },
+    "epsBasic": {
+      "2024": -0.47,
+      "2025": 8.08
+    },
+    "epsDiluted": {
+      "2024": -0.47,
+      "2025": 8.08
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2024": 5510000,
+      "2025": 1009955000
+    },
+    "currentLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2024": 904000,
+      "2025": 881671000
+    },
+    "shareholdersEquity": {
+      "2024": 4606000,
+      "2025": 128284000
+    },
+    "operatingCashFlow": {
+      "2024": -1267000,
+      "2025": -96141000
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:14.323Z"
 }

@@ -3,6 +3,11 @@
   "name": "STEELE BANCORP INC",
   "cik": 779227,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +59,77 @@
       "filed": "2026-03-30"
     }
   },
-  "updatedAt": "2026-08-05T17:03:33.848Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 4481000,
+      "2025": 22888000
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": 2.41,
+      "2025": 9.15
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 596702000,
+      "2025": 1261457000
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 540785000,
+      "2025": 1143058000
+    },
+    "shareholdersEquity": {
+      "2023": 53022000,
+      "2024": 55917000,
+      "2025": 118399000
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": 5609000,
+      "2025": 13251000
+    },
+    "capex": {
+      "2023": null,
+      "2024": 193000,
+      "2025": 182000
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:28.206Z"
 }

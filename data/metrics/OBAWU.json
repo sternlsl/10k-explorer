@@ -3,6 +3,10 @@
   "name": "Oxley Bridge Acquisition Ltd",
   "cik": 2034313,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:00.485Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -463503
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 4782187
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": 1060807
+    },
+    "totalAssets": {
+      "2024": 94710,
+      "2025": 259327478
+    },
+    "currentLiabilities": {
+      "2024": 118543,
+      "2025": 111507
+    },
+    "totalLiabilities": {
+      "2024": 118543,
+      "2025": 12156507
+    },
+    "shareholdersEquity": {
+      "2024": -23833,
+      "2025": -11056054
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -448134
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:44.589Z"
 }

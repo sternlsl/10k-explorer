@@ -3,6 +3,9 @@
   "name": "Range Capital Acquisition Corp II",
   "cik": 2078653,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +47,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:05.610Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 1208059
+    },
+    "totalAssets": {
+      "2025": 233365127
+    },
+    "currentLiabilities": {
+      "2025": 85602
+    },
+    "totalLiabilities": {
+      "2025": 8135602
+    },
+    "shareholdersEquity": {
+      "2025": -6875020
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:48.345Z"
 }

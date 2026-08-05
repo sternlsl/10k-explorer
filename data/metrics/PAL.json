@@ -3,6 +3,10 @@
   "name": "Proficient Auto Logistics, Inc",
   "cik": 1998768,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +58,63 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:02:01.505Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2024": -8475268,
+      "2025": -36019566
+    },
+    "epsBasic": {
+      "2024": -0.47,
+      "2025": -1.31
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 67687442,
+      "2025": 71397163
+    },
+    "totalAssets": {
+      "2024": 508086944,
+      "2025": 477977509
+    },
+    "currentLiabilities": {
+      "2024": 52623931,
+      "2025": 63896742
+    },
+    "totalLiabilities": {
+      "2024": 170107421,
+      "2025": 166587038
+    },
+    "shareholdersEquity": {
+      "2024": 337979523,
+      "2025": 311390471
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": null
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:26.374Z"
 }

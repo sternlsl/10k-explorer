@@ -3,6 +3,9 @@
   "name": "LightWave Acquisition Corp.",
   "cik": 2061379,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +62,49 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:08.732Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": -466055
+    },
+    "netIncome": {
+      "2025": 3633569
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 916782
+    },
+    "totalAssets": {
+      "2025": 221031393
+    },
+    "currentLiabilities": {
+      "2025": 153345
+    },
+    "totalLiabilities": {
+      "2025": 7700220
+    },
+    "shareholdersEquity": {
+      "2025": -6748678
+    },
+    "operatingCashFlow": {
+      "2025": -476927
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:49.975Z"
 }

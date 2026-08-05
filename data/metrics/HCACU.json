@@ -3,6 +3,9 @@
   "name": "Hall Chadwick Acquisition Corp",
   "cik": 2079013,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +47,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:16.675Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 710677
+    },
+    "totalAssets": {
+      "2025": 208559328
+    },
+    "currentLiabilities": {
+      "2025": 59550
+    },
+    "totalLiabilities": {
+      "2025": 8339550
+    },
+    "shareholdersEquity": {
+      "2025": -6780223
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:55.572Z"
 }

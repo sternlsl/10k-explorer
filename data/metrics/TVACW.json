@@ -3,6 +3,10 @@
   "name": "Texas Ventures Acquisition III Corp",
   "cik": 2033991,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +58,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:03.986Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 5926421
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 6798,
+      "2025": 958631
+    },
+    "totalAssets": {
+      "2024": 255223,
+      "2025": 233452498
+    },
+    "currentLiabilities": {
+      "2024": 274960,
+      "2025": 233852
+    },
+    "totalLiabilities": {
+      "2024": 274960,
+      "2025": 9233852
+    },
+    "shareholdersEquity": {
+      "2024": -19737,
+      "2025": -8241887
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -437989
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:47.204Z"
 }

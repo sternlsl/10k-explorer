@@ -3,6 +3,12 @@
   "name": "CN Healthy Food Tech Group Corp.",
   "cik": 1901203,
   "fiscalYear": 2024,
+  "fiscalYears": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +65,91 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:18.520Z"
+  "history": {
+    "revenue": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null
+    },
+    "cogs": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null
+    },
+    "grossProfit": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null
+    },
+    "operatingIncome": {
+      "2021": null,
+      "2022": -181003,
+      "2023": -309018,
+      "2024": -1709829
+    },
+    "netIncome": {
+      "2021": null,
+      "2022": -181003,
+      "2023": -308792,
+      "2024": 1375819
+    },
+    "epsBasic": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null
+    },
+    "epsDiluted": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null
+    },
+    "currentAssets": {
+      "2021": null,
+      "2022": null,
+      "2023": 690134,
+      "2024": 43517
+    },
+    "totalAssets": {
+      "2021": null,
+      "2022": 671667,
+      "2023": 69690134,
+      "2024": 72796002
+    },
+    "currentLiabilities": {
+      "2021": null,
+      "2022": 847041,
+      "2023": 861640,
+      "2024": 2591689
+    },
+    "totalLiabilities": {
+      "2021": null,
+      "2022": 847041,
+      "2023": 3380140,
+      "2024": 5110189
+    },
+    "shareholdersEquity": {
+      "2021": 5629,
+      "2022": -175374,
+      "2023": -2690006,
+      "2024": -4143761
+    },
+    "operatingCashFlow": {
+      "2021": null,
+      "2022": null,
+      "2023": -83200,
+      "2024": -1012960
+    },
+    "capex": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:56.831Z"
 }

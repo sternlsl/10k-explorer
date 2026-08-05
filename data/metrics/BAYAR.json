@@ -3,6 +3,11 @@
   "name": "Bayview Acquisition Corp",
   "cik": 1969475,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +64,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:04:38.751Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": -21539,
+      "2024": -1027170,
+      "2025": -986503
+    },
+    "netIncome": {
+      "2023": 85516,
+      "2024": 1752975,
+      "2025": 202599
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": 654322,
+      "2024": 124967,
+      "2025": 52465
+    },
+    "totalAssets": {
+      "2023": 60791054,
+      "2024": 39707787,
+      "2025": 11813455
+    },
+    "currentLiabilities": {
+      "2023": 313759,
+      "2024": 1280893,
+      "2025": 3467119
+    },
+    "totalLiabilities": {
+      "2023": 2413759,
+      "2024": 3380893,
+      "2025": 5567119
+    },
+    "shareholdersEquity": {
+      "2023": -1729760,
+      "2024": -3255926,
+      "2025": -5514654
+    },
+    "operatingCashFlow": {
+      "2023": -4410,
+      "2024": -488688,
+      "2025": -49491
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:02:09.738Z"
 }

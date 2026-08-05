@@ -3,6 +3,11 @@
   "name": "Turn Therapeutics Inc.",
   "cik": 2023016,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -69,5 +74,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:02:56.580Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -1797124,
+      "2025": -5858648
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -1768415,
+      "2025": -3194080
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": -0.07,
+      "2025": -0.12
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": -0.07,
+      "2025": -0.12
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 1097924,
+      "2025": 5196444
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 2048889,
+      "2025": 12162241
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 707932,
+      "2025": 6003424
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 2226321,
+      "2025": 7475518
+    },
+    "shareholdersEquity": {
+      "2023": 85768,
+      "2024": -177432,
+      "2025": 4686723
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -1361305,
+      "2025": -2562901
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:01.183Z"
 }

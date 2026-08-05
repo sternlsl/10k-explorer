@@ -3,6 +3,10 @@
   "name": "SIM Acquisition Corp. I",
   "cik": 2014982,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:56.486Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": -575708,
+      "2025": -1005841
+    },
+    "netIncome": {
+      "2024": 4747104,
+      "2025": 8789649
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 824285,
+      "2025": 270427
+    },
+    "totalAssets": {
+      "2024": 236327097,
+      "2025": 245388730
+    },
+    "currentLiabilities": {
+      "2024": 32609,
+      "2025": 304592
+    },
+    "totalLiabilities": {
+      "2024": 10982609,
+      "2025": 11254592
+    },
+    "shareholdersEquity": {
+      "2024": -9878324,
+      "2025": -10884165
+    },
+    "operatingCashFlow": {
+      "2024": -843935,
+      "2025": -631658
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:41.687Z"
 }

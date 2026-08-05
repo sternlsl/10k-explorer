@@ -3,6 +3,10 @@
   "name": "Aldel Financial II Inc.",
   "cik": 2031561,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +58,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:03.067Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -653532
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 9225582
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 1327090,
+      "2025": 679676
+    },
+    "totalAssets": {
+      "2024": 234493592,
+      "2025": 243725291
+    },
+    "currentLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2024": 22027,
+      "2025": 28145
+    },
+    "shareholdersEquity": {
+      "2024": 1305063,
+      "2025": 651531
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": 9416679
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:46.469Z"
 }

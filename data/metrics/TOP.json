@@ -3,6 +3,11 @@
   "name": "TOP Financial Group Ltd",
   "cik": 1848275,
   "fiscalYear": 2026,
+  "fiscalYears": [
+    2024,
+    2025,
+    2026
+  ],
   "metrics": {
     "revenue": {
       "value": 4723765,
@@ -69,5 +74,77 @@
       "filed": "2026-07-07"
     }
   },
-  "updatedAt": "2026-08-05T17:04:46.657Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": 3329256,
+      "2026": 4723765
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -5823244,
+      "2026": -1177320
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": -5969348,
+      "2026": -1170823
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": -0.16,
+      "2026": -0.03
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": -0.16,
+      "2026": -0.03
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "totalAssets": {
+      "2024": null,
+      "2025": 46799758,
+      "2026": 86056943
+    },
+    "currentLiabilities": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "totalLiabilities": {
+      "2024": null,
+      "2025": 11914454,
+      "2026": 51811799
+    },
+    "shareholdersEquity": {
+      "2024": 40530905,
+      "2025": 34885304,
+      "2026": 33943714
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -14471221,
+      "2026": 14021796
+    },
+    "capex": {
+      "2024": null,
+      "2025": 3234,
+      "2026": 899500
+    }
+  },
+  "updatedAt": "2026-08-05T21:02:15.152Z"
 }

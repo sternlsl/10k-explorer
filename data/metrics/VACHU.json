@@ -3,6 +3,11 @@
   "name": "Voyager Acquisition Corp./Cayman Islands",
   "cik": 2006815,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -69,5 +74,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:23.574Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -702959,
+      "2025": -1785259
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 4141371,
+      "2025": 8989141
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": 0.26,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": 0.24,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 712313,
+      "2025": 193640
+    },
+    "totalAssets": {
+      "2023": 71680,
+      "2024": 259812091,
+      "2025": 270056383
+    },
+    "currentLiabilities": {
+      "2023": 76680,
+      "2024": 38967,
+      "2025": 1294118
+    },
+    "totalLiabilities": {
+      "2023": 76680,
+      "2024": 12083967,
+      "2025": 13339118
+    },
+    "shareholdersEquity": {
+      "2023": -5000,
+      "2024": -11371654,
+      "2025": -13145478
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -703468,
+      "2025": -486182
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:17.033Z"
 }

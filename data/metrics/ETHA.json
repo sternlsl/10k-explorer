@@ -3,6 +3,10 @@
   "name": "iShares Ethereum Trust ETF",
   "cik": 2000638,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -39,5 +43,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:35.110Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": -888986,
+      "2025": -18411090
+    },
+    "netIncome": {
+      "2024": 34418803,
+      "2025": -2315493008
+    },
+    "epsBasic": {
+      "2024": 0.74,
+      "2025": -7.33
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2024": null,
+      "2025": null
+    },
+    "currentLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "shareholdersEquity": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -8899226153
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:12.449Z"
 }

@@ -3,6 +3,11 @@
   "name": "Alaska Silver Corp.",
   "cik": 1893899,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -64,5 +69,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:03:57.304Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -7279098,
+      "2025": -8861799
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": -0.12,
+      "2025": -0.13
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": -0.12,
+      "2025": -0.13
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 988308,
+      "2025": 9311718
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 8637443,
+      "2025": 16724626
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 929671,
+      "2025": 8134987
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 3391695,
+      "2025": 10542032
+    },
+    "shareholdersEquity": {
+      "2023": 5339244,
+      "2024": 5245748,
+      "2025": 6182594
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -5780968,
+      "2025": -4608498
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:42.872Z"
 }

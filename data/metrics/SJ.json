@@ -3,6 +3,10 @@
   "name": "Scienjoy Holding Corp",
   "cik": 1753673,
   "fiscalYear": 2019,
+  "fiscalYears": [
+    2018,
+    2019
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:04:13.795Z"
+  "history": {
+    "revenue": {
+      "2018": null,
+      "2019": null
+    },
+    "cogs": {
+      "2018": null,
+      "2019": null
+    },
+    "grossProfit": {
+      "2018": null,
+      "2019": null
+    },
+    "operatingIncome": {
+      "2018": null,
+      "2019": -936745
+    },
+    "netIncome": {
+      "2018": null,
+      "2019": 151393
+    },
+    "epsBasic": {
+      "2018": null,
+      "2019": null
+    },
+    "epsDiluted": {
+      "2018": null,
+      "2019": null
+    },
+    "currentAssets": {
+      "2018": 52937,
+      "2019": 12443
+    },
+    "totalAssets": {
+      "2018": 367083,
+      "2019": 58600581
+    },
+    "currentLiabilities": {
+      "2018": 402820,
+      "2019": 221909
+    },
+    "totalLiabilities": {
+      "2018": 402820,
+      "2019": 2700050
+    },
+    "shareholdersEquity": {
+      "2018": -35737,
+      "2019": 5000002
+    },
+    "operatingCashFlow": {
+      "2018": null,
+      "2019": -715669
+    },
+    "capex": {
+      "2018": null,
+      "2019": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:53.303Z"
 }

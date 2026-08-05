@@ -3,6 +3,11 @@
   "name": "OCONEE FINANCIAL CORP",
   "cik": 1076691,
   "fiscalYear": 2011,
+  "fiscalYears": [
+    2009,
+    2010,
+    2011
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -49,5 +54,77 @@
       "filed": "2012-03-30"
     }
   },
-  "updatedAt": "2026-08-05T17:09:01.918Z"
+  "history": {
+    "revenue": {
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "cogs": {
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "grossProfit": {
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "operatingIncome": {
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "netIncome": {
+      "2009": null,
+      "2010": -1074995,
+      "2011": -2124598
+    },
+    "epsBasic": {
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "epsDiluted": {
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "currentAssets": {
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "totalAssets": {
+      "2009": null,
+      "2010": 279368428,
+      "2011": 259845955
+    },
+    "currentLiabilities": {
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "totalLiabilities": {
+      "2009": null,
+      "2010": 256433526,
+      "2011": 237663468
+    },
+    "shareholdersEquity": {
+      "2009": 24685613,
+      "2010": 22934902,
+      "2011": 22182487
+    },
+    "operatingCashFlow": {
+      "2009": null,
+      "2010": 3594485,
+      "2011": 2340408
+    },
+    "capex": {
+      "2009": null,
+      "2010": 103429,
+      "2011": 78127
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:22.038Z"
 }

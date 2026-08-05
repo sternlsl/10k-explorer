@@ -3,6 +3,13 @@
   "name": "VanEck Merk Gold ETF",
   "cik": 1546652,
   "fiscalYear": 2026,
+  "fiscalYears": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +51,105 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:12.694Z"
+  "history": {
+    "revenue": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "cogs": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "grossProfit": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "operatingIncome": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "netIncome": {
+      "2022": -18183432,
+      "2023": 31614263,
+      "2024": 37899085,
+      "2025": 313148132,
+      "2026": 1092864123
+    },
+    "epsBasic": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "epsDiluted": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "currentAssets": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "totalAssets": {
+      "2022": 586245778,
+      "2023": 660323516,
+      "2024": 786090962,
+      "2025": 1328355965,
+      "2026": 2903393954
+    },
+    "currentLiabilities": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "totalLiabilities": {
+      "2022": 6,
+      "2023": 3730718,
+      "2024": 5906615,
+      "2025": 13758576,
+      "2026": 108028
+    },
+    "shareholdersEquity": {
+      "2022": null,
+      "2023": null,
+      "2024": 780184347,
+      "2025": 1314597389,
+      "2026": 2903285926
+    },
+    "operatingCashFlow": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "capex": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:01.969Z"
 }

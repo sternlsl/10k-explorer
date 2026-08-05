@@ -3,6 +3,11 @@
   "name": "Ategrity Specialty Insurance Co Holdings",
   "cik": 2040491,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 424339000,
@@ -64,5 +69,77 @@
       "filed": "2026-03-06"
     }
   },
-  "updatedAt": "2026-08-05T17:07:33.251Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": 343834000,
+      "2025": 424339000
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 47090000,
+      "2025": 74002000
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": 1.28,
+      "2025": 1.64
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": 1.28,
+      "2025": 1.58
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 1123438000,
+      "2025": 1474313000
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 724631000,
+      "2025": 859454000
+    },
+    "shareholdersEquity": {
+      "2023": 322197000,
+      "2024": 398307000,
+      "2025": 614309000
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": 125611000,
+      "2025": 147190000
+    },
+    "capex": {
+      "2023": null,
+      "2024": 164000,
+      "2025": 6466000
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:56.099Z"
 }

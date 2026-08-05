@@ -3,6 +3,10 @@
   "name": "BEST SPAC I Acquisition Corp.",
   "cik": 2051587,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +58,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:03:30.754Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -651369
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 649853
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 15000,
+      "2025": 1420945
+    },
+    "totalAssets": {
+      "2024": 27500,
+      "2025": 57621209
+    },
+    "currentLiabilities": {
+      "2024": 5500,
+      "2025": 152972
+    },
+    "totalLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "shareholdersEquity": {
+      "2024": 22000,
+      "2025": 2523377
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -598167
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:25.908Z"
 }

@@ -3,6 +3,11 @@
   "name": "Lake Shore Bancorp, Inc. /MD/",
   "cik": 2059653,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +59,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:02:44.131Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 4931000,
+      "2025": 7269000
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": 0.65,
+      "2025": 0.97
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": 0.65,
+      "2025": 0.97
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 685504000,
+      "2025": 727323000
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 595636000,
+      "2025": 585684000
+    },
+    "shareholdersEquity": {
+      "2023": 86273000,
+      "2024": 89868000,
+      "2025": 141639000
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": 2508000,
+      "2025": 7998000
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:51.785Z"
 }

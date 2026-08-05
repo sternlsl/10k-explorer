@@ -3,6 +3,13 @@
   "name": "United States Commodity Index Funds Trust",
   "cik": 1479247,
   "fiscalYear": 2021,
+  "fiscalYears": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
   "metrics": {
     "revenue": {
       "value": -16559249,
@@ -44,5 +51,105 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:25.013Z"
+  "history": {
+    "revenue": {
+      "2017": 34053171,
+      "2018": -68867799,
+      "2019": -4241306,
+      "2020": -16559249,
+      "2021": null
+    },
+    "cogs": {
+      "2017": null,
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null
+    },
+    "grossProfit": {
+      "2017": null,
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null
+    },
+    "operatingIncome": {
+      "2017": null,
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null
+    },
+    "netIncome": {
+      "2017": 28605741,
+      "2018": -74935061,
+      "2019": -8143415,
+      "2020": -18148357,
+      "2021": 75327633
+    },
+    "epsBasic": {
+      "2017": null,
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null
+    },
+    "epsDiluted": {
+      "2017": null,
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null
+    },
+    "currentAssets": {
+      "2017": null,
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null
+    },
+    "totalAssets": {
+      "2017": 519200984,
+      "2018": 475637737,
+      "2019": 200014444,
+      "2020": null,
+      "2021": null
+    },
+    "currentLiabilities": {
+      "2017": null,
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null
+    },
+    "totalLiabilities": {
+      "2017": 3578188,
+      "2018": 1090334,
+      "2019": 3102585,
+      "2020": null,
+      "2021": null
+    },
+    "shareholdersEquity": {
+      "2017": null,
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null
+    },
+    "operatingCashFlow": {
+      "2017": -50569588,
+      "2018": 21304751,
+      "2019": -25563130,
+      "2020": -26546895,
+      "2021": 73615098
+    },
+    "capex": {
+      "2017": null,
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:06.681Z"
 }

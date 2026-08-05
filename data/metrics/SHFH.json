@@ -3,6 +3,10 @@
   "name": "Scientist Home Future Health Ltd",
   "cik": 2032609,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 197447,
@@ -84,5 +88,63 @@
       "filed": "2026-03-27"
     }
   },
-  "updatedAt": "2026-08-05T17:09:32.822Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": 197447
+    },
+    "cogs": {
+      "2024": null,
+      "2025": 1093
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": 81887
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -231725
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": -231725
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": -0.01
+    },
+    "currentAssets": {
+      "2024": 21248,
+      "2025": 192246
+    },
+    "totalAssets": {
+      "2024": 21248,
+      "2025": 644365
+    },
+    "currentLiabilities": {
+      "2024": 27268,
+      "2025": 214458
+    },
+    "totalLiabilities": {
+      "2024": 27268,
+      "2025": 530974
+    },
+    "shareholdersEquity": {
+      "2024": -6020,
+      "2025": 113391
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -248278
+    },
+    "capex": {
+      "2024": null,
+      "2025": 74774
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:41.811Z"
 }

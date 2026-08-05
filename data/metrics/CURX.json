@@ -3,6 +3,11 @@
   "name": "Curanex Pharmaceuticals Inc",
   "cik": 2025942,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -69,5 +74,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:05:47.585Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -365062,
+      "2025": -4239076
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -361506,
+      "2025": -4225106
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": -0.03,
+      "2025": -0.17
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": -0.03,
+      "2025": -0.17
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 517935,
+      "2025": 11227508
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 517935,
+      "2025": 11580124
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 14575,
+      "2025": 137030
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 14575,
+      "2025": 361040
+    },
+    "shareholdersEquity": {
+      "2023": 60090,
+      "2024": 503360,
+      "2025": 11219084
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -555575,
+      "2025": -10484452
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:02:51.581Z"
 }

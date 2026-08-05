@@ -3,6 +3,11 @@
   "name": "VG Life Sciences Inc.",
   "cik": 1091326,
   "fiscalYear": 2014,
+  "fiscalYears": [
+    2012,
+    2013,
+    2014
+  ],
   "metrics": {
     "revenue": {
       "value": 0,
@@ -59,5 +64,77 @@
       "filed": "2015-04-15"
     }
   },
-  "updatedAt": "2026-08-05T17:07:23.453Z"
+  "history": {
+    "revenue": {
+      "2012": null,
+      "2013": 0,
+      "2014": 0
+    },
+    "cogs": {
+      "2012": null,
+      "2013": null,
+      "2014": null
+    },
+    "grossProfit": {
+      "2012": null,
+      "2013": null,
+      "2014": null
+    },
+    "operatingIncome": {
+      "2012": null,
+      "2013": -3907630,
+      "2014": -4143621
+    },
+    "netIncome": {
+      "2012": null,
+      "2013": -7419722,
+      "2014": -6189504
+    },
+    "epsBasic": {
+      "2012": null,
+      "2013": null,
+      "2014": null
+    },
+    "epsDiluted": {
+      "2012": null,
+      "2013": null,
+      "2014": null
+    },
+    "currentAssets": {
+      "2012": null,
+      "2013": 789386,
+      "2014": 246266
+    },
+    "totalAssets": {
+      "2012": null,
+      "2013": 1866222,
+      "2014": 1323102
+    },
+    "currentLiabilities": {
+      "2012": null,
+      "2013": 6334649,
+      "2014": 5829122
+    },
+    "totalLiabilities": {
+      "2012": null,
+      "2013": null,
+      "2014": null
+    },
+    "shareholdersEquity": {
+      "2012": -4197069,
+      "2013": -4468427,
+      "2014": -4506020
+    },
+    "operatingCashFlow": {
+      "2012": null,
+      "2013": null,
+      "2014": null
+    },
+    "capex": {
+      "2012": null,
+      "2013": 0,
+      "2014": 0
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:51.809Z"
 }

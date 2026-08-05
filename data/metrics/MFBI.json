@@ -3,6 +3,12 @@
   "name": "Monroe Federal Bancorp, Inc.",
   "cik": 2024899,
   "fiscalYear": 2026,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +65,91 @@
       "filed": "2026-06-25"
     }
   },
-  "updatedAt": "2026-08-05T17:06:17.847Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 59769,
+      "2025": -326640,
+      "2026": -514598
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": -0.67,
+      "2026": -1.04
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": -0.67,
+      "2026": -1.04
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 155337262,
+      "2025": 144328671,
+      "2026": 142428750
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 146772557,
+      "2025": 132260138,
+      "2026": 130027346
+    },
+    "shareholdersEquity": {
+      "2023": 8785575,
+      "2024": 8564705,
+      "2025": 12068533,
+      "2026": 12401404
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -375592,
+      "2025": -203819,
+      "2026": -317867
+    },
+    "capex": {
+      "2023": null,
+      "2024": 116737,
+      "2025": 47400,
+      "2026": 152139
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:08.627Z"
 }

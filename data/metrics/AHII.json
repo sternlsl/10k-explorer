@@ -3,6 +3,12 @@
   "name": "American Heritage International Inc.",
   "cik": 1545236,
   "fiscalYear": 2013,
+  "fiscalYears": [
+    2010,
+    2011,
+    2012,
+    2013
+  ],
   "metrics": {
     "revenue": null,
     "cogs": {
@@ -69,5 +75,91 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:09:22.321Z"
+  "history": {
+    "revenue": {
+      "2010": null,
+      "2011": null,
+      "2012": null,
+      "2013": null
+    },
+    "cogs": {
+      "2010": null,
+      "2011": null,
+      "2012": 38021,
+      "2013": null
+    },
+    "grossProfit": {
+      "2010": null,
+      "2011": null,
+      "2012": 16375,
+      "2013": 13
+    },
+    "operatingIncome": {
+      "2010": null,
+      "2011": -31073,
+      "2012": -97589,
+      "2013": null
+    },
+    "netIncome": {
+      "2010": -12230,
+      "2011": -31073,
+      "2012": -99730,
+      "2013": -168761
+    },
+    "epsBasic": {
+      "2010": null,
+      "2011": null,
+      "2012": null,
+      "2013": null
+    },
+    "epsDiluted": {
+      "2010": null,
+      "2011": null,
+      "2012": null,
+      "2013": null
+    },
+    "currentAssets": {
+      "2010": null,
+      "2011": 7370,
+      "2012": 2101,
+      "2013": 48966
+    },
+    "totalAssets": {
+      "2010": null,
+      "2011": 7370,
+      "2012": 5529,
+      "2013": 76925
+    },
+    "currentLiabilities": {
+      "2010": null,
+      "2011": 16173,
+      "2012": 29462,
+      "2013": 123271
+    },
+    "totalLiabilities": {
+      "2010": null,
+      "2011": 16173,
+      "2012": 79462,
+      "2013": 123271
+    },
+    "shareholdersEquity": {
+      "2010": 1270,
+      "2011": -8803,
+      "2012": -73933,
+      "2013": -46346
+    },
+    "operatingCashFlow": {
+      "2010": null,
+      "2011": -20400,
+      "2012": -84369,
+      "2013": -120530
+    },
+    "capex": {
+      "2010": null,
+      "2011": null,
+      "2012": null,
+      "2013": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:37.682Z"
 }

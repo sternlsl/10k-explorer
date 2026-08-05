@@ -3,6 +3,10 @@
   "name": "Andretti Acquisition Corp. II",
   "cik": 2025341,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": {
@@ -64,5 +68,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:04.174Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": 180000
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -1410877
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 8350365
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 930655,
+      "2025": 162053
+    },
+    "totalAssets": {
+      "2024": 235507478,
+      "2025": 244423346
+    },
+    "currentLiabilities": {
+      "2024": 75556,
+      "2025": 191059
+    },
+    "totalLiabilities": {
+      "2024": 9850556,
+      "2025": 10416059
+    },
+    "shareholdersEquity": {
+      "2024": -8843129,
+      "2025": -10254006
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -1199985
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:47.333Z"
 }

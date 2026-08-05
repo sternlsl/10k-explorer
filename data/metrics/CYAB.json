@@ -3,6 +3,10 @@
   "name": "CYABRA, INC.",
   "cik": 2032341,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -49,5 +53,63 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:05:42.476Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -156348
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": -156348
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": -156.35
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": -156.35
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2024": null,
+      "2025": null
+    },
+    "currentLiabilities": {
+      "2024": 53820,
+      "2025": 210168
+    },
+    "totalLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "shareholdersEquity": {
+      "2024": -53820,
+      "2025": -210168
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": null
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:02:48.564Z"
 }

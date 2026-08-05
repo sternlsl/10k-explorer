@@ -3,6 +3,10 @@
   "name": "Cheer Holding, Inc.",
   "cik": 1738758,
   "fiscalYear": 2019,
+  "fiscalYears": [
+    2018,
+    2019
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:06:50.885Z"
+  "history": {
+    "revenue": {
+      "2018": null,
+      "2019": null
+    },
+    "cogs": {
+      "2018": null,
+      "2019": null
+    },
+    "grossProfit": {
+      "2018": null,
+      "2019": null
+    },
+    "operatingIncome": {
+      "2018": -276966,
+      "2019": -2351687
+    },
+    "netIncome": {
+      "2018": 1609139,
+      "2019": 3278278
+    },
+    "epsBasic": {
+      "2018": null,
+      "2019": null
+    },
+    "epsDiluted": {
+      "2018": null,
+      "2019": null
+    },
+    "currentAssets": {
+      "2018": 526886,
+      "2019": 81819
+    },
+    "totalAssets": {
+      "2018": 252412991,
+      "2019": 257597889
+    },
+    "currentLiabilities": {
+      "2018": 23790,
+      "2019": 830410
+    },
+    "totalLiabilities": {
+      "2018": 23790,
+      "2019": 1930410
+    },
+    "shareholdersEquity": {
+      "2018": 5000009,
+      "2019": 5000001
+    },
+    "operatingCashFlow": {
+      "2018": -373068,
+      "2019": -1722467
+    },
+    "capex": {
+      "2018": null,
+      "2019": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:29.912Z"
 }

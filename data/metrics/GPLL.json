@@ -3,6 +3,11 @@
   "name": "GPL Holdings, Inc.",
   "cik": 1883083,
   "fiscalYear": 2023,
+  "fiscalYears": [
+    2021,
+    2022,
+    2023
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +49,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:09:11.945Z"
+  "history": {
+    "revenue": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "cogs": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "grossProfit": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "operatingIncome": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "netIncome": {
+      "2021": null,
+      "2022": -44611,
+      "2023": -62743
+    },
+    "epsBasic": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "epsDiluted": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "currentAssets": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "totalAssets": {
+      "2021": null,
+      "2022": null,
+      "2023": 10014
+    },
+    "currentLiabilities": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "totalLiabilities": {
+      "2021": 5410,
+      "2022": 50021,
+      "2023": 122778
+    },
+    "shareholdersEquity": {
+      "2021": -5410,
+      "2022": -50021,
+      "2023": -112764
+    },
+    "operatingCashFlow": {
+      "2021": null,
+      "2022": -49061,
+      "2023": -62743
+    },
+    "capex": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:29.586Z"
 }

@@ -3,6 +3,11 @@
   "name": "Franklin Templeton Digital Holdings Trust",
   "cik": 1992870,
   "fiscalYear": 2026,
+  "fiscalYears": [
+    2024,
+    2025,
+    2026
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +49,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:04.103Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 109151572,
+      "2026": -118528831
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "totalAssets": {
+      "2024": 341901126,
+      "2025": 411158674,
+      "2026": 429409784
+    },
+    "currentLiabilities": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "totalLiabilities": {
+      "2024": 21,
+      "2025": 301331,
+      "2026": 69685
+    },
+    "shareholdersEquity": {
+      "2024": 280623942,
+      "2025": 240428608,
+      "2026": 377440195
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": 40195334,
+      "2026": -137011587
+    },
+    "capex": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:58.938Z"
 }

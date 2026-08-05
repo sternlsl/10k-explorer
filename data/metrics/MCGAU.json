@@ -3,6 +3,9 @@
   "name": "Yorkville Acquisition Corp.",
   "cik": 2064658,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +62,49 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:38.912Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": -2488992
+    },
+    "netIncome": {
+      "2025": 499085
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 403766
+    },
+    "totalAssets": {
+      "2025": 176820874
+    },
+    "currentLiabilities": {
+      "2025": 2052001
+    },
+    "totalLiabilities": {
+      "2025": 7227001
+    },
+    "shareholdersEquity": {
+      "2025": -6744402
+    },
+    "operatingCashFlow": {
+      "2025": -641232
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:10.588Z"
 }

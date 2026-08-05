@@ -3,6 +3,11 @@
   "name": "Aimei Health Technology Co., Ltd.",
   "cik": 1979005,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +64,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:20.675Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -1064786,
+      "2025": -835759
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 2552215,
+      "2025": 1059768
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": 580717,
+      "2024": 30384,
+      "2025": 2929
+    },
+    "totalAssets": {
+      "2023": 70470565,
+      "2024": 73814933,
+      "2025": 12103039
+    },
+    "currentLiabilities": {
+      "2023": 24841,
+      "2024": 816994,
+      "2025": 3371660
+    },
+    "totalLiabilities": {
+      "2023": 714841,
+      "2024": 1506994,
+      "2025": 4061660
+    },
+    "shareholdersEquity": {
+      "2023": -134124,
+      "2024": -1476610,
+      "2025": -4058731
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -672289,
+      "2025": -565100
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:58.474Z"
 }

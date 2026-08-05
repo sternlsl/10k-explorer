@@ -3,6 +3,11 @@
   "name": "FIRST OTTAWA BANCSHARES, INC.",
   "cik": 1099668,
   "fiscalYear": 2011,
+  "fiscalYears": [
+    2009,
+    2010,
+    2011
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +59,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:02:01.598Z"
+  "history": {
+    "revenue": {
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "cogs": {
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "grossProfit": {
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "operatingIncome": {
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "netIncome": {
+      "2009": null,
+      "2010": -2102000,
+      "2011": 750000
+    },
+    "epsBasic": {
+      "2009": null,
+      "2010": -3.25,
+      "2011": 1.16
+    },
+    "epsDiluted": {
+      "2009": null,
+      "2010": -3.25,
+      "2011": 1.16
+    },
+    "currentAssets": {
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "totalAssets": {
+      "2009": null,
+      "2010": 285795000,
+      "2011": 270657000
+    },
+    "currentLiabilities": {
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "totalLiabilities": {
+      "2009": null,
+      "2010": 262828000,
+      "2011": 246408000
+    },
+    "shareholdersEquity": {
+      "2009": 25978000,
+      "2010": 22967000,
+      "2011": 24249000
+    },
+    "operatingCashFlow": {
+      "2009": null,
+      "2010": 2613000,
+      "2011": 5343000
+    },
+    "capex": {
+      "2009": null,
+      "2010": null,
+      "2011": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:26.515Z"
 }

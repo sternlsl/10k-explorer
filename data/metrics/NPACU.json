@@ -3,6 +3,10 @@
   "name": "New Providence Acquisition Corp. III/Cayman",
   "cik": 2048948,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:29.654Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -669420
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 7675973
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 23784,
+      "2025": 810120
+    },
+    "totalAssets": {
+      "2024": 77492,
+      "2025": 310806263
+    },
+    "currentLiabilities": {
+      "2024": 71022,
+      "2025": 95684
+    },
+    "totalLiabilities": {
+      "2024": 71022,
+      "2025": 12884684
+    },
+    "shareholdersEquity": {
+      "2024": 6470,
+      "2025": -12074564
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -739616
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:21.544Z"
 }

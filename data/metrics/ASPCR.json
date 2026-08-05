@@ -3,6 +3,12 @@
   "name": "ASPAC III Acquisition Corp.",
   "cik": 1890361,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +65,91 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:04:52.143Z"
+  "history": {
+    "revenue": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2022": null,
+      "2023": -2650,
+      "2024": -587106,
+      "2025": -827300
+    },
+    "netIncome": {
+      "2022": null,
+      "2023": -2650,
+      "2024": -226383,
+      "2025": 1343931
+    },
+    "epsBasic": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2022": null,
+      "2023": null,
+      "2024": 1718199,
+      "2025": 955716
+    },
+    "totalAssets": {
+      "2022": null,
+      "2023": null,
+      "2024": 62075158,
+      "2025": 3935652
+    },
+    "currentLiabilities": {
+      "2022": null,
+      "2023": 140576,
+      "2024": 517334,
+      "2025": 535955
+    },
+    "totalLiabilities": {
+      "2022": null,
+      "2023": 140576,
+      "2024": 517334,
+      "2025": 535955
+    },
+    "shareholdersEquity": {
+      "2022": -137926,
+      "2023": -140576,
+      "2024": 3863392,
+      "2025": 419761
+    },
+    "operatingCashFlow": {
+      "2022": null,
+      "2023": null,
+      "2024": -473887,
+      "2025": -451319
+    },
+    "capex": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:02:18.745Z"
 }

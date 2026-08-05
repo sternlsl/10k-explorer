@@ -3,6 +3,10 @@
   "name": "Quantumsphere Acquisition Corp",
   "cik": 2070900,
   "fiscalYear": 2026,
+  "fiscalYears": [
+    2025,
+    2026
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +58,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:02:51.636Z"
+  "history": {
+    "revenue": {
+      "2025": null,
+      "2026": null
+    },
+    "cogs": {
+      "2025": null,
+      "2026": null
+    },
+    "grossProfit": {
+      "2025": null,
+      "2026": null
+    },
+    "operatingIncome": {
+      "2025": null,
+      "2026": -1076186
+    },
+    "netIncome": {
+      "2025": null,
+      "2026": null
+    },
+    "epsBasic": {
+      "2025": null,
+      "2026": null
+    },
+    "epsDiluted": {
+      "2025": null,
+      "2026": null
+    },
+    "currentAssets": {
+      "2025": 117419,
+      "2026": 317303
+    },
+    "totalAssets": {
+      "2025": 248982,
+      "2026": 85200365
+    },
+    "currentLiabilities": {
+      "2025": 240000,
+      "2026": 273747
+    },
+    "totalLiabilities": {
+      "2025": 240000,
+      "2026": 3585747
+    },
+    "shareholdersEquity": {
+      "2025": 8982,
+      "2026": -3231507
+    },
+    "operatingCashFlow": {
+      "2025": null,
+      "2026": -947443
+    },
+    "capex": {
+      "2025": null,
+      "2026": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:57.376Z"
 }

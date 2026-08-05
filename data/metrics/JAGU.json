@@ -3,6 +3,11 @@
   "name": "Jaguar Uranium Corp.",
   "cik": 2039273,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -69,5 +74,77 @@
       "filed": "2026-03-27"
     }
   },
-  "updatedAt": "2026-08-05T17:04:14.644Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -5761975,
+      "2025": -2314521
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": -0.83,
+      "2025": -0.26
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": -0.83,
+      "2025": -0.26
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 377120,
+      "2025": 180546
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 8571338,
+      "2025": 8369411
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 434336,
+      "2025": 953442
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 1834336,
+      "2025": 2503442
+    },
+    "shareholdersEquity": {
+      "2023": 488470,
+      "2024": 6737002,
+      "2025": 5865969
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -3443499,
+      "2025": -944440
+    },
+    "capex": {
+      "2023": null,
+      "2024": 47668,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:53.879Z"
 }

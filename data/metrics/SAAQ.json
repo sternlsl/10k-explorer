@@ -3,6 +3,9 @@
   "name": "Space Asset Acquisition Corp.",
   "cik": 2091222,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -34,5 +37,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:20.297Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": null
+    },
+    "totalAssets": {
+      "2025": 410731
+    },
+    "currentLiabilities": {
+      "2025": 450560
+    },
+    "totalLiabilities": {
+      "2025": null
+    },
+    "shareholdersEquity": {
+      "2025": -39829
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:14.657Z"
 }

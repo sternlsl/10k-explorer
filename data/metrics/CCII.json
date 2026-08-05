@@ -3,6 +3,10 @@
   "name": "Cohen Circle Acquisition Corp. II",
   "cik": 2064683,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:45.948Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -694814
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 4355499
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 20697,
+      "2025": 2015628
+    },
+    "totalAssets": {
+      "2024": 28478,
+      "2025": 259709691
+    },
+    "currentLiabilities": {
+      "2024": 19302,
+      "2025": 117791
+    },
+    "totalLiabilities": {
+      "2024": 19302,
+      "2025": 10897791
+    },
+    "shareholdersEquity": {
+      "2024": 9176,
+      "2025": -8838413
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -819729
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:33.667Z"
 }

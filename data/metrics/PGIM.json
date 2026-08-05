@@ -3,6 +3,12 @@
   "name": "PGIM Private Credit Fund",
   "cik": 1923622,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +50,91 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:07:58.022Z"
+  "history": {
+    "revenue": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2022": null,
+      "2023": 9602000,
+      "2024": 15060000,
+      "2025": 21822000
+    },
+    "epsBasic": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2022": 11837000,
+      "2023": 120374000,
+      "2024": 217782000,
+      "2025": 383924000
+    },
+    "currentLiabilities": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2022": 92000,
+      "2023": 13675000,
+      "2024": 96194000,
+      "2025": 179255000
+    },
+    "shareholdersEquity": {
+      "2022": 11745000,
+      "2023": 106699000,
+      "2024": 121588000,
+      "2025": 204669000
+    },
+    "operatingCashFlow": {
+      "2022": null,
+      "2023": -83187000,
+      "2024": -94314000,
+      "2025": -128003000
+    },
+    "capex": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:57.589Z"
 }

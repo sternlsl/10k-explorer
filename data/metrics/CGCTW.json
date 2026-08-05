@@ -3,6 +3,10 @@
   "name": "Cartesian Growth Corp III",
   "cik": 2049662,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:44.430Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -1158207
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 6219069
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 3202,
+      "2025": 740139
+    },
+    "totalAssets": {
+      "2024": 266878,
+      "2025": 284154850
+    },
+    "currentLiabilities": {
+      "2024": 284498,
+      "2025": 834869
+    },
+    "totalLiabilities": {
+      "2024": 284498,
+      "2025": 13974869
+    },
+    "shareholdersEquity": {
+      "2024": -17620,
+      "2025": -13197295
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -504499
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:32.390Z"
 }

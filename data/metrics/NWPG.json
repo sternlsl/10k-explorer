@@ -3,6 +3,13 @@
   "name": "Newport Gold, Inc.",
   "cik": 1289223,
   "fiscalYear": 2012,
+  "fiscalYears": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -49,5 +56,105 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:09:15.819Z"
+  "history": {
+    "revenue": {
+      "2008": null,
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    },
+    "cogs": {
+      "2008": null,
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    },
+    "grossProfit": {
+      "2008": null,
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    },
+    "operatingIncome": {
+      "2008": null,
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    },
+    "netIncome": {
+      "2008": -2638843,
+      "2009": 5804,
+      "2010": -182238,
+      "2011": -240923,
+      "2012": -223259
+    },
+    "epsBasic": {
+      "2008": null,
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    },
+    "epsDiluted": {
+      "2008": null,
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    },
+    "currentAssets": {
+      "2008": null,
+      "2009": null,
+      "2010": 4206,
+      "2011": 42080,
+      "2012": 26813
+    },
+    "totalAssets": {
+      "2008": null,
+      "2009": null,
+      "2010": 40423,
+      "2011": 77477,
+      "2012": 62210
+    },
+    "currentLiabilities": {
+      "2008": null,
+      "2009": null,
+      "2010": 371761,
+      "2011": 453018,
+      "2012": 190401
+    },
+    "totalLiabilities": {
+      "2008": null,
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    },
+    "shareholdersEquity": {
+      "2008": -150169,
+      "2009": -141922,
+      "2010": -331338,
+      "2011": -375541,
+      "2012": -128191
+    },
+    "operatingCashFlow": {
+      "2008": null,
+      "2009": null,
+      "2010": 11368,
+      "2011": -128684,
+      "2012": -113237
+    },
+    "capex": {
+      "2008": null,
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:32.001Z"
 }

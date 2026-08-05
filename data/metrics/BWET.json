@@ -3,6 +3,13 @@
   "name": "Amplify Commodity Trust",
   "cik": 1610940,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +51,105 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:11.026Z"
+  "history": {
+    "revenue": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2021": 59341361,
+      "2022": -33398736,
+      "2023": -35363570,
+      "2024": 46451272,
+      "2025": -17498770
+    },
+    "epsBasic": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2021": null,
+      "2022": 56099316,
+      "2023": 79243680,
+      "2024": 42508308,
+      "2025": 68576852
+    },
+    "currentLiabilities": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2021": null,
+      "2022": 9612148,
+      "2023": 13881029,
+      "2024": 1307337,
+      "2025": 1430593
+    },
+    "shareholdersEquity": {
+      "2021": 114077152,
+      "2022": 46487168,
+      "2023": 65362651,
+      "2024": 41200971,
+      "2025": 67146259
+    },
+    "operatingCashFlow": {
+      "2021": 16426191,
+      "2022": null,
+      "2023": null,
+      "2024": 65392751,
+      "2025": null
+    },
+    "capex": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:01.414Z"
 }

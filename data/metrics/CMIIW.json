@@ -3,6 +3,9 @@
   "name": "Columbus Circle Capital Corp II",
   "cik": 2088805,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -39,5 +42,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:06.603Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 6013
+    },
+    "totalAssets": {
+      "2025": 153984
+    },
+    "currentLiabilities": {
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2025": 175048
+    },
+    "shareholdersEquity": {
+      "2025": -21064
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:49.040Z"
 }

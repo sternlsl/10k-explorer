@@ -3,6 +3,9 @@
   "name": "Idea Acquisition Corp.",
   "cik": 2091176,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -39,5 +42,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:17.020Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": null
+    },
+    "totalAssets": {
+      "2025": 341043
+    },
+    "currentLiabilities": {
+      "2025": 364955
+    },
+    "totalLiabilities": {
+      "2025": 364955
+    },
+    "shareholdersEquity": {
+      "2025": -23912
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:12.035Z"
 }

@@ -3,6 +3,12 @@
   "name": "Graf Global Corp.",
   "cik": 1897463,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -64,5 +70,91 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:07.083Z"
+  "history": {
+    "revenue": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2022": null,
+      "2023": -3151,
+      "2024": -531279,
+      "2025": -1825138
+    },
+    "netIncome": {
+      "2022": null,
+      "2023": -3151,
+      "2024": 5233485,
+      "2025": 8019450
+    },
+    "epsBasic": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2022": null,
+      "2023": 0,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2022": null,
+      "2023": null,
+      "2024": 717093,
+      "2025": 116251
+    },
+    "totalAssets": {
+      "2022": null,
+      "2023": null,
+      "2024": 236591567,
+      "2025": 245725603
+    },
+    "currentLiabilities": {
+      "2022": null,
+      "2023": 156089,
+      "2024": 169690,
+      "2025": 1284276
+    },
+    "totalLiabilities": {
+      "2022": null,
+      "2023": 156089,
+      "2024": 9969690,
+      "2025": 11084276
+    },
+    "shareholdersEquity": {
+      "2022": -152938,
+      "2023": -156089,
+      "2024": -9142887,
+      "2025": -10968025
+    },
+    "operatingCashFlow": {
+      "2022": null,
+      "2023": null,
+      "2024": -912010,
+      "2025": -393929
+    },
+    "capex": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:49.420Z"
 }

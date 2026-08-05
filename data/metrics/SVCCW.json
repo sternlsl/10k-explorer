@@ -3,6 +3,10 @@
   "name": "Stellar V Capital Corp. (Cayman Islands)",
   "cik": 2033593,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:47.353Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -589119
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 5306976
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 3208,
+      "2025": 444634
+    },
+    "totalAssets": {
+      "2024": 362887,
+      "2025": 157175901
+    },
+    "currentLiabilities": {
+      "2024": 413709,
+      "2025": 124120
+    },
+    "totalLiabilities": {
+      "2024": 413709,
+      "2025": 5374120
+    },
+    "shareholdersEquity": {
+      "2024": -50822,
+      "2025": -4922860
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -577956
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:17.219Z"
 }

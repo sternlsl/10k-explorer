@@ -3,6 +3,9 @@
   "name": "Xsolla SPAC 1",
   "cik": 2088807,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +47,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:25.712Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 4673
+    },
+    "totalAssets": {
+      "2025": 223020
+    },
+    "currentLiabilities": {
+      "2025": 274682
+    },
+    "totalLiabilities": {
+      "2025": 274682
+    },
+    "shareholdersEquity": {
+      "2025": -51662
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:01.667Z"
 }

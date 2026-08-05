@@ -3,6 +3,10 @@
   "name": "EQV Ventures Acquisition Corp. II",
   "cik": 2042902,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T16:59:40.069Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -742266
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 8916352
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": 1204773
+    },
+    "totalAssets": {
+      "2024": 362828,
+      "2025": 470267754
+    },
+    "currentLiabilities": {
+      "2024": 394619,
+      "2025": 152214
+    },
+    "totalLiabilities": {
+      "2024": 394619,
+      "2025": 18131414
+    },
+    "shareholdersEquity": {
+      "2024": -31791,
+      "2025": -16381641
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -627888
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:58:46.664Z"
 }

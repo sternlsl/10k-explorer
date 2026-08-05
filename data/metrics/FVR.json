@@ -3,6 +3,12 @@
   "name": "FrontView REIT, Inc.",
   "cik": 1988494,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 67115000,
@@ -64,5 +70,91 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:31.208Z"
+  "history": {
+    "revenue": {
+      "2022": null,
+      "2023": 48266000,
+      "2024": null,
+      "2025": 67115000
+    },
+    "cogs": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2022": null,
+      "2023": -14474000,
+      "2024": null,
+      "2025": -5563000
+    },
+    "netIncome": {
+      "2022": null,
+      "2023": -1100000,
+      "2024": null,
+      "2025": -3829000
+    },
+    "epsBasic": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": -0.22
+    },
+    "epsDiluted": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": -0.22
+    },
+    "currentAssets": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2022": null,
+      "2023": 772007000,
+      "2024": 821809000,
+      "2025": 854443000
+    },
+    "currentLiabilities": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2022": null,
+      "2023": 471320000,
+      "2024": 299131000,
+      "2025": 361219000
+    },
+    "shareholdersEquity": {
+      "2022": 217301000,
+      "2023": 197071000,
+      "2024": 324821000,
+      "2025": 391195000
+    },
+    "operatingCashFlow": {
+      "2022": null,
+      "2023": 17224000,
+      "2024": null,
+      "2025": 42132000
+    },
+    "capex": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:22.708Z"
 }

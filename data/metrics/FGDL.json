@@ -3,6 +3,12 @@
   "name": "Franklin Templeton Holdings Trust",
   "cik": 1858258,
   "fiscalYear": 2026,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +50,91 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:10.378Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "netIncome": {
+      "2023": 9685812,
+      "2024": 6125465,
+      "2025": 34588017,
+      "2026": 132107674
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "totalAssets": {
+      "2023": 113871350,
+      "2024": 62110210,
+      "2025": 186956705,
+      "2026": 475653721
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "totalLiabilities": {
+      "2023": 13337,
+      "2024": 7579,
+      "2025": 20944,
+      "2026": 69686
+    },
+    "shareholdersEquity": {
+      "2023": 104172201,
+      "2024": 46291354,
+      "2025": 136536467,
+      "2026": 293077067
+    },
+    "operatingCashFlow": {
+      "2023": 0,
+      "2024": 0,
+      "2025": 0,
+      "2026": 0
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null,
+      "2026": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:01.229Z"
 }

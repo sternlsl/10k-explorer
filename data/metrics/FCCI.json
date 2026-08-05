@@ -3,6 +3,11 @@
   "name": "FAST CASUAL CONCEPTS, INC.",
   "cik": 1807689,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 65700,
@@ -74,5 +79,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:05:56.651Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": 65700
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -43098,
+      "2025": -30846
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 70187,
+      "2025": 792
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": 0,
+      "2025": 0
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": 0,
+      "2025": 0
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 742,
+      "2025": 10127
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 130978,
+      "2025": 10127
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 75103,
+      "2025": 50462
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 292589,
+      "2025": 164946
+    },
+    "shareholdersEquity": {
+      "2023": -231798,
+      "2024": -161611,
+      "2025": -154819
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -60704,
+      "2025": -62254
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:02:56.008Z"
 }

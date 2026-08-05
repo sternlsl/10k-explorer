@@ -3,6 +3,11 @@
   "name": "American Integrity Insurance Group, Inc.",
   "cik": 2007587,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 276485000,
@@ -64,5 +69,77 @@
       "filed": "2026-02-27"
     }
   },
-  "updatedAt": "2026-08-05T17:00:38.748Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": 204354000,
+      "2025": 276485000
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 39742000,
+      "2025": 99621000
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": 2.95,
+      "2025": 5.65
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": 2.95,
+      "2025": 5.65
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 1198145000,
+      "2025": 1225074000
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 1035753000,
+      "2025": 888052000
+    },
+    "shareholdersEquity": {
+      "2023": 133966000,
+      "2024": 162392000,
+      "2025": 337022000
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": 148909000,
+      "2025": 138192000
+    },
+    "capex": {
+      "2023": null,
+      "2024": 1307000,
+      "2025": 5017000
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:28.330Z"
 }

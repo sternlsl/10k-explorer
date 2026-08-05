@@ -3,6 +3,9 @@
   "name": "Axiom Intelligence Acquisition Corp 1",
   "cik": 2057030,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +62,49 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:51.620Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": -585074
+    },
+    "netIncome": {
+      "2025": 3649620
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 871711
+    },
+    "totalAssets": {
+      "2025": 205155188
+    },
+    "currentLiabilities": {
+      "2025": 104774
+    },
+    "totalLiabilities": {
+      "2025": 8104774
+    },
+    "shareholdersEquity": {
+      "2025": -7184280
+    },
+    "operatingCashFlow": {
+      "2025": -260978
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:37.588Z"
 }

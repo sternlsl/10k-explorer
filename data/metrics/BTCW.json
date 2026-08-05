@@ -3,6 +3,11 @@
   "name": "WisdomTree Bitcoin Fund",
   "cik": 1850391,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +49,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:19.611Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": 128475984,
+      "2025": -36669448
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 128475984,
+      "2025": -36669448
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2023": 50000,
+      "2024": 360596442,
+      "2025": 139717030
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 79210,
+      "2025": 30038
+    },
+    "shareholdersEquity": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -232041248,
+      "2025": 184160792
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:04.890Z"
 }

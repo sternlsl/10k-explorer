@@ -3,6 +3,10 @@
   "name": "iShares Bitcoin Trust ETF",
   "cik": 1980994,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -39,5 +43,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:15.109Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": -47498665,
+      "2025": -174563824
+    },
+    "netIncome": {
+      "2024": 14232135930,
+      "2025": -8968686985
+    },
+    "epsBasic": {
+      "2024": 26.93,
+      "2025": -7.46
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2024": null,
+      "2025": null
+    },
+    "currentLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "shareholdersEquity": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingCashFlow": {
+      "2024": -37310754322,
+      "2025": -19907867870
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:03.367Z"
 }

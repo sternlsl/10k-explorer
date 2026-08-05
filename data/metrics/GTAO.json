@@ -3,6 +3,10 @@
   "name": "Grayscale Bittensor Trust (TAO)",
   "cik": 2029297,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -34,5 +38,63 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:07:41.374Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": -6037000
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2024": 4405000,
+      "2025": 7974000
+    },
+    "currentLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2024": 9000,
+      "2025": 0
+    },
+    "shareholdersEquity": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": null
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:56.890Z"
 }

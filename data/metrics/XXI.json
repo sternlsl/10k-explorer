@@ -3,6 +3,9 @@
   "name": "Twenty One Capital, Inc.",
   "cik": 2070457,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +47,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T16:55:50.438Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 118168734
+    },
+    "totalAssets": {
+      "2025": 3926876543
+    },
+    "currentLiabilities": {
+      "2025": 2481681
+    },
+    "totalLiabilities": {
+      "2025": 486808272
+    },
+    "shareholdersEquity": {
+      "2025": 3440068271
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:55:52.995Z"
 }

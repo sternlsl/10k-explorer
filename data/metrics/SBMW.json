@@ -3,6 +3,11 @@
   "name": "Security Midwest Bancorp, Inc.",
   "cik": 2036060,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +64,77 @@
       "filed": "2026-04-07"
     }
   },
-  "updatedAt": "2026-08-05T17:07:33.152Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 682983,
+      "2025": 298732
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": 0.36
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": 0.36
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 214541091,
+      "2025": 256519260
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 200589607,
+      "2025": 233903375
+    },
+    "shareholdersEquity": {
+      "2023": 13453084,
+      "2024": 13951484,
+      "2025": 22615885
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": 1242325,
+      "2025": 2616216
+    },
+    "capex": {
+      "2023": null,
+      "2024": 86135,
+      "2025": 466449
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:55.948Z"
 }

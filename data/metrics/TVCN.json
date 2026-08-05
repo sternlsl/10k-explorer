@@ -3,6 +3,11 @@
   "name": "TV Channels Network Inc.",
   "cik": 1952670,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 0,
@@ -69,5 +74,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:07:58.252Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": 0,
+      "2025": 0
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -138812,
+      "2025": -131954
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -138812,
+      "2025": -131954
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": -0.004,
+      "2025": -0.0031
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 266,
+      "2025": 191
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 200383,
+      "2025": 143607
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 261028,
+      "2025": 399363
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 413274,
+      "2025": 488452
+    },
+    "shareholdersEquity": {
+      "2023": -74079,
+      "2024": -212891,
+      "2025": -344845
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -108,
+      "2025": -75
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:57.702Z"
 }

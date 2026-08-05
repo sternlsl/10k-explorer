@@ -3,6 +3,10 @@
   "name": "Lake Superior Acquisition Corp",
   "cik": 2043508,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:02:23.059Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -360173
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 666033
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 129309,
+      "2025": 560177
+    },
+    "totalAssets": {
+      "2024": 213223,
+      "2025": 116586383
+    },
+    "currentLiabilities": {
+      "2024": 250914,
+      "2025": 128295
+    },
+    "totalLiabilities": {
+      "2024": 250914,
+      "2025": 4728295
+    },
+    "shareholdersEquity": {
+      "2024": -37691,
+      "2025": -4168118
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -444357
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:40.461Z"
 }

@@ -3,6 +3,10 @@
   "name": "VisionWave Holdings, Inc.",
   "cik": 2038439,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +58,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:02:35.612Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -6741189
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": -6548095
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 3014,
+      "2025": 2692732
+    },
+    "totalAssets": {
+      "2024": 13014,
+      "2025": 2693013
+    },
+    "currentLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2024": 84133,
+      "2025": 14488460
+    },
+    "shareholdersEquity": {
+      "2024": -71119,
+      "2025": -11795447
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -2837894
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:46.626Z"
 }

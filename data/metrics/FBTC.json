@@ -3,6 +3,11 @@
   "name": "Fidelity Wise Origin Bitcoin Fund",
   "cik": 1852317,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -39,5 +44,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:28.158Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2023": 0,
+      "2024": 18855191000,
+      "2025": 17706511000
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": 0,
+      "2024": 40801000,
+      "2025": 70257000
+    },
+    "shareholdersEquity": {
+      "2023": 0,
+      "2024": 18814390000,
+      "2025": 17636254000
+    },
+    "operatingCashFlow": {
+      "2023": 0,
+      "2024": -11705251000,
+      "2025": -127755000
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:09.372Z"
 }

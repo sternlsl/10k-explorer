@@ -3,6 +3,12 @@
   "name": "Hashdex Commodities Trust",
   "cik": 1985840,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -49,5 +55,91 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:14.624Z"
+  "history": {
+    "revenue": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2022": null,
+      "2023": 1440764,
+      "2024": 10717016,
+      "2025": null
+    },
+    "netIncome": {
+      "2022": null,
+      "2023": 1423046,
+      "2024": 10581435,
+      "2025": -474450
+    },
+    "epsBasic": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2022": null,
+      "2023": 2590387,
+      "2024": 14851005,
+      "2025": 11900343
+    },
+    "currentLiabilities": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2022": null,
+      "2023": 53429,
+      "2024": 11620,
+      "2025": 2566
+    },
+    "shareholdersEquity": {
+      "2022": 1070263,
+      "2023": 2536958,
+      "2024": 14839385,
+      "2025": 11897777
+    },
+    "operatingCashFlow": {
+      "2022": null,
+      "2023": 1122045,
+      "2024": -3558982,
+      "2025": 2489611
+    },
+    "capex": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:03.404Z"
 }

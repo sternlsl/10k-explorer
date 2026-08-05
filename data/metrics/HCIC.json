@@ -3,6 +3,9 @@
   "name": "Hennessy Capital Investment Corp. VIII",
   "cik": 2099093,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -39,5 +42,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:47.865Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 935
+    },
+    "totalAssets": {
+      "2025": 343865
+    },
+    "currentLiabilities": {
+      "2025": 363370
+    },
+    "totalLiabilities": {
+      "2025": null
+    },
+    "shareholdersEquity": {
+      "2025": -19505
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:34.924Z"
 }

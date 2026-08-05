@@ -3,6 +3,10 @@
   "name": "Franklin Solana Trust",
   "cik": 2057388,
   "fiscalYear": 2026,
+  "fiscalYears": [
+    2025,
+    2026
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -34,5 +38,63 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:07:34.498Z"
+  "history": {
+    "revenue": {
+      "2025": null,
+      "2026": null
+    },
+    "cogs": {
+      "2025": null,
+      "2026": null
+    },
+    "grossProfit": {
+      "2025": null,
+      "2026": null
+    },
+    "operatingIncome": {
+      "2025": null,
+      "2026": null
+    },
+    "netIncome": {
+      "2025": null,
+      "2026": null
+    },
+    "epsBasic": {
+      "2025": null,
+      "2026": null
+    },
+    "epsDiluted": {
+      "2025": null,
+      "2026": null
+    },
+    "currentAssets": {
+      "2025": null,
+      "2026": null
+    },
+    "totalAssets": {
+      "2025": null,
+      "2026": 9365458
+    },
+    "currentLiabilities": {
+      "2025": null,
+      "2026": null
+    },
+    "totalLiabilities": {
+      "2025": null,
+      "2026": 403
+    },
+    "shareholdersEquity": {
+      "2025": 2325457,
+      "2026": 12094601
+    },
+    "operatingCashFlow": {
+      "2025": null,
+      "2026": null
+    },
+    "capex": {
+      "2025": null,
+      "2026": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:56.803Z"
 }

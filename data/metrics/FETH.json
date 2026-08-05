@@ -3,6 +3,10 @@
   "name": "Fidelity Ethereum Fund",
   "cik": 2000046,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -39,5 +43,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:14.955Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": null
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2024": 1604422000,
+      "2025": 2212443000
+    },
+    "currentLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2024": 31796000,
+      "2025": 2674000
+    },
+    "shareholdersEquity": {
+      "2024": 1572626000,
+      "2025": 2209769000
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -1038501000
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:03.395Z"
 }

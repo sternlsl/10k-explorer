@@ -3,6 +3,12 @@
   "name": "Invech Holdings, Inc.",
   "cik": 1009919,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 0,
@@ -64,5 +70,91 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:22.779Z"
+  "history": {
+    "revenue": {
+      "2022": null,
+      "2023": null,
+      "2024": 0,
+      "2025": 0
+    },
+    "cogs": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2022": null,
+      "2023": -64641,
+      "2024": -60475,
+      "2025": -58018
+    },
+    "netIncome": {
+      "2022": null,
+      "2023": -64641,
+      "2024": -60475,
+      "2025": -58018
+    },
+    "epsBasic": {
+      "2022": null,
+      "2023": 0,
+      "2024": 0,
+      "2025": 0
+    },
+    "epsDiluted": {
+      "2022": null,
+      "2023": 0,
+      "2024": 0,
+      "2025": 0
+    },
+    "currentAssets": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2022": null,
+      "2023": 7000,
+      "2024": 1260,
+      "2025": 1500
+    },
+    "currentLiabilities": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2022": null,
+      "2023": 40475,
+      "2024": 9834,
+      "2025": 63649
+    },
+    "shareholdersEquity": {
+      "2022": -9834,
+      "2023": -33475,
+      "2024": -8574,
+      "2025": -62149
+    },
+    "operatingCashFlow": {
+      "2022": null,
+      "2023": -63641,
+      "2024": -61735,
+      "2025": -58258
+    },
+    "capex": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:05.452Z"
 }

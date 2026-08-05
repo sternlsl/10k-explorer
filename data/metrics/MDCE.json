@@ -3,6 +3,13 @@
   "name": "Medical Care Technologies Inc.",
   "cik": 1404593,
   "fiscalYear": 2011,
+  "fiscalYears": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +66,105 @@
       "filed": "2012-04-16"
     }
   },
-  "updatedAt": "2026-08-05T17:07:15.872Z"
+  "history": {
+    "revenue": {
+      "2007": null,
+      "2008": null,
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "cogs": {
+      "2007": null,
+      "2008": null,
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "grossProfit": {
+      "2007": null,
+      "2008": null,
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "operatingIncome": {
+      "2007": null,
+      "2008": null,
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "netIncome": {
+      "2007": null,
+      "2008": null,
+      "2009": null,
+      "2010": -2189271,
+      "2011": -1923887
+    },
+    "epsBasic": {
+      "2007": null,
+      "2008": null,
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "epsDiluted": {
+      "2007": null,
+      "2008": null,
+      "2009": null,
+      "2010": null,
+      "2011": null
+    },
+    "currentAssets": {
+      "2007": null,
+      "2008": null,
+      "2009": null,
+      "2010": 6891,
+      "2011": 45062
+    },
+    "totalAssets": {
+      "2007": null,
+      "2008": null,
+      "2009": null,
+      "2010": 16891,
+      "2011": 513921
+    },
+    "currentLiabilities": {
+      "2007": null,
+      "2008": null,
+      "2009": null,
+      "2010": 246253,
+      "2011": 521455
+    },
+    "totalLiabilities": {
+      "2007": null,
+      "2008": null,
+      "2009": null,
+      "2010": 246253,
+      "2011": 652409
+    },
+    "shareholdersEquity": {
+      "2007": 8457,
+      "2008": -41785,
+      "2009": -126906,
+      "2010": -229362,
+      "2011": -289648
+    },
+    "operatingCashFlow": {
+      "2007": null,
+      "2008": null,
+      "2009": null,
+      "2010": -189935,
+      "2011": -371920
+    },
+    "capex": {
+      "2007": null,
+      "2008": null,
+      "2009": null,
+      "2010": 0,
+      "2011": 6200
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:46.218Z"
 }

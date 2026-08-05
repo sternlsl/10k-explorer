@@ -3,6 +3,10 @@
   "name": "Copley Acquisition Corp",
   "cik": 2045473,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:36.399Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -479675
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 4133810
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": 158943
+    },
+    "totalAssets": {
+      "2024": 436025,
+      "2025": 178160385
+    },
+    "currentLiabilities": {
+      "2024": 479812,
+      "2025": 237035
+    },
+    "totalLiabilities": {
+      "2024": 479812,
+      "2025": 5412035
+    },
+    "shareholdersEquity": {
+      "2024": -43787,
+      "2025": -5223092
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -468997
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:08.413Z"
 }

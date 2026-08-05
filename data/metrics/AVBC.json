@@ -3,6 +3,11 @@
   "name": "Avidia Bancorp, Inc.",
   "cik": 2058758,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +64,77 @@
       "filed": "2026-03-27"
     }
   },
-  "updatedAt": "2026-08-05T17:00:36.634Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 11484000,
+      "2025": -3289000
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": -0.18
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": -0.18
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 2656539000,
+      "2025": 2837090000
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 2462712000,
+      "2025": 2458096000
+    },
+    "shareholdersEquity": {
+      "2023": 180797000,
+      "2024": 193827000,
+      "2025": 378994000
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": 23222000,
+      "2025": 28371000
+    },
+    "capex": {
+      "2023": null,
+      "2024": 2773000,
+      "2025": 4286000
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:26.438Z"
 }

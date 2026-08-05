@@ -3,6 +3,10 @@
   "name": "Tavia Acquisition Corp.",
   "cik": 2020385,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +58,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:02:45.702Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -1221951
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 3605405
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 957718,
+      "2025": 361475
+    },
+    "totalAssets": {
+      "2024": 116884655,
+      "2025": 121115768
+    },
+    "currentLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2024": 789132,
+      "2025": 1414840
+    },
+    "shareholdersEquity": {
+      "2024": 409657,
+      "2025": -1053365
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -674034
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:53.030Z"
 }

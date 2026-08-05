@@ -3,6 +3,9 @@
   "name": "SAIHEAT Ltd",
   "cik": 1847075,
   "fiscalYear": 2021,
+  "fiscalYears": [
+    2021
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -69,5 +72,49 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:05:13.259Z"
+  "history": {
+    "revenue": {
+      "2021": null
+    },
+    "cogs": {
+      "2021": null
+    },
+    "grossProfit": {
+      "2021": null
+    },
+    "operatingIncome": {
+      "2021": -1925574
+    },
+    "netIncome": {
+      "2021": -1923605
+    },
+    "epsBasic": {
+      "2021": -1.46
+    },
+    "epsDiluted": {
+      "2021": -1.46
+    },
+    "currentAssets": {
+      "2021": 102157
+    },
+    "totalAssets": {
+      "2021": 44993986
+    },
+    "currentLiabilities": {
+      "2021": 1589098
+    },
+    "totalLiabilities": {
+      "2021": 3160243
+    },
+    "shareholdersEquity": {
+      "2021": -3056117
+    },
+    "operatingCashFlow": {
+      "2021": -822874
+    },
+    "capex": {
+      "2021": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:02:31.660Z"
 }

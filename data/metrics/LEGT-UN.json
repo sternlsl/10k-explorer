@@ -3,6 +3,11 @@
   "name": "Legato Merger Corp. III",
   "cik": 2002038,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +64,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:19.531Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -670426,
+      "2025": -1038758
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 8215998,
+      "2025": 7897897
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": 23606,
+      "2024": 1852705,
+      "2025": 872260
+    },
+    "totalAssets": {
+      "2023": 23606,
+      "2024": 211914067,
+      "2025": 219811964
+    },
+    "currentLiabilities": {
+      "2023": 15738,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": 15738,
+      "2024": 7043750,
+      "2025": 7043750
+    },
+    "shareholdersEquity": {
+      "2023": 7868,
+      "2024": -5096045,
+      "2025": -6076491
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -844493,
+      "2025": -785914
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:57.447Z"
 }

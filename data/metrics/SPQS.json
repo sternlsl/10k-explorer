@@ -3,6 +3,11 @@
   "name": "SportsQuest, Inc.",
   "cik": 803097,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 0,
@@ -74,5 +79,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:09:15.198Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": 0,
+      "2025": 0
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -116761,
+      "2025": -90140
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -227443,
+      "2025": -121640
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": -0.00006,
+      "2025": -0.00003
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": -0.00006,
+      "2025": -0.00003
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 3191,
+      "2025": 259
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 3191,
+      "2025": 259
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 426556,
+      "2025": 460264
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 426556,
+      "2025": 460264
+    },
+    "shareholdersEquity": {
+      "2023": -318902,
+      "2024": -423365,
+      "2025": -460005
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -216488,
+      "2025": -104741
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:31.504Z"
 }

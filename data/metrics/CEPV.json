@@ -3,6 +3,11 @@
   "name": "Cantor Equity Partners V, Inc.",
   "cik": 2034266,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +59,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:59.202Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -7046,
+      "2025": -187125
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -7046,
+      "2025": 1230175
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": 299132
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 306,
+      "2025": 251996009
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 2188,
+      "2025": 91177
+    },
+    "shareholdersEquity": {
+      "2023": 5164,
+      "2024": -1882,
+      "2025": 317011
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": null,
+      "2025": -57976
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:43.572Z"
 }

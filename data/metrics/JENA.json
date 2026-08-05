@@ -3,6 +3,9 @@
   "name": "JENA ACQUISITION Corp II",
   "cik": 2060337,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +62,49 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:13.969Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": -7286767
+    },
+    "netIncome": {
+      "2025": -1836775
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 1065070
+    },
+    "totalAssets": {
+      "2025": 236574719
+    },
+    "currentLiabilities": {
+      "2025": 25026
+    },
+    "totalLiabilities": {
+      "2025": 13825026
+    },
+    "shareholdersEquity": {
+      "2025": -12700299
+    },
+    "operatingCashFlow": {
+      "2025": -510037
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:53.227Z"
 }

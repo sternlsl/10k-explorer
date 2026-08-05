@@ -3,6 +3,9 @@
   "name": "M3-Brigade Acquisition VI Corp.",
   "cik": 2073928,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +47,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:16.081Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 1043450
+    },
+    "totalAssets": {
+      "2025": 350760221
+    },
+    "currentLiabilities": {
+      "2025": 282470
+    },
+    "totalLiabilities": {
+      "2025": 16707470
+    },
+    "shareholdersEquity": {
+      "2025": -15555687
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:11.320Z"
 }

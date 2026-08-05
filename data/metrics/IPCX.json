@@ -3,6 +3,10 @@
   "name": "Inflection Point Acquisition Corp. III",
   "cik": 2012318,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 100000000,
@@ -64,5 +68,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:46.077Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": 100000000
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": -85796,
+      "2025": -6532315
+    },
+    "netIncome": {
+      "2024": -85796,
+      "2025": 498416
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 5532,
+      "2025": 1300138
+    },
+    "totalAssets": {
+      "2024": 326027,
+      "2025": 261134426
+    },
+    "currentLiabilities": {
+      "2024": 372367,
+      "2025": 457974
+    },
+    "totalLiabilities": {
+      "2024": 386823,
+      "2025": 15020893
+    },
+    "shareholdersEquity": {
+      "2024": -60796,
+      "2025": -13667198
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -1442021
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:33.846Z"
 }

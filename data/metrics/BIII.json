@@ -3,6 +3,9 @@
   "name": "Black Spade Acquisition III Co",
   "cik": 2087087,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +47,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:46.936Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 3279258
+    },
+    "totalAssets": {
+      "2025": 3662952
+    },
+    "currentLiabilities": {
+      "2025": 3724329
+    },
+    "totalLiabilities": {
+      "2025": 3724329
+    },
+    "shareholdersEquity": {
+      "2025": -61377
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:16.890Z"
 }

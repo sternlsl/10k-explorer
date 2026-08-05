@@ -3,6 +3,9 @@
   "name": "Fermi Inc.",
   "cik": 2071778,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -64,5 +67,49 @@
       "filed": "2026-03-30"
     }
   },
-  "updatedAt": "2026-08-05T16:56:48.267Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": -177779000
+    },
+    "netIncome": {
+      "2025": -486379000
+    },
+    "epsBasic": {
+      "2025": -1.13
+    },
+    "epsDiluted": {
+      "2025": -1.13
+    },
+    "currentAssets": {
+      "2025": null
+    },
+    "totalAssets": {
+      "2025": 1413314000
+    },
+    "currentLiabilities": {
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2025": 317442000
+    },
+    "shareholdersEquity": {
+      "2025": 1095872000
+    },
+    "operatingCashFlow": {
+      "2025": -34151000
+    },
+    "capex": {
+      "2025": 569304000
+    }
+  },
+  "updatedAt": "2026-08-05T20:56:39.920Z"
 }

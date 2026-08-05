@@ -3,6 +3,11 @@
   "name": "GBank Financial Holdings Inc.",
   "cik": 1791145,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 1235000000,
@@ -59,5 +64,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:22.678Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": 1235000000
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 18636000,
+      "2025": 20929000
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": 1.41,
+      "2025": 1.46
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": 1.39,
+      "2025": 1.44
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 1122364000,
+      "2025": 1359491000
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 981664000,
+      "2025": 1193736000
+    },
+    "shareholdersEquity": {
+      "2023": 98427000,
+      "2024": 140700000,
+      "2025": 165755000
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": 26482000,
+      "2025": 9639000
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:16.243Z"
 }

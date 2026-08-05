@@ -3,6 +3,11 @@
   "name": "LB PHARMACEUTICALS INC",
   "cik": 1691082,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -69,5 +74,77 @@
       "filed": "2026-03-26"
     }
   },
-  "updatedAt": "2026-08-05T16:58:55.040Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -63102000,
+      "2025": -25205000
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": -176.15,
+      "2025": -3.13
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": -176.15,
+      "2025": -3.13
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 28879000,
+      "2025": 308432000
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 33534000,
+      "2025": 312934000
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 8109000,
+      "2025": 7442000
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 13829000,
+      "2025": 11624000
+    },
+    "shareholdersEquity": {
+      "2023": -34473000,
+      "2024": -94554000,
+      "2025": 301310000
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -53052000,
+      "2025": -35208000
+    },
+    "capex": {
+      "2023": null,
+      "2024": 769000,
+      "2025": 52000
+    }
+  },
+  "updatedAt": "2026-08-05T20:58:14.825Z"
 }

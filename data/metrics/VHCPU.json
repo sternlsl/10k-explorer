@@ -3,6 +3,9 @@
   "name": "Vine Hill Capital Investment Corp. II",
   "cik": 2086264,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +47,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:09.911Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 3104000
+    },
+    "totalAssets": {
+      "2025": 233333000
+    },
+    "currentLiabilities": {
+      "2025": 370000
+    },
+    "totalLiabilities": {
+      "2025": 8471000
+    },
+    "shareholdersEquity": {
+      "2025": -5367000
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:50.913Z"
 }

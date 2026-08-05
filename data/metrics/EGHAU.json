@@ -3,6 +3,9 @@
   "name": "EGH Acquisition Corp.",
   "cik": 2052547,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +62,49 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:54.913Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": -653103
+    },
+    "netIncome": {
+      "2025": 3373817
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 868906
+    },
+    "totalAssets": {
+      "2025": 154767508
+    },
+    "currentLiabilities": {
+      "2025": 95288
+    },
+    "totalLiabilities": {
+      "2025": 6095288
+    },
+    "shareholdersEquity": {
+      "2025": -5195616
+    },
+    "operatingCashFlow": {
+      "2025": -719445
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:22.126Z"
 }

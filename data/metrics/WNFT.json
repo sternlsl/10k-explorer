@@ -3,6 +3,13 @@
   "name": "Worldwide NFT Inc.",
   "cik": 1528188,
   "fiscalYear": 2023,
+  "fiscalYears": [
+    2012,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -64,5 +71,105 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:09:03.039Z"
+  "history": {
+    "revenue": {
+      "2012": null,
+      "2020": null,
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "cogs": {
+      "2012": null,
+      "2020": null,
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "grossProfit": {
+      "2012": null,
+      "2020": null,
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "operatingIncome": {
+      "2012": null,
+      "2020": null,
+      "2021": null,
+      "2022": -20068332,
+      "2023": -97605
+    },
+    "netIncome": {
+      "2012": -28677,
+      "2020": null,
+      "2021": -6866,
+      "2022": -20068332,
+      "2023": -97605
+    },
+    "epsBasic": {
+      "2012": null,
+      "2020": null,
+      "2021": 0,
+      "2022": -0.032,
+      "2023": 0
+    },
+    "epsDiluted": {
+      "2012": null,
+      "2020": null,
+      "2021": null,
+      "2022": -0.032,
+      "2023": 0
+    },
+    "currentAssets": {
+      "2012": null,
+      "2020": null,
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "totalAssets": {
+      "2012": 1565,
+      "2020": null,
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "currentLiabilities": {
+      "2012": null,
+      "2020": null,
+      "2021": 89130,
+      "2022": 177162,
+      "2023": 274767
+    },
+    "totalLiabilities": {
+      "2012": 6308,
+      "2020": null,
+      "2021": 89130,
+      "2022": 177162,
+      "2023": 274767
+    },
+    "shareholdersEquity": {
+      "2012": -4743,
+      "2020": -82264,
+      "2021": -82264,
+      "2022": -177162,
+      "2023": -274767
+    },
+    "operatingCashFlow": {
+      "2012": null,
+      "2020": null,
+      "2021": null,
+      "2022": -50000,
+      "2023": null
+    },
+    "capex": {
+      "2012": null,
+      "2020": null,
+      "2021": null,
+      "2022": null,
+      "2023": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:22.691Z"
 }

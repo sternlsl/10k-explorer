@@ -3,6 +3,11 @@
   "name": "FG Merger II Corp.",
   "cik": 1906364,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -14,7 +19,7 @@
       "filed": "2026-03-31"
     },
     "netIncome": {
-      "value": 1427086,
+      "value": 1426980,
       "year": 2025,
       "periodEnd": "2025-12-31",
       "filed": "2026-03-31"
@@ -64,5 +69,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:03:01.598Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -25850,
+      "2025": -972161
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -25850,
+      "2025": 1426980
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": -0.01,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": -0.01,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 169035,
+      "2025": 584447
+    },
+    "totalAssets": {
+      "2023": 170918,
+      "2024": 169035,
+      "2025": 82721335
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": 147700,
+      "2024": 171667,
+      "2025": 194918
+    },
+    "shareholdersEquity": {
+      "2023": 23218,
+      "2024": -2632,
+      "2025": 389529
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -9963,
+      "2025": 1484355
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:04.911Z"
 }

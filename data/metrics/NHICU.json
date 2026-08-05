@@ -3,6 +3,10 @@
   "name": "NewHold Investment Corp. III",
   "cik": 2043699,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:15.926Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -2090000
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 4918000
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 382000,
+      "2025": 1334000
+    },
+    "totalAssets": {
+      "2024": 382000,
+      "2025": 210554000
+    },
+    "currentLiabilities": {
+      "2024": 447000,
+      "2025": 1251000
+    },
+    "totalLiabilities": {
+      "2024": 447000,
+      "2025": 8295000
+    },
+    "shareholdersEquity": {
+      "2024": -65000,
+      "2025": -6961000
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -1006000
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:54.992Z"
 }

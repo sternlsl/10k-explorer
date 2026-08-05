@@ -3,6 +3,9 @@
   "name": "Clearthink 1 Acquisition Corp.",
   "cik": 2094073,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -39,5 +42,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:49.505Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 59999
+    },
+    "totalAssets": {
+      "2025": 312542
+    },
+    "currentLiabilities": {
+      "2025": 334034
+    },
+    "totalLiabilities": {
+      "2025": null
+    },
+    "shareholdersEquity": {
+      "2025": -21492
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:18.335Z"
 }

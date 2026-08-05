@@ -3,6 +3,11 @@
   "name": "CoinShares Bitcoin ETF",
   "cik": 1841175,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -49,5 +54,77 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:07:59.196Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -1112971,
+      "2025": -1618079
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 306959179,
+      "2025": -49706048
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": 11.59,
+      "2025": -2.2
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2023": 0,
+      "2024": 826306338,
+      "2025": 505489906
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": 0,
+      "2024": 190348,
+      "2025": 108999
+    },
+    "shareholdersEquity": {
+      "2023": 0,
+      "2024": 826115990,
+      "2025": 505380907
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:58.045Z"
 }

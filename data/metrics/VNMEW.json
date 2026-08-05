@@ -3,6 +3,9 @@
   "name": "Vendome Acquisition Corp I",
   "cik": 2055879,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -49,5 +52,49 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:33.035Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": 3870407
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 573817
+    },
+    "totalAssets": {
+      "2025": 204606763
+    },
+    "currentLiabilities": {
+      "2025": 169138
+    },
+    "totalLiabilities": {
+      "2025": null
+    },
+    "shareholdersEquity": {
+      "2025": 404679
+    },
+    "operatingCashFlow": {
+      "2025": -787011
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:06.324Z"
 }

@@ -3,6 +3,11 @@
   "name": "Winchester Bancorp, Inc./MD/",
   "cik": 2047235,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +59,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:02:52.819Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 786000,
+      "2025": -874000
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": -0.09
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": -0.09
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 852968000,
+      "2025": 949378000
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 772680000,
+      "2025": 834026000
+    },
+    "shareholdersEquity": {
+      "2023": 77046000,
+      "2024": 80288000,
+      "2025": 115352000
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": 231000,
+      "2025": 2465000
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:58.637Z"
 }

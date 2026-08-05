@@ -3,6 +3,9 @@
   "name": "Daedalus Special Acquisition Corp.",
   "cik": 2082149,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +47,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:54.240Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 1141630
+    },
+    "totalAssets": {
+      "2025": 251743139
+    },
+    "currentLiabilities": {
+      "2025": 196683
+    },
+    "totalLiabilities": {
+      "2025": 8946683
+    },
+    "shareholdersEquity": {
+      "2025": -7739358
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:39.754Z"
 }

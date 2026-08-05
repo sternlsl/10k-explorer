@@ -3,6 +3,10 @@
   "name": "Invesco Galaxy Ethereum ETF",
   "cik": 1995569,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -49,5 +53,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:04.402Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -64961
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": -1808020
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2024": 23569250,
+      "2025": 25853745
+    },
+    "currentLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2024": 5997,
+      "2025": 5564
+    },
+    "shareholdersEquity": {
+      "2024": 23563253,
+      "2025": 25848181
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -4092948
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:59.072Z"
 }

@@ -3,6 +3,10 @@
   "name": "Terra Innovatum Global N.V.",
   "cik": 2067627,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -69,5 +73,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:17.162Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": -153000,
+      "2025": -33699000
+    },
+    "netIncome": {
+      "2024": -34000,
+      "2025": 539524000
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": 9.74
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": 9.74
+    },
+    "currentAssets": {
+      "2024": 134000,
+      "2025": 106034000
+    },
+    "totalAssets": {
+      "2024": 134000,
+      "2025": 106136000
+    },
+    "currentLiabilities": {
+      "2024": 53000,
+      "2025": 3159000
+    },
+    "totalLiabilities": {
+      "2024": 166000,
+      "2025": 199726000
+    },
+    "shareholdersEquity": {
+      "2024": -32000,
+      "2025": -93590000
+    },
+    "operatingCashFlow": {
+      "2024": -42000,
+      "2025": -10297000
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:12.430Z"
 }

@@ -3,6 +3,11 @@
   "name": "Seneca Bancorp, Inc.",
   "cik": 2072421,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +64,77 @@
       "filed": "2026-03-30"
     }
   },
-  "updatedAt": "2026-08-05T17:05:09.999Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 712000,
+      "2025": 172000
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": 0.42,
+      "2025": 0.1
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": 0.42,
+      "2025": 0.1
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 280939000,
+      "2025": 312114000
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 257081000,
+      "2025": 279363000
+    },
+    "shareholdersEquity": {
+      "2023": 22649000,
+      "2024": 23858000,
+      "2025": 32751000
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": 1715000,
+      "2025": 4767000
+    },
+    "capex": {
+      "2023": null,
+      "2024": 3317000,
+      "2025": 4797000
+    }
+  },
+  "updatedAt": "2026-08-05T21:02:29.899Z"
 }

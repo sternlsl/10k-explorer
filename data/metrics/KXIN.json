@@ -3,6 +3,11 @@
   "name": "Kaixin Holdings",
   "cik": 1713539,
   "fiscalYear": 2018,
+  "fiscalYears": [
+    2016,
+    2017,
+    2018
+  ],
   "metrics": {
     "revenue": null,
     "cogs": {
@@ -59,5 +64,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:06:05.497Z"
+  "history": {
+    "revenue": {
+      "2016": null,
+      "2017": null,
+      "2018": null
+    },
+    "cogs": {
+      "2016": null,
+      "2017": 85806,
+      "2018": 1413762
+    },
+    "grossProfit": {
+      "2016": null,
+      "2017": null,
+      "2018": null
+    },
+    "operatingIncome": {
+      "2016": null,
+      "2017": -85806,
+      "2018": -1413762
+    },
+    "netIncome": {
+      "2016": null,
+      "2017": 337250,
+      "2018": 2257292
+    },
+    "epsBasic": {
+      "2016": null,
+      "2017": null,
+      "2018": null
+    },
+    "epsDiluted": {
+      "2016": null,
+      "2017": null,
+      "2018": null
+    },
+    "currentAssets": {
+      "2016": 75000,
+      "2017": 224501,
+      "2018": 98739
+    },
+    "totalAssets": {
+      "2016": 75000,
+      "2017": 207010349,
+      "2018": 210554208
+    },
+    "currentLiabilities": {
+      "2016": 84502,
+      "2017": 19859,
+      "2018": 1306426
+    },
+    "totalLiabilities": {
+      "2016": null,
+      "2017": null,
+      "2018": null
+    },
+    "shareholdersEquity": {
+      "2016": -9502,
+      "2017": 5000010,
+      "2018": 5000002
+    },
+    "operatingCashFlow": {
+      "2016": null,
+      "2017": -124905,
+      "2018": -625762
+    },
+    "capex": {
+      "2016": null,
+      "2017": null,
+      "2018": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:01.117Z"
 }

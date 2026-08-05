@@ -3,6 +3,10 @@
   "name": "Lakeshore Acquisition III Corp.",
   "cik": 2049248,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -69,5 +73,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:03:11.636Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -600384
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 1257633
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": -0.09
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": 0.31
+    },
+    "currentAssets": {
+      "2024": 310876,
+      "2025": 765592
+    },
+    "totalAssets": {
+      "2024": 310876,
+      "2025": 71623609
+    },
+    "currentLiabilities": {
+      "2024": 300000,
+      "2025": 75000
+    },
+    "totalLiabilities": {
+      "2024": 300000,
+      "2025": 2490000
+    },
+    "shareholdersEquity": {
+      "2024": 10876,
+      "2025": -1724408
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -519384
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:12.005Z"
 }

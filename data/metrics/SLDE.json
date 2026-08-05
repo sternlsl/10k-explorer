@@ -3,6 +3,11 @@
   "name": "Slide Insurance Holdings, Inc.",
   "cik": 1886428,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 1155901000,
@@ -64,5 +69,77 @@
       "filed": "2026-03-02"
     }
   },
-  "updatedAt": "2026-08-05T16:57:27.871Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": 846814000,
+      "2025": 1155901000
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 201125000,
+      "2025": 443958000
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": 3.58,
+      "2025": 4.75
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": 1.66,
+      "2025": 3.36
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 1931927000,
+      "2025": 2918465000
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 1498768000,
+      "2025": 1805224000
+    },
+    "shareholdersEquity": {
+      "2023": 237598000,
+      "2024": 433159000,
+      "2025": 1113241000
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": 553886000,
+      "2025": 797432000
+    },
+    "capex": {
+      "2023": null,
+      "2024": 10088000,
+      "2025": 2857000
+    }
+  },
+  "updatedAt": "2026-08-05T20:57:10.871Z"
 }

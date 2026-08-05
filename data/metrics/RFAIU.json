@@ -3,6 +3,10 @@
   "name": "RF Acquisition Corp II",
   "cik": 2012807,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:03:12.130Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": -361800,
+      "2025": -1256856
+    },
+    "netIncome": {
+      "2024": 3157131,
+      "2025": 3367296
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 984407,
+      "2025": 401800
+    },
+    "totalAssets": {
+      "2024": 120078338,
+      "2025": 52659178
+    },
+    "currentLiabilities": {
+      "2024": 295200,
+      "2025": 969449
+    },
+    "totalLiabilities": {
+      "2024": 4320200,
+      "2025": 4994449
+    },
+    "shareholdersEquity": {
+      "2024": -3335793,
+      "2025": -4592649
+    },
+    "operatingCashFlow": {
+      "2024": -89501,
+      "2025": -561403
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:12.243Z"
 }

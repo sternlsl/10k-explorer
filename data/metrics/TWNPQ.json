@@ -3,6 +3,10 @@
   "name": "Twin Hospitality Group Inc.",
   "cik": 2011954,
   "fiscalYear": 2024,
+  "fiscalYears": [
+    2023,
+    2024
+  ],
   "metrics": {
     "revenue": {
       "value": 353801000,
@@ -69,5 +73,63 @@
       "filed": "2025-02-28"
     }
   },
-  "updatedAt": "2026-08-05T17:06:42.883Z"
+  "history": {
+    "revenue": {
+      "2023": 230867000,
+      "2024": 353801000
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null
+    },
+    "operatingIncome": {
+      "2023": 12940000,
+      "2024": -8330000
+    },
+    "netIncome": {
+      "2023": -13840000,
+      "2024": -48170000
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null
+    },
+    "currentAssets": {
+      "2023": 28093000,
+      "2024": 28805000
+    },
+    "totalAssets": {
+      "2023": 565582000,
+      "2024": 542446000
+    },
+    "currentLiabilities": {
+      "2023": 70728000,
+      "2024": 55230000
+    },
+    "totalLiabilities": {
+      "2023": 581093000,
+      "2024": 627055000
+    },
+    "shareholdersEquity": {
+      "2023": null,
+      "2024": -84609000
+    },
+    "operatingCashFlow": {
+      "2023": 6045000,
+      "2024": -15036000
+    },
+    "capex": {
+      "2023": 23873000,
+      "2024": 25139000
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:24.357Z"
 }

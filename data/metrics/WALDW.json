@@ -3,6 +3,10 @@
   "name": "Waldencast plc",
   "cik": 1840199,
   "fiscalYear": 2021,
+  "fiscalYears": [
+    2020,
+    2021
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:02:54.360Z"
+  "history": {
+    "revenue": {
+      "2020": null,
+      "2021": null
+    },
+    "cogs": {
+      "2020": null,
+      "2021": null
+    },
+    "grossProfit": {
+      "2020": null,
+      "2021": null
+    },
+    "operatingIncome": {
+      "2020": null,
+      "2021": -9133011
+    },
+    "netIncome": {
+      "2020": null,
+      "2021": -14427685
+    },
+    "epsBasic": {
+      "2020": null,
+      "2021": null
+    },
+    "epsDiluted": {
+      "2020": null,
+      "2021": null
+    },
+    "currentAssets": {
+      "2020": 166792,
+      "2021": 1708589
+    },
+    "totalAssets": {
+      "2020": 166792,
+      "2021": 346793686
+    },
+    "currentLiabilities": {
+      "2020": 177743,
+      "2021": 367953
+    },
+    "totalLiabilities": {
+      "2020": 177743,
+      "2021": 56602720
+    },
+    "shareholdersEquity": {
+      "2020": -10951,
+      "2021": -54809034
+    },
+    "operatingCashFlow": {
+      "2020": null,
+      "2021": -815682
+    },
+    "capex": {
+      "2020": null,
+      "2021": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:59.523Z"
 }

@@ -3,6 +3,11 @@
   "name": "Quetta Acquisition Corp",
   "cik": 1978528,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +64,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:04:19.697Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -810534,
+      "2025": -1467731
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 2094096,
+      "2025": -780924
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": 718397,
+      "2024": 1573718,
+      "2025": 22431
+    },
+    "totalAssets": {
+      "2023": 71224921,
+      "2024": 74689073,
+      "2025": 19255692
+    },
+    "currentLiabilities": {
+      "2023": 231991,
+      "2024": 1602047,
+      "2025": 2653335
+    },
+    "totalLiabilities": {
+      "2023": 2646991,
+      "2024": 4017047,
+      "2025": 5068335
+    },
+    "shareholdersEquity": {
+      "2023": -1743594,
+      "2024": -2465932,
+      "2025": -5107041
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -584488,
+      "2025": -1828787
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:57.074Z"
 }

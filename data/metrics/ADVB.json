@@ -3,6 +3,11 @@
   "name": "Advanced Biomed Inc.",
   "cik": 1941029,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -69,5 +74,77 @@
       "filed": "2025-10-08"
     }
   },
-  "updatedAt": "2026-08-05T17:05:59.472Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -2782278,
+      "2025": -3258969
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": -0.14,
+      "2025": -0.16
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": -0.14,
+      "2025": -0.16
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 3051110,
+      "2025": 6032571
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 4460247,
+      "2025": 6512343
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 2732460,
+      "2025": 2889128
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 2796989,
+      "2025": 3034779
+    },
+    "shareholdersEquity": {
+      "2023": 1305588,
+      "2024": 1663258,
+      "2025": 3477564
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -2126340,
+      "2025": -5825055
+    },
+    "capex": {
+      "2023": null,
+      "2024": 74110,
+      "2025": 31650
+    }
+  },
+  "updatedAt": "2026-08-05T21:02:57.322Z"
 }

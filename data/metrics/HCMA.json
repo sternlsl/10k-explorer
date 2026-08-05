@@ -3,6 +3,9 @@
   "name": "HCM III ACQUISITION CORP.",
   "cik": 2069856,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +47,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:53.182Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 1088566
+    },
+    "totalAssets": {
+      "2025": 258425412
+    },
+    "currentLiabilities": {
+      "2025": 664831
+    },
+    "totalLiabilities": {
+      "2025": 13914331
+    },
+    "shareholdersEquity": {
+      "2025": -12787848
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:38.962Z"
 }

@@ -3,6 +3,10 @@
   "name": "Twelve Seas Investment Co III/Cayman",
   "cik": 2052243,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:43.484Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -229278
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 37028
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 34711,
+      "2025": 802765
+    },
+    "totalAssets": {
+      "2024": 81946,
+      "2025": 173639696
+    },
+    "currentLiabilities": {
+      "2024": 74170,
+      "2025": 173390
+    },
+    "totalLiabilities": {
+      "2024": 74170,
+      "2025": 7073390
+    },
+    "shareholdersEquity": {
+      "2024": 7776,
+      "2025": -6200000
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -252205
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:14.080Z"
 }

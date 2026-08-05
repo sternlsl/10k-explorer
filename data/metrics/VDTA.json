@@ -3,6 +3,10 @@
   "name": "Vertical Data Inc.",
   "cik": 2033264,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 3666000,
@@ -84,5 +88,63 @@
       "filed": "2025-12-29"
     }
   },
-  "updatedAt": "2026-08-05T17:09:40.524Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": 3666000
+    },
+    "cogs": {
+      "2024": null,
+      "2025": 3598000
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": 68000
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": -3820078
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": -0.09
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": -0.09
+    },
+    "currentAssets": {
+      "2024": 1121711,
+      "2025": 517712
+    },
+    "totalAssets": {
+      "2024": 1123040,
+      "2025": 519169
+    },
+    "currentLiabilities": {
+      "2024": 367115,
+      "2025": 252058
+    },
+    "totalLiabilities": {
+      "2024": 367115,
+      "2025": 252058
+    },
+    "shareholdersEquity": {
+      "2024": 1475985,
+      "2025": 267111
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -1452945
+    },
+    "capex": {
+      "2024": null,
+      "2025": 459
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:44.752Z"
 }

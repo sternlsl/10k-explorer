@@ -3,6 +3,11 @@
   "name": "SOUTHERN ITS INTERNATIONAL, INC.",
   "cik": 1468978,
   "fiscalYear": 2015,
+  "fiscalYears": [
+    2013,
+    2014,
+    2015
+  ],
   "metrics": {
     "revenue": {
       "value": 1390258,
@@ -74,5 +79,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:09:08.102Z"
+  "history": {
+    "revenue": {
+      "2013": null,
+      "2014": 508035,
+      "2015": 1390258
+    },
+    "cogs": {
+      "2013": null,
+      "2014": 287653,
+      "2015": 1377127
+    },
+    "grossProfit": {
+      "2013": null,
+      "2014": 220382,
+      "2015": 13131
+    },
+    "operatingIncome": {
+      "2013": null,
+      "2014": -297947,
+      "2015": -282084
+    },
+    "netIncome": {
+      "2013": null,
+      "2014": -470583,
+      "2015": -1018006
+    },
+    "epsBasic": {
+      "2013": null,
+      "2014": null,
+      "2015": null
+    },
+    "epsDiluted": {
+      "2013": null,
+      "2014": null,
+      "2015": null
+    },
+    "currentAssets": {
+      "2013": null,
+      "2014": 704144,
+      "2015": 27178
+    },
+    "totalAssets": {
+      "2013": null,
+      "2014": 707592,
+      "2015": 29796
+    },
+    "currentLiabilities": {
+      "2013": null,
+      "2014": 2736246,
+      "2015": 3074706
+    },
+    "totalLiabilities": {
+      "2013": null,
+      "2014": 2736246,
+      "2015": 3074706
+    },
+    "shareholdersEquity": {
+      "2013": -2306171,
+      "2014": -2028654,
+      "2015": -3044910
+    },
+    "operatingCashFlow": {
+      "2013": null,
+      "2014": -162300,
+      "2015": -30816
+    },
+    "capex": {
+      "2013": null,
+      "2014": null,
+      "2015": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:26.630Z"
 }

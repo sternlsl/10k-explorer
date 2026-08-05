@@ -3,6 +3,11 @@
   "name": "UY Scuti Acquisition Corp.",
   "cik": 2036973,
   "fiscalYear": 2026,
+  "fiscalYears": [
+    2024,
+    2025,
+    2026
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -64,5 +69,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:03:23.213Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -156520,
+      "2026": -1414260
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": -156520,
+      "2026": 783344
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": -0.11,
+      "2026": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": -0.11,
+      "2026": null
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": 239316,
+      "2026": 8846
+    },
+    "totalAssets": {
+      "2024": 90000,
+      "2025": 239316,
+      "2026": 60156450
+    },
+    "currentLiabilities": {
+      "2024": 71748,
+      "2025": 377584,
+      "2026": 1060945
+    },
+    "totalLiabilities": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "shareholdersEquity": {
+      "2024": 18252,
+      "2025": -138268,
+      "2026": -1036501
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -99184,
+      "2026": -843315
+    },
+    "capex": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:20.250Z"
 }

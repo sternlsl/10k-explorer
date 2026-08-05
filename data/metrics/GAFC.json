@@ -3,6 +3,11 @@
   "name": "Guru App Factory Corp",
   "cik": 1989788,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 94500,
@@ -69,5 +74,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:09:42.286Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": 82500,
+      "2025": 94500
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -22972,
+      "2025": -43690
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": 0,
+      "2025": -0.01
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": 0,
+      "2025": -0.01
+    },
+    "currentAssets": {
+      "2023": 4064,
+      "2024": 63043,
+      "2025": 0
+    },
+    "totalAssets": {
+      "2023": 4064,
+      "2024": 68190,
+      "2025": 0
+    },
+    "currentLiabilities": {
+      "2023": 825,
+      "2024": 25803,
+      "2025": 1303
+    },
+    "totalLiabilities": {
+      "2023": 825,
+      "2024": 25803,
+      "2025": 1303
+    },
+    "shareholdersEquity": {
+      "2023": 3239,
+      "2024": 42387,
+      "2025": -1303
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -37641,
+      "2025": -23043
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:45.677Z"
 }

@@ -3,6 +3,9 @@
   "name": "Bitcoin Infrastructure Acquisition Corp Ltd",
   "cik": 2082542,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +47,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:10.833Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 2715777
+    },
+    "totalAssets": {
+      "2025": 223420406
+    },
+    "currentLiabilities": {
+      "2025": 133348
+    },
+    "totalLiabilities": {
+      "2025": 8933348
+    },
+    "shareholdersEquity": {
+      "2025": -6158396
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:51.855Z"
 }

@@ -3,6 +3,9 @@
   "name": "Spring Valley Acquisition Corp. III",
   "cik": 2074850,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +47,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:02.090Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 850697
+    },
+    "totalAssets": {
+      "2025": 233708498
+    },
+    "currentLiabilities": {
+      "2025": 102634
+    },
+    "totalLiabilities": {
+      "2025": 9302634
+    },
+    "shareholdersEquity": {
+      "2025": -8263300
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:45.719Z"
 }

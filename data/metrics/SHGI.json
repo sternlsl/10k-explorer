@@ -3,6 +3,11 @@
   "name": "Sparx Holdings Group, Inc.",
   "cik": 1874138,
   "fiscalYear": 2023,
+  "fiscalYears": [
+    2021,
+    2022,
+    2023
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +49,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:09:19.489Z"
+  "history": {
+    "revenue": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "cogs": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "grossProfit": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "operatingIncome": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "netIncome": {
+      "2021": -4710,
+      "2022": -5743,
+      "2023": -47685
+    },
+    "epsBasic": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "epsDiluted": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "currentAssets": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "totalAssets": {
+      "2021": null,
+      "2022": null,
+      "2023": 100219
+    },
+    "currentLiabilities": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    },
+    "totalLiabilities": {
+      "2021": 3750,
+      "2022": null,
+      "2023": 600
+    },
+    "shareholdersEquity": {
+      "2021": -3750,
+      "2022": null,
+      "2023": 99619
+    },
+    "operatingCashFlow": {
+      "2021": null,
+      "2022": null,
+      "2023": -3782
+    },
+    "capex": {
+      "2021": null,
+      "2022": null,
+      "2023": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:35.062Z"
 }

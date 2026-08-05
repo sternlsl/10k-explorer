@@ -3,6 +3,12 @@
   "name": "ESH Acquisition Corp.",
   "cik": 1918661,
   "fiscalYear": 2024,
+  "fiscalYears": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +65,91 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:59.821Z"
+  "history": {
+    "revenue": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null
+    },
+    "cogs": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null
+    },
+    "grossProfit": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null
+    },
+    "operatingIncome": {
+      "2021": null,
+      "2022": -19468,
+      "2023": -509014,
+      "2024": -996321
+    },
+    "netIncome": {
+      "2021": null,
+      "2022": -19468,
+      "2023": 1946899,
+      "2024": 3878173
+    },
+    "epsBasic": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null
+    },
+    "epsDiluted": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null
+    },
+    "currentAssets": {
+      "2021": null,
+      "2022": 44963,
+      "2023": 2204786,
+      "2024": 1493118
+    },
+    "totalAssets": {
+      "2021": null,
+      "2022": 458993,
+      "2023": 122332691,
+      "2024": 9978330
+    },
+    "currentLiabilities": {
+      "2021": null,
+      "2022": 454325,
+      "2023": 1039750,
+      "2024": 1655711
+    },
+    "totalLiabilities": {
+      "2021": null,
+      "2022": null,
+      "2023": 1039750,
+      "2024": 1655711
+    },
+    "shareholdersEquity": {
+      "2021": -864,
+      "2022": 4668,
+      "2023": 2224371,
+      "2024": 175329
+    },
+    "operatingCashFlow": {
+      "2021": null,
+      "2022": -43418,
+      "2023": -796580,
+      "2024": -2219753
+    },
+    "capex": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:20.602Z"
 }

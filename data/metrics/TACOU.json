@@ -3,6 +3,10 @@
   "name": "Berto Acquisition Corp.",
   "cik": 2033122,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -69,5 +73,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:00:32.382Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -647449
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 7876314
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": 0.29
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": 0.29
+    },
+    "currentAssets": {
+      "2024": 34044,
+      "2025": 732016
+    },
+    "totalAssets": {
+      "2024": 434044,
+      "2025": 309391928
+    },
+    "currentLiabilities": {
+      "2024": 997334,
+      "2025": 733345
+    },
+    "totalLiabilities": {
+      "2024": 997334,
+      "2025": 12439195
+    },
+    "shareholdersEquity": {
+      "2024": -563290,
+      "2025": -11707179
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -1264871
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:23.678Z"
 }

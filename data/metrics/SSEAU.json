@@ -3,6 +3,10 @@
   "name": "STARRY SEA ACQUISITION CORP",
   "cik": 2059165,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -64,5 +68,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:03:28.803Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -542614
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 320643
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": -0.78
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": -0.78
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": 379616
+    },
+    "totalAssets": {
+      "2024": 25000,
+      "2025": 58742879
+    },
+    "currentLiabilities": {
+      "2024": 31974,
+      "2025": 550
+    },
+    "totalLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "shareholdersEquity": {
+      "2024": -6974,
+      "2025": 5763587
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -702523
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:24.392Z"
 }

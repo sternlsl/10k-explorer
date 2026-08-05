@@ -3,6 +3,9 @@
   "name": "Hashdex Nasdaq CME Crypto Index ETF",
   "cik": 2031069,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -34,5 +37,49 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:07:41.875Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": null
+    },
+    "netIncome": {
+      "2025": -1981681
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": null
+    },
+    "totalAssets": {
+      "2025": 121314100
+    },
+    "currentLiabilities": {
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2025": 26623
+    },
+    "shareholdersEquity": {
+      "2025": null
+    },
+    "operatingCashFlow": {
+      "2025": null
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:57.148Z"
 }

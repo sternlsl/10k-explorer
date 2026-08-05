@@ -3,6 +3,11 @@
   "name": "GSR IV Acquisition Corp.",
   "cik": 2072404,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +64,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:14.183Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -10117,
+      "2025": -567012
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -10117,
+      "2025": 2320989
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 2867,
+      "2025": 1698887
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 2867,
+      "2025": 234586860
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 3800,
+      "2025": 20900
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 3800,
+      "2025": 9220900
+    },
+    "shareholdersEquity": {
+      "2023": 9184,
+      "2024": -933,
+      "2025": -7522013
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": null,
+      "2025": -611118
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:53.619Z"
 }

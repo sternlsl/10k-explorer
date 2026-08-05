@@ -3,6 +3,12 @@
   "name": "Cantor Equity Partners I, Inc.",
   "cik": 2027708,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -69,5 +75,91 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:26.256Z"
+  "history": {
+    "revenue": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2022": null,
+      "2023": null,
+      "2024": -84402,
+      "2025": -973559
+    },
+    "netIncome": {
+      "2022": null,
+      "2023": -3472,
+      "2024": -84402,
+      "2025": -6656942
+    },
+    "epsBasic": {
+      "2022": null,
+      "2023": 0,
+      "2024": -0.02,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2022": null,
+      "2023": 0,
+      "2024": -0.02,
+      "2025": null
+    },
+    "currentAssets": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": 211718
+    },
+    "totalAssets": {
+      "2022": null,
+      "2023": 2740,
+      "2024": 217609,
+      "2025": 207728713
+    },
+    "currentLiabilities": {
+      "2022": null,
+      "2023": null,
+      "2024": 299271,
+      "2025": 800346
+    },
+    "totalLiabilities": {
+      "2022": null,
+      "2023": null,
+      "2024": 299271,
+      "2025": 13997210
+    },
+    "shareholdersEquity": {
+      "2022": 6212,
+      "2023": 2740,
+      "2024": -81662,
+      "2025": -16781978
+    },
+    "operatingCashFlow": {
+      "2022": null,
+      "2023": null,
+      "2024": -134240,
+      "2025": 52578
+    },
+    "capex": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:02.244Z"
 }

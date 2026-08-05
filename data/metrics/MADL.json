@@ -3,6 +3,13 @@
   "name": "MAN AHL DIVERSIFIED I LP",
   "cik": 1052354,
   "fiscalYear": 2022,
+  "fiscalYears": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -39,5 +46,105 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:23.482Z"
+  "history": {
+    "revenue": {
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null,
+      "2022": null
+    },
+    "cogs": {
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null,
+      "2022": null
+    },
+    "grossProfit": {
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null,
+      "2022": null
+    },
+    "operatingIncome": {
+      "2018": -4077994,
+      "2019": -2900638,
+      "2020": -3967402,
+      "2021": -4682737,
+      "2022": -3396082
+    },
+    "netIncome": {
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null,
+      "2022": null
+    },
+    "epsBasic": {
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null,
+      "2022": null
+    },
+    "epsDiluted": {
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null,
+      "2022": null
+    },
+    "currentAssets": {
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null,
+      "2022": null
+    },
+    "totalAssets": {
+      "2018": 105907806,
+      "2019": 92358800,
+      "2020": 86720650,
+      "2021": 88987086,
+      "2022": 96721385
+    },
+    "currentLiabilities": {
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null,
+      "2022": null
+    },
+    "totalLiabilities": {
+      "2018": 6171022,
+      "2019": 2229964,
+      "2020": 1903024,
+      "2021": 812507,
+      "2022": 746638
+    },
+    "shareholdersEquity": {
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null,
+      "2022": null
+    },
+    "operatingCashFlow": {
+      "2018": 13315168,
+      "2019": 23808037,
+      "2020": 11263749,
+      "2021": 5356978,
+      "2022": 5410701
+    },
+    "capex": {
+      "2018": null,
+      "2019": null,
+      "2020": null,
+      "2021": null,
+      "2022": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:05.822Z"
 }

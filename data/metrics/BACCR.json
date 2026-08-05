@@ -3,6 +3,9 @@
   "name": "Blue Acquisition Corp/Cayman",
   "cik": 2059654,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +62,49 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:18.888Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": -1882975
+    },
+    "netIncome": {
+      "2025": 2531400
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": 658255
+    },
+    "totalAssets": {
+      "2025": 206334054
+    },
+    "currentLiabilities": {
+      "2025": 1074065
+    },
+    "totalLiabilities": {
+      "2025": 8117815
+    },
+    "shareholdersEquity": {
+      "2025": -7425861
+    },
+    "operatingCashFlow": {
+      "2025": -881364
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:57.037Z"
 }

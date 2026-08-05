@@ -3,6 +3,10 @@
   "name": "Digital Asset Acquisition Corp.",
   "cik": 2052162,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:41.016Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -379159
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 4244525
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": 1146546
+    },
+    "totalAssets": {
+      "2024": 25000,
+      "2025": 178292737
+    },
+    "currentLiabilities": {
+      "2024": 5112,
+      "2025": 109536
+    },
+    "totalLiabilities": {
+      "2024": 5112,
+      "2025": 7009536
+    },
+    "shareholdersEquity": {
+      "2024": 19888,
+      "2025": -5841256
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -2183
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:12.146Z"
 }

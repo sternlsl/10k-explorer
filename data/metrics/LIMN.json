@@ -3,6 +3,11 @@
   "name": "Liminatus Pharma, Inc.",
   "cik": 1971387,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -74,5 +79,77 @@
       "filed": "2026-03-31"
     }
   },
-  "updatedAt": "2026-08-05T17:05:54.524Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -3329953,
+      "2025": -2967812
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -3546309,
+      "2025": -10206517
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": -0.2,
+      "2025": -0.43
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": -0.2,
+      "2025": -0.43
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 5281643,
+      "2025": 500574
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 5408859,
+      "2025": 512795
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 24748922,
+      "2025": 10298241
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 24748922,
+      "2025": 10327485
+    },
+    "shareholdersEquity": {
+      "2023": -15793754,
+      "2024": -19340063,
+      "2025": -9814690
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -1451066,
+      "2025": -9963318
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": 13108
+    }
+  },
+  "updatedAt": "2026-08-05T21:02:54.961Z"
 }

@@ -3,6 +3,9 @@
   "name": "Sono Group N.V.",
   "cik": 1840416,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -29,5 +32,49 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:06:01.011Z"
+  "history": {
+    "revenue": {
+      "2025": null
+    },
+    "cogs": {
+      "2025": null
+    },
+    "grossProfit": {
+      "2025": null
+    },
+    "operatingIncome": {
+      "2025": -7700000
+    },
+    "netIncome": {
+      "2025": null
+    },
+    "epsBasic": {
+      "2025": null
+    },
+    "epsDiluted": {
+      "2025": null
+    },
+    "currentAssets": {
+      "2025": null
+    },
+    "totalAssets": {
+      "2025": null
+    },
+    "currentLiabilities": {
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2025": null
+    },
+    "shareholdersEquity": {
+      "2025": null
+    },
+    "operatingCashFlow": {
+      "2025": -7300000
+    },
+    "capex": {
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:02:58.307Z"
 }

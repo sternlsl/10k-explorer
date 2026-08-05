@@ -3,6 +3,11 @@
   "name": "Global-Smart.Tech",
   "cik": 1940243,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 6868,
@@ -69,5 +74,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:09:43.854Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": 6868
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -91409,
+      "2025": -124374
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -91409,
+      "2025": -124374
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": -0.02,
+      "2025": -0.02
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": null,
+      "2025": 31238
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 263863,
+      "2025": 220904
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 405091,
+      "2025": 459665
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 405091,
+      "2025": 459665
+    },
+    "shareholdersEquity": {
+      "2023": -49819,
+      "2024": -141228,
+      "2025": -238761
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -17211,
+      "2025": -38922
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:46.525Z"
 }

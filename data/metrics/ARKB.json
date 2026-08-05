@@ -3,6 +3,11 @@
   "name": "Ark 21Shares Bitcoin ETF",
   "cik": 1869699,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -49,5 +54,77 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:07:59.854Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -5832000,
+      "2025": -9767000
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": 1891649000,
+      "2025": -222304000
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": 100,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 4363875000,
+      "2025": 3381928000
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 11587000,
+      "2025": 76605000
+    },
+    "shareholdersEquity": {
+      "2023": 100,
+      "2024": 4352288000,
+      "2025": 3305323000
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:03:58.318Z"
 }

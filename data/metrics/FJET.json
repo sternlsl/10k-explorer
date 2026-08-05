@@ -3,6 +3,11 @@
   "name": "Starfighters Space, Inc.",
   "cik": 1947016,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -69,5 +74,77 @@
       "filed": "2026-04-15"
     }
   },
-  "updatedAt": "2026-08-05T17:01:51.612Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -7908777,
+      "2025": -16543616
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": -0.46,
+      "2025": -0.76
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": -0.46,
+      "2025": -0.76
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 8352629,
+      "2025": 20143416
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 10300586,
+      "2025": 28386884
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 16028892,
+      "2025": 3052079
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 16191042,
+      "2025": 3486332
+    },
+    "shareholdersEquity": {
+      "2023": -7936288,
+      "2024": -5890456,
+      "2025": 24900552
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -3864714,
+      "2025": -8227372
+    },
+    "capex": {
+      "2023": null,
+      "2024": 0,
+      "2025": 150763
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:19.437Z"
 }

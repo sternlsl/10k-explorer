@@ -3,6 +3,12 @@
   "name": "Coastal Carolina Bancshares, Inc.",
   "cik": 1437213,
   "fiscalYear": 2012,
+  "fiscalYears": [
+    2009,
+    2010,
+    2011,
+    2012
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -49,5 +55,91 @@
       "filed": "2013-03-28"
     }
   },
-  "updatedAt": "2026-08-05T17:02:55.866Z"
+  "history": {
+    "revenue": {
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    },
+    "cogs": {
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    },
+    "grossProfit": {
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    },
+    "operatingIncome": {
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    },
+    "netIncome": {
+      "2009": null,
+      "2010": -2015145,
+      "2011": -1278164,
+      "2012": 74485
+    },
+    "epsBasic": {
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    },
+    "epsDiluted": {
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    },
+    "currentAssets": {
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    },
+    "totalAssets": {
+      "2009": null,
+      "2010": 71886533,
+      "2011": 94424679,
+      "2012": 101631076
+    },
+    "currentLiabilities": {
+      "2009": null,
+      "2010": null,
+      "2011": null,
+      "2012": null
+    },
+    "totalLiabilities": {
+      "2009": null,
+      "2010": 57115245,
+      "2011": 80338855,
+      "2012": 87145385
+    },
+    "shareholdersEquity": {
+      "2009": 16941154,
+      "2010": 14771288,
+      "2011": 14085824,
+      "2012": 14485691
+    },
+    "operatingCashFlow": {
+      "2009": null,
+      "2010": -1626644,
+      "2011": -855553,
+      "2012": -758287
+    },
+    "capex": {
+      "2009": null,
+      "2010": 37039,
+      "2011": 30431,
+      "2012": 495464
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:00.691Z"
 }

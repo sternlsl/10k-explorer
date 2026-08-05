@@ -3,6 +3,13 @@
   "name": "GraniteShares Platinum Trust",
   "cik": 1690842,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +51,105 @@
     "operatingCashFlow": null,
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:22.210Z"
+  "history": {
+    "revenue": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2021": 1310000,
+      "2022": -7623000,
+      "2023": 669000,
+      "2024": 4768000,
+      "2025": 20085000
+    },
+    "epsBasic": {
+      "2021": 0.54,
+      "2022": -1.78,
+      "2023": 0.15,
+      "2024": 1.15,
+      "2025": 3.97
+    },
+    "epsDiluted": {
+      "2021": null,
+      "2022": -1.78,
+      "2023": 0.15,
+      "2024": 1.15,
+      "2025": 3.97
+    },
+    "currentAssets": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2021": 37494000,
+      "2022": 44821000,
+      "2023": 34934000,
+      "2024": 43136000,
+      "2025": 88487000
+    },
+    "currentLiabilities": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2021": 16000,
+      "2022": 20000,
+      "2023": 15000,
+      "2024": 17000,
+      "2025": 3281000
+    },
+    "shareholdersEquity": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingCashFlow": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "capex": {
+      "2021": null,
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:05.441Z"
 }

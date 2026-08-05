@@ -3,6 +3,10 @@
   "name": "Marti Technologies, Inc.",
   "cik": 1852767,
   "fiscalYear": 2022,
+  "fiscalYears": [
+    2021,
+    2022
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +58,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:02:13.996Z"
+  "history": {
+    "revenue": {
+      "2021": null,
+      "2022": null
+    },
+    "cogs": {
+      "2021": null,
+      "2022": null
+    },
+    "grossProfit": {
+      "2021": null,
+      "2022": null
+    },
+    "operatingIncome": {
+      "2021": null,
+      "2022": null
+    },
+    "netIncome": {
+      "2021": -841299,
+      "2022": -837116
+    },
+    "epsBasic": {
+      "2021": null,
+      "2022": null
+    },
+    "epsDiluted": {
+      "2021": null,
+      "2022": null
+    },
+    "currentAssets": {
+      "2021": 758253,
+      "2022": 323356
+    },
+    "totalAssets": {
+      "2021": 147457696,
+      "2022": 149068001
+    },
+    "currentLiabilities": {
+      "2021": 706224,
+      "2022": 3153645
+    },
+    "totalLiabilities": {
+      "2021": 5737474,
+      "2022": 8184895
+    },
+    "shareholdersEquity": {
+      "2021": -2029778,
+      "2022": -4986539
+    },
+    "operatingCashFlow": {
+      "2021": -356845,
+      "2022": -359061
+    },
+    "capex": {
+      "2021": null,
+      "2022": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:34.972Z"
 }

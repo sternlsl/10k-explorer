@@ -3,6 +3,11 @@
   "name": "Prime Impact Acquisition I",
   "cik": 1819175,
   "fiscalYear": 2022,
+  "fiscalYears": [
+    2020,
+    2021,
+    2022
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +64,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:09:23.903Z"
+  "history": {
+    "revenue": {
+      "2020": null,
+      "2021": null,
+      "2022": null
+    },
+    "cogs": {
+      "2020": null,
+      "2021": null,
+      "2022": null
+    },
+    "grossProfit": {
+      "2020": null,
+      "2021": null,
+      "2022": null
+    },
+    "operatingIncome": {
+      "2020": null,
+      "2021": -974587,
+      "2022": -2161562
+    },
+    "netIncome": {
+      "2020": null,
+      "2021": 15768001,
+      "2022": 8482355
+    },
+    "epsBasic": {
+      "2020": null,
+      "2021": null,
+      "2022": null
+    },
+    "epsDiluted": {
+      "2020": null,
+      "2021": null,
+      "2022": null
+    },
+    "currentAssets": {
+      "2020": 1934603,
+      "2021": 776566,
+      "2022": 143020
+    },
+    "totalAssets": {
+      "2020": 326105264,
+      "2021": 324987746,
+      "2022": 69922540
+    },
+    "currentLiabilities": {
+      "2020": 670577,
+      "2021": 487012,
+      "2022": 3475726
+    },
+    "totalLiabilities": {
+      "2020": 37638396,
+      "2021": 20752877,
+      "2022": 3806205
+    },
+    "shareholdersEquity": {
+      "2020": -35617272,
+      "2021": -19849271,
+      "2022": -3563185
+    },
+    "operatingCashFlow": {
+      "2020": null,
+      "2021": -515998,
+      "2022": -550465
+    },
+    "capex": {
+      "2020": null,
+      "2021": null,
+      "2022": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:38.296Z"
 }

@@ -3,6 +3,12 @@
   "name": "Brookfield Asset Management Ltd.",
   "cik": 1937926,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 3944000000,
@@ -36,10 +42,10 @@
       "filed": "2026-03-02"
     },
     "shareholdersEquity": {
-      "value": 3247000000,
-      "year": 2024,
-      "periodEnd": "2024-12-31",
-      "filed": "2025-03-17"
+      "value": 8912000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "operatingCashFlow": {
       "value": 2101000000,
@@ -49,5 +55,91 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T16:53:34.387Z"
+  "history": {
+    "revenue": {
+      "2022": null,
+      "2023": 3142000000,
+      "2024": 3381000000,
+      "2025": 3944000000
+    },
+    "cogs": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2022": null,
+      "2023": 2137000000,
+      "2024": 2108000000,
+      "2025": 2398000000
+    },
+    "epsBasic": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2022": null,
+      "2023": 3205000000,
+      "2024": 14157000000,
+      "2025": 17047000000
+    },
+    "currentLiabilities": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2022": null,
+      "2023": 1120000000,
+      "2024": 2966000000,
+      "2025": 6737000000
+    },
+    "shareholdersEquity": {
+      "2022": 9606000000,
+      "2023": 2076000000,
+      "2024": 3247000000,
+      "2025": 8912000000
+    },
+    "operatingCashFlow": {
+      "2022": null,
+      "2023": 1439000000,
+      "2024": 1612000000,
+      "2025": 2101000000
+    },
+    "capex": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:54:06.813Z"
 }

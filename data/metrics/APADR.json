@@ -3,6 +3,11 @@
   "name": "AParadise Acquisition Corp.",
   "cik": 1956439,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +64,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:14.685Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -75562,
+      "2025": -1038358
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -75562,
+      "2025": 2568594
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 2400,
+      "2025": 836566
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 25217,
+      "2025": 204154720
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 265876,
+      "2025": 472203
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 265876,
+      "2025": 8472203
+    },
+    "shareholdersEquity": {
+      "2023": -165097,
+      "2024": -240659,
+      "2025": -7635637
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -72892,
+      "2025": -774875
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:54.023Z"
 }

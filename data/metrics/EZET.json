@@ -3,6 +3,11 @@
   "name": "Franklin Ethereum Trust",
   "cik": 2011535,
   "fiscalYear": 2026,
+  "fiscalYears": [
+    2024,
+    2025,
+    2026
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -44,5 +49,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:08:11.606Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": null,
+      "2026": -8086358
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "currentAssets": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "totalAssets": {
+      "2024": null,
+      "2025": 21614322,
+      "2026": 42237443
+    },
+    "currentLiabilities": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    },
+    "totalLiabilities": {
+      "2024": null,
+      "2025": 8924,
+      "2026": 6778
+    },
+    "shareholdersEquity": {
+      "2024": 2620289,
+      "2025": 38847498,
+      "2026": 67559123
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": null,
+      "2026": -28711625
+    },
+    "capex": {
+      "2024": null,
+      "2025": null,
+      "2026": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:04:01.634Z"
 }

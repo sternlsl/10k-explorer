@@ -3,6 +3,10 @@
   "name": "FACT II Acquisition Corp.",
   "cik": 2028935,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -59,5 +63,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:31.367Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -2225030
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 5017538
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 1543754,
+      "2025": 637391
+    },
+    "totalAssets": {
+      "2024": 178218232,
+      "2025": 184422847
+    },
+    "currentLiabilities": {
+      "2024": 124395,
+      "2025": 23507
+    },
+    "totalLiabilities": {
+      "2024": 7974395,
+      "2025": 9161472
+    },
+    "shareholdersEquity": {
+      "2024": -6353433,
+      "2025": -8524081
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -903130
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:05.549Z"
 }

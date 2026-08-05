@@ -3,6 +3,12 @@
   "name": "MidCap Financial Investment Corp",
   "cik": 1278752,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -49,5 +55,91 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T16:58:34.696Z"
+  "history": {
+    "revenue": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2022": 82364000,
+      "2023": 118760000,
+      "2024": 98819000,
+      "2025": 63169000
+    },
+    "epsBasic": {
+      "2022": 1.28,
+      "2023": 1.82,
+      "2024": 1.27,
+      "2025": 0.68
+    },
+    "epsDiluted": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalAssets": {
+      "2022": 2525516000,
+      "2023": 2501331000,
+      "2024": 3190950000,
+      "2025": 3323644000
+    },
+    "currentLiabilities": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "totalLiabilities": {
+      "2022": 1537410000,
+      "2023": 1496021000,
+      "2024": 1786304000,
+      "2025": 2016383000
+    },
+    "shareholdersEquity": {
+      "2022": null,
+      "2023": null,
+      "2024": 1404646000,
+      "2025": 1307261000
+    },
+    "operatingCashFlow": {
+      "2022": -2677000,
+      "2023": 196381000,
+      "2024": -9532000,
+      "2025": -49746000
+    },
+    "capex": {
+      "2022": null,
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:58:01.148Z"
 }

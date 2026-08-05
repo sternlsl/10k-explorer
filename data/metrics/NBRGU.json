@@ -3,6 +3,11 @@
   "name": "Newbridge Acquisition Ltd",
   "cik": 1918414,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -64,5 +69,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:03:32.688Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -140962,
+      "2025": -221014
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": -0.05,
+      "2025": -0.14
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": -0.05,
+      "2025": -0.14
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 9456,
+      "2025": 1824242
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 95243,
+      "2025": 4819641
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 469351,
+      "2025": 5414763
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 469351,
+      "2025": 5414763
+    },
+    "shareholdersEquity": {
+      "2023": -233146,
+      "2024": -374108,
+      "2025": -595122
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -140962,
+      "2025": -221014
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:27.260Z"
 }

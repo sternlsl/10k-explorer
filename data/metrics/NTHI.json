@@ -3,6 +3,11 @@
   "name": "NEONC TECHNOLOGIES HOLDINGS, INC.",
   "cik": 1979414,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": {
       "value": 39990,
@@ -74,5 +79,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:03:01.958Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": 83000,
+      "2025": 39990
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -7142522,
+      "2025": -58240445
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -11898464,
+      "2025": -62146210
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": -0.69,
+      "2025": -3.2
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": -0.69,
+      "2025": -3.2
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 2195203,
+      "2025": 1388711
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 3417241,
+      "2025": 2823634
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 8922202,
+      "2025": 20040681
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 8922202,
+      "2025": 20331363
+    },
+    "shareholdersEquity": {
+      "2023": -13988253,
+      "2024": -5504961,
+      "2025": -17507729
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -4213916,
+      "2025": -20363948
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:05.165Z"
 }

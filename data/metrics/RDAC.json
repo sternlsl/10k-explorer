@@ -3,6 +3,10 @@
   "name": "Rising Dragon Acquisition Corp.",
   "cik": 2018145,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +58,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:04:10.659Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": null
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 1573962
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 455679,
+      "2025": 37174
+    },
+    "totalAssets": {
+      "2024": 58786225,
+      "2025": 44425757
+    },
+    "currentLiabilities": {
+      "2024": 22500,
+      "2025": 419279
+    },
+    "totalLiabilities": {
+      "2024": 1891250,
+      "2025": 2288029
+    },
+    "shareholdersEquity": {
+      "2024": -1435571,
+      "2025": -2250855
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -660474
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:01:51.344Z"
 }

@@ -3,6 +3,10 @@
   "name": "Jackson Acquisition Co II",
   "cik": 2039058,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -54,5 +58,63 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:05.705Z"
+  "history": {
+    "revenue": {
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2024": null,
+      "2025": -569113
+    },
+    "netIncome": {
+      "2024": null,
+      "2025": 9115597
+    },
+    "epsBasic": {
+      "2024": null,
+      "2025": null
+    },
+    "epsDiluted": {
+      "2024": null,
+      "2025": null
+    },
+    "currentAssets": {
+      "2024": 1062896,
+      "2025": 633060
+    },
+    "totalAssets": {
+      "2024": 234005881,
+      "2025": 243176248
+    },
+    "currentLiabilities": {
+      "2024": 357540,
+      "2025": 412310
+    },
+    "totalLiabilities": {
+      "2024": null,
+      "2025": null
+    },
+    "shareholdersEquity": {
+      "2024": 789863,
+      "2025": 220750
+    },
+    "operatingCashFlow": {
+      "2024": null,
+      "2025": -427590
+    },
+    "capex": {
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T20:59:48.419Z"
 }

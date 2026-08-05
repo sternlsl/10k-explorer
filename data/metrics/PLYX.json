@@ -3,6 +3,11 @@
   "name": "Polaryx Therapeutics, Inc.",
   "cik": 2075320,
   "fiscalYear": 2025,
+  "fiscalYears": [
+    2023,
+    2024,
+    2025
+  ],
   "metrics": {
     "revenue": null,
     "cogs": null,
@@ -69,5 +74,77 @@
     },
     "capex": null
   },
-  "updatedAt": "2026-08-05T17:01:37.483Z"
+  "history": {
+    "revenue": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "cogs": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "grossProfit": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    },
+    "operatingIncome": {
+      "2023": null,
+      "2024": -4352000,
+      "2025": -7821000
+    },
+    "netIncome": {
+      "2023": null,
+      "2024": -30356000,
+      "2025": -8985000
+    },
+    "epsBasic": {
+      "2023": null,
+      "2024": -0.89,
+      "2025": -0.2
+    },
+    "epsDiluted": {
+      "2023": null,
+      "2024": -0.89,
+      "2025": -0.2
+    },
+    "currentAssets": {
+      "2023": null,
+      "2024": 5001000,
+      "2025": 5170000
+    },
+    "totalAssets": {
+      "2023": null,
+      "2024": 5001000,
+      "2025": 5170000
+    },
+    "currentLiabilities": {
+      "2023": null,
+      "2024": 289000,
+      "2025": 605000
+    },
+    "totalLiabilities": {
+      "2023": null,
+      "2024": 289000,
+      "2025": 605000
+    },
+    "shareholdersEquity": {
+      "2023": 1277000,
+      "2024": 4712000,
+      "2025": 4565000
+    },
+    "operatingCashFlow": {
+      "2023": null,
+      "2024": -2573000,
+      "2025": -3944000
+    },
+    "capex": {
+      "2023": null,
+      "2024": null,
+      "2025": null
+    }
+  },
+  "updatedAt": "2026-08-05T21:00:09.575Z"
 }
