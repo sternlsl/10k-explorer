@@ -5,14 +5,9 @@ name: Refresh EDGAR data
 # commit nothing.
 
 on:
-  # The monthly schedule is intentionally disabled on main. This file exists
-  # here only so the workflow can be dispatched against the data-pipeline
-  # branch, which GitHub allows only for workflows present on the default
-  # branch. Merging data-pipeline re-enables the schedule.
-  #
-  # schedule:
-  #   # 06:00 UTC on the 1st of each month.
-  #   - cron: '0 6 1 * *'
+  schedule:
+    # 06:00 UTC on the 1st of each month.
+    - cron: '0 6 1 * *'
   workflow_dispatch:
     inputs:
       scope:

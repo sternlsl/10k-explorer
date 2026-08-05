@@ -21,24 +21,25 @@ Live app: https://seandiaz-nyu.github.io/10k-explorer/
 
 The app is fully static and hosted on GitHub Pages. There is no backend.
 
-Financial data is **pre-fetched from SEC EDGAR** using a local Node.js script (`scripts/fetch-data.js`) and stored as small JSON files in `data/metrics/`. The browser loads these static files directly — no live API calls are made at runtime.
+Financial data is **pre-fetched from SEC EDGAR** using a Node.js script (`scripts/fetch-data.js`) and stored as small JSON files in `data/metrics/`. The browser loads these static files directly — no live API calls are made at runtime.
 
-This covers all S&P 500 companies (~502 tickers). Data should be refreshed quarterly as new 10-Ks are filed:
+### Automated refresh
+
+`.github/workflows/refresh-data.yml` runs on the 1st of each month, refetches every filer, and commits whatever changed. Nothing needs to be run by hand.
+
+To refresh immediately, use **Actions → Refresh EDGAR data → Run workflow**.
+
+A full pass takes ~17 minutes. Files are only rewritten when the underlying numbers change, so a run that finds no new filings commits nothing.
+
+### Running it locally
 
 ```bash
-node scripts/fetch-data.js --force
-git add data/metrics/
-git commit -m "Refresh EDGAR data"
-git push
+node scripts/fetch-data.js AAPL MSFT     # specific tickers
+node scripts/fetch-data.js --all         # every filer in companies.json
+node scripts/fetch-data.js --all --force # ignore the freshness check
 ```
 
-To add a company not in the current dataset:
-
-```bash
-node scripts/fetch-data.js TICKER
-git add data/metrics/TICKER.json
-git push
-```
+`data/fetch-state.json` records when each company was last checked and whether it reports us-gaap facts at all; the script uses it to skip companies checked within the last 25 days, and to avoid repeatedly re-downloading ETFs and trusts that have no GAAP data to extract.
 
 ---
 
@@ -46,21 +47,16 @@ git push
 
 The ideal version of this app would let students search for **any** public company and fetch its data live from SEC EDGAR. The technical reason this isn't possible in a purely client-side app comes down to two browser security constraints:
 
-**1. CORS (Cross-Origin Resource Sharing)**
-Browsers block JavaScript from fetching data from a different domain unless that domain explicitly permits it. SEC EDGAR (`data.sec.gov`) does not include the required CORS headers for browser-initiated requests, so the browser refuses to complete the fetch — even though the data is publicly available.
+**CORS (Cross-Origin Resource Sharing)**
+Browsers block JavaScript from fetching data from a different domain unless that domain explicitly permits it. SEC EDGAR (`data.sec.gov`) returns no `Access-Control-Allow-Origin` header on successful responses, and rejects the `OPTIONS` preflight outright with a 403. So the browser refuses to complete the fetch — even though the data is publicly available and the same request succeeds from `curl`.
 
-**2. The User-Agent requirement**
-EDGAR requires all API requests to include a `User-Agent` header that identifies the application making the request (e.g. `NYUSternLSL contact@stern.nyu.edu`). Browsers treat `User-Agent` as a forbidden header — JavaScript running in a browser cannot set it. Without it, EDGAR rejects the request with a 403 error.
+This is the only hard blocker, and it cannot be worked around from a browser.
 
-Both of these restrictions exist by design: CORS protects users from malicious cross-site requests, and the User-Agent requirement lets the SEC identify and rate-limit automated traffic. Neither can be worked around from a browser.
+> An earlier version of this README also listed EDGAR's `User-Agent` requirement as a blocker, on the grounds that browsers won't let JavaScript set that header. That turns out not to bite: EDGAR only rejects requests with an *empty* User-Agent, and browsers always send their own. A request with an ordinary Chrome User-Agent returns 200. The SEC does ask that automated clients identify themselves, which is why `scripts/fetch-data.js` sets a contact address — but it's a matter of policy, not a technical barrier.
 
-**The fix** is a lightweight server-side proxy — a small Node.js/Express endpoint that:
-1. Receives a request from the browser (same origin, no CORS issue)
-2. Adds the correct `User-Agent` header
-3. Forwards the request to EDGAR
-4. Returns the result to the browser
+**The fix**, if same-day freshness is ever needed, is a lightweight server-side proxy — a small Node.js/Express endpoint that receives the request from the browser (same origin, no CORS issue), forwards it to EDGAR, and returns the result. Hosting options include Railway, Cloudflare Workers, Stern IT infrastructure, or a university-managed cloud environment (NYU has Azure/AWS agreements).
 
-This proxy can also cache results in SQLite so that repeat lookups are instant and EDGAR isn't hit redundantly. Hosting options include Stern IT infrastructure, a university-managed cloud environment (NYU has Azure/AWS agreements), or a serverless platform like Vercel or Cloudflare Workers.
+The monthly refresh above covers most of the need without any of that: a 10-K is an annual document, so the data changes at most once a year per company.
 
 ---
 
@@ -78,10 +74,14 @@ This proxy can also cache results in SQLite so that repeat lookups are instant a
 │   └── ui.js         # All DOM rendering
 ├── data/
 │   ├── companies.json        # Ticker → CIK/name index (all SEC filers)
+│   ├── fetch-state.json      # Per-company: last checked, has GAAP data
+│   ├── manifest.json         # Timestamp and scope of the last refresh
 │   └── metrics/              # Pre-fetched GAAP metrics, one file per ticker
 │       ├── AAPL.json
 │       ├── MSFT.json
 │       └── ...
-└── scripts/
-    └── fetch-data.js         # Node.js script to fetch/refresh EDGAR data
+├── scripts/
+│   └── fetch-data.js         # Fetches/refreshes EDGAR data
+└── .github/workflows/
+    └── refresh-data.yml      # Monthly automated refresh
 ```
