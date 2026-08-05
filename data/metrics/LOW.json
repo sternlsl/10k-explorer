@@ -2,68 +2,92 @@
   "ticker": "LOW",
   "name": "LOWES COMPANIES INC",
   "cik": 60667,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
       "value": 86286000000,
-      "year": 2025,
-      "periodEnd": "2026-01-30"
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-23"
     },
     "cogs": {
       "value": 57401000000,
-      "year": 2025,
-      "periodEnd": "2026-01-30"
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-23"
     },
     "grossProfit": {
       "value": 28885000000,
-      "year": 2025,
-      "periodEnd": "2026-01-30"
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-23"
     },
     "operatingIncome": {
       "value": 10153000000,
-      "year": 2025,
-      "periodEnd": "2026-01-30"
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-23"
     },
     "netIncome": {
       "value": 6654000000,
-      "year": 2025,
-      "periodEnd": "2026-01-30"
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-23"
+    },
+    "epsBasic": {
+      "value": 11.87,
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-23"
+    },
+    "epsDiluted": {
+      "value": 11.85,
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-23"
     },
     "currentAssets": {
       "value": 20955000000,
-      "year": 2025,
-      "periodEnd": "2026-01-30"
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-23"
     },
     "totalAssets": {
       "value": 54144000000,
-      "year": 2025,
-      "periodEnd": "2026-01-30"
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-23"
     },
     "currentLiabilities": {
       "value": 19463000000,
-      "year": 2025,
-      "periodEnd": "2026-01-30"
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-23"
     },
     "totalLiabilities": {
       "value": 64061000000,
-      "year": 2025,
-      "periodEnd": "2026-01-30"
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-23"
     },
     "shareholdersEquity": {
       "value": -9917000000,
-      "year": 2025,
-      "periodEnd": "2026-01-30"
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-23"
     },
     "operatingCashFlow": {
       "value": 9864000000,
-      "year": 2025,
-      "periodEnd": "2026-01-30"
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-23"
     },
     "capex": {
       "value": 2213000000,
-      "year": 2025,
-      "periodEnd": "2026-01-30"
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-23"
     }
   },
-  "fetchedAt": "2026-05-08T18:55:34.412Z"
+  "updatedAt": "2026-08-05T16:52:13.772Z"
 }

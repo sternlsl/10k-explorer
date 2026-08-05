@@ -1,88 +1,93 @@
 {
-  "ticker": "WDAY",
-  "name": "Workday, Inc.",
-  "cik": 1327811,
+  "ticker": "ZM",
+  "name": "Zoom Communications, Inc.",
+  "cik": 1585521,
   "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 9552000000,
+      "value": 4868769000,
       "year": 2026,
       "periodEnd": "2026-01-31",
-      "filed": "2026-03-06"
+      "filed": "2026-02-27"
     },
     "cogs": {
-      "value": 116535000,
-      "year": 2013,
-      "periodEnd": "2013-01-31",
-      "filed": "2013-03-22"
-    },
-    "grossProfit": null,
-    "operatingIncome": {
-      "value": 721000000,
+      "value": 1119036000,
       "year": 2026,
       "periodEnd": "2026-01-31",
-      "filed": "2026-03-06"
+      "filed": "2026-02-27"
+    },
+    "grossProfit": {
+      "value": 3749733000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-02-27"
+    },
+    "operatingIncome": {
+      "value": 1123633000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-02-27"
     },
     "netIncome": {
-      "value": 693000000,
+      "value": 1900148000,
       "year": 2026,
       "periodEnd": "2026-01-31",
-      "filed": "2026-03-06"
+      "filed": "2026-02-27"
     },
     "epsBasic": {
-      "value": 2.61,
+      "value": 6.32,
       "year": 2026,
       "periodEnd": "2026-01-31",
-      "filed": "2026-03-06"
+      "filed": "2026-02-27"
     },
     "epsDiluted": {
-      "value": 2.59,
+      "value": 6.18,
       "year": 2026,
       "periodEnd": "2026-01-31",
-      "filed": "2026-03-06"
+      "filed": "2026-02-27"
     },
     "currentAssets": {
-      "value": 8429000000,
+      "value": 8657959000,
       "year": 2026,
       "periodEnd": "2026-01-31",
-      "filed": "2026-03-06"
+      "filed": "2026-02-27"
     },
     "totalAssets": {
-      "value": 18074000000,
+      "value": 11960416000,
       "year": 2026,
       "periodEnd": "2026-01-31",
-      "filed": "2026-03-06"
+      "filed": "2026-02-27"
     },
     "currentLiabilities": {
-      "value": 6378000000,
+      "value": 1999190000,
       "year": 2026,
       "periodEnd": "2026-01-31",
-      "filed": "2026-03-06"
+      "filed": "2026-02-27"
     },
     "totalLiabilities": {
-      "value": 10269000000,
+      "value": 2152158000,
       "year": 2026,
       "periodEnd": "2026-01-31",
-      "filed": "2026-03-06"
+      "filed": "2026-02-27"
     },
     "shareholdersEquity": {
-      "value": 7805000000,
+      "value": 9808258000,
       "year": 2026,
       "periodEnd": "2026-01-31",
-      "filed": "2026-03-06"
+      "filed": "2026-02-27"
     },
     "operatingCashFlow": {
-      "value": 2939000000,
+      "value": 1989048000,
       "year": 2026,
       "periodEnd": "2026-01-31",
-      "filed": "2026-03-06"
+      "filed": "2026-02-27"
     },
     "capex": {
-      "value": 162000000,
+      "value": 64961000,
       "year": 2026,
       "periodEnd": "2026-01-31",
-      "filed": "2026-03-06"
+      "filed": "2026-02-27"
     }
   },
-  "updatedAt": "2026-08-05T16:52:19.560Z"
+  "updatedAt": "2026-08-05T16:52:19.074Z"
 }

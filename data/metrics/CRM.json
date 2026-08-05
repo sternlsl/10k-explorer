@@ -2,68 +2,92 @@
   "ticker": "CRM",
   "name": "Salesforce, Inc.",
   "cik": 1108524,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
       "value": 41525000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-02"
     },
     "cogs": {
       "value": 9270000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-02"
     },
     "grossProfit": {
       "value": 32255000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-02"
     },
     "operatingIncome": {
       "value": 8331000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-02"
     },
     "netIncome": {
       "value": 7457000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": 7.85,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-02"
+    },
+    "epsDiluted": {
+      "value": 7.8,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-02"
     },
     "currentAssets": {
       "value": 28222000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-02"
     },
     "totalAssets": {
       "value": 112305000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-02"
     },
     "currentLiabilities": {
       "value": 37118000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-02"
     },
     "totalLiabilities": {
       "value": 53163000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-02"
     },
     "shareholdersEquity": {
       "value": 59142000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-02"
     },
     "operatingCashFlow": {
       "value": 14996000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-02"
     },
     "capex": {
       "value": 594000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-02"
     }
   },
-  "fetchedAt": "2026-05-08T19:01:40.132Z"
+  "updatedAt": "2026-08-05T16:52:19.193Z"
 }

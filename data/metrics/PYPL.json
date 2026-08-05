@@ -2,60 +2,82 @@
   "ticker": "PYPL",
   "name": "PayPal Holdings, Inc.",
   "cik": 1633917,
-  "fiscalYear": 2019,
+  "fiscalYear": 2025,
   "metrics": {
     "revenue": {
       "value": 17772000000,
       "year": 2019,
-      "periodEnd": "2019-12-31"
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-06"
     },
     "cogs": null,
     "grossProfit": null,
     "operatingIncome": {
       "value": 6065000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
     },
     "netIncome": {
       "value": 5233000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
+    },
+    "epsBasic": {
+      "value": 5.46,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
+    },
+    "epsDiluted": {
+      "value": 5.41,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
     },
     "currentAssets": {
       "value": 59759000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
     },
     "totalAssets": {
       "value": 80173000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
     },
     "currentLiabilities": {
       "value": 46443000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
     },
     "totalLiabilities": {
       "value": 59917000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
     },
     "shareholdersEquity": {
       "value": 20256000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
     },
     "operatingCashFlow": {
       "value": 6416000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
     },
     "capex": {
       "value": 852000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
     }
   },
-  "fetchedAt": "2026-05-08T18:59:13.016Z"
+  "updatedAt": "2026-08-05T16:52:17.760Z"
 }
