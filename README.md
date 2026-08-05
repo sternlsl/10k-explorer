@@ -3,7 +3,7 @@
 
 A client-side web app for intro accounting students to explore and compare key GAAP financial metrics from public company 10-K filings, sourced from SEC EDGAR.
 
-Live app: https://seandiaz-nyu.github.io/10k-explorer/
+Live app: https://sternlsl.github.io/10k-explorer/
 
 ---
 
@@ -11,7 +11,8 @@ Live app: https://seandiaz-nyu.github.io/10k-explorer/
 
 - Side-by-side comparison of up to 4 companies
 - Pre-built industry peer groups (Airlines, Big Tech, Beverages, etc.)
-- Search across S&P 500 companies by name or ticker
+- Search by name or ticker across **every SEC filer with usable GAAP data** —
+  6,803 tickers covering 5,256 distinct companies
 - 20 metrics across Income Statement, Balance Sheet, Cash Flow, and derived Ratios —
   14 figures reported directly in the filing, plus 6 computed in the browser
   (free cash flow, gross margin, net margin, current ratio, debt-to-equity, ROE)
@@ -19,21 +20,51 @@ Live app: https://seandiaz-nyu.github.io/10k-explorer/
   to showing one company's fiscal years side by side. Ratios and margins are
   recomputed for each year rather than pinned to the latest one.
 
-### A note on stale figures
+---
 
-Companies stop tagging a concept without ever resuming, so a metric's most
-recent reported value can be years older than the rest of the filing — S&P
-Global last tagged capital expenditures in FY2009. Roughly 40% of companies have
-at least one such metric.
+## Data notes and limits
 
-Those cells now carry a small `FY####` badge showing the year the figure
-actually covers, and derived ratios are computed only from figures matching the
-company's headline fiscal year. Free cash flow reads N/A rather than subtracting
-a 2009 capital expenditure from a 2025 operating cash flow.
+Read this before trusting a number or filing a bug — most surprises here are
+properties of EDGAR, not defects in the app.
 
-EPS is available for ~97% of companies. It shows N/A for companies with multiple
-share classes (Berkshire, Visa, Airbnb), which report EPS per class — EDGAR's
-`companyfacts` API only exposes facts that carry no such breakdown.
+**Stale figures are marked.** Companies stop tagging a concept and never resume,
+so a metric's most recent reported value can be years older than the rest of the
+filing — S&P Global last tagged capital expenditures in FY2009. Roughly 40% of
+companies have at least one such metric.
+
+Those cells carry a small `FY####` badge showing the year the figure actually
+covers, and derived ratios are computed only from figures matching the company's
+headline fiscal year. Free cash flow reads N/A rather than subtracting a 2009
+capital expenditure from a 2025 operating cash flow.
+
+**EPS is missing for multi-class companies.** Available for ~97% of companies. It
+shows N/A for companies with several share classes (Berkshire, Visa, Airbnb),
+which report EPS per class — `companyfacts` only exposes facts that carry no such
+breakdown.
+
+**About 29% of SEC filers have no usable data.** ETFs, trusts, and foreign
+private issuers reporting under IFRS publish no `us-gaap` facts. They are
+recorded in `data/fetch-state.json` and skipped for 180 days rather than retried
+every run.
+
+**Search shows bonds and preferred shares.** Searching "AT&T" returns `T`, `TBB`
+(a bond), `T-PA`, and `T-PC`. 1,547 of the 6,803 files are the same company under
+another ticker.
+
+These are kept deliberately. Security type cannot be inferred from ticker shape:
+`BRKR` is Bruker Corporation's common stock while `MGR` is an Affiliated Managers
+bond, and `MGR` carries its issuer's name in the SEC index. Any filter aggressive
+enough to drop the bonds also drops real companies. The app matches on CIK, so
+the same company can never occupy two columns — see `addCompany` in
+[`js/app.js`](js/app.js).
+
+**No narrative content.** Management discussion, risk factors, footnotes, and the
+auditor's report are not in EDGAR's structured data at all. They live in the
+filing documents, a separate and much larger corpus this app does not touch.
+
+**Amended annual reports are excluded.** `10-K/A` is a distinct form string, so a
+company that corrects figures by amendment rather than through the next year's
+comparatives will not be picked up.
 
 ---
 
@@ -86,40 +117,79 @@ A record written before a change to this shape is refetched even if the freshnes
 
 ---
 
-## Why real-time EDGAR fetching requires a backend
+## Why there is no backend
 
-The ideal version of this app would let students search for **any** public company and fetch its data live from SEC EDGAR. The technical reason this isn't possible in a purely client-side app comes down to two browser security constraints:
+A browser cannot fetch from `data.sec.gov` directly. EDGAR returns no
+`Access-Control-Allow-Origin` header on successful responses and rejects the
+`OPTIONS` preflight with a 403, so the browser refuses the request even though
+the same call succeeds from `curl`. This is a browser security rule (CORS) and
+cannot be worked around from client-side code.
 
-**CORS (Cross-Origin Resource Sharing)**
-Browsers block JavaScript from fetching data from a different domain unless that domain explicitly permits it. SEC EDGAR (`data.sec.gov`) returns no `Access-Control-Allow-Origin` header on successful responses, and rejects the `OPTIONS` preflight outright with a 403. So the browser refuses to complete the fetch — even though the data is publicly available and the same request succeeds from `curl`.
+**That restriction applies only to browsers.** The scheduled refresh runs on
+GitHub's servers, where CORS has never applied. So the app does fetch live from
+EDGAR — on a schedule, into static files, rather than from the student's browser
+on demand.
 
-This is the only hard blocker, and it cannot be worked around from a browser.
+> An earlier version of this README also listed EDGAR's `User-Agent` requirement
+> as a blocker, on the grounds that browsers won't let JavaScript set that header.
+> Testing showed that isn't so: EDGAR only rejects requests with an *empty*
+> User-Agent, and browsers always send their own. A request with an ordinary
+> Chrome User-Agent returns 200. The SEC does ask that automated clients identify
+> themselves, which is why `scripts/fetch-data.js` sets a contact address — a
+> matter of policy, not a technical barrier.
 
-> An earlier version of this README also listed EDGAR's `User-Agent` requirement as a blocker, on the grounds that browsers won't let JavaScript set that header. That turns out not to bite: EDGAR only rejects requests with an *empty* User-Agent, and browsers always send their own. A request with an ordinary Chrome User-Agent returns 200. The SEC does ask that automated clients identify themselves, which is why `scripts/fetch-data.js` sets a contact address — but it's a matter of policy, not a technical barrier.
+### Would a proxy server help?
 
-**The fix**, if same-day freshness is ever needed, is a lightweight server-side proxy — a small Node.js/Express endpoint that receives the request from the browser (same origin, no CORS issue), forwards it to EDGAR, and returns the result. Hosting options include Railway, Cloudflare Workers, Stern IT infrastructure, or a university-managed cloud environment (NYU has Azure/AWS agreements).
+Not for anything the app currently does. Once the scheduled job covers every
+filer, a live proxy adds very little:
 
-The monthly refresh above covers most of the need without any of that: a 10-K is an annual document, so the data changes at most once a year per company.
+| Need | Needs a server? |
+|---|---|
+| Reaching EDGAR at all | No — the scheduled job already does |
+| Covering more companies | No — coverage is complete |
+| Fresher data | No — change the cron frequency |
+| Multi-year history | No — already stored statically |
+| Quarterly (10-Q) data | No — roughly 4x the corpus, but no new infrastructure |
+| **Any of the ~500 line items on demand** | **Yes** |
+
+The last row is the real case. Apple alone reports 503 distinct `us-gaap`
+concepts; storing every concept for every company across multiple years is not
+feasible. Letting students pull an arbitrary line item requires fetching on
+demand, and fetching on demand from a browser requires a proxy.
+
+If that gets built, **layer it — do not replace the static path.** The site
+currently has no runtime dependency that can fail during a class. Keep static
+files serving the comparison view and let a server handle only what they cannot.
+
+One prerequisite: the figure-selection rules (period-length check, restatement
+handling, concept merging) live in `scripts/fetch-data.js`. A server that
+reimplements them will drift, and the drift lands precisely on the subtle cases
+those rules exist to handle. Factor them into a shared module *before* writing
+any server code.
 
 ---
 
 ## Project structure
 
+No build step, no dependencies, no `package.json`. The site is plain ES modules
+served as static files; the refresh script uses only the Node standard library.
+
 ```
 10k-explorer/
 ├── index.html
+├── AGENTS.md                 # Conventions and invariants for contributors
 ├── css/
 │   └── styles.css
 ├── js/
-│   ├── app.js        # State management and event wiring
-│   ├── config.js     # Metrics definitions, industry groups, constants
+│   ├── app.js        # State, event wiring, single render() entry point
+│   ├── config.js     # Metric definitions, industry groups, constants
 │   ├── edgar.js      # Data loading (static files + in-memory cache)
-│   └── ui.js         # All DOM rendering
+│   └── ui.js         # All DOM rendering (comparison + history tables)
 ├── data/
-│   ├── companies.json        # Ticker → CIK/name index (all SEC filers)
+│   ├── companies.json        # Ticker → CIK/name index (10,376 tickers)
 │   ├── fetch-state.json      # Per-company: last checked, has GAAP data
 │   ├── manifest.json         # Timestamp and scope of the last refresh
-│   └── metrics/              # Pre-fetched GAAP metrics, one file per ticker
+│   └── metrics/              # One file per ticker (6,803 files, ~12 MB)
 │       ├── AAPL.json
 │       ├── MSFT.json
 │       └── ...
@@ -127,4 +197,15 @@ The monthly refresh above covers most of the need without any of that: a 10-K is
 │   └── fetch-data.js         # Fetches/refreshes EDGAR data
 └── .github/workflows/
     └── refresh-data.yml      # Monthly automated refresh
+```
+
+**Requires Node 18+** for the refresh script (native `fetch` and
+`AbortSignal.timeout`). CI pins Node 20.
+
+To preview locally, serve the directory over HTTP — opening `index.html` as a
+`file://` URL will not work, because ES modules and `fetch` both require a real
+origin:
+
+```bash
+python3 -m http.server 8000
 ```

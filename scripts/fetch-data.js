@@ -8,16 +8,23 @@
  *   node scripts/fetch-data.js AAPL MSFT       # specific tickers
  *   node scripts/fetch-data.js --all           # every filer in companies.json
  *   node scripts/fetch-data.js --all --force   # ignore freshness, refetch all
+ *   node scripts/fetch-data.js --all --years=10  # keep 10 years, not 5
+ *   node scripts/fetch-data.js --all --max-age=7 # refetch anything older than 7d
  *
- * Requires Node 18+ (native fetch).
+ * Requires Node 18+ (native fetch, AbortSignal.timeout).
  *
- * Uses the EDGAR `companyfacts` endpoint, which returns every reported concept
- * for a company in a single request. The previous version issued one request
- * per concept (up to 19 per company); this is ~19x fewer requests and makes a
- * full-universe refresh practical.
+ * Uses the EDGAR `companyfacts` endpoint, which returns every concept a company
+ * has ever reported in a single request — including every year, so storing
+ * history costs no extra requests. A full pass over ~8,000 filers takes about
+ * 17 minutes at the self-imposed 8 req/sec limit.
  *
- * Files are only rewritten when the extracted metrics actually change, so a
- * scheduled refresh that finds nothing new produces an empty git diff.
+ * Each record keeps the latest year with full provenance under `metrics`, plus a
+ * compact year -> value series under `history`. Files are only rewritten when
+ * those numbers actually change, so a refresh that finds no new filings produces
+ * an empty git diff.
+ *
+ * See AGENTS.md for the invariants behind the figure-selection rules; several
+ * exist to prevent specific, quiet failures.
  */
 
 const fs   = require('fs');
