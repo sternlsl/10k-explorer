@@ -15,7 +15,21 @@ Live app: https://seandiaz-nyu.github.io/10k-explorer/
 - 20 metrics across Income Statement, Balance Sheet, Cash Flow, and derived Ratios —
   14 figures reported directly in the filing, plus 6 computed in the browser
   (free cash flow, gross margin, net margin, current ratio, debt-to-equity, ROE)
-- Most recent annual 10-K filing data only (V1)
+- **Five-year history** per company — switch the table from comparing companies
+  to showing one company's fiscal years side by side. Ratios and margins are
+  recomputed for each year rather than pinned to the latest one.
+
+### A note on stale figures
+
+Companies stop tagging a concept without ever resuming, so a metric's most
+recent reported value can be years older than the rest of the filing — S&P
+Global last tagged capital expenditures in FY2009. Roughly 40% of companies have
+at least one such metric.
+
+Those cells now carry a small `FY####` badge showing the year the figure
+actually covers, and derived ratios are computed only from figures matching the
+company's headline fiscal year. Free cash flow reads N/A rather than subtracting
+a 2009 capital expenditure from a 2025 operating cash flow.
 
 EPS is available for ~97% of companies. It shows N/A for companies with multiple
 share classes (Berkshire, Visa, Airbnb), which report EPS per class — EDGAR's
@@ -40,12 +54,35 @@ A full pass takes ~17 minutes. Files are only rewritten when the underlying numb
 ### Running it locally
 
 ```bash
-node scripts/fetch-data.js AAPL MSFT     # specific tickers
-node scripts/fetch-data.js --all         # every filer in companies.json
-node scripts/fetch-data.js --all --force # ignore the freshness check
+node scripts/fetch-data.js AAPL MSFT      # specific tickers
+node scripts/fetch-data.js --all          # every filer in companies.json
+node scripts/fetch-data.js --all --force  # ignore the freshness check
+node scripts/fetch-data.js --all --years=10   # keep 10 years instead of 5
 ```
 
 `data/fetch-state.json` records when each company was last checked and whether it reports us-gaap facts at all; the script uses it to skip companies checked within the last 25 days, and to avoid repeatedly re-downloading ETFs and trusts that have no GAAP data to extract.
+
+History costs no extra requests. A `companyfacts` document already contains every year a company has reported, so `--years` only changes how much of it is kept.
+
+### Stored record shape
+
+```jsonc
+{
+  "ticker": "AAPL",
+  "fiscalYear":  2025,                 // headline year, shown in the column header
+  "fiscalYears": [2021, …, 2025],      // oldest first
+  "metrics": {                         // latest year, with provenance
+    "revenue": { "value": …, "year": 2025, "periodEnd": "2025-09-27", "filed": "2025-10-31" }
+  },
+  "history": {                         // compact series, oldest first
+    "revenue": { "2021": …, "2022": …, "2023": …, "2024": …, "2025": … }
+  }
+}
+```
+
+`metrics` holds the latest year and is what the comparison table reads; `history` is a year → value map including that latest year, so each series stands alone. A metric the company did not report in a given year is `null` rather than absent.
+
+A record written before a change to this shape is refetched even if the freshness check would skip it — otherwise the first scheduled run after such a change would skip every company and roll out nothing.
 
 ---
 
