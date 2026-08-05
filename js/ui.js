@@ -99,17 +99,27 @@ export function renderTable(companies) {
     return;
   }
 
-  // Build raw value map per company (for derived metric computation)
   const companyData = companies.map((c) => {
-    const raw = {};
+    const raw = {};      // as reported, whatever year it came from
+    const year = {};     // the year each figure actually covers
+    const current = {};  // only figures from this company's latest fiscal year
+
     METRICS.forEach((m) => {
-      raw[m.id] = c.metrics?.[m.id]?.value ?? null;
+      const point = c.metrics?.[m.id] ?? null;
+      raw[m.id]   = point?.value ?? null;
+      year[m.id]  = point?.year ?? null;
+      // Companies stop tagging concepts without ever resuming, leaving a last
+      // reported figure that can be many years old. Ratios must not mix those
+      // with current-year figures — free cash flow off a 2009 capex and a 2025
+      // operating cash flow is not a number worth showing.
+      current[m.id] = point && point.year === c.fiscalYear ? point.value : null;
     });
+
     const derived = {};
     DERIVED_METRICS.forEach((m) => {
-      derived[m.id] = m.compute(raw);
+      derived[m.id] = m.compute(current);
     });
-    return { ...c, raw, derived };
+    return { ...c, raw, year, derived };
   });
 
   const allMetrics = [...METRICS, ...DERIVED_METRICS];
@@ -153,7 +163,14 @@ export function renderTable(companies) {
           const cls = valueClass(val, metric.format);
           const loading = cd.loading && val === null;
           if (loading) return `<td><span class="cell-loading"></span></td>`;
-          return `<td class="${cls}">${formatValue(val, metric.format)}</td>`;
+
+          // Flag a figure the company last reported in an earlier year, so it
+          // is not read as belonging to the fiscal year in the column header.
+          const y = cd.year?.[metric.id];
+          const stale = !metric.compute && y != null && y !== cd.fiscalYear
+            ? ` <span class="stale-year" title="Last reported for FY${y}">FY${y}</span>`
+            : '';
+          return `<td class="${cls}">${formatValue(val, metric.format)}${stale}</td>`;
         }).join('')}
       </tr>`;
     });
@@ -171,6 +188,115 @@ export function renderTable(companies) {
 
   html += `</div>`;
   container.innerHTML = html;
+}
+
+// --- History view ---
+
+/**
+ * Renders one company's metrics with fiscal years as columns.
+ *
+ * Derived metrics are recomputed per year from that year's reported figures,
+ * so margins and ratios trend alongside the raw values rather than being
+ * pinned to the latest year.
+ */
+export function renderHistoryTable(company) {
+  const container = document.getElementById('metrics-table');
+
+  if (!company) {
+    container.innerHTML = '<p class="empty-state">Add a company to see its history.</p>';
+    return;
+  }
+  if (company.loading) {
+    container.innerHTML = `<p class="empty-state">Loading ${company.name}…</p>`;
+    return;
+  }
+
+  const years = company.fiscalYears ?? [];
+  if (!years.length) {
+    container.innerHTML =
+      `<p class="empty-state">No multi-year history available for ${company.name}.</p>`;
+    return;
+  }
+
+  const perYear = years.map((year) => {
+    const raw = {};
+    METRICS.forEach((m) => {
+      raw[m.id] = company.history?.[m.id]?.[year] ?? null;
+    });
+    const derived = {};
+    DERIVED_METRICS.forEach((m) => {
+      derived[m.id] = m.compute(raw);
+    });
+    return { year, raw, derived };
+  });
+
+  const allMetrics = [...METRICS, ...DERIVED_METRICS];
+
+  let html = `<div class="table-wrapper"><table>
+    <thead>
+      <tr>
+        <th class="metric-col">Metric</th>
+        ${perYear.map((y) => `<th><div class="th-ticker">FY${y.year}</div></th>`).join('')}
+      </tr>
+    </thead>
+    <tbody>`;
+
+  SECTION_ORDER.forEach((section) => {
+    const sectionMetrics = allMetrics.filter((m) => m.section === section);
+    if (!sectionMetrics.length) return;
+
+    html += `<tr class="section-row"><td colspan="${perYear.length + 1}">${section}</td></tr>`;
+
+    sectionMetrics.forEach((metric) => {
+      html += `<tr>
+        <td class="metric-label">${metric.label}</td>
+        ${perYear.map((y) => {
+          const val = metric.compute ? y.derived[metric.id] : y.raw[metric.id];
+          return `<td class="${valueClass(val, metric.format)}">${formatValue(val, metric.format)}</td>`;
+        }).join('')}
+      </tr>`;
+    });
+  });
+
+  html += `</tbody></table></div>`;
+  container.innerHTML = html;
+}
+
+/**
+ * Renders the compare/history switch, plus a company picker when several
+ * companies are loaded (history shows one company at a time).
+ */
+export function renderViewControls(mode, companies, selectedTicker, handlers) {
+  const el = document.getElementById('view-controls');
+
+  if (!companies.length) {
+    el.hidden = true;
+    el.innerHTML = '';
+    return;
+  }
+  el.hidden = false;
+
+  const picker =
+    mode === 'history' && companies.length > 1
+      ? `<select id="history-company" class="history-select" aria-label="Company to show history for">
+           ${companies.map((c) =>
+             `<option value="${c.ticker}"${c.ticker === selectedTicker ? ' selected' : ''}>${c.name}</option>`
+           ).join('')}
+         </select>`
+      : '';
+
+  el.innerHTML = `
+    <button class="shortcut-btn${mode === 'compare' ? ' active' : ''}" data-mode="compare">Compare companies</button>
+    <button class="shortcut-btn${mode === 'history' ? ' active' : ''}" data-mode="history">5-year history</button>
+    ${picker}`;
+
+  el.querySelectorAll('[data-mode]').forEach((btn) => {
+    btn.addEventListener('click', () => handlers.onMode(btn.dataset.mode));
+  });
+  const select = el.querySelector('#history-company');
+  if (select) {
+    select.addEventListener('change', () => handlers.onCompany(select.value));
+  }
 }
 
 // --- Search dropdown ---

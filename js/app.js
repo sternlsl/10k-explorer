@@ -5,14 +5,43 @@ import {
   setActiveShortcut,
   renderCompanyChips,
   renderTable,
+  renderHistoryTable,
+  renderViewControls,
   renderSearchResults,
   showError,
   setGlobalLoading,
 } from './ui.js';
 
 // App state
-let companies = [];       // [{ticker, name, cik, metrics, fiscalYear, loading}]
+let companies = [];       // [{ticker, name, cik, metrics, history, fiscalYears, loading}]
 let activeGroupId = null;
+let viewMode = 'compare'; // 'compare' | 'history'
+let historyTicker = null; // which company the history view is showing
+
+// --- Rendering ---
+
+/**
+ * Single entry point for redrawing chips, view controls, and the table, so the
+ * two table modes can never drift out of sync with the current state.
+ */
+function render() {
+  // The history view shows one company; fall back to the first one loaded.
+  if (!companies.some((c) => c.ticker === historyTicker)) {
+    historyTicker = companies[0]?.ticker ?? null;
+  }
+
+  renderCompanyChips(companies, removeCompany);
+  renderViewControls(viewMode, companies, historyTicker, {
+    onMode: (mode) => { viewMode = mode; render(); },
+    onCompany: (ticker) => { historyTicker = ticker; render(); },
+  });
+
+  if (viewMode === 'history') {
+    renderHistoryTable(companies.find((c) => c.ticker === historyTicker));
+  } else {
+    renderTable(companies);
+  }
+}
 
 // --- Company management ---
 
@@ -45,8 +74,7 @@ async function addCompany(ticker) {
   // Insert placeholder so the table updates immediately with a loading state
   const placeholder = { ticker, name: info.name, cik: info.cik, metrics: {}, fiscalYear: null, loading: true };
   companies = [...companies, placeholder];
-  renderCompanyChips(companies, removeCompany);
-  renderTable(companies);
+  render();
 
   try {
     const data = await getCompanyMetrics(ticker);
@@ -56,8 +84,7 @@ async function addCompany(ticker) {
     companies = companies.filter((c) => c.ticker !== ticker);
   }
 
-  renderCompanyChips(companies, removeCompany);
-  renderTable(companies);
+  render();
 }
 
 function removeCompany(ticker) {
@@ -65,8 +92,7 @@ function removeCompany(ticker) {
   // If the user manually removes a company, deactivate the industry shortcut
   activeGroupId = null;
   setActiveShortcut(null);
-  renderCompanyChips(companies, removeCompany);
-  renderTable(companies);
+  render();
 }
 
 // --- Industry group loading ---
@@ -78,8 +104,7 @@ async function loadGroup(groupId) {
   activeGroupId = groupId;
   companies = [];
   setActiveShortcut(groupId);
-  renderCompanyChips(companies, removeCompany);
-  renderTable(companies);
+  render();
 
   // Load first 2 companies as the default comparison; users can add more
   const defaultTickers = group.tickers.slice(0, 2);

@@ -43,6 +43,10 @@ const DEFAULT_MAX_AGE_DAYS = 25;
 // Companies with no us-gaap facts (ETFs, trusts, foreign IFRS filers) are
 // recorded and skipped for this long before we look again.
 const NO_GAAP_RECHECK_DAYS = 180;
+// Fiscal years of history to keep per company (--years=N overrides). The
+// companyfacts document already contains every year a company has reported, so
+// raising this costs no extra requests — only file size.
+const DEFAULT_HISTORY_YEARS = 5;
 
 // ─── Metrics to extract ───────────────────────────────────────────────────────
 // Concepts are tried in order; the first one with an annual value wins.
@@ -171,60 +175,111 @@ function isAnnualPeriod(entry) {
 }
 
 /**
- * Picks the most recent annual figure from a concept's facts, reading the
- * given unit series (USD for monetary amounts, USD/shares for per-share ones).
+ * Collapses one concept's facts into at most one figure per fiscal year.
  *
- * Sorts by period end, then by filing date: the same period is re-reported as a
- * comparative in later 10-Ks, and the newest filing carries any restatement.
+ * Within a fiscal year, later period ends win, then later filing dates: the
+ * same period is re-reported as a comparative in subsequent 10-Ks, and the
+ * newest filing carries any restatement.
  *
  * The fiscal year is derived from the period end date, not the `fy` field —
  * `fy` identifies the filing that reported the number, so a FY2023 comparative
  * appearing in the FY2025 10-K carries `fy: 2025`.
  */
-function extractAnnualValue(units, unit = 'USD') {
+function conceptSeries(units, unit = 'USD') {
   const entries = units?.[unit];
-  if (!entries) return null;
+  if (!entries) return new Map();
 
-  const hit = entries
-    .filter(d => d.form === '10-K' && d.fp === 'FY' && isAnnualPeriod(d))
-    .sort((a, b) =>
-      a.end === b.end
-        ? (a.filed ?? '').localeCompare(b.filed ?? '')
-        : a.end.localeCompare(b.end)
-    )
-    .pop();
+  const byYear = new Map();
+  for (const e of entries) {
+    if (e.form !== '10-K' || e.fp !== 'FY' || !isAnnualPeriod(e)) continue;
 
-  if (!hit) return null;
+    const year = Number(e.end.slice(0, 4));
+    const prev = byYear.get(year);
+    const newer = !prev
+      || e.end > prev.periodEnd
+      || (e.end === prev.periodEnd && (e.filed ?? '') > (prev.filed ?? ''));
 
-  return {
-    value:     hit.val,
-    year:      Number(hit.end.slice(0, 4)),
-    periodEnd: hit.end,
-    filed:     hit.filed ?? null,
-  };
+    if (newer) {
+      byYear.set(year, {
+        value:     e.val,
+        year,
+        periodEnd: e.end,
+        filed:     e.filed ?? null,
+      });
+    }
+  }
+  return byYear;
 }
 
-function extractMetrics(facts) {
+/**
+ * Builds a metric's annual series, newest year first.
+ *
+ * Candidate concepts are merged rather than taking the first that matches at
+ * all. Companies switch concepts over time — most visibly at the ASC 606
+ * revenue transition — so a single company's history can span two of them. The
+ * earlier-listed concept wins any year both report, keeping the priority order
+ * meaningful while still filling years the preferred concept never covered.
+ */
+function metricSeries(gaap, metric) {
+  const merged = new Map();
+
+  for (const concept of metric.concepts) {
+    for (const [year, point] of conceptSeries(gaap[concept]?.units, metric.unit)) {
+      if (!merged.has(year)) merged.set(year, point);
+    }
+  }
+
+  return [...merged.values()].sort((a, b) => b.year - a.year);
+}
+
+/**
+ * Produces the stored record's financial content.
+ *
+ * `metrics` holds the latest year with full provenance and keeps the shape the
+ * comparison table already consumes. `history` is a compact year → value map
+ * per metric, including that latest year so each series stands alone.
+ */
+function extractMetrics(facts, historyYears) {
   const gaap = facts?.['us-gaap'];
   if (!gaap) return null;
 
   const metrics = {};
+  const series  = {};
   let fiscalYear = null;
 
   for (const metric of METRICS) {
-    let found = null;
-    for (const concept of metric.concepts) {
-      found = extractAnnualValue(gaap[concept]?.units, metric.unit);
-      if (found) break;
-    }
-    metrics[metric.id] = found;
-    // Label the company by its newest annual period across all metrics.
-    if (found && (fiscalYear === null || found.year > fiscalYear)) {
-      fiscalYear = found.year;
+    const points = metricSeries(gaap, metric);
+    // Latest year, derived from the same series so the two never disagree.
+    metrics[metric.id] = points[0] ?? null;
+    series[metric.id]  = points;
+
+    if (points[0] && (fiscalYear === null || points[0].year > fiscalYear)) {
+      fiscalYear = points[0].year;
     }
   }
 
-  return Object.values(metrics).some(Boolean) ? { metrics, fiscalYear } : null;
+  if (!Object.values(metrics).some(Boolean)) return null;
+
+  // Keep the N most recent fiscal years the company reported anything for.
+  // Companies stop and start tagging individual metrics, so the year axis is
+  // the union across metrics rather than any single metric's coverage.
+  //
+  // Ordered oldest first, matching how JS iterates the integer-like keys of
+  // `history` — both read left to right as a timeline.
+  const fiscalYears = [...new Set(Object.values(series).flat().map(p => p.year))]
+    .sort((a, b) => b - a)
+    .slice(0, historyYears)
+    .reverse();
+
+  const history = {};
+  for (const metric of METRICS) {
+    const byYear = new Map(series[metric.id].map(p => [p.year, p.value]));
+    history[metric.id] = Object.fromEntries(
+      fiscalYears.map(y => [y, byYear.has(y) ? byYear.get(y) : null])
+    );
+  }
+
+  return { metrics, history, fiscalYear, fiscalYears };
 }
 
 // ─── Write-if-changed ─────────────────────────────────────────────────────────
@@ -260,6 +315,20 @@ function writeIfChanged(outFile, record) {
   return true;
 }
 
+/**
+ * True if the stored record exists and carries everything the current script
+ * writes. Missing, unreadable, or older-shaped files all report false so the
+ * company gets refetched.
+ */
+function isCurrentShape(outFile) {
+  try {
+    const record = JSON.parse(fs.readFileSync(outFile, 'utf8'));
+    return Boolean(record.history) && Array.isArray(record.fiscalYears);
+  } catch {
+    return false;
+  }
+}
+
 function readJson(file, fallback) {
   try { return JSON.parse(fs.readFileSync(file, 'utf8')); }
   catch { return fallback; }
@@ -288,6 +357,12 @@ async function main() {
   const maxAge = Number(
     flags.find(f => f.startsWith('--max-age='))?.split('=')[1] ?? DEFAULT_MAX_AGE_DAYS
   ) * DAY_MS;
+  const historyYears = Number(
+    flags.find(f => f.startsWith('--years='))?.split('=')[1] ?? DEFAULT_HISTORY_YEARS
+  );
+  if (!Number.isInteger(historyYears) || historyYears < 1) {
+    throw new Error(`--years must be a positive integer, got "${historyYears}"`);
+  }
 
   const companies = readJson(CIK_MAP, null);
   if (!companies) throw new Error(`Cannot read ${CIK_MAP}`);
@@ -335,9 +410,12 @@ async function main() {
       console.log(`  ...${done}/${targets.length}`);
     }
 
-    const seen    = state[cik];
-    const age     = seen ? Date.now() - Date.parse(seen.checked) : Infinity;
-    const missing = tickers.some(t => !fs.existsSync(path.join(OUT_DIR, `${t.ticker}.json`)));
+    const seen = state[cik];
+    const age  = seen ? Date.now() - Date.parse(seen.checked) : Infinity;
+    // A file that predates a change to the record shape has to be rebuilt even
+    // when the freshness check would otherwise skip it — otherwise a scheduled
+    // run right after such a change skips every company and rolls out nothing.
+    const missing = tickers.some(t => !isCurrentShape(path.join(OUT_DIR, `${t.ticker}.json`)));
 
     if (!force && seen) {
       // Companies that report no us-gaap facts rarely start doing so; check
@@ -365,7 +443,7 @@ async function main() {
       return;
     }
 
-    const extracted = facts && extractMetrics(facts.facts);
+    const extracted = facts && extractMetrics(facts.facts, historyYears);
     if (!extracted) {
       state[cik] = { checked: today, gaap: false };
       stats.noData++;
@@ -380,8 +458,10 @@ async function main() {
     for (const { ticker, name } of tickers) {
       const record = {
         ticker, name, cik,
-        fiscalYear: extracted.fiscalYear,
-        metrics: extracted.metrics,
+        fiscalYear:  extracted.fiscalYear,
+        fiscalYears: extracted.fiscalYears,
+        metrics:     extracted.metrics,
+        history:     extracted.history,
         updatedAt,
       };
       if (writeIfChanged(path.join(OUT_DIR, `${ticker}.json`), record)) changed = true;
