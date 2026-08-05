@@ -12,8 +12,14 @@ Live app: https://seandiaz-nyu.github.io/10k-explorer/
 - Side-by-side comparison of up to 4 companies
 - Pre-built industry peer groups (Airlines, Big Tech, Beverages, etc.)
 - Search across S&P 500 companies by name or ticker
-- 15 key GAAP metrics across Income Statement, Balance Sheet, Cash Flow, and derived Ratios
+- 20 metrics across Income Statement, Balance Sheet, Cash Flow, and derived Ratios —
+  14 figures reported directly in the filing, plus 6 computed in the browser
+  (free cash flow, gross margin, net margin, current ratio, debt-to-equity, ROE)
 - Most recent annual 10-K filing data only (V1)
+
+EPS is available for ~97% of companies. It shows N/A for companies with multiple
+share classes (Berkshire, Visa, Airbnb), which report EPS per class — EDGAR's
+`companyfacts` API only exposes facts that carry no such breakdown.
 
 ---
 

@@ -46,12 +46,20 @@ const NO_GAAP_RECHECK_DAYS = 180;
 
 // ─── Metrics to extract ───────────────────────────────────────────────────────
 // Concepts are tried in order; the first one with an annual value wins.
+// `unit` picks which unit series to read and defaults to USD — per-share
+// figures are reported under 'USD/shares'.
 const METRICS = [
   { id: 'revenue',            concepts: ['RevenueFromContractWithCustomerExcludingAssessedTax', 'Revenues', 'SalesRevenueNet', 'RevenueFromContractWithCustomerIncludingAssessedTax'] },
   { id: 'cogs',               concepts: ['CostOfGoodsAndServicesSold', 'CostOfRevenue', 'CostOfGoodsSold'] },
   { id: 'grossProfit',        concepts: ['GrossProfit'] },
   { id: 'operatingIncome',    concepts: ['OperatingIncomeLoss'] },
   { id: 'netIncome',          concepts: ['NetIncomeLoss'] },
+  // Basic and diluted are kept as separate metrics rather than falling back to
+  // one another: a company that reports only basic EPS must not have it
+  // displayed as diluted, and the spread between the two is itself worth
+  // seeing when a company has significant dilution.
+  { id: 'epsBasic',           concepts: ['EarningsPerShareBasic'],   unit: 'USD/shares' },
+  { id: 'epsDiluted',         concepts: ['EarningsPerShareDiluted'], unit: 'USD/shares' },
   { id: 'currentAssets',      concepts: ['AssetsCurrent'] },
   { id: 'totalAssets',        concepts: ['Assets'] },
   { id: 'currentLiabilities', concepts: ['LiabilitiesCurrent'] },
@@ -163,7 +171,8 @@ function isAnnualPeriod(entry) {
 }
 
 /**
- * Picks the most recent annual figure from a concept's USD facts.
+ * Picks the most recent annual figure from a concept's facts, reading the
+ * given unit series (USD for monetary amounts, USD/shares for per-share ones).
  *
  * Sorts by period end, then by filing date: the same period is re-reported as a
  * comparative in later 10-Ks, and the newest filing carries any restatement.
@@ -172,8 +181,8 @@ function isAnnualPeriod(entry) {
  * `fy` identifies the filing that reported the number, so a FY2023 comparative
  * appearing in the FY2025 10-K carries `fy: 2025`.
  */
-function extractAnnualValue(units) {
-  const entries = units?.USD;
+function extractAnnualValue(units, unit = 'USD') {
+  const entries = units?.[unit];
   if (!entries) return null;
 
   const hit = entries
@@ -205,7 +214,7 @@ function extractMetrics(facts) {
   for (const metric of METRICS) {
     let found = null;
     for (const concept of metric.concepts) {
-      found = extractAnnualValue(gaap[concept]?.units);
+      found = extractAnnualValue(gaap[concept]?.units, metric.unit);
       if (found) break;
     }
     metrics[metric.id] = found;

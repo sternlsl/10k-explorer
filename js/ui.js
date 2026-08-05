@@ -20,6 +20,8 @@ function formatValue(value, format) {
   }
   switch (format) {
     case 'currency': return formatCurrency(value);
+    // Per-share figures stay in dollars and cents rather than being abbreviated.
+    case 'perShare': return `${value < 0 ? '-' : ''}$${Math.abs(value).toFixed(2)}`;
     case 'percent':  return `${(value * 100).toFixed(1)}%`;
     case 'ratio':    return `${value.toFixed(2)}x`;
     default:         return String(value);
@@ -28,7 +30,7 @@ function formatValue(value, format) {
 
 function valueClass(value, format) {
   if (value === null || value === undefined) return '';
-  if (format === 'currency' || format === 'percent') {
+  if (format === 'currency' || format === 'percent' || format === 'perShare') {
     return value < 0 ? 'negative' : '';
   }
   return '';
