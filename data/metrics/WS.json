@@ -1,0 +1,93 @@
+{
+  "ticker": "WS",
+  "name": "Worthington Steel, Inc.",
+  "cik": 1968487,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 3443800000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "cogs": {
+      "value": 3040500000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "grossProfit": {
+      "value": 403300000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "operatingIncome": {
+      "value": -1400000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "netIncome": {
+      "value": 8500000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "epsBasic": {
+      "value": 0.17,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "epsDiluted": {
+      "value": 0.17,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "currentAssets": {
+      "value": 1129900000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "totalAssets": {
+      "value": 2252400000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "currentLiabilities": {
+      "value": 775800000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "totalLiabilities": {
+      "value": 989500000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "shareholdersEquity": {
+      "value": 1063300000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "operatingCashFlow": {
+      "value": 201200000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "capex": {
+      "value": 121200000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:37.734Z"
+}

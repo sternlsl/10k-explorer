@@ -1,0 +1,88 @@
+{
+  "ticker": "SMTC",
+  "name": "SEMTECH CORP",
+  "cik": 88941,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1049975000,
+      "year": 2026,
+      "periodEnd": "2026-01-25",
+      "filed": "2026-03-23"
+    },
+    "cogs": {
+      "value": 507831000,
+      "year": 2026,
+      "periodEnd": "2026-01-25",
+      "filed": "2026-03-23"
+    },
+    "grossProfit": {
+      "value": 542144000,
+      "year": 2026,
+      "periodEnd": "2026-01-25",
+      "filed": "2026-03-23"
+    },
+    "operatingIncome": {
+      "value": 32565000,
+      "year": 2026,
+      "periodEnd": "2026-01-25",
+      "filed": "2026-03-23"
+    },
+    "netIncome": {
+      "value": -40376000,
+      "year": 2026,
+      "periodEnd": "2026-01-25",
+      "filed": "2026-03-23"
+    },
+    "epsBasic": {
+      "value": -0.46,
+      "year": 2026,
+      "periodEnd": "2026-01-25",
+      "filed": "2026-03-23"
+    },
+    "epsDiluted": {
+      "value": -0.46,
+      "year": 2026,
+      "periodEnd": "2026-01-25",
+      "filed": "2026-03-23"
+    },
+    "currentAssets": {
+      "value": 655120000,
+      "year": 2026,
+      "periodEnd": "2026-01-25",
+      "filed": "2026-03-23"
+    },
+    "totalAssets": {
+      "value": 1410337000,
+      "year": 2026,
+      "periodEnd": "2026-01-25",
+      "filed": "2026-03-23"
+    },
+    "currentLiabilities": {
+      "value": 275936000,
+      "year": 2026,
+      "periodEnd": "2026-01-25",
+      "filed": "2026-03-23"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 549718000,
+      "year": 2026,
+      "periodEnd": "2026-01-25",
+      "filed": "2026-03-23"
+    },
+    "operatingCashFlow": {
+      "value": 181168000,
+      "year": 2026,
+      "periodEnd": "2026-01-25",
+      "filed": "2026-03-23"
+    },
+    "capex": {
+      "value": 9783000,
+      "year": 2026,
+      "periodEnd": "2026-01-25",
+      "filed": "2026-03-23"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:09.285Z"
+}

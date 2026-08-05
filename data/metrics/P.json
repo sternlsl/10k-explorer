@@ -1,0 +1,93 @@
+{
+  "ticker": "P",
+  "name": "Everpure, Inc.",
+  "cik": 1474432,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 3662843000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "cogs": {
+      "value": 1084890000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "grossProfit": {
+      "value": 2577953000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "operatingIncome": {
+      "value": 114816000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "netIncome": {
+      "value": 188181000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "epsBasic": {
+      "value": 0.57,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "epsDiluted": {
+      "value": 0.55,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "currentAssets": {
+      "value": 3063492000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "totalAssets": {
+      "value": 4674259000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "currentLiabilities": {
+      "value": 1909990000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "totalLiabilities": {
+      "value": 3228591000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "shareholdersEquity": {
+      "value": 1445668000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "operatingCashFlow": {
+      "value": 880085000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    },
+    "capex": {
+      "value": 264344000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:15.526Z"
+}

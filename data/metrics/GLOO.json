@@ -1,0 +1,83 @@
+{
+  "ticker": "GLOO",
+  "name": "Gloo Holdings, Inc.",
+  "cik": 2069785,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 94660000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -108171000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": -157128000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": -8.03,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": -8.03,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 75604000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 263659000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 48541000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 105977000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": 135174000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -80499000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "capex": {
+      "value": 1189000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:46.230Z"
+}

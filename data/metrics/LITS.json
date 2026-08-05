@@ -1,0 +1,88 @@
+{
+  "ticker": "LITS",
+  "name": "Lite Strategy, Inc.",
+  "cik": 1262104,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2022,
+      "periodEnd": "2022-06-30",
+      "filed": "2022-09-08"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -17455000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "netIncome": {
+      "value": -15945000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "epsBasic": {
+      "value": -2.39,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "epsDiluted": {
+      "value": -2.39,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "currentAssets": {
+      "value": 18285000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "totalAssets": {
+      "value": 18285000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "currentLiabilities": {
+      "value": 1354000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "totalLiabilities": {
+      "value": 1354000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "shareholdersEquity": {
+      "value": 16931000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "operatingCashFlow": {
+      "value": -20844000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:23.091Z"
+}

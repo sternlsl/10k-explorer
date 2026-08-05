@@ -1,0 +1,63 @@
+{
+  "ticker": "RDAGW",
+  "name": "Republic Digital Acquisition Co",
+  "cik": 2055459,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -359106,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "netIncome": {
+      "value": 7718712,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 1115369,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalAssets": {
+      "value": 309194555,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": {
+      "value": 80343,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalLiabilities": {
+      "value": 12800343,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "shareholdersEquity": {
+      "value": -11659605,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": -387853,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:33.975Z"
+}

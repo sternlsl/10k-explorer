@@ -1,0 +1,63 @@
+{
+  "ticker": "PCAPU",
+  "name": "ProCap Acquisition Corp",
+  "cik": 2056634,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -470085,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "netIncome": {
+      "value": 5659179,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 1194095,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "totalAssets": {
+      "value": 257302148,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "currentLiabilities": {
+      "value": 115789,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "totalLiabilities": {
+      "value": 11365789,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "shareholdersEquity": {
+      "value": -10171694,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "operatingCashFlow": {
+      "value": -486104,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:32.455Z"
+}

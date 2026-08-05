@@ -1,0 +1,83 @@
+{
+  "ticker": "BRC",
+  "name": "BRADY CORP",
+  "cik": 746598,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1513605000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-04"
+    },
+    "cogs": {
+      "value": 752783000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-04"
+    },
+    "grossProfit": {
+      "value": 760822000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-04"
+    },
+    "operatingIncome": {
+      "value": 236638000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-04"
+    },
+    "netIncome": {
+      "value": 189256000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-04"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 621835000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-04"
+    },
+    "totalAssets": {
+      "value": 1734253000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-04"
+    },
+    "currentLiabilities": {
+      "value": 330332000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-04"
+    },
+    "totalLiabilities": {
+      "value": 542042000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-04"
+    },
+    "shareholdersEquity": {
+      "value": 1192211000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-04"
+    },
+    "operatingCashFlow": {
+      "value": 181196000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-04"
+    },
+    "capex": {
+      "value": 27577000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-04"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:31.886Z"
+}

@@ -1,0 +1,68 @@
+{
+  "ticker": "CFFN",
+  "name": "Capitol Federal Financial, Inc.",
+  "cik": 1490906,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 16300000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 68025000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "epsBasic": {
+      "value": 0.52,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "epsDiluted": {
+      "value": 0.52,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 9778701000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 8731024000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "shareholdersEquity": {
+      "value": 1047677000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "operatingCashFlow": {
+      "value": 55041000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    },
+    "capex": {
+      "value": 5202000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:51.010Z"
+}

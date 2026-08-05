@@ -1,0 +1,63 @@
+{
+  "ticker": "CMTG",
+  "name": "Claros Mortgage Trust, Inc.",
+  "cik": 1666291,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 187828000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -489069000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "epsBasic": {
+      "value": -3.49,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "epsDiluted": {
+      "value": -3.49,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 4721759000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 3189864000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "shareholdersEquity": {
+      "value": 2456471000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-16"
+    },
+    "operatingCashFlow": {
+      "value": -30460000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:46.353Z"
+}

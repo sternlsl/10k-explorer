@@ -1,0 +1,83 @@
+{
+  "ticker": "WWD",
+  "name": "Woodward, Inc.",
+  "cik": 108312,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3567064000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "cogs": {
+      "value": 2610772000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 442111000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "epsBasic": {
+      "value": 7.42,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "epsDiluted": {
+      "value": 7.19,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "currentAssets": {
+      "value": 1884414000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "totalAssets": {
+      "value": 4630143000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "currentLiabilities": {
+      "value": 907389000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "totalLiabilities": {
+      "value": 2063753000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "shareholdersEquity": {
+      "value": 2566390000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "operatingCashFlow": {
+      "value": 471294000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "capex": {
+      "value": 130928000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:20.275Z"
+}

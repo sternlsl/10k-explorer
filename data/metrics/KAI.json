@@ -1,0 +1,83 @@
+{
+  "ticker": "KAI",
+  "name": "KADANT INC",
+  "cik": 886346,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1052248000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "cogs": {
+      "value": 576520000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 157288000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "netIncome": {
+      "value": 101969000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "epsBasic": {
+      "value": 8.66,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "epsDiluted": {
+      "value": 8.65,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "currentAssets": {
+      "value": 541933000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "totalAssets": {
+      "value": 1712178000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "currentLiabilities": {
+      "value": 228171000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 979809000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "operatingCashFlow": {
+      "value": 171328000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "capex": {
+      "value": 17048000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:41.756Z"
+}

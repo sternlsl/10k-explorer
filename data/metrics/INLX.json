@@ -1,0 +1,93 @@
+{
+  "ticker": "INLX",
+  "name": "INTELLINETICS, INC.",
+  "cik": 1081745,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 16583446,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "cogs": {
+      "value": 760462,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-02"
+    },
+    "grossProfit": {
+      "value": 10952584,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "operatingIncome": {
+      "value": -1788569,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "netIncome": {
+      "value": -1872895,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsBasic": {
+      "value": -0.44,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsDiluted": {
+      "value": -0.44,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "currentAssets": {
+      "value": 5229257,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "totalAssets": {
+      "value": 17305572,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "currentLiabilities": {
+      "value": 5056120,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "totalLiabilities": {
+      "value": 5921556,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "shareholdersEquity": {
+      "value": 11384016,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "operatingCashFlow": {
+      "value": 933871,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "capex": {
+      "value": 354378,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:42.659Z"
+}

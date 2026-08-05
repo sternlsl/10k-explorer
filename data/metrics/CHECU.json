@@ -1,0 +1,63 @@
+{
+  "ticker": "CHECU",
+  "name": "Chenghe Acquisition III Co.",
+  "cik": 2047177,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -281678,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "netIncome": {
+      "value": 1088407,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 808550,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "totalAssets": {
+      "value": 128678635,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "currentLiabilities": {
+      "value": 178499,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "totalLiabilities": {
+      "value": 5238499,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "shareholdersEquity": {
+      "value": -4429949,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "operatingCashFlow": {
+      "value": -189897,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:14.540Z"
+}

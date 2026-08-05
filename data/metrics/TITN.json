@@ -1,0 +1,88 @@
+{
+  "ticker": "TITN",
+  "name": "Titan Machinery Inc.",
+  "cik": 1409171,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 2427107000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "cogs": {
+      "value": 2044551000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "grossProfit": {
+      "value": 382556000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "operatingIncome": {
+      "value": -6713000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": -54174000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": -2.38,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": -2.38,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 1089980000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 1616928000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 771963000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 579298000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": 137452000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 10714000,
+      "year": 2020,
+      "periodEnd": "2020-01-31",
+      "filed": "2020-04-07"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:02.226Z"
+}

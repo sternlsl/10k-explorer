@@ -1,0 +1,73 @@
+{
+  "ticker": "MKTX",
+  "name": "MARKETAXESS HOLDINGS INC",
+  "cik": 1278021,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 846268000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 341838000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "netIncome": {
+      "value": 246627000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": 6.66,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsDiluted": {
+      "value": 6.64,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1934886000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 776627000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "shareholdersEquity": {
+      "value": 1145667000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "operatingCashFlow": {
+      "value": 382139000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "capex": {
+      "value": 8204000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:57.171Z"
+}

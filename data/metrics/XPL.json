@@ -1,0 +1,73 @@
+{
+  "ticker": "XPL",
+  "name": "SOLITARIO RESOURCES CORP.",
+  "cik": 917225,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-05"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1843000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-03-30"
+    },
+    "netIncome": {
+      "value": -3833000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "epsBasic": {
+      "value": -0.07,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-12"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentAssets": {
+      "value": 8010000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "totalAssets": {
+      "value": 25030000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentLiabilities": {
+      "value": 215000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 24670000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "operatingCashFlow": {
+      "value": -3570000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:30.918Z"
+}

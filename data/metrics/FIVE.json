@@ -1,0 +1,93 @@
+{
+  "ticker": "FIVE",
+  "name": "FIVE BELOW, INC",
+  "cik": 1177609,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 4764147000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "cogs": {
+      "value": 3049461000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "grossProfit": {
+      "value": 1095491000,
+      "year": 2023,
+      "periodEnd": "2023-01-28",
+      "filed": "2023-03-16"
+    },
+    "operatingIncome": {
+      "value": 457399000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "netIncome": {
+      "value": 358641000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "epsBasic": {
+      "value": 6.51,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "epsDiluted": {
+      "value": 6.47,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "currentAssets": {
+      "value": 1916723000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "totalAssets": {
+      "value": 4937019000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "currentLiabilities": {
+      "value": 954006000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "totalLiabilities": {
+      "value": 2743729000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "shareholdersEquity": {
+      "value": 2193290000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "operatingCashFlow": {
+      "value": 586428000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "capex": {
+      "value": 174741000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:48.931Z"
+}

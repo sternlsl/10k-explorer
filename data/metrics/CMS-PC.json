@@ -1,0 +1,78 @@
+{
+  "ticker": "CMS-PC",
+  "name": "CMS ENERGY CORP",
+  "cik": 811156,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 8305000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1727000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "netIncome": {
+      "value": 1071000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "epsBasic": {
+      "value": 3.53,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "epsDiluted": {
+      "value": 3.53,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "currentAssets": {
+      "value": 3472000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "totalAssets": {
+      "value": 39941000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "currentLiabilities": {
+      "value": 3548000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 9144000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "operatingCashFlow": {
+      "value": 2235000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "capex": {
+      "value": 2374000000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-09"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:16.311Z"
+}

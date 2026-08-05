@@ -1,0 +1,93 @@
+{
+  "ticker": "SIBN",
+  "name": "SI-BONE, Inc.",
+  "cik": 1459839,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 200925000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "cogs": {
+      "value": 41046000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "grossProfit": {
+      "value": 159879000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "operatingIncome": {
+      "value": -22330000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "netIncome": {
+      "value": -18904000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": -0.44,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsDiluted": {
+      "value": -0.44,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentAssets": {
+      "value": 216115000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "totalAssets": {
+      "value": 238555000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentLiabilities": {
+      "value": 25279000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "totalLiabilities": {
+      "value": 61023000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "shareholdersEquity": {
+      "value": 177532000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "operatingCashFlow": {
+      "value": -675000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "capex": {
+      "value": 8414000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:40.878Z"
+}

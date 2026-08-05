@@ -1,0 +1,73 @@
+{
+  "ticker": "PHXE-P",
+  "name": "Phoenix Energy One, LLC",
+  "cik": 1818643,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 687180000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "cogs": {
+      "value": 155206000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 175575000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "netIncome": {
+      "value": 66108000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 173588000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "totalAssets": {
+      "value": 1806769000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "currentLiabilities": {
+      "value": 418412000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "totalLiabilities": {
+      "value": 1728557000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "shareholdersEquity": {
+      "value": 78212000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "operatingCashFlow": {
+      "value": 301086000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:38.941Z"
+}

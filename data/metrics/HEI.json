@@ -1,0 +1,88 @@
+{
+  "ticker": "HEI",
+  "name": "HEICO CORP",
+  "cik": 46619,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4485044000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "cogs": {
+      "value": 39350000,
+      "year": 2018,
+      "periodEnd": "2018-10-31",
+      "filed": "2018-12-20"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1018998000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "netIncome": {
+      "value": 690385000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "epsBasic": {
+      "value": 4.97,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "epsDiluted": {
+      "value": 4.9,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "currentAssets": {
+      "value": 2356366000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "totalAssets": {
+      "value": 8500434000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "currentLiabilities": {
+      "value": 832004000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "totalLiabilities": {
+      "value": 3653901000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "shareholdersEquity": {
+      "value": 4305319000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "operatingCashFlow": {
+      "value": 934266000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "capex": {
+      "value": 72886000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    }
+  },
+  "updatedAt": "2026-08-05T16:53:56.145Z"
+}

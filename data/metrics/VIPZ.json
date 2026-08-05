@@ -1,0 +1,88 @@
+{
+  "ticker": "VIPZ",
+  "name": "VIP Play, Inc.",
+  "cik": 1832161,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": -86473,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "cogs": {
+      "value": 509585,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "grossProfit": {
+      "value": -596058,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "operatingIncome": {
+      "value": -632926,
+      "year": 2022,
+      "periodEnd": "2022-06-30",
+      "filed": "2022-10-13"
+    },
+    "netIncome": {
+      "value": -18881931,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "epsBasic": {
+      "value": -0.26,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "epsDiluted": {
+      "value": -0.26,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "currentAssets": {
+      "value": 2858752,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "totalAssets": {
+      "value": 3745856,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "currentLiabilities": {
+      "value": 34778656,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "totalLiabilities": {
+      "value": 34778656,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "shareholdersEquity": {
+      "value": -31032800,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "operatingCashFlow": {
+      "value": -10430726,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:34.382Z"
+}

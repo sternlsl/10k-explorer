@@ -1,0 +1,93 @@
+{
+  "ticker": "UPWK",
+  "name": "UPWORK, INC",
+  "cik": 1627475,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 787784000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "cogs": {
+      "value": 174752000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "grossProfit": {
+      "value": 613032000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "operatingIncome": {
+      "value": 129307000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "netIncome": {
+      "value": 115425000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsBasic": {
+      "value": 0.87,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsDiluted": {
+      "value": 0.84,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentAssets": {
+      "value": 950833000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "totalAssets": {
+      "value": 1299580000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentLiabilities": {
+      "value": 650168000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "totalLiabilities": {
+      "value": 669265000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "shareholdersEquity": {
+      "value": 630315000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "operatingCashFlow": {
+      "value": 248259000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "capex": {
+      "value": 5790000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:20.863Z"
+}

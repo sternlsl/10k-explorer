@@ -1,0 +1,78 @@
+{
+  "ticker": "OYCG",
+  "name": "Oyocar Group Inc.",
+  "cik": 1994582,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 81936,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-24"
+    },
+    "cogs": {
+      "value": 74667,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-24"
+    },
+    "grossProfit": {
+      "value": 7269,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-24"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -38654,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-24"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-24"
+    },
+    "currentAssets": {
+      "value": 40630,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-24"
+    },
+    "totalAssets": {
+      "value": 43180,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-24"
+    },
+    "currentLiabilities": {
+      "value": 27392,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-24"
+    },
+    "totalLiabilities": {
+      "value": 27392,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-24"
+    },
+    "shareholdersEquity": {
+      "value": 15788,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-24"
+    },
+    "operatingCashFlow": {
+      "value": -2079,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-24"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:43.608Z"
+}

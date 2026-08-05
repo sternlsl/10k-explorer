@@ -1,0 +1,73 @@
+{
+  "ticker": "RMHI",
+  "name": "Retrieve Medical Holdings, Inc.",
+  "cik": 1452804,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -163302,
+      "year": 2022,
+      "periodEnd": "2022-09-30",
+      "filed": "2022-12-19"
+    },
+    "netIncome": {
+      "value": -164969,
+      "year": 2022,
+      "periodEnd": "2022-09-30",
+      "filed": "2022-12-19"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2013,
+      "periodEnd": "2013-09-30",
+      "filed": "2013-12-27"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 408,
+      "year": 2020,
+      "periodEnd": "2020-09-30",
+      "filed": "2022-12-19"
+    },
+    "totalAssets": {
+      "value": 130349,
+      "year": 2022,
+      "periodEnd": "2022-09-30",
+      "filed": "2022-12-19"
+    },
+    "currentLiabilities": {
+      "value": 250504,
+      "year": 2020,
+      "periodEnd": "2020-09-30",
+      "filed": "2022-12-19"
+    },
+    "totalLiabilities": {
+      "value": 621503,
+      "year": 2022,
+      "periodEnd": "2022-09-30",
+      "filed": "2022-12-19"
+    },
+    "shareholdersEquity": {
+      "value": -491154,
+      "year": 2022,
+      "periodEnd": "2022-09-30",
+      "filed": "2022-12-19"
+    },
+    "operatingCashFlow": {
+      "value": -68553,
+      "year": 2022,
+      "periodEnd": "2022-09-30",
+      "filed": "2022-12-19"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2016,
+      "periodEnd": "2016-09-30",
+      "filed": "2017-09-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:59.780Z"
+}

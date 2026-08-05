@@ -1,0 +1,63 @@
+{
+  "ticker": "ANSCW",
+  "name": "Agriculture & Natural Solutions Acquisition Corp",
+  "cik": 1854149,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -5498493,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "netIncome": {
+      "value": 10468766,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 214543,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalAssets": {
+      "value": 366182827,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": {
+      "value": 17329206,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalLiabilities": {
+      "value": 29404206,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "shareholdersEquity": {
+      "value": -29189663,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": 1316889,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:06.762Z"
+}

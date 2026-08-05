@@ -1,0 +1,88 @@
+{
+  "ticker": "RLEA",
+  "name": "Rubber Leaf Inc",
+  "cik": 1893657,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5245,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-20"
+    },
+    "cogs": {
+      "value": 4109128,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "grossProfit": {
+      "value": 795253,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "operatingIncome": {
+      "value": -1877407,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "netIncome": {
+      "value": 2867644,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "epsBasic": {
+      "value": 0.07,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "epsDiluted": {
+      "value": 0.07,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "currentAssets": {
+      "value": 3296135,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "totalAssets": {
+      "value": 6083266,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "currentLiabilities": {
+      "value": 5732078,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "totalLiabilities": {
+      "value": 5796020,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "shareholdersEquity": {
+      "value": 287246,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "operatingCashFlow": {
+      "value": -153846,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:08.941Z"
+}

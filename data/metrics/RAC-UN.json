@@ -1,0 +1,63 @@
+{
+  "ticker": "RAC-UN",
+  "name": "Rithm Acquisition Corp.",
+  "cik": 2047497,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -545996,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "netIncome": {
+      "value": 5451008,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 804147,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "totalAssets": {
+      "value": 236870253,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "currentLiabilities": {
+      "value": 51261,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "totalLiabilities": {
+      "value": 8101261,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "shareholdersEquity": {
+      "value": -7220105,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "operatingCashFlow": {
+      "value": -673161,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-19"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:08.864Z"
+}

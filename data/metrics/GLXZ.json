@@ -1,0 +1,88 @@
+{
+  "ticker": "GLXZ",
+  "name": "Galaxy Gaming, Inc.",
+  "cik": 13156,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 30873552,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "cogs": {
+      "value": 780377,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 8179610,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "netIncome": {
+      "value": 1483619,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsBasic": {
+      "value": 0.06,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsDiluted": {
+      "value": 0.06,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "currentAssets": {
+      "value": 11569839,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "totalAssets": {
+      "value": 27500619,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "currentLiabilities": {
+      "value": 8055001,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "totalLiabilities": {
+      "value": 44974894,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "shareholdersEquity": {
+      "value": -17474275,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "operatingCashFlow": {
+      "value": 7697622,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "capex": {
+      "value": 122948,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:10.417Z"
+}

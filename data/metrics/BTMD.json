@@ -1,0 +1,83 @@
+{
+  "ticker": "BTMD",
+  "name": "biote Corp.",
+  "cik": 1819253,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 192219000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 35551000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "netIncome": {
+      "value": 27045000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "epsBasic": {
+      "value": 0.86,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "epsDiluted": {
+      "value": 0.74,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "currentAssets": {
+      "value": 54670000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "totalAssets": {
+      "value": 107613000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "currentLiabilities": {
+      "value": 44991000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "totalLiabilities": {
+      "value": 158010000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "shareholdersEquity": {
+      "value": -58539000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "operatingCashFlow": {
+      "value": 35194000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "capex": {
+      "value": 5015000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:27.911Z"
+}

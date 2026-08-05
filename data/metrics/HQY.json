@@ -1,0 +1,93 @@
+{
+  "ticker": "HQY",
+  "name": "HEALTHEQUITY, INC.",
+  "cik": 1428336,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1313429000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "cogs": {
+      "value": 400313000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "grossProfit": {
+      "value": 913116000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "operatingIncome": {
+      "value": 322456000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "netIncome": {
+      "value": 215201000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "epsBasic": {
+      "value": 2.5,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "epsDiluted": {
+      "value": 2.46,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "currentAssets": {
+      "value": 512281000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "totalAssets": {
+      "value": 3380332000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "currentLiabilities": {
+      "value": 156850000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "totalLiabilities": {
+      "value": 1273136000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "shareholdersEquity": {
+      "value": 2107196000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "operatingCashFlow": {
+      "value": 457094000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "capex": {
+      "value": 1969000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:35.532Z"
+}

@@ -1,0 +1,73 @@
+{
+  "ticker": "NRIM",
+  "name": "NORTHRIM BANCORP INC",
+  "cik": 1163370,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5911000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-13"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 208902000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 64608000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsBasic": {
+      "value": 2.92,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsDiluted": {
+      "value": 2.87,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 3290273000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 2963729000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "shareholdersEquity": {
+      "value": 326544000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "operatingCashFlow": {
+      "value": 139337000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "capex": {
+      "value": 5469000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:52.155Z"
+}

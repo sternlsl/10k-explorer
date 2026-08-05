@@ -1,0 +1,43 @@
+{
+  "ticker": "BITW",
+  "name": "Bitwise 10 Crypto Index ETF",
+  "cik": 1723788,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -165855000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1048793000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 18924000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 152886000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:28.737Z"
+}

@@ -2,64 +2,82 @@
   "ticker": "TJX",
   "name": "TJX COMPANIES INC /DE/",
   "cik": 109198,
-  "fiscalYear": 2014,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
       "value": 29078407000,
-      "year": 2014,
-      "periodEnd": "2015-01-31"
+      "year": 2015,
+      "periodEnd": "2015-01-31",
+      "filed": "2015-03-31"
     },
     "cogs": {
       "value": 41679000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
-    "grossProfit": {
-      "value": 3060635000,
-      "year": 2020,
-      "periodEnd": "2021-01-30"
-    },
+    "grossProfit": null,
     "operatingIncome": {
       "value": 4763227000,
-      "year": 2018,
-      "periodEnd": "2019-02-02"
+      "year": 2019,
+      "periodEnd": "2019-02-02",
+      "filed": "2019-04-03"
     },
     "netIncome": {
       "value": 5494000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": 4.93,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": 4.87,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "currentAssets": {
       "value": 15202000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "totalAssets": {
       "value": 35767000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "currentLiabilities": {
       "value": 13361000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "totalLiabilities": null,
     "shareholdersEquity": {
       "value": 10190000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "operatingCashFlow": {
       "value": 6874000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "capex": {
       "value": 1957000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     }
   },
-  "fetchedAt": "2026-05-08T19:03:53.728Z"
+  "updatedAt": "2026-08-05T16:53:20.604Z"
 }

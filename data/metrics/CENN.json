@@ -1,0 +1,93 @@
+{
+  "ticker": "CENN",
+  "name": "Cenntro Inc.",
+  "cik": 1707919,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 18080161,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "cogs": {
+      "value": 20396258,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "grossProfit": {
+      "value": -2316097,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingIncome": {
+      "value": -32548766,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": -72981773,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": -87.21,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": -87.21,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 45633117,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 74429290,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 26655494,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 34048813,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": 40282668,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -12619516,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": {
+      "value": 846115,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-01"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:23.016Z"
+}

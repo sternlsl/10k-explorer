@@ -1,0 +1,68 @@
+{
+  "ticker": "VNO-PO",
+  "name": "VORNADO REALTY TRUST",
+  "cik": 899689,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2163720000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-11"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 582961000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-11"
+    },
+    "netIncome": {
+      "value": 904955000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "epsBasic": {
+      "value": 4.4,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "epsDiluted": {
+      "value": 4.2,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 15521118000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 8716595000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "shareholdersEquity": {
+      "value": 5986727000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "operatingCashFlow": {
+      "value": 1258385000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:55:45.526Z"
+}

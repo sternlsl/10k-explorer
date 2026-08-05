@@ -1,0 +1,63 @@
+{
+  "ticker": "CDAQF",
+  "name": "Compass Digital Acquisition Corp.",
+  "cik": 1851909,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -3217619,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "netIncome": {
+      "value": -2991929,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 158008,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "totalAssets": {
+      "value": 1451504,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "currentLiabilities": {
+      "value": 9269763,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "totalLiabilities": {
+      "value": 9508007,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "shareholdersEquity": {
+      "value": -9349999,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "operatingCashFlow": {
+      "value": -847620,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:56.821Z"
+}

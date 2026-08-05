@@ -1,0 +1,93 @@
+{
+  "ticker": "EHSI",
+  "name": "Elite Health Systems Inc.",
+  "cik": 1089815,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1024000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "cogs": {
+      "value": 906000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "grossProfit": {
+      "value": 118000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingIncome": {
+      "value": -3839000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": -7804000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": -0.35,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": -0.17,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-05"
+    },
+    "currentAssets": {
+      "value": 4484000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 6664000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 1340000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 1351000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": 5313000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -2940000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": {
+      "value": 7000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:42.379Z"
+}

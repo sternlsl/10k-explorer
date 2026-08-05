@@ -1,0 +1,93 @@
+{
+  "ticker": "IMRX",
+  "name": "Immuneering Corp",
+  "cik": 1790340,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-01"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-01"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-01"
+    },
+    "operatingIncome": {
+      "value": -59375969,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "netIncome": {
+      "value": -56024898,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsBasic": {
+      "value": -1.27,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsDiluted": {
+      "value": -1.27,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "currentAssets": {
+      "value": 176245954,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "totalAssets": {
+      "value": 231985010,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "currentLiabilities": {
+      "value": 10073721,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "totalLiabilities": {
+      "value": 13501042,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "shareholdersEquity": {
+      "value": 218483968,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "operatingCashFlow": {
+      "value": -45344595,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "capex": {
+      "value": 142226,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:49.701Z"
+}

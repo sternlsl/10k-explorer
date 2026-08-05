@@ -1,0 +1,93 @@
+{
+  "ticker": "PKE",
+  "name": "PARK AEROSPACE CORP",
+  "cik": 76267,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 111196000,
+      "year": 2018,
+      "periodEnd": "2018-02-25",
+      "filed": "2018-05-11"
+    },
+    "cogs": {
+      "value": 50629000,
+      "year": 2026,
+      "periodEnd": "2026-03-01",
+      "filed": "2026-05-29"
+    },
+    "grossProfit": {
+      "value": 22672000,
+      "year": 2026,
+      "periodEnd": "2026-03-01",
+      "filed": "2026-05-29"
+    },
+    "operatingIncome": {
+      "value": 13500000,
+      "year": 2026,
+      "periodEnd": "2026-03-01",
+      "filed": "2026-05-29"
+    },
+    "netIncome": {
+      "value": 11272000,
+      "year": 2026,
+      "periodEnd": "2026-03-01",
+      "filed": "2026-05-29"
+    },
+    "epsBasic": {
+      "value": 0.56,
+      "year": 2026,
+      "periodEnd": "2026-03-01",
+      "filed": "2026-05-29"
+    },
+    "epsDiluted": {
+      "value": 0.56,
+      "year": 2026,
+      "periodEnd": "2026-03-01",
+      "filed": "2026-05-29"
+    },
+    "currentAssets": {
+      "value": 108671000,
+      "year": 2026,
+      "periodEnd": "2026-03-01",
+      "filed": "2026-05-29"
+    },
+    "totalAssets": {
+      "value": 142228000,
+      "year": 2026,
+      "periodEnd": "2026-03-01",
+      "filed": "2026-05-29"
+    },
+    "currentLiabilities": {
+      "value": 5957000,
+      "year": 2026,
+      "periodEnd": "2026-03-01",
+      "filed": "2026-05-29"
+    },
+    "totalLiabilities": {
+      "value": 12278000,
+      "year": 2026,
+      "periodEnd": "2026-03-01",
+      "filed": "2026-05-29"
+    },
+    "shareholdersEquity": {
+      "value": 129950000,
+      "year": 2026,
+      "periodEnd": "2026-03-01",
+      "filed": "2026-05-29"
+    },
+    "operatingCashFlow": {
+      "value": 11499000,
+      "year": 2026,
+      "periodEnd": "2026-03-01",
+      "filed": "2026-05-29"
+    },
+    "capex": {
+      "value": 2038000,
+      "year": 2026,
+      "periodEnd": "2026-03-01",
+      "filed": "2026-05-29"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:31.252Z"
+}

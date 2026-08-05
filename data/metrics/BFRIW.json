@@ -1,0 +1,83 @@
+{
+  "ticker": "BFRIW",
+  "name": "Biofrontera Inc.",
+  "cik": 1858685,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 41705000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -11348000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "netIncome": {
+      "value": -10536000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsBasic": {
+      "value": -1.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsDiluted": {
+      "value": -1.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentAssets": {
+      "value": 18083000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalAssets": {
+      "value": 28564000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentLiabilities": {
+      "value": 11895000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalLiabilities": {
+      "value": 18084000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "shareholdersEquity": {
+      "value": 10480000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "operatingCashFlow": {
+      "value": -13361000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "capex": {
+      "value": 2000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:36.870Z"
+}

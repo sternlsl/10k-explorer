@@ -1,0 +1,88 @@
+{
+  "ticker": "RGNX",
+  "name": "REGENXBIO Inc.",
+  "cik": 1590877,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 170441000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "cogs": {
+      "value": 33567000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-13"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -161198000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "netIncome": {
+      "value": -193878000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "epsBasic": {
+      "value": -3.76,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "epsDiluted": {
+      "value": -3.76,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentAssets": {
+      "value": 281281000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "totalAssets": {
+      "value": 453032000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentLiabilities": {
+      "value": 118095000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "totalLiabilities": {
+      "value": 350299000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "shareholdersEquity": {
+      "value": 102733000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "operatingCashFlow": {
+      "value": -123963000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "capex": {
+      "value": 2414000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:03.809Z"
+}

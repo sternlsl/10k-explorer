@@ -1,0 +1,83 @@
+{
+  "ticker": "ITRMF",
+  "name": "Iterum Therapeutics plc",
+  "cik": 1659323,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-28"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -18696000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-07"
+    },
+    "netIncome": {
+      "value": -24774000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-07"
+    },
+    "epsBasic": {
+      "value": -1.26,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-07"
+    },
+    "epsDiluted": {
+      "value": -1.26,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-07"
+    },
+    "currentAssets": {
+      "value": 24787000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-07"
+    },
+    "totalAssets": {
+      "value": 44595000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-07"
+    },
+    "currentLiabilities": {
+      "value": 17605000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-07"
+    },
+    "totalLiabilities": {
+      "value": 48676000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-07"
+    },
+    "shareholdersEquity": {
+      "value": -4081000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-07"
+    },
+    "operatingCashFlow": {
+      "value": -26770000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-07"
+    },
+    "capex": {
+      "value": 2000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-07"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:31.407Z"
+}

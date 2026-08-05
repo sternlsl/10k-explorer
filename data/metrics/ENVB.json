@@ -1,0 +1,93 @@
+{
+  "ticker": "ENVB",
+  "name": "Enveric Biosciences, Inc.",
+  "cik": 890821,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 39914675,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-25"
+    },
+    "cogs": {
+      "value": 31763955,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-25"
+    },
+    "grossProfit": {
+      "value": 8150720,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-25"
+    },
+    "operatingIncome": {
+      "value": -8774448,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "netIncome": {
+      "value": -8771987,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsBasic": {
+      "value": -36.24,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsDiluted": {
+      "value": -36.24,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentAssets": {
+      "value": 4936707,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalAssets": {
+      "value": 5095941,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": {
+      "value": 918400,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalLiabilities": {
+      "value": 3995973,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 4177541,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": -8141543,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "capex": {
+      "value": 5180,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:14.509Z"
+}

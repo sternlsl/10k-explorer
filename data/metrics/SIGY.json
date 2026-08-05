@@ -1,0 +1,93 @@
+{
+  "ticker": "SIGY",
+  "name": "Sigyn Therapeutics, Inc.",
+  "cik": 1642159,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 143322,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-30"
+    },
+    "cogs": {
+      "value": 35665,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-30"
+    },
+    "grossProfit": {
+      "value": 107657,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-30"
+    },
+    "operatingIncome": {
+      "value": -2519242,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "netIncome": {
+      "value": -3340212,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "epsBasic": {
+      "value": -2.51,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "epsDiluted": {
+      "value": -2.51,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "currentAssets": {
+      "value": 21244,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "totalAssets": {
+      "value": 213719,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "currentLiabilities": {
+      "value": 4614987,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "totalLiabilities": {
+      "value": 4671343,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -4457624,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -872436,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "capex": {
+      "value": 860,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-02-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:26.739Z"
+}

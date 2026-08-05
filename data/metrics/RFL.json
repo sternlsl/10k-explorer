@@ -1,0 +1,88 @@
+{
+  "ticker": "RFL",
+  "name": "Rafael Holdings, Inc.",
+  "cik": 1713863,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 30000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "cogs": {
+      "value": 154000,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2024-11-07"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -29159000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "netIncome": {
+      "value": -30520000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "epsBasic": {
+      "value": -1.04,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "epsDiluted": {
+      "value": -1.04,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "currentAssets": {
+      "value": 56714000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "totalAssets": {
+      "value": 114109000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "currentLiabilities": {
+      "value": 11600000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "totalLiabilities": {
+      "value": 15738000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "shareholdersEquity": {
+      "value": 94391000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "operatingCashFlow": {
+      "value": -18924000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "capex": {
+      "value": 4000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:44.035Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "AERGP",
+  "name": "APPLIED ENERGETICS, INC.",
+  "cik": 879911,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 461727,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "cogs": {
+      "value": 153630,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-03-31"
+    },
+    "grossProfit": {
+      "value": 249107,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "operatingIncome": {
+      "value": -14930251,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "netIncome": {
+      "value": -14872730,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsBasic": {
+      "value": -0.07,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsDiluted": {
+      "value": -0.07,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "currentAssets": {
+      "value": 6969464,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "totalAssets": {
+      "value": 9064658,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "currentLiabilities": {
+      "value": 840346,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "totalLiabilities": {
+      "value": 1504888,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "shareholdersEquity": {
+      "value": 7559770,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "operatingCashFlow": {
+      "value": -9237951,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "capex": {
+      "value": 1234734,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:13.961Z"
+}

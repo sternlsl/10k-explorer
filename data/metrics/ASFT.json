@@ -1,0 +1,78 @@
+{
+  "ticker": "ASFT",
+  "name": "Appsoft Technologies, Inc.",
+  "cik": 1651992,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -93643,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-27"
+    },
+    "netIncome": {
+      "value": -93642,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-27"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-27"
+    },
+    "currentAssets": {
+      "value": 7,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-27"
+    },
+    "totalAssets": {
+      "value": 7,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-27"
+    },
+    "currentLiabilities": {
+      "value": 45741,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-27"
+    },
+    "totalLiabilities": {
+      "value": 572284,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-27"
+    },
+    "shareholdersEquity": {
+      "value": -572277,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-27"
+    },
+    "operatingCashFlow": {
+      "value": -84094,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-27"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:06.030Z"
+}

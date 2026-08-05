@@ -1,0 +1,93 @@
+{
+  "ticker": "MGTI",
+  "name": "MGT CAPITAL INVESTMENTS, INC.",
+  "cik": 1001601,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 87000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "cogs": {
+      "value": 104000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-01"
+    },
+    "grossProfit": {
+      "value": 1632000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-02"
+    },
+    "operatingIncome": {
+      "value": -797000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "netIncome": {
+      "value": -219000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "currentAssets": {
+      "value": 106000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "totalAssets": {
+      "value": 106000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "currentLiabilities": {
+      "value": 1211000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "totalLiabilities": {
+      "value": 2387000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "shareholdersEquity": {
+      "value": -2281000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "operatingCashFlow": {
+      "value": -991000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "capex": {
+      "value": 1350000,
+      "year": 2025,
+      "periodEnd": "2025-05-13",
+      "filed": "2026-03-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:04.208Z"
+}

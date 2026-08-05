@@ -1,0 +1,88 @@
+{
+  "ticker": "EDUC",
+  "name": "EDUCATIONAL DEVELOPMENT CORP",
+  "cik": 31667,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 22913600,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-19"
+    },
+    "cogs": {
+      "value": 9309300,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-19"
+    },
+    "grossProfit": {
+      "value": 13604300,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-19"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 2325200,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-19"
+    },
+    "epsBasic": {
+      "value": 0.27,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-19"
+    },
+    "epsDiluted": {
+      "value": 0.27,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-19"
+    },
+    "currentAssets": {
+      "value": 20552100,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-19"
+    },
+    "totalAssets": {
+      "value": 54311600,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-19"
+    },
+    "currentLiabilities": {
+      "value": 6171500,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-19"
+    },
+    "totalLiabilities": {
+      "value": 11521100,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-19"
+    },
+    "shareholdersEquity": {
+      "value": 42790500,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-19"
+    },
+    "operatingCashFlow": {
+      "value": 2005300,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-19"
+    },
+    "capex": {
+      "value": 542800,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-19"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:39.397Z"
+}

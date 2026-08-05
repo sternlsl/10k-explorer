@@ -1,0 +1,73 @@
+{
+  "ticker": "SNFCA",
+  "name": "SECURITY NATIONAL FINANCIAL CORP",
+  "cik": 318673,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 344587538,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "cogs": {
+      "value": 4660090,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 32152330,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "epsBasic": {
+      "value": 1.3,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "epsDiluted": {
+      "value": 1.26,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1561844604,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1151475876,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "shareholdersEquity": {
+      "value": 410368728,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "operatingCashFlow": {
+      "value": 45539897,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "capex": {
+      "value": 1691272,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:38.415Z"
+}

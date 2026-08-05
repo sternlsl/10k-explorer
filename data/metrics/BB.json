@@ -1,0 +1,93 @@
+{
+  "ticker": "BB",
+  "name": "BLACKBERRY Ltd",
+  "cik": 1070235,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 549100000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-09"
+    },
+    "cogs": {
+      "value": 130900000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-09"
+    },
+    "grossProfit": {
+      "value": 418200000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-09"
+    },
+    "operatingIncome": {
+      "value": 48300000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-09"
+    },
+    "netIncome": {
+      "value": 53200000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-09"
+    },
+    "epsBasic": {
+      "value": 0.09,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-09"
+    },
+    "epsDiluted": {
+      "value": 0.09,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-09"
+    },
+    "currentAssets": {
+      "value": 568200000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-09"
+    },
+    "totalAssets": {
+      "value": 1245200000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-09"
+    },
+    "currentLiabilities": {
+      "value": 268100000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-09"
+    },
+    "totalLiabilities": {
+      "value": 499200000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-09"
+    },
+    "shareholdersEquity": {
+      "value": 746000000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-09"
+    },
+    "operatingCashFlow": {
+      "value": 50300000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-09"
+    },
+    "capex": {
+      "value": 3800000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-09"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:45.127Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "GETY",
+  "name": "Getty Images Holdings, Inc.",
+  "cik": 1898496,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 981290000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "cogs": {
+      "value": 261315000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 83916000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "netIncome": null,
+    "epsBasic": {
+      "value": -0.5,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "epsDiluted": {
+      "value": -0.5,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentAssets": {
+      "value": 1011383000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "totalAssets": {
+      "value": 3240288000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentLiabilities": {
+      "value": 1307993000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "totalLiabilities": {
+      "value": 2639662000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "shareholdersEquity": {
+      "value": 552542000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "operatingCashFlow": {
+      "value": 65190000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "capex": {
+      "value": 59518000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:01.807Z"
+}

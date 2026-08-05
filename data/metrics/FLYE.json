@@ -1,0 +1,93 @@
+{
+  "ticker": "FLYE",
+  "name": "Fly-E Group, Inc.",
+  "cik": 1975940,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 19063357,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-23"
+    },
+    "cogs": {
+      "value": 1500000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-23"
+    },
+    "grossProfit": {
+      "value": 4659074,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-23"
+    },
+    "operatingIncome": {
+      "value": -6438269,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-23"
+    },
+    "netIncome": {
+      "value": -9257808,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-23"
+    },
+    "epsBasic": {
+      "value": -8.38,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-23"
+    },
+    "epsDiluted": {
+      "value": -8.38,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-23"
+    },
+    "currentAssets": {
+      "value": 16810498,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-23"
+    },
+    "totalAssets": {
+      "value": 29493092,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-23"
+    },
+    "currentLiabilities": {
+      "value": 6802921,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-23"
+    },
+    "totalLiabilities": {
+      "value": 12050688,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-23"
+    },
+    "shareholdersEquity": {
+      "value": 17442404,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-23"
+    },
+    "operatingCashFlow": {
+      "value": -13849914,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-23"
+    },
+    "capex": {
+      "value": 74609,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-23"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:46.648Z"
+}

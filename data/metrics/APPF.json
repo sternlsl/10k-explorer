@@ -1,0 +1,88 @@
+{
+  "ticker": "APPF",
+  "name": "APPFOLIO INC",
+  "cik": 1433195,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 950822000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "cogs": {
+      "value": 143944000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-28"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 152917000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "netIncome": {
+      "value": 140923000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "epsBasic": {
+      "value": 3.91,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "epsDiluted": {
+      "value": 3.88,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "currentAssets": {
+      "value": 353314000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "totalAssets": {
+      "value": 688967000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "currentLiabilities": {
+      "value": 106847000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "totalLiabilities": {
+      "value": 146388000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "shareholdersEquity": {
+      "value": 542579000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "operatingCashFlow": {
+      "value": 242105000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "capex": {
+      "value": 3155000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:44.562Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "GGG",
+  "name": "GRACO INC",
+  "cik": 42888,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2236604000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-17"
+    },
+    "cogs": {
+      "value": 1063421000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-17"
+    },
+    "grossProfit": {
+      "value": 1173183000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-17"
+    },
+    "operatingIncome": {
+      "value": 624797000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-17"
+    },
+    "netIncome": {
+      "value": 521839000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-17"
+    },
+    "epsBasic": {
+      "value": 3.14,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-17"
+    },
+    "epsDiluted": {
+      "value": 3.08,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-17"
+    },
+    "currentAssets": {
+      "value": 1471881000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-17"
+    },
+    "totalAssets": {
+      "value": 3274270000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-17"
+    },
+    "currentLiabilities": {
+      "value": 467261000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-17"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 2653931000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-17"
+    },
+    "operatingCashFlow": {
+      "value": 683591000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-17"
+    },
+    "capex": {
+      "value": 45669000,
+      "year": 2025,
+      "periodEnd": "2025-12-26",
+      "filed": "2026-02-17"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:48.087Z"
+}

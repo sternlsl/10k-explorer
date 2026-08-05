@@ -1,0 +1,83 @@
+{
+  "ticker": "AIRT",
+  "name": "AIR T INC",
+  "cik": 353184,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 327090000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -11197000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "netIncome": {
+      "value": 77983000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "epsBasic": {
+      "value": 28.85,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "epsDiluted": {
+      "value": 28.85,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "currentAssets": {
+      "value": 159976000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "totalAssets": {
+      "value": 409123000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "currentLiabilities": {
+      "value": 95524000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "totalLiabilities": {
+      "value": 317902000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "shareholdersEquity": {
+      "value": 79810000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "operatingCashFlow": {
+      "value": -25044000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "capex": {
+      "value": 16483000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:53.325Z"
+}

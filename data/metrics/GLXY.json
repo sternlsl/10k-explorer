@@ -1,0 +1,63 @@
+{
+  "ticker": "GLXY",
+  "name": "Galaxy Digital Inc.",
+  "cik": 1859392,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 60243860000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -241349000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 8515938000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalAssets": {
+      "value": 11348081000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentLiabilities": {
+      "value": 5311518000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalLiabilities": {
+      "value": 8313304000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "shareholdersEquity": {
+      "value": 1955735000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "operatingCashFlow": {
+      "value": -316636000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:54:57.818Z"
+}

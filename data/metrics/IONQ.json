@@ -1,0 +1,83 @@
+{
+  "ticker": "IONQ",
+  "name": "IonQ, Inc.",
+  "cik": 1824920,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 130016000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -633715000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "netIncome": {
+      "value": -510378000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsBasic": {
+      "value": -1.82,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": -1.82,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentAssets": {
+      "value": 2586439000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "totalAssets": {
+      "value": 6570358000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": {
+      "value": 166825000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "totalLiabilities": {
+      "value": 2756666000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "shareholdersEquity": {
+      "value": 3799517000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": -283187000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "capex": {
+      "value": 16417000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:32.607Z"
+}

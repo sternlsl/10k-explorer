@@ -1,0 +1,88 @@
+{
+  "ticker": "ACDC",
+  "name": "ProFrac Holding Corp.",
+  "cik": 1881487,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1941800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "cogs": {
+      "value": 2425600000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-30"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -225800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "netIncome": {
+      "value": -369000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "epsBasic": {
+      "value": -2.22,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "epsDiluted": {
+      "value": -2.22,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "currentAssets": {
+      "value": 483500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "totalAssets": {
+      "value": 2573100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "currentLiabilities": {
+      "value": 597400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "totalLiabilities": {
+      "value": 1692400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "shareholdersEquity": {
+      "value": 717500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "operatingCashFlow": {
+      "value": 189500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "capex": {
+      "value": 169900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:15.161Z"
+}

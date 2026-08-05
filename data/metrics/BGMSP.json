@@ -1,0 +1,88 @@
+{
+  "ticker": "BGMSP",
+  "name": "Bio Green Med Solution, Inc.",
+  "cik": 1130166,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "cogs": {
+      "value": 360000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -8427000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "netIncome": {
+      "value": -2998000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsBasic": {
+      "value": -6.45,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsDiluted": {
+      "value": -6.45,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "currentAssets": {
+      "value": 6256000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "totalAssets": {
+      "value": 8185000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "currentLiabilities": {
+      "value": 1332000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "totalLiabilities": {
+      "value": 1343000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "shareholdersEquity": {
+      "value": 6842000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "operatingCashFlow": {
+      "value": -4770000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "capex": {
+      "value": 6000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-04-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:24.943Z"
+}

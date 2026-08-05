@@ -1,0 +1,78 @@
+{
+  "ticker": "THMG",
+  "name": "THUNDER MOUNTAIN GOLD INC",
+  "cik": 711034,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 300000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -2826781,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": -2829759,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": -0.03,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": -0.03,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 2698225,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 3290870,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 1450781,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 1705061,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 1416170,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -1609019,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:31.522Z"
+}

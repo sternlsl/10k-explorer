@@ -1,0 +1,58 @@
+{
+  "ticker": "HG",
+  "name": "Hamilton Insurance Group, Ltd.",
+  "cik": 1593275,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2905524000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "epsBasic": {
+      "value": 5.75,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": 5.55,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 9571613000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 6749342000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "shareholdersEquity": {
+      "value": 2822099000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 842350000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:56:55.210Z"
+}

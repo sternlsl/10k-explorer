@@ -1,0 +1,88 @@
+{
+  "ticker": "PSMT",
+  "name": "PRICESMART INC",
+  "cik": 1041803,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5270094000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-30"
+    },
+    "cogs": {
+      "value": 4355722000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-30"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 232510000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-30"
+    },
+    "netIncome": {
+      "value": 147887000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-30"
+    },
+    "epsBasic": {
+      "value": 4.82,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-30"
+    },
+    "epsDiluted": {
+      "value": 4.82,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-30"
+    },
+    "currentAssets": {
+      "value": 974460000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-30"
+    },
+    "totalAssets": {
+      "value": 2269157000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-30"
+    },
+    "currentLiabilities": {
+      "value": 726271000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-30"
+    },
+    "totalLiabilities": {
+      "value": 1021785000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-30"
+    },
+    "shareholdersEquity": {
+      "value": 1247372000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-30"
+    },
+    "operatingCashFlow": {
+      "value": 261307000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-30"
+    },
+    "capex": {
+      "value": 158134000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-10-30"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:09.313Z"
+}

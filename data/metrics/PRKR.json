@@ -1,0 +1,88 @@
+{
+  "ticker": "PRKR",
+  "name": "PARKERVISION INC",
+  "cik": 914139,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "cogs": {
+      "value": 10000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-04-14"
+    },
+    "grossProfit": {
+      "value": -199000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -7426000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "epsBasic": {
+      "value": -0.06,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "epsDiluted": {
+      "value": -0.16,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-24"
+    },
+    "currentAssets": {
+      "value": 4664000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "totalAssets": {
+      "value": 5359000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "currentLiabilities": {
+      "value": 2409000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "totalLiabilities": {
+      "value": 50463000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "shareholdersEquity": {
+      "value": -45104000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "operatingCashFlow": {
+      "value": -5143000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "capex": {
+      "value": 2000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:40.158Z"
+}

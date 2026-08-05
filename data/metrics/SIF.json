@@ -1,0 +1,83 @@
+{
+  "ticker": "SIF",
+  "name": "SIFCO INDUSTRIES INC",
+  "cik": 90168,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 84815000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "cogs": {
+      "value": 74230000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "grossProfit": {
+      "value": 10585000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "operatingIncome": {
+      "value": 180000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "netIncome": {
+      "value": -729000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "epsBasic": {
+      "value": -0.12,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "epsDiluted": {
+      "value": -0.12,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "currentAssets": {
+      "value": 35091000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "totalAssets": {
+      "value": 73394000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "currentLiabilities": {
+      "value": 22240000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 36885000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-22"
+    },
+    "operatingCashFlow": {
+      "value": -1363000,
+      "year": 2023,
+      "periodEnd": "2023-09-30",
+      "filed": "2024-01-02"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:05.493Z"
+}

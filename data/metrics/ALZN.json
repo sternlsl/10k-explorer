@@ -1,0 +1,73 @@
+{
+  "ticker": "ALZN",
+  "name": "Alzamend Neuro, Inc.",
+  "cik": 1677077,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -8766841,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "netIncome": {
+      "value": -8772382,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "epsBasic": {
+      "value": -2.63,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "epsDiluted": {
+      "value": -2.63,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "currentAssets": {
+      "value": 1764497,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "totalAssets": {
+      "value": 2079363,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "currentLiabilities": {
+      "value": 2870122,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-07-27"
+    },
+    "totalLiabilities": {
+      "value": 1346152,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "shareholdersEquity": {
+      "value": 733211,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "operatingCashFlow": {
+      "value": -8067813,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:38.151Z"
+}

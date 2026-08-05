@@ -1,0 +1,83 @@
+{
+  "ticker": "IRWD",
+  "name": "IRONWOOD PHARMACEUTICALS INC",
+  "cik": 1446847,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 296151000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "cogs": {
+      "value": 3136000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2023-02-16"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 98502000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "netIncome": {
+      "value": 24017000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsBasic": {
+      "value": 0.15,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsDiluted": {
+      "value": 0.15,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentAssets": {
+      "value": 274178000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalAssets": {
+      "value": 396901000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentLiabilities": {
+      "value": 242218000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -261835000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "operatingCashFlow": {
+      "value": 127044000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "capex": {
+      "value": 34000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:13.683Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "URBN",
+  "name": "URBAN OUTFITTERS INC",
+  "cik": 912615,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 6165376000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "cogs": {
+      "value": 2148147000,
+      "year": 2015,
+      "periodEnd": "2015-01-31",
+      "filed": "2015-04-01"
+    },
+    "grossProfit": {
+      "value": 2217753000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "operatingIncome": {
+      "value": 605634000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "netIncome": {
+      "value": 464919000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "epsBasic": {
+      "value": 5.15,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "epsDiluted": {
+      "value": 5.06,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "currentAssets": {
+      "value": 1686104000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "totalAssets": {
+      "value": 5007613000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "currentLiabilities": {
+      "value": 1118094000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "totalLiabilities": {
+      "value": 2192326000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "shareholdersEquity": {
+      "value": 2815287000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "operatingCashFlow": {
+      "value": 575190000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "capex": {
+      "value": 260168000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:45.398Z"
+}

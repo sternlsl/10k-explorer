@@ -1,0 +1,63 @@
+{
+  "ticker": "TWLVU",
+  "name": "Twelve Seas Investment Co III/Cayman",
+  "cik": 2052243,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -229278,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": 37028,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 802765,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 173639696,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 173390,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 7073390,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -6200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -252205,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:43.484Z"
+}

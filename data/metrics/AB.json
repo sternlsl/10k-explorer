@@ -1,0 +1,43 @@
+{
+  "ticker": "AB",
+  "name": "ALLIANCEBERNSTEIN HOLDING L.P.",
+  "cik": 825313,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 299836000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1240042000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1664000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 352372000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:56:35.787Z"
+}

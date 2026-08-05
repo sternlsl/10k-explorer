@@ -1,0 +1,78 @@
+{
+  "ticker": "WAY",
+  "name": "Waystar Holding Corp.",
+  "cik": 1990354,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1099278000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 249305000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "netIncome": {
+      "value": 112089000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsBasic": {
+      "value": 0.63,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsDiluted": {
+      "value": 0.61,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentAssets": {
+      "value": 308412000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "totalAssets": {
+      "value": 5785100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentLiabilities": {
+      "value": 218063000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "totalLiabilities": {
+      "value": 1906274000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "shareholdersEquity": {
+      "value": 3878826000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "operatingCashFlow": {
+      "value": 309673000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:56:26.114Z"
+}

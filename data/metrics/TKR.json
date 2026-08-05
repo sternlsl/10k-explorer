@@ -1,0 +1,93 @@
+{
+  "ticker": "TKR",
+  "name": "TIMKEN CO",
+  "cik": 98362,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4581800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "cogs": {
+      "value": 3188500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "grossProfit": {
+      "value": 1288100000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-16"
+    },
+    "operatingIncome": {
+      "value": 540600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "netIncome": {
+      "value": 288400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsBasic": {
+      "value": 4.13,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsDiluted": {
+      "value": 4.11,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentAssets": {
+      "value": 2600800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "totalAssets": {
+      "value": 6676800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentLiabilities": {
+      "value": 922100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "totalLiabilities": {
+      "value": 2902000000,
+      "year": 2019,
+      "periodEnd": "2019-01-01",
+      "filed": "2020-02-14"
+    },
+    "shareholdersEquity": {
+      "value": 3184600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "operatingCashFlow": {
+      "value": 554300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "capex": {
+      "value": 178400000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-16"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:30.142Z"
+}

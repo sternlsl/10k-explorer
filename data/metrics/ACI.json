@@ -1,0 +1,88 @@
+{
+  "ticker": "ACI",
+  "name": "Albertsons Companies, Inc.",
+  "cik": 1646972,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 83172500000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-27"
+    },
+    "cogs": {
+      "value": 60565800000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-27"
+    },
+    "grossProfit": {
+      "value": 22606700000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-27"
+    },
+    "operatingIncome": {
+      "value": 727600000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-27"
+    },
+    "netIncome": {
+      "value": 217400000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-27"
+    },
+    "epsBasic": {
+      "value": 0.4,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-27"
+    },
+    "epsDiluted": {
+      "value": 0.4,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-27"
+    },
+    "currentAssets": {
+      "value": 6715700000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-27"
+    },
+    "totalAssets": {
+      "value": 26765900000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-27"
+    },
+    "currentLiabilities": {
+      "value": 7824000000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-27"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1836200000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-27"
+    },
+    "operatingCashFlow": {
+      "value": 2366700000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-27"
+    },
+    "capex": {
+      "value": 1643200000,
+      "year": 2021,
+      "periodEnd": "2021-02-27",
+      "filed": "2021-04-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:24.973Z"
+}

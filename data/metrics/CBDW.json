@@ -1,0 +1,83 @@
+{
+  "ticker": "CBDW",
+  "name": "1606 CORP.",
+  "cik": 1877461,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingIncome": {
+      "value": -485738,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "netIncome": {
+      "value": -1295041,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentAssets": {
+      "value": 16058,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalAssets": {
+      "value": 16058,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": {
+      "value": 3238370,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalLiabilities": {
+      "value": 3238370,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "shareholdersEquity": {
+      "value": -3222312,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": -460779,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:15.409Z"
+}

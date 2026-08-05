@@ -1,0 +1,93 @@
+{
+  "ticker": "RGS",
+  "name": "REGIS CORP",
+  "cik": 716643,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1069039000,
+      "year": 2019,
+      "periodEnd": "2019-06-30",
+      "filed": "2019-08-27"
+    },
+    "cogs": {
+      "value": 249655000,
+      "year": 2012,
+      "periodEnd": "2012-06-30",
+      "filed": "2012-08-29"
+    },
+    "grossProfit": {
+      "value": 998361000,
+      "year": 2012,
+      "periodEnd": "2012-06-30",
+      "filed": "2012-08-29"
+    },
+    "operatingIncome": {
+      "value": 19939000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-03"
+    },
+    "netIncome": {
+      "value": 123536000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-03"
+    },
+    "epsBasic": {
+      "value": 52.26,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-03"
+    },
+    "epsDiluted": {
+      "value": 46.1,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-03"
+    },
+    "currentAssets": {
+      "value": 50484000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-03"
+    },
+    "totalAssets": {
+      "value": 598957000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-03"
+    },
+    "currentLiabilities": {
+      "value": 101688000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-03"
+    },
+    "totalLiabilities": {
+      "value": 413341000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-03"
+    },
+    "shareholdersEquity": {
+      "value": 185616000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-03"
+    },
+    "operatingCashFlow": {
+      "value": 13744000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-03"
+    },
+    "capex": {
+      "value": 1295000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:43.057Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "LINE",
+  "name": "Lineage, Inc.",
+  "cik": 1868159,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5340000000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-26"
+    },
+    "cogs": {
+      "value": 3634000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 181000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "netIncome": {
+      "value": -100000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsBasic": {
+      "value": -0.43,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": -0.43,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentAssets": {
+      "value": 1239000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "totalAssets": {
+      "value": 19185000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": {
+      "value": 1548000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "totalLiabilities": {
+      "value": 9942000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "shareholdersEquity": {
+      "value": 8246000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 943000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "capex": {
+      "value": 747000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:17.947Z"
+}

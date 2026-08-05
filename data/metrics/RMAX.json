@@ -1,0 +1,83 @@
+{
+  "ticker": "RMAX",
+  "name": "RE/MAX Holdings, Inc.",
+  "cik": 1581091,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 291601000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 47043000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "netIncome": {
+      "value": 8153000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "epsBasic": {
+      "value": 0.6,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-25"
+    },
+    "epsDiluted": {
+      "value": 0.6,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-25"
+    },
+    "currentAssets": {
+      "value": 240140000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "totalAssets": {
+      "value": 582475000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "currentLiabilities": {
+      "value": 141768000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "totalLiabilities": {
+      "value": 611463000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "shareholdersEquity": {
+      "value": 452413000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "operatingCashFlow": {
+      "value": 40878000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "capex": {
+      "value": 2026000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-03-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:45.487Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "TRNS",
+  "name": "TRANSCAT INC",
+  "cik": 99302,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 331877000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "cogs": {
+      "value": 223573000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "grossProfit": {
+      "value": 108304000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "operatingIncome": {
+      "value": 13263000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "netIncome": {
+      "value": 5376000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "epsBasic": {
+      "value": 0.58,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "epsDiluted": {
+      "value": 0.57,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "currentAssets": {
+      "value": 92462000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "totalAssets": {
+      "value": 480487000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "currentLiabilities": {
+      "value": 39628000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "totalLiabilities": {
+      "value": 179868000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "shareholdersEquity": {
+      "value": 300619000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "operatingCashFlow": {
+      "value": 34850000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "capex": {
+      "value": 15298000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:28.796Z"
+}

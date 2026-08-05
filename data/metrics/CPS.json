@@ -1,0 +1,88 @@
+{
+  "ticker": "CPS",
+  "name": "Cooper-Standard Holdings Inc.",
+  "cik": 1320461,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-16"
+    },
+    "cogs": {
+      "value": 2413391000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "grossProfit": {
+      "value": 327524000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "operatingIncome": {
+      "value": 86602000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "netIncome": {
+      "value": -4165000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsBasic": {
+      "value": -0.23,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsDiluted": {
+      "value": -0.23,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentAssets": {
+      "value": 881100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "totalAssets": {
+      "value": 1833174000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentLiabilities": {
+      "value": 678397000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "totalLiabilities": {
+      "value": 1924751000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "shareholdersEquity": {
+      "value": -83488000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "operatingCashFlow": {
+      "value": 64442000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:59:55.433Z"
+}

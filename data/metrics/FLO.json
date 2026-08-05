@@ -1,0 +1,83 @@
+{
+  "ticker": "FLO",
+  "name": "FLOWERS FOODS INC",
+  "cik": 1128928,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 5256479000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-25"
+    },
+    "cogs": {
+      "value": 1346790000,
+      "year": 2011,
+      "periodEnd": "2011-01-01",
+      "filed": "2011-02-23"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 173981000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-25"
+    },
+    "netIncome": {
+      "value": 83825000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-25"
+    },
+    "epsBasic": {
+      "value": 0.4,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": 0.4,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-25"
+    },
+    "currentAssets": {
+      "value": 729094000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-25"
+    },
+    "totalAssets": {
+      "value": 4183861000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": {
+      "value": 976157000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-25"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1303487000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 446203000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-25"
+    },
+    "capex": {
+      "value": 127113000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:46.571Z"
+}

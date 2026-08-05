@@ -1,0 +1,93 @@
+{
+  "ticker": "GCO",
+  "name": "GENESCO INC",
+  "cik": 18498,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 2436096000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "cogs": {
+      "value": 1309246000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "grossProfit": {
+      "value": 1126850000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "operatingIncome": {
+      "value": 17314000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "netIncome": {
+      "value": 13269000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "epsBasic": {
+      "value": 1.28,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "epsDiluted": {
+      "value": 1.25,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "currentAssets": {
+      "value": 618516000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "totalAssets": {
+      "value": 1392978000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "currentLiabilities": {
+      "value": 376342000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "totalLiabilities": {
+      "value": 825934000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "shareholdersEquity": {
+      "value": 567044000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "operatingCashFlow": {
+      "value": 145760000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "capex": {
+      "value": 62054000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:43.683Z"
+}

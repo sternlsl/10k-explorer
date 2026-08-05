@@ -1,0 +1,73 @@
+{
+  "ticker": "OTTR",
+  "name": "Otter Tail Corp",
+  "cik": 1466593,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1304058000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 345682000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "netIncome": {
+      "value": 275893000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "epsBasic": {
+      "value": 6.59,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "epsDiluted": {
+      "value": 6.55,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "currentAssets": {
+      "value": 799725000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "totalAssets": {
+      "value": 3964279000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "currentLiabilities": {
+      "value": 350958000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1861760000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "operatingCashFlow": {
+      "value": 385985000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:56:31.654Z"
+}

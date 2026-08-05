@@ -1,0 +1,88 @@
+{
+  "ticker": "YUMC",
+  "name": "Yum China Holdings, Inc.",
+  "cik": 1673358,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 11797000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 5829000000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-27"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1290000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": 929000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": 2.52,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": 2.51,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": {
+      "value": 2357000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 10783000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 2246000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": {
+      "value": 4684000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 5379000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 1466000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 626000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:32.255Z"
+}

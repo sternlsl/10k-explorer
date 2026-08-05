@@ -1,0 +1,93 @@
+{
+  "ticker": "VBIO",
+  "name": "Valion Bio, Inc.",
+  "cik": 1787740,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 780000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-21"
+    },
+    "cogs": {
+      "value": 778000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-21"
+    },
+    "grossProfit": {
+      "value": 2000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-21"
+    },
+    "operatingIncome": {
+      "value": -7898000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "netIncome": {
+      "value": -8878000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsBasic": {
+      "value": -7.84,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsDiluted": {
+      "value": -19.68,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-21"
+    },
+    "currentAssets": {
+      "value": 13006000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "totalAssets": {
+      "value": 31607000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "currentLiabilities": {
+      "value": 646000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "totalLiabilities": {
+      "value": 7440000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "shareholdersEquity": {
+      "value": 16797000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "operatingCashFlow": {
+      "value": -6999000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "capex": {
+      "value": 38000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:49.271Z"
+}

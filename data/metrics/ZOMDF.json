@@ -1,0 +1,93 @@
+{
+  "ticker": "ZOMDF",
+  "name": "Zomedica Corp.",
+  "cik": 1684144,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 32030000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "cogs": {
+      "value": 10351000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "grossProfit": {
+      "value": 21679000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "operatingIncome": {
+      "value": -84353000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "netIncome": {
+      "value": -81858000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "epsBasic": {
+      "value": -0.08,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "epsDiluted": {
+      "value": -0.08,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentAssets": {
+      "value": 64043000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "totalAssets": {
+      "value": 127039000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentLiabilities": {
+      "value": 9449000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "totalLiabilities": {
+      "value": 11642000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "shareholdersEquity": {
+      "value": 115397000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "operatingCashFlow": {
+      "value": -17649000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "capex": {
+      "value": 567000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:11.974Z"
+}

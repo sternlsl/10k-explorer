@@ -1,0 +1,88 @@
+{
+  "ticker": "NKTR",
+  "name": "NEKTAR THERAPEUTICS",
+  "cik": 906709,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 55232000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -140102000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "netIncome": {
+      "value": -164076000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "epsBasic": {
+      "value": -9.73,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "epsDiluted": {
+      "value": -9.73,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "currentAssets": {
+      "value": 266266000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "totalAssets": {
+      "value": 280406000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "currentLiabilities": {
+      "value": 53536000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "totalLiabilities": {
+      "value": 190574000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "shareholdersEquity": {
+      "value": 89832000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "operatingCashFlow": {
+      "value": -208511000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "capex": {
+      "value": 171000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:57.373Z"
+}

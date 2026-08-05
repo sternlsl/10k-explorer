@@ -1,0 +1,73 @@
+{
+  "ticker": "RPDL",
+  "name": "Rapid Line Inc.",
+  "cik": 1910975,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-13"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -145097,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-13"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-13"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-13"
+    },
+    "currentAssets": {
+      "value": 19134,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-13"
+    },
+    "totalAssets": {
+      "value": 43388,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-13"
+    },
+    "currentLiabilities": {
+      "value": 2694,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-13"
+    },
+    "totalLiabilities": {
+      "value": 111886,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-13"
+    },
+    "shareholdersEquity": {
+      "value": -68498,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-13"
+    },
+    "operatingCashFlow": {
+      "value": -146683,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-05-13"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:46.958Z"
+}

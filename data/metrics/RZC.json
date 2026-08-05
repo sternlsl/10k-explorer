@@ -1,0 +1,68 @@
+{
+  "ticker": "RZC",
+  "name": "REINSURANCE GROUP OF AMERICA INC",
+  "cik": 898174,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 23698000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 1182000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsBasic": {
+      "value": 17.94,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsDiluted": {
+      "value": 17.69,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 156590000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 143039000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "shareholdersEquity": {
+      "value": 13461000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "operatingCashFlow": {
+      "value": 4091000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "capex": {
+      "value": 25000000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-24"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:44.642Z"
+}

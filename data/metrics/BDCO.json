@@ -1,0 +1,93 @@
+{
+  "ticker": "BDCO",
+  "name": "BLUE DOLPHIN ENERGY CO",
+  "cik": 793306,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 279385000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "cogs": {
+      "value": 441433000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-03"
+    },
+    "grossProfit": {
+      "value": 44678000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "operatingIncome": {
+      "value": -1520000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": -5601000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": -0.38,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": -0.38,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 44166000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 99072000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 68568000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 71710000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 27362000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -766000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 13000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:56.186Z"
+}

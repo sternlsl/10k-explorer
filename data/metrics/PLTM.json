@@ -1,0 +1,48 @@
+{
+  "ticker": "PLTM",
+  "name": "GraniteShares Platinum Trust",
+  "cik": 1690842,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 20085000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-11"
+    },
+    "epsBasic": {
+      "value": 3.97,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-11"
+    },
+    "epsDiluted": {
+      "value": 3.97,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-11"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 88487000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-11"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 3281000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-11"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": null,
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:22.210Z"
+}

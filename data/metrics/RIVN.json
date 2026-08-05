@@ -1,0 +1,93 @@
+{
+  "ticker": "RIVN",
+  "name": "Rivian Automotive, Inc. / DE",
+  "cik": 1874178,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5387000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "cogs": {
+      "value": 5243000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "grossProfit": {
+      "value": 144000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "operatingIncome": {
+      "value": -3585000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "netIncome": {
+      "value": -3646000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "epsBasic": {
+      "value": -3.07,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "epsDiluted": {
+      "value": -3.07,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "currentAssets": {
+      "value": 8592000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "totalAssets": {
+      "value": 14864000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "currentLiabilities": {
+      "value": 3693000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "totalLiabilities": {
+      "value": 10270000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "shareholdersEquity": {
+      "value": 9141000000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-26"
+    },
+    "operatingCashFlow": {
+      "value": -779000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "capex": {
+      "value": 1710000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:25.433Z"
+}

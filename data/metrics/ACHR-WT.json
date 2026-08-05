@@ -1,0 +1,88 @@
+{
+  "ticker": "ACHR-WT",
+  "name": "Archer Aviation Inc.",
+  "cik": 1824502,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "cogs": {
+      "value": 200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -729300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "netIncome": {
+      "value": -618200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": -0.99,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsDiluted": {
+      "value": -0.99,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentAssets": {
+      "value": 2076100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "totalAssets": {
+      "value": 2465900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": {
+      "value": 104400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "totalLiabilities": {
+      "value": 263100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "shareholdersEquity": {
+      "value": 2202800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "operatingCashFlow": {
+      "value": -432900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "capex": {
+      "value": 78800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:18.381Z"
+}

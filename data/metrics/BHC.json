@@ -1,0 +1,88 @@
+{
+  "ticker": "BHC",
+  "name": "Bausch Health Companies Inc.",
+  "cik": 885590,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 10266000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "cogs": {
+      "value": 2506000000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-28"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1813000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "netIncome": {
+      "value": 157000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "epsBasic": {
+      "value": 0.42,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "epsDiluted": {
+      "value": 0.42,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "currentAssets": {
+      "value": 6157000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "totalAssets": {
+      "value": 26366000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "currentLiabilities": {
+      "value": 4180000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "totalLiabilities": {
+      "value": 25989000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "shareholdersEquity": {
+      "value": -554000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "operatingCashFlow": {
+      "value": 1400000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "capex": {
+      "value": 397000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:30.382Z"
+}

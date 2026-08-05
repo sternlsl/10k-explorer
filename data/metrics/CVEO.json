@@ -1,0 +1,93 @@
+{
+  "ticker": "CVEO",
+  "name": "Civeo Corp",
+  "cik": 1590584,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 638849000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "cogs": {
+      "value": 487761000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "grossProfit": {
+      "value": 151088000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "operatingIncome": {
+      "value": 4115000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "netIncome": {
+      "value": -20071000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "epsBasic": {
+      "value": -1.59,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "epsDiluted": {
+      "value": -1.59,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "currentAssets": {
+      "value": 131213000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalAssets": {
+      "value": 477411000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "currentLiabilities": {
+      "value": 84936000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalLiabilities": {
+      "value": 303027000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "shareholdersEquity": {
+      "value": 174384000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "operatingCashFlow": {
+      "value": 22337000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "capex": {
+      "value": 20190000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:54.756Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "KSCP",
+  "name": "Knightscope, Inc.",
+  "cik": 1600983,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 11335000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "cogs": {
+      "value": 16110000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "grossProfit": {
+      "value": -4775000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingIncome": {
+      "value": -33891000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "netIncome": {
+      "value": -33815000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsBasic": {
+      "value": -4,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsDiluted": {
+      "value": -4,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentAssets": {
+      "value": 26371000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalAssets": {
+      "value": 41258000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": {
+      "value": 6606000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalLiabilities": {
+      "value": 13492000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "shareholdersEquity": {
+      "value": 27766000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": -30345000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "capex": {
+      "value": 654000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:00.791Z"
+}

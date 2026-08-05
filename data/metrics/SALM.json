@@ -1,0 +1,83 @@
+{
+  "ticker": "SALM",
+  "name": "SALEM MEDIA GROUP, INC. /DE/",
+  "cik": 1050606,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 266966000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-13"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 5152000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-13"
+    },
+    "netIncome": {
+      "value": -3236000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-13"
+    },
+    "epsBasic": {
+      "value": -0.12,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-13"
+    },
+    "epsDiluted": {
+      "value": -0.12,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-13"
+    },
+    "currentAssets": {
+      "value": 45057000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-13"
+    },
+    "totalAssets": {
+      "value": 505122000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-13"
+    },
+    "currentLiabilities": {
+      "value": 64610000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-13"
+    },
+    "totalLiabilities": {
+      "value": 329765000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-13"
+    },
+    "shareholdersEquity": {
+      "value": 175357000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-13"
+    },
+    "operatingCashFlow": {
+      "value": 7742000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-13"
+    },
+    "capex": {
+      "value": 10074000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-03-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:04.986Z"
+}

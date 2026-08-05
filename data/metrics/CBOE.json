@@ -2,68 +2,92 @@
   "ticker": "CBOE",
   "name": "Cboe Global Markets, Inc.",
   "cik": 1374310,
-  "fiscalYear": 2017,
+  "fiscalYear": 2025,
   "metrics": {
     "revenue": {
       "value": 2229100000,
       "year": 2017,
-      "periodEnd": "2017-12-31"
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-22"
     },
     "cogs": {
       "value": 2285100000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
     },
     "grossProfit": {
       "value": 2429100000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
     },
     "operatingIncome": {
       "value": 1467100000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
     },
     "netIncome": {
       "value": 1100000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsBasic": {
+      "value": 10.46,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsDiluted": {
+      "value": 10.42,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
     },
     "currentAssets": {
       "value": 4421400000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
     },
     "totalAssets": {
       "value": 9305300000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
     },
     "currentLiabilities": {
       "value": 2362300000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
     },
     "totalLiabilities": {
       "value": 4167000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
     },
     "shareholdersEquity": {
       "value": 5138300000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
     },
     "operatingCashFlow": {
       "value": 1752600000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
     },
     "capex": {
       "value": 71000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
     }
   },
-  "fetchedAt": "2026-05-08T18:44:13.320Z"
+  "updatedAt": "2026-08-05T16:53:58.865Z"
 }

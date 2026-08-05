@@ -1,0 +1,93 @@
+{
+  "ticker": "KUBR",
+  "name": "Kuber Resources Corp",
+  "cik": 1081834,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 2249288,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "cogs": {
+      "value": 199356,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "grossProfit": {
+      "value": 2049932,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "operatingIncome": {
+      "value": 1690756,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "netIncome": {
+      "value": 1217956,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "epsBasic": {
+      "value": 0.009,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "epsDiluted": {
+      "value": 0.004,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "currentAssets": {
+      "value": 3473299,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "totalAssets": {
+      "value": 5711371,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "currentLiabilities": {
+      "value": 1509185,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "totalLiabilities": {
+      "value": 1537393,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "shareholdersEquity": {
+      "value": 4173978,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "operatingCashFlow": {
+      "value": 201182,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "capex": {
+      "value": 14376,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:49.009Z"
+}

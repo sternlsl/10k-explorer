@@ -1,0 +1,93 @@
+{
+  "ticker": "TEVA",
+  "name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
+  "cik": 818686,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 17258000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
+    },
+    "cogs": {
+      "value": 8320000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
+    },
+    "grossProfit": {
+      "value": 8938000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
+    },
+    "operatingIncome": {
+      "value": 2157000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
+    },
+    "netIncome": {
+      "value": 1410000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
+    },
+    "epsBasic": {
+      "value": 1.23,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
+    },
+    "epsDiluted": {
+      "value": 1.21,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
+    },
+    "currentAssets": {
+      "value": 13946000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
+    },
+    "totalAssets": {
+      "value": 40748000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
+    },
+    "currentLiabilities": {
+      "value": 13456000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
+    },
+    "totalLiabilities": {
+      "value": 32834000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
+    },
+    "shareholdersEquity": {
+      "value": 7910000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
+    },
+    "operatingCashFlow": {
+      "value": 1649000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-03"
+    },
+    "capex": {
+      "value": 548000000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-10"
+    }
+  },
+  "updatedAt": "2026-08-05T16:53:52.700Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "JANL",
+  "name": "JANEL CORP",
+  "cik": 1133062,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 183823000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "cogs": {
+      "value": 142450000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "grossProfit": {
+      "value": 64993000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "operatingIncome": {
+      "value": 6434000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "netIncome": {
+      "value": 5657000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "epsBasic": {
+      "value": 4.24,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "epsDiluted": {
+      "value": 4.17,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "currentAssets": {
+      "value": 88831000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "totalAssets": {
+      "value": 170753000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "currentLiabilities": {
+      "value": 120661000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "totalLiabilities": {
+      "value": 144951000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "shareholdersEquity": {
+      "value": 25802000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "operatingCashFlow": {
+      "value": 43066000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-05"
+    },
+    "capex": {
+      "value": 551000,
+      "year": 2022,
+      "periodEnd": "2022-09-30",
+      "filed": "2022-12-09"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:49.406Z"
+}

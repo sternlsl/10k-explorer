@@ -1,0 +1,83 @@
+{
+  "ticker": "FATAQ",
+  "name": "Fat Brands, Inc",
+  "cik": 1705012,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 592652000,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-02-28"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -52220000,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-02-28"
+    },
+    "netIncome": {
+      "value": -189847000,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-02-28"
+    },
+    "epsBasic": {
+      "value": -11.6,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-02-28"
+    },
+    "epsDiluted": {
+      "value": -11.6,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-02-28"
+    },
+    "currentAssets": {
+      "value": 88034000,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-02-28"
+    },
+    "totalAssets": {
+      "value": 1289178000,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-02-28"
+    },
+    "currentLiabilities": {
+      "value": 298316000,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-02-28"
+    },
+    "totalLiabilities": {
+      "value": 1744890000,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-02-28"
+    },
+    "shareholdersEquity": {
+      "value": -455712000,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-02-28"
+    },
+    "operatingCashFlow": {
+      "value": -56246000,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-02-28"
+    },
+    "capex": {
+      "value": 22801000,
+      "year": 2024,
+      "periodEnd": "2024-12-29",
+      "filed": "2025-02-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:21.346Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "GGBY",
+  "name": "Alpha Investment Inc.",
+  "cik": 1616736,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 33830,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2023-06-20"
+    },
+    "cogs": {
+      "value": 29046,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-05"
+    },
+    "grossProfit": {
+      "value": 19600,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-05"
+    },
+    "operatingIncome": {
+      "value": -327881,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "netIncome": {
+      "value": -512978,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "epsBasic": {
+      "value": -0.05,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 14,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "totalAssets": {
+      "value": 14,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "currentLiabilities": {
+      "value": 4901894,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "totalLiabilities": {
+      "value": 4901894,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "shareholdersEquity": {
+      "value": -4871154,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "operatingCashFlow": {
+      "value": -32526,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "capex": {
+      "value": 1877,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2019-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:45.553Z"
+}

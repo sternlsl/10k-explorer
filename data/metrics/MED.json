@@ -1,0 +1,93 @@
+{
+  "ticker": "MED",
+  "name": "MEDIFAST INC",
+  "cik": 910329,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 385788000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "cogs": {
+      "value": 110601000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "grossProfit": {
+      "value": 275187000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "operatingIncome": {
+      "value": -14213000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "netIncome": {
+      "value": -18672000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsBasic": {
+      "value": -1.7,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsDiluted": {
+      "value": -1.7,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentAssets": {
+      "value": 201683000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "totalAssets": {
+      "value": 247973000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentLiabilities": {
+      "value": 42962000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "totalLiabilities": {
+      "value": 49053000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "shareholdersEquity": {
+      "value": 198920000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "operatingCashFlow": {
+      "value": 6863000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "capex": {
+      "value": 5614000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:50.557Z"
+}

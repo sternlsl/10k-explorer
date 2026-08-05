@@ -1,0 +1,43 @@
+{
+  "ticker": "IBIT",
+  "name": "iShares Bitcoin Trust ETF",
+  "cik": 1980994,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -174563824,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": -8968686985,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": -7.46,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": null,
+    "currentLiabilities": null,
+    "totalLiabilities": null,
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": -19907867870,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:15.109Z"
+}

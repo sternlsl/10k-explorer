@@ -1,0 +1,78 @@
+{
+  "ticker": "STWI",
+  "name": "StageWise Strategies Corp.",
+  "cik": 1999261,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 95409,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-05-20"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 95409,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-05-20"
+    },
+    "operatingIncome": {
+      "value": -74761,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-05-20"
+    },
+    "netIncome": {
+      "value": -74758,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-05-20"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-05-20"
+    },
+    "currentAssets": {
+      "value": 4573,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-05-20"
+    },
+    "totalAssets": {
+      "value": 164867,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-05-20"
+    },
+    "currentLiabilities": {
+      "value": 241901,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-05-20"
+    },
+    "totalLiabilities": {
+      "value": 241901,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-05-20"
+    },
+    "shareholdersEquity": {
+      "value": -77034,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-05-20"
+    },
+    "operatingCashFlow": {
+      "value": -48500,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-05-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:38.369Z"
+}

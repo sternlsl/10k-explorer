@@ -1,0 +1,88 @@
+{
+  "ticker": "CHEV",
+  "name": "Charging Robotics Inc.",
+  "cik": 1459188,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 775155,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-05-22"
+    },
+    "cogs": {
+      "value": 597667,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-05-22"
+    },
+    "grossProfit": {
+      "value": 177488,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-05-22"
+    },
+    "operatingIncome": {
+      "value": -1897000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "netIncome": {
+      "value": -387000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "epsBasic": {
+      "value": -0.09,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "currentAssets": {
+      "value": 255000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "totalAssets": {
+      "value": 9055000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "currentLiabilities": {
+      "value": 2271000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "totalLiabilities": {
+      "value": 3911000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "shareholdersEquity": {
+      "value": 1592000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "operatingCashFlow": {
+      "value": -1053000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:56.054Z"
+}

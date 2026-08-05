@@ -1,0 +1,83 @@
+{
+  "ticker": "MSYND",
+  "name": "GREENLIT VENTURES INC.",
+  "cik": 1693687,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 32000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-02-25"
+    },
+    "cogs": {
+      "value": 8245,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-02-25"
+    },
+    "grossProfit": {
+      "value": 23755,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-02-25"
+    },
+    "operatingIncome": {
+      "value": -57272,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-08"
+    },
+    "netIncome": {
+      "value": -48501,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 43998,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 237446,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -237446,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:15.741Z"
+}

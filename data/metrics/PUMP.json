@@ -1,0 +1,83 @@
+{
+  "ticker": "PUMP",
+  "name": "ProPetro Holding Corp.",
+  "cik": 1680247,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1269158000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 6350000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "netIncome": {
+      "value": 824000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "epsBasic": {
+      "value": 0.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "epsDiluted": {
+      "value": 0.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "currentAssets": {
+      "value": 326704000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "totalAssets": {
+      "value": 1290890000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "currentLiabilities": {
+      "value": 252961000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "totalLiabilities": {
+      "value": 461048000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "shareholdersEquity": {
+      "value": 829842000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "operatingCashFlow": {
+      "value": 231607000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "capex": {
+      "value": 186316000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:29.573Z"
+}

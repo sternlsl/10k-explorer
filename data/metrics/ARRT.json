@@ -1,0 +1,88 @@
+{
+  "ticker": "ARRT",
+  "name": "Artisan Consumer Goods, Inc.",
+  "cik": 1530425,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-16"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-16"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-16"
+    },
+    "operatingIncome": {
+      "value": -49991,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "netIncome": {
+      "value": -50732,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2018,
+      "periodEnd": "2018-06-30",
+      "filed": "2018-10-11"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "currentAssets": {
+      "value": 8870,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "totalAssets": {
+      "value": 9870,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "currentLiabilities": {
+      "value": 336615,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "totalLiabilities": {
+      "value": 300011,
+      "year": 2014,
+      "periodEnd": "2014-06-30",
+      "filed": "2014-10-14"
+    },
+    "shareholdersEquity": {
+      "value": -326745,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "operatingCashFlow": {
+      "value": -55425,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:14.339Z"
+}

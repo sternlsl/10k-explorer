@@ -1,0 +1,63 @@
+{
+  "ticker": "WAL-PA",
+  "name": "WESTERN ALLIANCE BANCORPORATION",
+  "cik": 1212545,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 135800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 969000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "epsBasic": {
+      "value": 8.79,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "epsDiluted": {
+      "value": 8.73,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 92774000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 84828000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "shareholdersEquity": {
+      "value": 7653000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "operatingCashFlow": {
+      "value": -2678900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:55:18.747Z"
+}

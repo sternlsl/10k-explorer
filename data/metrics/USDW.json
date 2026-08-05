@@ -1,0 +1,78 @@
+{
+  "ticker": "USDW",
+  "name": "MADE IN USA INC.",
+  "cik": 1977837,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 37036,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-22"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-22"
+    },
+    "grossProfit": {
+      "value": 37036,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-22"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -29610,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-22"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-22"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-22"
+    },
+    "currentAssets": {
+      "value": 1250,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-22"
+    },
+    "totalAssets": {
+      "value": 93805,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-22"
+    },
+    "currentLiabilities": {
+      "value": 622,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-22"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 93183,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-22"
+    },
+    "operatingCashFlow": {
+      "value": -34842,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-06-22"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:07.383Z"
+}

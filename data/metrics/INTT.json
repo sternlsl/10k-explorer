@@ -1,0 +1,93 @@
+{
+  "ticker": "INTT",
+  "name": "INTEST CORP",
+  "cik": 1036262,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 66801000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-28"
+    },
+    "cogs": {
+      "value": 64905000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "grossProfit": {
+      "value": 48920000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "operatingIncome": {
+      "value": -3725000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "netIncome": {
+      "value": -2527000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "epsBasic": {
+      "value": -0.21,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "epsDiluted": {
+      "value": -0.21,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "currentAssets": {
+      "value": 78638000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "totalAssets": {
+      "value": 151313000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "currentLiabilities": {
+      "value": 35755000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "totalLiabilities": {
+      "value": 47690000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "shareholdersEquity": {
+      "value": 103623000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "operatingCashFlow": {
+      "value": 7315000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "capex": {
+      "value": 1632000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:44.196Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "CVSI",
+  "name": "CV Sciences, Inc.",
+  "cik": 1510964,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 13789000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "cogs": {
+      "value": 7037000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "grossProfit": {
+      "value": 6752000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "operatingIncome": {
+      "value": -470000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "netIncome": {
+      "value": -958000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentAssets": {
+      "value": 5133000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalAssets": {
+      "value": 6962000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentLiabilities": {
+      "value": 5000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalLiabilities": {
+      "value": 5494000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "shareholdersEquity": {
+      "value": 1468000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "operatingCashFlow": {
+      "value": -407000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "capex": {
+      "value": 109000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:24.001Z"
+}

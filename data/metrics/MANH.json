@@ -1,0 +1,83 @@
+{
+  "ticker": "MANH",
+  "name": "MANHATTAN ASSOCIATES INC",
+  "cik": 1056696,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1081392000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "cogs": {
+      "value": 472339000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 279800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "netIncome": {
+      "value": 219948000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "epsBasic": {
+      "value": 3.64,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "epsDiluted": {
+      "value": 3.6,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "currentAssets": {
+      "value": 583338000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "totalAssets": {
+      "value": 839388000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "currentLiabilities": {
+      "value": 455913000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 314765000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "operatingCashFlow": {
+      "value": 389470000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "capex": {
+      "value": 15457000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:22.929Z"
+}

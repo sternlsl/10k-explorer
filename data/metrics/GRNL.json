@@ -1,0 +1,63 @@
+{
+  "ticker": "GRNL",
+  "name": "GREENLITE VENTURES INC",
+  "cik": 1282571,
+  "fiscalYear": 2012,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2012,
+      "periodEnd": "2012-03-31",
+      "filed": "2012-07-13"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -199794,
+      "year": 2012,
+      "periodEnd": "2012-03-31",
+      "filed": "2012-07-13"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2012,
+      "periodEnd": "2012-03-31",
+      "filed": "2012-07-13"
+    },
+    "currentAssets": {
+      "value": 123585,
+      "year": 2012,
+      "periodEnd": "2012-03-31",
+      "filed": "2012-07-13"
+    },
+    "totalAssets": {
+      "value": 164835,
+      "year": 2012,
+      "periodEnd": "2012-03-31",
+      "filed": "2012-07-13"
+    },
+    "currentLiabilities": {
+      "value": 163791,
+      "year": 2012,
+      "periodEnd": "2012-03-31",
+      "filed": "2012-07-13"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1044,
+      "year": 2012,
+      "periodEnd": "2012-03-31",
+      "filed": "2012-07-13"
+    },
+    "operatingCashFlow": {
+      "value": -41333,
+      "year": 2012,
+      "periodEnd": "2012-03-31",
+      "filed": "2012-07-13"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:09.801Z"
+}

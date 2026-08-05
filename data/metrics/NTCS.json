@@ -1,0 +1,73 @@
+{
+  "ticker": "NTCS",
+  "name": "Natics Corp.",
+  "cik": 1933359,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 27600,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -27159,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
+    },
+    "currentAssets": {
+      "value": 282,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
+    },
+    "totalAssets": {
+      "value": 8866,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
+    },
+    "currentLiabilities": {
+      "value": 17200,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
+    },
+    "totalLiabilities": {
+      "value": 93508,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
+    },
+    "shareholdersEquity": {
+      "value": -84642,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
+    },
+    "operatingCashFlow": {
+      "value": -22859,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-09"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:44.065Z"
+}

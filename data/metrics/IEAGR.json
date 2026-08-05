@@ -1,0 +1,48 @@
+{
+  "ticker": "IEAGR",
+  "name": "Infinite Eagle Acquisition Corp.",
+  "cik": 2084396,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 4648,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "totalAssets": {
+      "value": 361445,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "currentLiabilities": {
+      "value": 291306,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "totalLiabilities": {
+      "value": 396556,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "shareholdersEquity": {
+      "value": -35111,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "operatingCashFlow": null,
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:15.326Z"
+}

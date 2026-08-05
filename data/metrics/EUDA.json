@@ -1,0 +1,88 @@
+{
+  "ticker": "EUDA",
+  "name": "EUDA Health Holdings Ltd",
+  "cik": 1847846,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 9840709,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-28"
+    },
+    "cogs": {
+      "value": 6486513,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-28"
+    },
+    "grossProfit": {
+      "value": 3354196,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-28"
+    },
+    "operatingIncome": {
+      "value": -12057771,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-28"
+    },
+    "netIncome": {
+      "value": -24884122,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-28"
+    },
+    "epsBasic": {
+      "value": -2.07,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-28"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 25026478,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-28"
+    },
+    "totalAssets": {
+      "value": 25629040,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-28"
+    },
+    "currentLiabilities": {
+      "value": 29121056,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-28"
+    },
+    "totalLiabilities": {
+      "value": 29136071,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-28"
+    },
+    "shareholdersEquity": {
+      "value": -3520509,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-28"
+    },
+    "operatingCashFlow": {
+      "value": -1526828,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-28"
+    },
+    "capex": {
+      "value": 18137,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:20.400Z"
+}

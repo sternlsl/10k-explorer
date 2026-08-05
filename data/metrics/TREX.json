@@ -1,0 +1,93 @@
+{
+  "ticker": "TREX",
+  "name": "TREX CO INC",
+  "cik": 1069878,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1174267000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "cogs": {
+      "value": 714303000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "grossProfit": {
+      "value": 459964000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "operatingIncome": {
+      "value": 257961000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "netIncome": {
+      "value": 190415000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsBasic": {
+      "value": 1.78,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": 1.78,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentAssets": {
+      "value": 310406000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "totalAssets": {
+      "value": 1453441000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": {
+      "value": 250705000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "totalLiabilities": {
+      "value": 419177000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "shareholdersEquity": {
+      "value": 1034264000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 358113000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "capex": {
+      "value": 223592000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:31.181Z"
+}

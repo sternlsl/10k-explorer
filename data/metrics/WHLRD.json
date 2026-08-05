@@ -1,0 +1,73 @@
+{
+  "ticker": "WHLRD",
+  "name": "Wheeler Real Estate Investment Trust, Inc.",
+  "cik": 1527541,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1751000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 43222000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "netIncome": {
+      "value": 8770000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "epsBasic": {
+      "value": -36.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "epsDiluted": {
+      "value": -36.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 601734000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 507043000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "shareholdersEquity": {
+      "value": 234000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "operatingCashFlow": {
+      "value": 21132000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "capex": {
+      "value": 8511000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:09.825Z"
+}

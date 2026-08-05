@@ -2,68 +2,92 @@
   "ticker": "NTAP",
   "name": "NetApp, Inc.",
   "cik": 1002047,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 6572000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 6925000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-05"
     },
     "cogs": {
-      "value": 1959000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 2026000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-05"
     },
     "grossProfit": {
-      "value": 4613000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 4899000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-05"
     },
     "operatingIncome": {
-      "value": 1337000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 1674000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-05"
     },
     "netIncome": {
-      "value": 1186000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 1276000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-05"
+    },
+    "epsBasic": {
+      "value": 6.41,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-05"
+    },
+    "epsDiluted": {
+      "value": 6.35,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-05"
     },
     "currentAssets": {
-      "value": 5851000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 5776000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-05"
     },
     "totalAssets": {
-      "value": 10823000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 10744000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-05"
     },
     "currentLiabilities": {
-      "value": 4662000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 4021000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-05"
     },
     "totalLiabilities": {
-      "value": 9783000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 9393000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-05"
     },
     "shareholdersEquity": {
-      "value": 1040000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 1351000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-05"
     },
     "operatingCashFlow": {
-      "value": 1506000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 2067000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-05"
     },
     "capex": {
-      "value": 168000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 198000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-05"
     }
   },
-  "fetchedAt": "2026-05-08T18:57:22.864Z"
+  "updatedAt": "2026-08-05T16:54:18.396Z"
 }

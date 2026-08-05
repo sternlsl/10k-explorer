@@ -1,0 +1,63 @@
+{
+  "ticker": "MACIU",
+  "name": "Melar Acquisition Corp. I/Cayman",
+  "cik": 2016221,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1475992,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "netIncome": {
+      "value": 5539430,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 3908789,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "totalAssets": {
+      "value": 175314766,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "currentLiabilities": {
+      "value": 4294972,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "totalLiabilities": {
+      "value": 10894972,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "shareholdersEquity": {
+      "value": -6986183,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "operatingCashFlow": {
+      "value": -774258,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:42.673Z"
+}

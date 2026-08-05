@@ -1,0 +1,88 @@
+{
+  "ticker": "BLGO",
+  "name": "BIOLARGO, INC.",
+  "cik": 880242,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 12230000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "cogs": {
+      "value": 4359000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "grossProfit": {
+      "value": 3406000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "operatingIncome": {
+      "value": -14855000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "netIncome": {
+      "value": -3692116,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-03-31"
+    },
+    "epsBasic": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 5114000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "totalAssets": {
+      "value": 8311000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "currentLiabilities": {
+      "value": 5063000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "totalLiabilities": {
+      "value": 6785000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "shareholdersEquity": {
+      "value": 4042000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "operatingCashFlow": {
+      "value": -8297000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "capex": {
+      "value": 28671,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:08.887Z"
+}

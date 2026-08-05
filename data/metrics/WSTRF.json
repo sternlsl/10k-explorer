@@ -1,0 +1,93 @@
+{
+  "ticker": "WSTRF",
+  "name": "Western Uranium & Vanadium Corp.",
+  "cik": 1621906,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7223609,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-04-16"
+    },
+    "cogs": {
+      "value": 19879,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-01"
+    },
+    "grossProfit": {
+      "value": 431065,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "operatingIncome": {
+      "value": -7285924,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": -7175923,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": -0.11,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": -0.11,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 6146647,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 34446941,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 762483,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 4144826,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": 30302115,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -5775735,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": {
+      "value": 1045638,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:21.782Z"
+}

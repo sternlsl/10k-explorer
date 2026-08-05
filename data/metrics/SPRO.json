@@ -1,0 +1,83 @@
+{
+  "ticker": "SPRO",
+  "name": "Spero Therapeutics, Inc.",
+  "cik": 1701108,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 12586000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 6314000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "netIncome": {
+      "value": 8572000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": 0.15,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": 0.15,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentAssets": {
+      "value": 67286000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalAssets": {
+      "value": 68919000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentLiabilities": {
+      "value": 8868000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalLiabilities": {
+      "value": 9898000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "shareholdersEquity": {
+      "value": 59021000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "operatingCashFlow": {
+      "value": -12624000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "capex": {
+      "value": 157000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-11"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:31.596Z"
+}

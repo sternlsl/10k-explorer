@@ -1,0 +1,93 @@
+{
+  "ticker": "ESI",
+  "name": "Element Solutions Inc",
+  "cik": 1590714,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2551200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "cogs": {
+      "value": 1480700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "grossProfit": {
+      "value": 1070500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "operatingIncome": {
+      "value": 342200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "netIncome": {
+      "value": 190800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "epsBasic": {
+      "value": 0.79,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "epsDiluted": {
+      "value": 0.79,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "currentAssets": {
+      "value": 1582500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "totalAssets": {
+      "value": 5101400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "currentLiabilities": {
+      "value": 429900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "totalLiabilities": {
+      "value": 2412000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "shareholdersEquity": {
+      "value": 2674500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "operatingCashFlow": {
+      "value": 295900000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-22"
+    },
+    "capex": {
+      "value": 62200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:05.185Z"
+}

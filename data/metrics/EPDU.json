@@ -1,0 +1,78 @@
+{
+  "ticker": "EPDU",
+  "name": "ENTERPRISE PRODUCTS PARTNERS L.P.",
+  "cik": 1061219,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 52596000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 38566000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 7266000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": 5810000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": 2.48,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-29"
+    },
+    "epsDiluted": {
+      "value": 2.38,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-29"
+    },
+    "currentAssets": {
+      "value": 13360000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 77902000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 12832000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 8585000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 4544000000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:53:32.272Z"
+}

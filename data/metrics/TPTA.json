@@ -1,0 +1,68 @@
+{
+  "ticker": "TPTA",
+  "name": "Terra Property Trust, Inc.",
+  "cik": 1674356,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 35439020,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1316846,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "netIncome": {
+      "value": -27825846,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsBasic": {
+      "value": -1.14,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsDiluted": {
+      "value": -1.14,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 351540758,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 205076530,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "shareholdersEquity": {
+      "value": 146464228,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "operatingCashFlow": {
+      "value": 1913799,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:16.029Z"
+}

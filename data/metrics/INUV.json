@@ -1,0 +1,83 @@
+{
+  "ticker": "INUV",
+  "name": "Inuvo, Inc.",
+  "cik": 829323,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 86209305,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "cogs": {
+      "value": 12033777,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-27"
+    },
+    "grossProfit": {
+      "value": 64214152,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "operatingIncome": {
+      "value": -6696044,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "netIncome": {
+      "value": -5095518,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "epsBasic": {
+      "value": -0.11,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-10"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-27"
+    },
+    "currentAssets": {
+      "value": 9217595,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "totalAssets": {
+      "value": 24867850,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentLiabilities": {
+      "value": 14292951,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 10023016,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "operatingCashFlow": {
+      "value": -1786301,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:54.258Z"
+}

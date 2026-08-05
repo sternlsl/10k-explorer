@@ -1,0 +1,63 @@
+{
+  "ticker": "KXIN",
+  "name": "Kaixin Holdings",
+  "cik": 1713539,
+  "fiscalYear": 2018,
+  "metrics": {
+    "revenue": null,
+    "cogs": {
+      "value": 1413762,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-15"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1413762,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-15"
+    },
+    "netIncome": {
+      "value": 2257292,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-15"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 98739,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-15"
+    },
+    "totalAssets": {
+      "value": 210554208,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-15"
+    },
+    "currentLiabilities": {
+      "value": 1306426,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-15"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 5000002,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -625762,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:05.497Z"
+}

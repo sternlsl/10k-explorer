@@ -1,0 +1,88 @@
+{
+  "ticker": "KTEL",
+  "name": "KonaTel, Inc.",
+  "cik": 845819,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 8452885,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "cogs": {
+      "value": 5840675,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "grossProfit": {
+      "value": 2612210,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "operatingIncome": {
+      "value": -2678382,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "netIncome": {
+      "value": -2647053,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "epsBasic": {
+      "value": -0.06,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "epsDiluted": {
+      "value": -0.06,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "currentAssets": {
+      "value": 1385768,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "totalAssets": {
+      "value": 2464279,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "currentLiabilities": {
+      "value": 1904031,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "totalLiabilities": {
+      "value": 2080074,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "shareholdersEquity": {
+      "value": 384205,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "operatingCashFlow": {
+      "value": -1907128,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:48.395Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "CRNC",
+  "name": "Cerence Inc.",
+  "cik": 1768267,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 251781000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "cogs": {
+      "value": 68645000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "grossProfit": {
+      "value": 183136000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "operatingIncome": {
+      "value": -2291000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "netIncome": {
+      "value": -18714000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "epsBasic": {
+      "value": -0.43,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "epsDiluted": {
+      "value": -0.43,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "currentAssets": {
+      "value": 190757000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "totalAssets": {
+      "value": 630591000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "currentLiabilities": {
+      "value": 101190000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "totalLiabilities": {
+      "value": 479915000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "shareholdersEquity": {
+      "value": 150676000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "operatingCashFlow": {
+      "value": 61173000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "capex": {
+      "value": 14356000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:08.313Z"
+}

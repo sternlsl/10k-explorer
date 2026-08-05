@@ -1,0 +1,73 @@
+{
+  "ticker": "NGL-PB",
+  "name": "NGL Energy Partners LP",
+  "cik": 1504461,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 3156159000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "cogs": {
+      "value": 2182163000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "grossProfit": {
+      "value": 93450000,
+      "year": 2012,
+      "periodEnd": "2012-03-31",
+      "filed": "2012-06-15"
+    },
+    "operatingIncome": {
+      "value": 94733000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "netIncome": {
+      "value": -142295000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 773950000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "totalAssets": {
+      "value": 4175539000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "currentLiabilities": {
+      "value": 739482000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 365953000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-28"
+    },
+    "capex": {
+      "value": 791119000,
+      "year": 2016,
+      "periodEnd": "2016-03-31",
+      "filed": "2016-05-31"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:35.437Z"
+}

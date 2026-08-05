@@ -1,0 +1,83 @@
+{
+  "ticker": "MYCB",
+  "name": "My City Builders, Inc.",
+  "cik": 1556801,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-13"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -103944,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-13"
+    },
+    "netIncome": {
+      "value": -498315,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-13"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-07-31",
+      "filed": "2024-10-29"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-13"
+    },
+    "currentAssets": {
+      "value": 42812,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-13"
+    },
+    "totalAssets": {
+      "value": 42812,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-13"
+    },
+    "currentLiabilities": {
+      "value": 38343,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-13"
+    },
+    "totalLiabilities": {
+      "value": 38343,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-13"
+    },
+    "shareholdersEquity": {
+      "value": 4469,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-13"
+    },
+    "operatingCashFlow": {
+      "value": -504584,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-13"
+    },
+    "capex": {
+      "value": 89867,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:12.733Z"
+}

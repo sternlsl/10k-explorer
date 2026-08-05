@@ -1,0 +1,78 @@
+{
+  "ticker": "MTDR",
+  "name": "Matador Resources Co",
+  "cik": 1520006,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3656514000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "cogs": {
+      "value": 208142000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1226542000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "netIncome": {
+      "value": 759221000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsBasic": {
+      "value": 6.1,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsDiluted": {
+      "value": 6.09,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentAssets": {
+      "value": 816568000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalAssets": {
+      "value": 11710569000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentLiabilities": {
+      "value": 1031509000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 5658141000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "operatingCashFlow": {
+      "value": 2425015000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:55:25.794Z"
+}

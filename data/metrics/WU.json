@@ -1,0 +1,78 @@
+{
+  "ticker": "WU",
+  "name": "Western Union CO",
+  "cik": 1365135,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3879600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "cogs": {
+      "value": 2550600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 757300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "netIncome": {
+      "value": 499600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsBasic": {
+      "value": 1.53,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsDiluted": {
+      "value": 1.52,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 8305900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 7348100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "shareholdersEquity": {
+      "value": 957800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "operatingCashFlow": {
+      "value": 543700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "capex": {
+      "value": 38500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:00.392Z"
+}

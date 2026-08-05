@@ -1,0 +1,93 @@
+{
+  "ticker": "TYGO",
+  "name": "TIGO ENERGY, INC.",
+  "cik": 1855447,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 103536000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "cogs": {
+      "value": 59185000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "grossProfit": {
+      "value": 44351000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "operatingIncome": {
+      "value": -4499000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "netIncome": {
+      "value": -1880000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsBasic": {
+      "value": -0.03,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsDiluted": {
+      "value": -0.03,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentAssets": {
+      "value": 57999000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalAssets": {
+      "value": 78037000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentLiabilities": {
+      "value": 38768000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalLiabilities": {
+      "value": 50414000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "shareholdersEquity": {
+      "value": 27623000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "operatingCashFlow": {
+      "value": 10299000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "capex": {
+      "value": 642000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:47.013Z"
+}

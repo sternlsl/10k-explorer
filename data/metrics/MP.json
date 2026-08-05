@@ -1,0 +1,83 @@
+{
+  "ticker": "MP",
+  "name": "MP Materials Corp. / DE",
+  "cik": 1801368,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 224441000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -149374000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "netIncome": {
+      "value": -85874000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsBasic": {
+      "value": -0.5,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsDiluted": {
+      "value": -0.5,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentAssets": {
+      "value": 2165801000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalAssets": {
+      "value": 3864160000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentLiabilities": {
+      "value": 299049000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalLiabilities": {
+      "value": 1471792000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "shareholdersEquity": {
+      "value": 1978757000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "operatingCashFlow": {
+      "value": -155755000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "capex": {
+      "value": 172375000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:55.277Z"
+}

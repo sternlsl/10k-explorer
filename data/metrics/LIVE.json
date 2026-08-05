@@ -1,0 +1,93 @@
+{
+  "ticker": "LIVE",
+  "name": "LIVE VENTURES Inc",
+  "cik": 1045742,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 444944000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "cogs": {
+      "value": 299255000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "grossProfit": {
+      "value": 145689000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "operatingIncome": {
+      "value": 14635000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "netIncome": {
+      "value": 22743000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "epsBasic": {
+      "value": 7.35,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "epsDiluted": {
+      "value": 4.93,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "currentAssets": {
+      "value": 173062000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "totalAssets": {
+      "value": 386400000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "currentLiabilities": {
+      "value": 110962000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "totalLiabilities": {
+      "value": 291096000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "shareholdersEquity": {
+      "value": 95304000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "operatingCashFlow": {
+      "value": 28669000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "capex": {
+      "value": 7691000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:27.036Z"
+}

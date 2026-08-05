@@ -1,0 +1,93 @@
+{
+  "ticker": "ELMD",
+  "name": "Electromed, Inc.",
+  "cik": 1488917,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 64000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "cogs": {
+      "value": 14029000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "grossProfit": {
+      "value": 49971000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "operatingIncome": {
+      "value": 9660000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "netIncome": {
+      "value": 7537000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "epsBasic": {
+      "value": 0.89,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "epsDiluted": {
+      "value": 0.85,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "currentAssets": {
+      "value": 45082000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "totalAssets": {
+      "value": 53802000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "currentLiabilities": {
+      "value": 10468000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "totalLiabilities": {
+      "value": 10593000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "shareholdersEquity": {
+      "value": 43209000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "operatingCashFlow": {
+      "value": 11393000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "capex": {
+      "value": 262000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:54.516Z"
+}

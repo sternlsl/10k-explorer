@@ -1,0 +1,93 @@
+{
+  "ticker": "STLY",
+  "name": "HG Holdings, Inc.",
+  "cik": 797465,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 14736000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "cogs": {
+      "value": 485000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "grossProfit": {
+      "value": 14251000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingIncome": {
+      "value": -1304000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-01"
+    },
+    "netIncome": {
+      "value": 1529000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsBasic": {
+      "value": 0.39,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsDiluted": {
+      "value": 0.39,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentAssets": {
+      "value": 21311000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-30"
+    },
+    "totalAssets": {
+      "value": 50686000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": {
+      "value": 6650000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-30"
+    },
+    "totalLiabilities": {
+      "value": 9133000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "shareholdersEquity": {
+      "value": 41685000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": 878000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:02.342Z"
+}

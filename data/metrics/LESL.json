@@ -1,0 +1,93 @@
+{
+  "ticker": "LESL",
+  "name": "Leslie's, Inc.",
+  "cik": 1821806,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1241915000,
+      "year": 2025,
+      "periodEnd": "2025-10-04",
+      "filed": "2025-12-18"
+    },
+    "cogs": {
+      "value": 802268000,
+      "year": 2025,
+      "periodEnd": "2025-10-04",
+      "filed": "2025-12-18"
+    },
+    "grossProfit": {
+      "value": 439647000,
+      "year": 2025,
+      "periodEnd": "2025-10-04",
+      "filed": "2025-12-18"
+    },
+    "operatingIncome": {
+      "value": -169855000,
+      "year": 2025,
+      "periodEnd": "2025-10-04",
+      "filed": "2025-12-18"
+    },
+    "netIncome": {
+      "value": -236970000,
+      "year": 2025,
+      "periodEnd": "2025-10-04",
+      "filed": "2025-12-18"
+    },
+    "epsBasic": {
+      "value": -25.57,
+      "year": 2025,
+      "periodEnd": "2025-10-04",
+      "filed": "2025-12-18"
+    },
+    "epsDiluted": {
+      "value": -25.57,
+      "year": 2025,
+      "periodEnd": "2025-10-04",
+      "filed": "2025-12-18"
+    },
+    "currentAssets": {
+      "value": 328789000,
+      "year": 2025,
+      "periodEnd": "2025-10-04",
+      "filed": "2025-12-18"
+    },
+    "totalAssets": {
+      "value": 741475000,
+      "year": 2025,
+      "periodEnd": "2025-10-04",
+      "filed": "2025-12-18"
+    },
+    "currentLiabilities": {
+      "value": 209061000,
+      "year": 2025,
+      "periodEnd": "2025-10-04",
+      "filed": "2025-12-18"
+    },
+    "totalLiabilities": {
+      "value": 1149467000,
+      "year": 2025,
+      "periodEnd": "2025-10-04",
+      "filed": "2025-12-18"
+    },
+    "shareholdersEquity": {
+      "value": -407992000,
+      "year": 2025,
+      "periodEnd": "2025-10-04",
+      "filed": "2025-12-18"
+    },
+    "operatingCashFlow": {
+      "value": 8822000,
+      "year": 2025,
+      "periodEnd": "2025-10-04",
+      "filed": "2025-12-18"
+    },
+    "capex": {
+      "value": 25491000,
+      "year": 2025,
+      "periodEnd": "2025-10-04",
+      "filed": "2025-12-18"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:31.591Z"
+}

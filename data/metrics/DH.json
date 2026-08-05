@@ -1,0 +1,93 @@
+{
+  "ticker": "DH",
+  "name": "Definitive Healthcare Corp.",
+  "cik": 1861795,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 241521000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "cogs": {
+      "value": 58246000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "grossProfit": {
+      "value": 183275000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "operatingIncome": {
+      "value": -224271000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "netIncome": {
+      "value": -138932000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsBasic": {
+      "value": -1.3,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsDiluted": {
+      "value": -1.3,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentAssets": {
+      "value": 257605000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalAssets": {
+      "value": 735492000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentLiabilities": {
+      "value": 156787000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalLiabilities": {
+      "value": 356500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "shareholdersEquity": {
+      "value": 378992000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "operatingCashFlow": {
+      "value": 53777000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "capex": {
+      "value": 16720000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:58.025Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "MELI",
+  "name": "MERCADOLIBRE INC",
+  "cik": 1099590,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 20335000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "cogs": {
+      "value": 16035000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "grossProfit": {
+      "value": 12858000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "operatingIncome": {
+      "value": 3201000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "netIncome": {
+      "value": 1997000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsBasic": {
+      "value": 39.4,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": 39.4,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentAssets": {
+      "value": 33573000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "totalAssets": {
+      "value": 42667000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": {
+      "value": 28633000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "totalLiabilities": {
+      "value": 35919000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "shareholdersEquity": {
+      "value": 6748000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 12116000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "capex": {
+      "value": 509000000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-23"
+    }
+  },
+  "updatedAt": "2026-08-05T16:53:30.247Z"
+}

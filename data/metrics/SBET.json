@@ -1,0 +1,93 @@
+{
+  "ticker": "SBET",
+  "name": "Sharplink, Inc.",
+  "cik": 1981535,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4952725,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "cogs": {
+      "value": 2756076,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-14"
+    },
+    "grossProfit": {
+      "value": 906273,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-14"
+    },
+    "operatingIncome": {
+      "value": -733917000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "netIncome": {
+      "value": -734587000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "epsBasic": {
+      "value": -7.37,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "epsDiluted": {
+      "value": -7.37,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "currentAssets": {
+      "value": 31153000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "totalAssets": {
+      "value": 2431766000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "currentLiabilities": {
+      "value": 12749000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "totalLiabilities": {
+      "value": 12749000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "shareholdersEquity": {
+      "value": 2419017000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "operatingCashFlow": {
+      "value": -17542000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "capex": {
+      "value": 11000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:06.003Z"
+}

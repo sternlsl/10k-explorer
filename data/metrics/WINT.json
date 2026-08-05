@@ -1,0 +1,88 @@
+{
+  "ticker": "WINT",
+  "name": "WINDTREE THERAPEUTICS INC /DE/",
+  "cik": 946486,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 198000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-04-03"
+    },
+    "cogs": {
+      "value": 929000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2017-03-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -26139000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "netIncome": {
+      "value": -1787000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "epsBasic": {
+      "value": -104.35,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "epsDiluted": {
+      "value": -24.14,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-17"
+    },
+    "currentAssets": {
+      "value": 2574000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "totalAssets": {
+      "value": 27875000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "currentLiabilities": {
+      "value": 5717000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "totalLiabilities": {
+      "value": 14698000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "shareholdersEquity": {
+      "value": 9996000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -15402000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "capex": {
+      "value": 12000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:14.543Z"
+}

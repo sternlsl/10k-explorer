@@ -1,0 +1,93 @@
+{
+  "ticker": "MG",
+  "name": "Mistras Group, Inc.",
+  "cik": 1436126,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 724024000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "cogs": {
+      "value": 450504000,
+      "year": 2014,
+      "periodEnd": "2014-05-31",
+      "filed": "2014-08-08"
+    },
+    "grossProfit": {
+      "value": 204511000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "operatingIncome": {
+      "value": 40572000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "netIncome": {
+      "value": 16837000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsBasic": {
+      "value": 0.54,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsDiluted": {
+      "value": 0.53,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentAssets": {
+      "value": 216192000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "totalAssets": {
+      "value": 578781000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentLiabilities": {
+      "value": 124308000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "totalLiabilities": {
+      "value": 343136000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "shareholdersEquity": {
+      "value": 235104000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "operatingCashFlow": {
+      "value": 32981000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "capex": {
+      "value": 24674000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:39.674Z"
+}

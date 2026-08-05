@@ -1,0 +1,83 @@
+{
+  "ticker": "KELYB",
+  "name": "KELLY SERVICES INC",
+  "cik": 55135,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4250900000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "cogs": {
+      "value": 3397900000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "grossProfit": {
+      "value": 853000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "operatingIncome": {
+      "value": -69800000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "netIncome": {
+      "value": -254100000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "epsBasic": {
+      "value": -7.24,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "epsDiluted": {
+      "value": -7.24,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "currentAssets": {
+      "value": 1268300000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "totalAssets": {
+      "value": 2250600000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "currentLiabilities": {
+      "value": 821800000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 976500000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "operatingCashFlow": {
+      "value": 122600000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-12"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:48.237Z"
+}

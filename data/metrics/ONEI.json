@@ -1,0 +1,93 @@
+{
+  "ticker": "ONEI",
+  "name": "OneMeta Inc.",
+  "cik": 1388295,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1505866,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "cogs": {
+      "value": 208590,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "grossProfit": {
+      "value": 1297276,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingIncome": {
+      "value": -3482488,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": -3839617,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": -0.1,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": -0.1,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 121937,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 123780,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 3044251,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 4431863,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -4308083,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -3038766,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": {
+      "value": 1951,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:48.735Z"
+}

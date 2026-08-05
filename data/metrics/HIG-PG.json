@@ -1,0 +1,73 @@
+{
+  "ticker": "HIG-PG",
+  "name": "HARTFORD INSURANCE GROUP, INC.",
+  "cik": 874766,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1506000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1728000000,
+      "year": 2009,
+      "periodEnd": "2009-12-31",
+      "filed": "2010-02-23"
+    },
+    "netIncome": {
+      "value": 3836000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsBasic": {
+      "value": 13.51,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsDiluted": {
+      "value": 13.32,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 85997000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 67018000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "shareholdersEquity": {
+      "value": 18979000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "operatingCashFlow": {
+      "value": 5922000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "capex": {
+      "value": 169000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    }
+  },
+  "updatedAt": "2026-08-05T16:53:57.547Z"
+}

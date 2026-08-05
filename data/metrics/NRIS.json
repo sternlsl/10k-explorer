@@ -1,0 +1,83 @@
+{
+  "ticker": "NRIS",
+  "name": "Norris Industries, Inc.",
+  "cik": 1603793,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 286086,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -544280,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "netIncome": {
+      "value": -661431,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "currentAssets": {
+      "value": 69176,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "totalAssets": {
+      "value": 252449,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "currentLiabilities": {
+      "value": 228163,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "totalLiabilities": {
+      "value": 5101180,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "shareholdersEquity": {
+      "value": -4848731,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "operatingCashFlow": {
+      "value": -440251,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "capex": {
+      "value": 24500,
+      "year": 2016,
+      "periodEnd": "2016-02-29",
+      "filed": "2017-06-01"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:41.862Z"
+}

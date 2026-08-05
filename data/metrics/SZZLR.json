@@ -1,0 +1,63 @@
+{
+  "ticker": "SZZLR",
+  "name": "Sizzle Acquisition Corp. II",
+  "cik": 2030663,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -537453,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "netIncome": {
+      "value": 6469756,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 931516,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "totalAssets": {
+      "value": 237962086,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "currentLiabilities": {
+      "value": 138927,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "totalLiabilities": {
+      "value": 11088927,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "shareholdersEquity": {
+      "value": -10134050,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "operatingCashFlow": {
+      "value": -600842,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:00.104Z"
+}

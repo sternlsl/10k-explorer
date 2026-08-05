@@ -1,0 +1,93 @@
+{
+  "ticker": "AEHR",
+  "name": "AEHR TEST SYSTEMS",
+  "cik": 1040470,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 50001000,
+      "year": 2026,
+      "periodEnd": "2026-05-29",
+      "filed": "2026-07-27"
+    },
+    "cogs": {
+      "value": 32350000,
+      "year": 2026,
+      "periodEnd": "2026-05-29",
+      "filed": "2026-07-27"
+    },
+    "grossProfit": {
+      "value": 17651000,
+      "year": 2026,
+      "periodEnd": "2026-05-29",
+      "filed": "2026-07-27"
+    },
+    "operatingIncome": {
+      "value": -14149000,
+      "year": 2026,
+      "periodEnd": "2026-05-29",
+      "filed": "2026-07-27"
+    },
+    "netIncome": {
+      "value": -7126000,
+      "year": 2026,
+      "periodEnd": "2026-05-29",
+      "filed": "2026-07-27"
+    },
+    "epsBasic": {
+      "value": -0.23,
+      "year": 2026,
+      "periodEnd": "2026-05-29",
+      "filed": "2026-07-27"
+    },
+    "epsDiluted": {
+      "value": -0.23,
+      "year": 2026,
+      "periodEnd": "2026-05-29",
+      "filed": "2026-07-27"
+    },
+    "currentAssets": {
+      "value": 184448000,
+      "year": 2026,
+      "periodEnd": "2026-05-29",
+      "filed": "2026-07-27"
+    },
+    "totalAssets": {
+      "value": 246694000,
+      "year": 2026,
+      "periodEnd": "2026-05-29",
+      "filed": "2026-07-27"
+    },
+    "currentLiabilities": {
+      "value": 17855000,
+      "year": 2026,
+      "periodEnd": "2026-05-29",
+      "filed": "2026-07-27"
+    },
+    "totalLiabilities": {
+      "value": 27183000,
+      "year": 2026,
+      "periodEnd": "2026-05-29",
+      "filed": "2026-07-27"
+    },
+    "shareholdersEquity": {
+      "value": 219511000,
+      "year": 2026,
+      "periodEnd": "2026-05-29",
+      "filed": "2026-07-27"
+    },
+    "operatingCashFlow": {
+      "value": -3310000,
+      "year": 2026,
+      "periodEnd": "2026-05-29",
+      "filed": "2026-07-27"
+    },
+    "capex": {
+      "value": 2066000,
+      "year": 2026,
+      "periodEnd": "2026-05-29",
+      "filed": "2026-07-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:05.401Z"
+}

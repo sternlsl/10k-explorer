@@ -1,0 +1,93 @@
+{
+  "ticker": "BRST",
+  "name": "Broad Street Realty, Inc.",
+  "cik": 764897,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 41345000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-28"
+    },
+    "cogs": {
+      "value": 7209635,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-25"
+    },
+    "grossProfit": {
+      "value": -1292376,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-25"
+    },
+    "operatingIncome": {
+      "value": -292000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-28"
+    },
+    "netIncome": {
+      "value": -9508000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-04-15"
+    },
+    "epsBasic": {
+      "value": -0.8,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-28"
+    },
+    "epsDiluted": {
+      "value": -0.8,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-28"
+    },
+    "currentAssets": {
+      "value": 173505,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-11"
+    },
+    "totalAssets": {
+      "value": 345251000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-28"
+    },
+    "currentLiabilities": {
+      "value": 153111,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-11"
+    },
+    "totalLiabilities": {
+      "value": 263552000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-28"
+    },
+    "shareholdersEquity": {
+      "value": -8967000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-28"
+    },
+    "operatingCashFlow": {
+      "value": 601000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-28"
+    },
+    "capex": {
+      "value": 22616,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2019-04-11"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:23.056Z"
+}

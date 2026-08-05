@@ -1,0 +1,73 @@
+{
+  "ticker": "MPLX",
+  "name": "MPLX LP",
+  "cik": 1552000,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 9726000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 5943000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "netIncome": {
+      "value": 3928000000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-28"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 3994000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalAssets": {
+      "value": 43005000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentLiabilities": {
+      "value": 3249000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalLiabilities": {
+      "value": 28477000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "shareholdersEquity": {
+      "value": 9254000000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-26"
+    },
+    "operatingCashFlow": {
+      "value": 5909000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "capex": {
+      "value": 1808000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:53:43.006Z"
+}

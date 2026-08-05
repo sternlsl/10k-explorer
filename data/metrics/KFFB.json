@@ -1,0 +1,68 @@
+{
+  "ticker": "KFFB",
+  "name": "Kentucky First Federal Bancorp",
+  "cik": 1297341,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 15000,
+      "year": 2019,
+      "periodEnd": "2019-06-30",
+      "filed": "2019-09-30"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 181000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "epsBasic": {
+      "value": 0.02,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "epsDiluted": {
+      "value": 0.02,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 371211000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 322842000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "shareholdersEquity": {
+      "value": 48369000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "operatingCashFlow": {
+      "value": -86000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "capex": {
+      "value": 149000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:32.606Z"
+}

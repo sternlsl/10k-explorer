@@ -1,0 +1,93 @@
+{
+  "ticker": "BIRD",
+  "name": "Allbirds, Inc.",
+  "cik": 1653909,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 152466000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "cogs": {
+      "value": 89915000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "grossProfit": {
+      "value": 62551000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingIncome": {
+      "value": -79962000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": -77283000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": -9.47,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": -9.47,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 82116000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 109419000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 40642000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 73505000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 35914000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -55083000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 3145000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:04.538Z"
+}

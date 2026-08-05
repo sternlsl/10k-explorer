@@ -1,0 +1,78 @@
+{
+  "ticker": "CNTX",
+  "name": "Context Therapeutics Inc.",
+  "cik": 1842952,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -39702631,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "netIncome": {
+      "value": -36123615,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "epsBasic": {
+      "value": -0.38,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "epsDiluted": {
+      "value": -0.38,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "currentAssets": {
+      "value": 68353702,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "totalAssets": {
+      "value": 68493768,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "currentLiabilities": {
+      "value": 8020041,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "totalLiabilities": {
+      "value": 8020041,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "shareholdersEquity": {
+      "value": 60473727,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "operatingCashFlow": {
+      "value": -26385380,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "capex": {
+      "value": 33948,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:54.615Z"
+}

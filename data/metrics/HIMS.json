@@ -1,0 +1,88 @@
+{
+  "ticker": "HIMS",
+  "name": "Hims & Hers Health, Inc.",
+  "cik": 1773751,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2347637000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "cogs": {
+      "value": 614259000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "grossProfit": {
+      "value": 1733378000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "operatingIncome": {
+      "value": 105613000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "netIncome": {
+      "value": 128365000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "epsBasic": {
+      "value": 0.57,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "epsDiluted": {
+      "value": 0.51,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "currentAssets": {
+      "value": 767638000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "totalAssets": {
+      "value": 2154705000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "currentLiabilities": {
+      "value": 404431000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "totalLiabilities": {
+      "value": 1613777000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "shareholdersEquity": {
+      "value": 540928000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "operatingCashFlow": {
+      "value": 300006000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:55:42.709Z"
+}

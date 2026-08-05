@@ -1,0 +1,83 @@
+{
+  "ticker": "MTWO",
+  "name": "M2i Global, Inc.",
+  "cik": 1753373,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3400,
+      "year": 2023,
+      "periodEnd": "2023-11-30",
+      "filed": "2025-02-27"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 1000,
+      "year": 2022,
+      "periodEnd": "2022-11-30",
+      "filed": "2023-03-15"
+    },
+    "operatingIncome": {
+      "value": -5972345,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "netIncome": {
+      "value": -6492569,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "currentAssets": {
+      "value": 487983,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "totalAssets": {
+      "value": 487983,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "currentLiabilities": {
+      "value": 7535952,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "totalLiabilities": {
+      "value": 7535952,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "shareholdersEquity": {
+      "value": -7047969,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "operatingCashFlow": {
+      "value": -4237086,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:04.739Z"
+}

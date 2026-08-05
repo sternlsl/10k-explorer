@@ -1,0 +1,88 @@
+{
+  "ticker": "INTZ",
+  "name": "INTRUSION INC",
+  "cik": 736012,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7015000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "cogs": {
+      "value": 1715000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "grossProfit": {
+      "value": 5380000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "operatingIncome": {
+      "value": -9164000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "netIncome": {
+      "value": -9059000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "epsBasic": {
+      "value": -0.46,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "epsDiluted": {
+      "value": -0.46,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "currentAssets": {
+      "value": 4231000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "totalAssets": {
+      "value": 10387000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "currentLiabilities": {
+      "value": 1785000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 7277000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "operatingCashFlow": {
+      "value": -6759000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "capex": {
+      "value": 777000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:27.981Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "FRD",
+  "name": "FRIEDMAN INDUSTRIES INC",
+  "cik": 39092,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 121157278,
+      "year": 2018,
+      "periodEnd": "2018-03-31",
+      "filed": "2018-06-28"
+    },
+    "cogs": {
+      "value": 441815000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 3043000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "netIncome": {
+      "value": 6085000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "epsBasic": {
+      "value": 0.87,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "epsDiluted": {
+      "value": 0.87,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "currentAssets": {
+      "value": 166467000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "totalAssets": {
+      "value": 226822000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "currentLiabilities": {
+      "value": 38324000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "totalLiabilities": {
+      "value": 94397000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "shareholdersEquity": {
+      "value": 132425000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "operatingCashFlow": {
+      "value": -4410000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "capex": {
+      "value": 4002000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:31.036Z"
+}

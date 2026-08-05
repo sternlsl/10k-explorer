@@ -1,0 +1,83 @@
+{
+  "ticker": "LPCN",
+  "name": "Lipocine Inc.",
+  "cik": 1535955,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 500000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-10"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -10371379,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "netIncome": {
+      "value": -9627505,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "epsBasic": {
+      "value": -1.77,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "epsDiluted": {
+      "value": -1.69,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "currentAssets": {
+      "value": 16877566,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "totalAssets": {
+      "value": 17005612,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "currentLiabilities": {
+      "value": 2528196,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "totalLiabilities": {
+      "value": 2528196,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "shareholdersEquity": {
+      "value": 14477416,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "operatingCashFlow": {
+      "value": -9760721,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "capex": {
+      "value": 90086,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-10"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:18.072Z"
+}

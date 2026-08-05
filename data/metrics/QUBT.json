@@ -1,0 +1,93 @@
+{
+  "ticker": "QUBT",
+  "name": "Quantum Computing Inc.",
+  "cik": 1758009,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 682000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "cogs": {
+      "value": 615000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "grossProfit": {
+      "value": 67000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "operatingIncome": {
+      "value": -51077000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "netIncome": {
+      "value": -18674000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": -0.11,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsDiluted": {
+      "value": -0.11,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentAssets": {
+      "value": 1133720000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "totalAssets": {
+      "value": 1618920000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": {
+      "value": 11074000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "totalLiabilities": {
+      "value": 20655000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "shareholdersEquity": {
+      "value": 1598265000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "operatingCashFlow": {
+      "value": -30294000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "capex": {
+      "value": 6690000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:26.584Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "PFGC",
+  "name": "Performance Food Group Co",
+  "cik": 1618673,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 17619900000,
+      "year": 2018,
+      "periodEnd": "2018-06-30",
+      "filed": "2018-08-16"
+    },
+    "cogs": {
+      "value": 55882300000,
+      "year": 2025,
+      "periodEnd": "2025-06-28",
+      "filed": "2025-08-13"
+    },
+    "grossProfit": {
+      "value": 7416600000,
+      "year": 2025,
+      "periodEnd": "2025-06-28",
+      "filed": "2025-08-13"
+    },
+    "operatingIncome": {
+      "value": 816300000,
+      "year": 2025,
+      "periodEnd": "2025-06-28",
+      "filed": "2025-08-13"
+    },
+    "netIncome": {
+      "value": 340200000,
+      "year": 2025,
+      "periodEnd": "2025-06-28",
+      "filed": "2025-08-13"
+    },
+    "epsBasic": {
+      "value": 2.2,
+      "year": 2025,
+      "periodEnd": "2025-06-28",
+      "filed": "2025-08-13"
+    },
+    "epsDiluted": {
+      "value": 2.18,
+      "year": 2025,
+      "periodEnd": "2025-06-28",
+      "filed": "2025-08-13"
+    },
+    "currentAssets": {
+      "value": 7135100000,
+      "year": 2025,
+      "periodEnd": "2025-06-28",
+      "filed": "2025-08-13"
+    },
+    "totalAssets": {
+      "value": 17881200000,
+      "year": 2025,
+      "periodEnd": "2025-06-28",
+      "filed": "2025-08-13"
+    },
+    "currentLiabilities": {
+      "value": 4517600000,
+      "year": 2025,
+      "periodEnd": "2025-06-28",
+      "filed": "2025-08-13"
+    },
+    "totalLiabilities": {
+      "value": 13408800000,
+      "year": 2025,
+      "periodEnd": "2025-06-28",
+      "filed": "2025-08-13"
+    },
+    "shareholdersEquity": {
+      "value": 4472400000,
+      "year": 2025,
+      "periodEnd": "2025-06-28",
+      "filed": "2025-08-13"
+    },
+    "operatingCashFlow": {
+      "value": 1210100000,
+      "year": 2025,
+      "periodEnd": "2025-06-28",
+      "filed": "2025-08-13"
+    },
+    "capex": {
+      "value": 506000000,
+      "year": 2025,
+      "periodEnd": "2025-06-28",
+      "filed": "2025-08-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:45.358Z"
+}

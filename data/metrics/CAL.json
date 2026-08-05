@@ -1,0 +1,88 @@
+{
+  "ticker": "CAL",
+  "name": "CALERES INC",
+  "cik": 14707,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 85513000,
+      "year": 2019,
+      "periodEnd": "2019-02-02",
+      "filed": "2019-04-03"
+    },
+    "cogs": {
+      "value": 1573075000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "grossProfit": {
+      "value": 1184778000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "operatingIncome": {
+      "value": 6372000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "netIncome": {
+      "value": -6692000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "epsBasic": {
+      "value": -0.21,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "epsDiluted": {
+      "value": -0.21,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "currentAssets": {
+      "value": 862774000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "totalAssets": {
+      "value": 1965790000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "currentLiabilities": {
+      "value": 845540000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 601851000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "operatingCashFlow": {
+      "value": 103177000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    },
+    "capex": {
+      "value": 63744000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:18.412Z"
+}

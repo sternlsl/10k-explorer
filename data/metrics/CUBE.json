@@ -1,0 +1,78 @@
+{
+  "ticker": "CUBE",
+  "name": "CubeSmart",
+  "cik": 1298675,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1123110000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 351405000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 195715000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-16"
+    },
+    "netIncome": {
+      "value": 163889000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-22"
+    },
+    "epsBasic": {
+      "value": 1.46,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": 1.46,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 6643193000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 3861117000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 2719443000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 608512000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 118300000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-21"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:16.926Z"
+}

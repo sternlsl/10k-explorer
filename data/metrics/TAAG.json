@@ -1,0 +1,88 @@
+{
+  "ticker": "TAAG",
+  "name": "Awareness Group, Inc.",
+  "cik": 1386044,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 540891,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-04-16"
+    },
+    "cogs": {
+      "value": 1005341,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2025-01-16"
+    },
+    "grossProfit": {
+      "value": 352985,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-04-16"
+    },
+    "operatingIncome": {
+      "value": -614330,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-04-16"
+    },
+    "netIncome": {
+      "value": -1083860,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-04-16"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2025-01-16"
+    },
+    "currentAssets": {
+      "value": 743468,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-04-16"
+    },
+    "totalAssets": {
+      "value": 32598184,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-04-16"
+    },
+    "currentLiabilities": {
+      "value": 11470844,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-04-16"
+    },
+    "totalLiabilities": {
+      "value": 30421785,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-04-16"
+    },
+    "shareholdersEquity": {
+      "value": 4354761,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-04-16"
+    },
+    "operatingCashFlow": {
+      "value": -495134,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-04-16"
+    },
+    "capex": {
+      "value": 78,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-04-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:12.676Z"
+}

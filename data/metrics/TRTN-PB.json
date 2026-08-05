@@ -1,0 +1,78 @@
+{
+  "ticker": "TRTN-PB",
+  "name": "Triton International Ltd",
+  "cik": 1660734,
+  "fiscalYear": 2021,
+  "metrics": {
+    "revenue": {
+      "value": 142969000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-15"
+    },
+    "cogs": {
+      "value": 108870000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-15"
+    },
+    "grossProfit": {
+      "value": 34099000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-15"
+    },
+    "operatingIncome": {
+      "value": 935095000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-15"
+    },
+    "netIncome": {
+      "value": 530240000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-15"
+    },
+    "epsBasic": {
+      "value": 7.26,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-15"
+    },
+    "epsDiluted": {
+      "value": 7.22,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-15"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 12643838000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-15"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 9579126000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-15"
+    },
+    "shareholdersEquity": {
+      "value": 3064712000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-15"
+    },
+    "operatingCashFlow": {
+      "value": 1405164000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:50.929Z"
+}

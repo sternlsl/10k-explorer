@@ -1,0 +1,78 @@
+{
+  "ticker": "PCVX",
+  "name": "Vaxcyte, Inc.",
+  "cik": 1649094,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -923675000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "netIncome": {
+      "value": -766628000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": -5.63,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsDiluted": {
+      "value": -5.63,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentAssets": {
+      "value": 1627361000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "totalAssets": {
+      "value": 3002717000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentLiabilities": {
+      "value": 205750000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "totalLiabilities": {
+      "value": 317207000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "shareholdersEquity": {
+      "value": 2685510000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "operatingCashFlow": {
+      "value": -655577000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "capex": {
+      "value": 13713000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:21.659Z"
+}

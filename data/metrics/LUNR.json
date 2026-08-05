@@ -1,0 +1,83 @@
+{
+  "ticker": "LUNR",
+  "name": "Intuitive Machines, Inc.",
+  "cik": 1844452,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 207132000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -87231000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "netIncome": {
+      "value": -83294000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsBasic": {
+      "value": -0.73,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsDiluted": {
+      "value": -0.73,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentAssets": {
+      "value": 618814000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalAssets": {
+      "value": 757154000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentLiabilities": {
+      "value": 124832000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalLiabilities": {
+      "value": 553452000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "shareholdersEquity": {
+      "value": -754964000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "operatingCashFlow": {
+      "value": -14318000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "capex": {
+      "value": 41634000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:24.868Z"
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "STC",
+  "name": "STEWART INFORMATION SERVICES CORP",
+  "cik": 94344,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2212240000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-29"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 115535000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": 4.12,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": 4.05,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 3252805000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1602407000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 1641084000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 205688000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:29.075Z"
+}

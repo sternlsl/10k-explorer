@@ -1,0 +1,83 @@
+{
+  "ticker": "BALY",
+  "name": "Bally's Corp",
+  "cik": 1747079,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2436189000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -277702000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "netIncome": {
+      "value": -650074000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "epsBasic": {
+      "value": -10.73,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "epsDiluted": {
+      "value": -10.73,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "currentAssets": {
+      "value": 1346794000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "totalAssets": {
+      "value": 11230376000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "currentLiabilities": {
+      "value": 1687054000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "totalLiabilities": {
+      "value": 8685546000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "shareholdersEquity": {
+      "value": 994658000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "operatingCashFlow": {
+      "value": -11014000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "capex": {
+      "value": 167869000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:33.806Z"
+}

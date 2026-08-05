@@ -1,0 +1,88 @@
+{
+  "ticker": "SGC",
+  "name": "SUPERIOR GROUP OF COMPANIES, INC.",
+  "cik": 95574,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 566184000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "cogs": {
+      "value": 353320000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "grossProfit": {
+      "value": 212864000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 7000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "epsBasic": {
+      "value": 0.47,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "epsDiluted": {
+      "value": 0.46,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "currentAssets": {
+      "value": 287663000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalAssets": {
+      "value": 421844000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "currentLiabilities": {
+      "value": 107947000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalLiabilities": {
+      "value": 229026000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "shareholdersEquity": {
+      "value": 192818000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "operatingCashFlow": {
+      "value": 19709000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "capex": {
+      "value": 3947000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:11.128Z"
+}

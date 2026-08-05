@@ -1,0 +1,93 @@
+{
+  "ticker": "GMER",
+  "name": "GOOD GAMING, INC.",
+  "cik": 1454742,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 433,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-04-03"
+    },
+    "cogs": {
+      "value": 293234,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "grossProfit": {
+      "value": 433,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-04-03"
+    },
+    "operatingIncome": {
+      "value": -231854,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "netIncome": {
+      "value": -235674,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "currentAssets": {
+      "value": 91115,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "totalAssets": {
+      "value": 91115,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "currentLiabilities": {
+      "value": 1198806,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "totalLiabilities": {
+      "value": 1198806,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "shareholdersEquity": {
+      "value": -1107691,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "operatingCashFlow": {
+      "value": -1022,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "capex": {
+      "value": 1953,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2023-04-07"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:11.706Z"
+}

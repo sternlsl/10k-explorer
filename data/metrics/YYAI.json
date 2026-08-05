@@ -1,0 +1,93 @@
+{
+  "ticker": "YYAI",
+  "name": "AIRWA INC.",
+  "cik": 1674440,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 12818182,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-13"
+    },
+    "cogs": {
+      "value": 2976923,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-13"
+    },
+    "grossProfit": {
+      "value": 9841259,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-13"
+    },
+    "operatingIncome": {
+      "value": 6579857,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-13"
+    },
+    "netIncome": {
+      "value": 3491287,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-13"
+    },
+    "epsBasic": {
+      "value": 0.36,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-13"
+    },
+    "epsDiluted": {
+      "value": -32.44,
+      "year": 2024,
+      "periodEnd": "2024-04-30",
+      "filed": "2024-07-25"
+    },
+    "currentAssets": {
+      "value": 22396159,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-13"
+    },
+    "totalAssets": {
+      "value": 32905794,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-13"
+    },
+    "currentLiabilities": {
+      "value": 6487171,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-13"
+    },
+    "totalLiabilities": {
+      "value": 6487171,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-13"
+    },
+    "shareholdersEquity": {
+      "value": 25276463,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-13"
+    },
+    "operatingCashFlow": {
+      "value": -379384,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-13"
+    },
+    "capex": {
+      "value": -3000,
+      "year": 2017,
+      "periodEnd": "2017-04-30",
+      "filed": "2018-08-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:46.402Z"
+}

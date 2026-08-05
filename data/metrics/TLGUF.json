@@ -1,0 +1,58 @@
+{
+  "ticker": "TLGUF",
+  "name": "TLGY ACQUISITION CORP",
+  "cik": 1879814,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -14782020,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 102415,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 6447220,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 6093695,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 21752370,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -21650066,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -1245904,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:51.046Z"
+}

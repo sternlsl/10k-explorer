@@ -1,0 +1,78 @@
+{
+  "ticker": "CLRB",
+  "name": "Cellectar Biosciences, Inc.",
+  "cik": 1279704,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -22979844,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "netIncome": {
+      "value": -21791037,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "epsBasic": {
+      "value": -8.35,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "epsDiluted": {
+      "value": -8.35,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "currentAssets": {
+      "value": 14038465,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "totalAssets": {
+      "value": 14978321,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "currentLiabilities": {
+      "value": 4749737,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "totalLiabilities": {
+      "value": 5059134,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "shareholdersEquity": {
+      "value": 8537164,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "operatingCashFlow": {
+      "value": -23118217,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "capex": {
+      "value": 5880,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:41.725Z"
+}

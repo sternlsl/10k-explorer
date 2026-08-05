@@ -1,0 +1,73 @@
+{
+  "ticker": "NELR",
+  "name": "Neolara Corp.",
+  "cik": 1941360,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 29150,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-18"
+    },
+    "cogs": {
+      "value": 6881,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-18"
+    },
+    "grossProfit": {
+      "value": 22269,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-18"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -23688,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-18"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-18"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 20719,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-18"
+    },
+    "totalAssets": {
+      "value": 67469,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-18"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 90812,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-18"
+    },
+    "shareholdersEquity": {
+      "value": -23343,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-18"
+    },
+    "operatingCashFlow": {
+      "value": -40524,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-18"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:47.207Z"
+}

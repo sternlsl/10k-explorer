@@ -1,0 +1,83 @@
+{
+  "ticker": "SATLW",
+  "name": "Satellogic Inc.",
+  "cik": 1874315,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 17707000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -31019000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "netIncome": {
+      "value": -4783000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsBasic": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsDiluted": {
+      "value": -0.18,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentAssets": {
+      "value": 115174000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalAssets": {
+      "value": 151303000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentLiabilities": {
+      "value": 22505000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalLiabilities": {
+      "value": 90777000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "shareholdersEquity": {
+      "value": 60526000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "operatingCashFlow": {
+      "value": -26886000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "capex": {
+      "value": 7376000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:44.732Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "ORKA",
+  "name": "Oruka Therapeutics, Inc.",
+  "cik": 907654,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-01"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -122051000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "netIncome": {
+      "value": -105433000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "epsBasic": {
+      "value": -3.87,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-06"
+    },
+    "epsDiluted": {
+      "value": -3.87,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-06"
+    },
+    "currentAssets": {
+      "value": 343857000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "totalAssets": {
+      "value": 488617000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "currentLiabilities": {
+      "value": 15374000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "totalLiabilities": {
+      "value": 16687000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "shareholdersEquity": {
+      "value": 471930000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "operatingCashFlow": {
+      "value": -88210000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "capex": {
+      "value": 209000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:26.926Z"
+}

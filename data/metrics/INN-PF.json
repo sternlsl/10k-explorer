@@ -1,0 +1,73 @@
+{
+  "ticker": "INN-PF",
+  "name": "Summit Hotel Properties, Inc.",
+  "cik": 1497645,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 729472000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "cogs": {
+      "value": 131181000,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-02-26"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 65685000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "netIncome": {
+      "value": -65573000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-23"
+    },
+    "epsBasic": {
+      "value": -0.22,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": -0.22,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2776030000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1502059000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "shareholdersEquity": {
+      "value": 862155000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 149030000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:59:48.391Z"
+}

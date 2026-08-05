@@ -1,0 +1,83 @@
+{
+  "ticker": "NGS",
+  "name": "NATURAL GAS SERVICES GROUP INC",
+  "cik": 1084991,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 15008000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 37298000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "netIncome": {
+      "value": 19928000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "epsBasic": {
+      "value": 1.59,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "epsDiluted": {
+      "value": 1.57,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentAssets": {
+      "value": 57123000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "totalAssets": {
+      "value": 586786000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentLiabilities": {
+      "value": 24510000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "totalLiabilities": {
+      "value": 312070000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "shareholdersEquity": {
+      "value": 274716000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "operatingCashFlow": {
+      "value": 62927000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "capex": {
+      "value": 121487000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:55.254Z"
+}

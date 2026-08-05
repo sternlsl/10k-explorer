@@ -1,0 +1,88 @@
+{
+  "ticker": "GTLL",
+  "name": "GLOBAL TECHNOLOGIES LTD",
+  "cik": 932021,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3139008,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-12-30"
+    },
+    "cogs": {
+      "value": 2093337,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-12-30"
+    },
+    "grossProfit": {
+      "value": 1045671,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-12-30"
+    },
+    "operatingIncome": {
+      "value": 171468,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-12-30"
+    },
+    "netIncome": {
+      "value": -342681,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-12-30"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-12-30"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-12-30"
+    },
+    "currentAssets": {
+      "value": 68108,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-12-30"
+    },
+    "totalAssets": {
+      "value": 68108,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-12-30"
+    },
+    "currentLiabilities": {
+      "value": 1221387,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-12-30"
+    },
+    "totalLiabilities": {
+      "value": 1221387,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-12-30"
+    },
+    "shareholdersEquity": {
+      "value": -1153279,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-12-30"
+    },
+    "operatingCashFlow": {
+      "value": 354823,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-12-30"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:06.139Z"
+}

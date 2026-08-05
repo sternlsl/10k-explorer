@@ -1,0 +1,88 @@
+{
+  "ticker": "ZCARW",
+  "name": "Zoomcar Holdings, Inc.",
+  "cik": 1854275,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 9897233,
+      "year": 2024,
+      "periodEnd": "2024-03-31",
+      "filed": "2024-07-12"
+    },
+    "cogs": {
+      "value": 4428965,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -6767583,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "netIncome": {
+      "value": -14621113,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "epsBasic": {
+      "value": -1.28,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "epsDiluted": {
+      "value": -1.28,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "currentAssets": {
+      "value": 1260089,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "totalAssets": {
+      "value": 3204107,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "currentLiabilities": {
+      "value": 37535986,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "totalLiabilities": {
+      "value": 38508174,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "shareholdersEquity": {
+      "value": -35304067,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "operatingCashFlow": {
+      "value": -1359300,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "capex": {
+      "value": 4748,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:15.323Z"
+}

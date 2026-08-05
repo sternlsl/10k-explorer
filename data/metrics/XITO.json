@@ -1,0 +1,73 @@
+{
+  "ticker": "XITO",
+  "name": "Xenous Holdings, Inc.",
+  "cik": 1651932,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2020,
+      "periodEnd": "2020-03-31",
+      "filed": "2020-07-14"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -63919,
+      "year": 2020,
+      "periodEnd": "2020-03-31",
+      "filed": "2020-07-14"
+    },
+    "netIncome": {
+      "value": -64456,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "currentAssets": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-03-31",
+      "filed": "2023-06-28"
+    },
+    "totalAssets": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "currentLiabilities": {
+      "value": 903622,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "totalLiabilities": {
+      "value": 903622,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "shareholdersEquity": {
+      "value": -903622,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "operatingCashFlow": {
+      "value": -63637,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:37.525Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "MAN",
+  "name": "ManpowerGroup Inc.",
+  "cik": 871763,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 17957100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "cogs": {
+      "value": 14959500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "grossProfit": {
+      "value": 2997600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "operatingIncome": {
+      "value": 150100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "netIncome": {
+      "value": 556700000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-22"
+    },
+    "epsBasic": {
+      "value": -0.29,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "epsDiluted": {
+      "value": -0.29,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "currentAssets": {
+      "value": 5790400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "totalAssets": {
+      "value": 9160100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "currentLiabilities": {
+      "value": 5233600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 2059600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "operatingCashFlow": {
+      "value": -104100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:14.262Z"
+}

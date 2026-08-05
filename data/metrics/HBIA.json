@@ -1,0 +1,63 @@
+{
+  "ticker": "HBIA",
+  "name": "HILLS BANCORPORATION",
+  "cik": 732417,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 60502000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsBasic": {
+      "value": 6.82,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsDiluted": {
+      "value": 6.81,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 4647870000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 4045161000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "shareholdersEquity": {
+      "value": 548234000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "operatingCashFlow": {
+      "value": 68809000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "capex": {
+      "value": 3670000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:14.676Z"
+}

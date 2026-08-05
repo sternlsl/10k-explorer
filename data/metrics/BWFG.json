@@ -1,0 +1,68 @@
+{
+  "ticker": "BWFG",
+  "name": "Bankwell Financial Group, Inc.",
+  "cik": 1505732,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2826000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 35198000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "epsBasic": {
+      "value": 4.49,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "epsDiluted": {
+      "value": 4.45,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 3359859000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 3058370000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "shareholdersEquity": {
+      "value": 301489000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "operatingCashFlow": {
+      "value": 28273000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "capex": {
+      "value": 1144000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:27.708Z"
+}

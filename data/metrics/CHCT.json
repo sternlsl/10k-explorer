@@ -1,0 +1,63 @@
+{
+  "ticker": "CHCT",
+  "name": "Community Healthcare Trust Inc",
+  "cik": 1631569,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 121195000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 5102000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsBasic": {
+      "value": 0.08,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsDiluted": {
+      "value": 0.08,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 990757000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 561370000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "shareholdersEquity": {
+      "value": 429387000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "operatingCashFlow": {
+      "value": 56430000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:01.944Z"
+}

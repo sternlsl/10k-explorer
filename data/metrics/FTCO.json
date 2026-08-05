@@ -1,0 +1,88 @@
+{
+  "ticker": "FTCO",
+  "name": "Fortitude Gold Corp",
+  "cik": 1828377,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 18411000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "cogs": {
+      "value": 8450000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "grossProfit": {
+      "value": 9961000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 420000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "epsBasic": {
+      "value": 0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "epsDiluted": {
+      "value": 0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "currentAssets": {
+      "value": 38621000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalAssets": {
+      "value": 136185000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "currentLiabilities": {
+      "value": 9073000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalLiabilities": {
+      "value": 31811000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "shareholdersEquity": {
+      "value": 104374000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "operatingCashFlow": {
+      "value": -13017000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "capex": {
+      "value": 1942000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:39.793Z"
+}

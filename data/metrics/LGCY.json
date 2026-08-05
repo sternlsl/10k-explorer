@@ -1,0 +1,83 @@
+{
+  "ticker": "LGCY",
+  "name": "Legacy Education Inc.",
+  "cik": 1836754,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 64168025,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 9986326,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "netIncome": {
+      "value": 7534232,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "epsBasic": {
+      "value": 0.65,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "epsDiluted": {
+      "value": 0.59,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "currentAssets": {
+      "value": 37053027,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "totalAssets": {
+      "value": 69205138,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "currentLiabilities": {
+      "value": 13780773,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "totalLiabilities": {
+      "value": 28161618,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "shareholdersEquity": {
+      "value": 41043520,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "operatingCashFlow": {
+      "value": 7768239,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "capex": {
+      "value": 844320,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:33.366Z"
+}

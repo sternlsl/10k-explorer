@@ -1,0 +1,78 @@
+{
+  "ticker": "PIAC",
+  "name": "PRINCETON CAPITAL CORP",
+  "cik": 845385,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 8757000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-30"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 1694000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-30"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -6780265,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsBasic": {
+      "value": -0.015,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsDiluted": {
+      "value": -0.015,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "currentAssets": {
+      "value": 32486149,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-30"
+    },
+    "totalAssets": {
+      "value": 14758599,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "currentLiabilities": {
+      "value": 402687,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-30"
+    },
+    "totalLiabilities": {
+      "value": 495598,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "shareholdersEquity": {
+      "value": 14263001,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "operatingCashFlow": {
+      "value": -1049032,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:19.669Z"
+}

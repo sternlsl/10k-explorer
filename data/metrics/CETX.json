@@ -1,0 +1,93 @@
+{
+  "ticker": "CETX",
+  "name": "CEMTREX INC",
+  "cik": 1435064,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 76488088,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "cogs": {
+      "value": 40117904,
+      "year": 2017,
+      "periodEnd": "2017-09-30",
+      "filed": "2017-12-13"
+    },
+    "grossProfit": {
+      "value": 32288526,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "operatingIncome": {
+      "value": 509826,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "netIncome": {
+      "value": -28112368,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "epsBasic": {
+      "value": 0.02,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2022-01-21"
+    },
+    "epsDiluted": {
+      "value": 0.02,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2022-01-21"
+    },
+    "currentAssets": {
+      "value": 29007498,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "totalAssets": {
+      "value": 47788276,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "currentLiabilities": {
+      "value": 23823159,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "totalLiabilities": {
+      "value": 39070817,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "shareholdersEquity": {
+      "value": 8717459,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "operatingCashFlow": {
+      "value": 159315,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "capex": {
+      "value": 1931534,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:45.895Z"
+}

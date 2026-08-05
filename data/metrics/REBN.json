@@ -1,0 +1,88 @@
+{
+  "ticker": "REBN",
+  "name": "Reborn Coffee, Inc.",
+  "cik": 1707910,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 8094628,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-22"
+    },
+    "cogs": {
+      "value": 650293,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-22"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -5793847,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-22"
+    },
+    "netIncome": {
+      "value": -9141240,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-22"
+    },
+    "epsBasic": {
+      "value": -1.73,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-22"
+    },
+    "epsDiluted": {
+      "value": -1.73,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-22"
+    },
+    "currentAssets": {
+      "value": 6879137,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-22"
+    },
+    "totalAssets": {
+      "value": 13181090,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-22"
+    },
+    "currentLiabilities": {
+      "value": 6686606,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-22"
+    },
+    "totalLiabilities": {
+      "value": 8535225,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-22"
+    },
+    "shareholdersEquity": {
+      "value": 2602742,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -6505426,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-22"
+    },
+    "capex": {
+      "value": 51195,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-22"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:12.091Z"
+}

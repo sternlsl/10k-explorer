@@ -1,0 +1,93 @@
+{
+  "ticker": "OLN",
+  "name": "OLIN Corp",
+  "cik": 74303,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6780800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "cogs": {
+      "value": 6279300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "grossProfit": {
+      "value": 501500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "operatingIncome": {
+      "value": 5300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "netIncome": {
+      "value": -101100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsBasic": {
+      "value": -0.88,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsDiluted": {
+      "value": -0.88,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentAssets": {
+      "value": 1971100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "totalAssets": {
+      "value": 7325800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentLiabilities": {
+      "value": 1629500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "totalLiabilities": {
+      "value": 5455200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "shareholdersEquity": {
+      "value": 1838900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "operatingCashFlow": {
+      "value": 474200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "capex": {
+      "value": 226300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:46.207Z"
+}

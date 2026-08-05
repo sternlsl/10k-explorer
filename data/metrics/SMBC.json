@@ -1,0 +1,68 @@
+{
+  "ticker": "SMBC",
+  "name": "SOUTHERN MISSOURI BANCORP, INC.",
+  "cik": 916907,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 58578000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "epsBasic": {
+      "value": 5.19,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "epsDiluted": {
+      "value": 5.18,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 5019607000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "currentLiabilities": {
+      "value": 2283810000,
+      "year": 2020,
+      "periodEnd": "2020-06-30",
+      "filed": "2020-09-14"
+    },
+    "totalLiabilities": {
+      "value": 4474915000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "shareholdersEquity": {
+      "value": 544692000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "operatingCashFlow": {
+      "value": 81557000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "capex": {
+      "value": 6263000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:15.513Z"
+}

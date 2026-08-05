@@ -1,0 +1,93 @@
+{
+  "ticker": "PATK",
+  "name": "PATRICK INDUSTRIES INC",
+  "cik": 76605,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3950773000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "cogs": {
+      "value": 3037913000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "grossProfit": {
+      "value": 912860000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "operatingIncome": {
+      "value": 275989000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "netIncome": {
+      "value": 135056000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "epsBasic": {
+      "value": 4.16,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "epsDiluted": {
+      "value": 3.9,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "currentAssets": {
+      "value": 873122000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "totalAssets": {
+      "value": 3076174000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "currentLiabilities": {
+      "value": 348490000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "totalLiabilities": {
+      "value": 1891877000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "shareholdersEquity": {
+      "value": 1184297000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "operatingCashFlow": {
+      "value": 329414000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "capex": {
+      "value": 82921000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:00.452Z"
+}

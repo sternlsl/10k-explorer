@@ -1,0 +1,93 @@
+{
+  "ticker": "NEU",
+  "name": "NEWMARKET CORP",
+  "cik": 1282637,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2725169000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "cogs": {
+      "value": 1867769000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "grossProfit": {
+      "value": 857400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "operatingIncome": {
+      "value": 543725000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "netIncome": {
+      "value": 418747000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "epsBasic": {
+      "value": 44.44,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "epsDiluted": {
+      "value": 44.44,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "currentAssets": {
+      "value": 1059712000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "totalAssets": {
+      "value": 3492465000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "currentLiabilities": {
+      "value": 419279000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "totalLiabilities": {
+      "value": 1714222000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "shareholdersEquity": {
+      "value": 1778243000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "operatingCashFlow": {
+      "value": 568967000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "capex": {
+      "value": 77637000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:43.527Z"
+}

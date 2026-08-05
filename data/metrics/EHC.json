@@ -1,0 +1,83 @@
+{
+  "ticker": "EHC",
+  "name": "Encompass Health Corp",
+  "cik": 785161,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5935200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 539500000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-27"
+    },
+    "netIncome": {
+      "value": 566200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsBasic": {
+      "value": 5.62,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsDiluted": {
+      "value": 5.54,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentAssets": {
+      "value": 905900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalAssets": {
+      "value": 7089700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentLiabilities": {
+      "value": 836400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalLiabilities": {
+      "value": 3813900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "shareholdersEquity": {
+      "value": 2438200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "operatingCashFlow": {
+      "value": 705800000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-27"
+    },
+    "capex": {
+      "value": 564800000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:03.494Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "CURV",
+  "name": "Torrid Holdings Inc.",
+  "cik": 1792781,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1000092000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "cogs": {
+      "value": 652130000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "grossProfit": {
+      "value": 347962000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "operatingIncome": {
+      "value": 21402000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": -7034000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": -0.07,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": -0.07,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 193482000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 400340000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 248938000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 613747000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -213407000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -13013000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 8852000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:26.592Z"
+}

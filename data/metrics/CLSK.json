@@ -1,0 +1,93 @@
+{
+  "ticker": "CLSK",
+  "name": "CLEANSPARK, INC.",
+  "cik": 827876,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 766314000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "cogs": {
+      "value": 7558075,
+      "year": 2020,
+      "periodEnd": "2020-09-30",
+      "filed": "2020-12-17"
+    },
+    "grossProfit": {
+      "value": 2120852,
+      "year": 2020,
+      "periodEnd": "2020-09-30",
+      "filed": "2020-12-17"
+    },
+    "operatingIncome": {
+      "value": 318949000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "netIncome": {
+      "value": 364464000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "epsBasic": {
+      "value": -1.3,
+      "year": 2023,
+      "periodEnd": "2023-09-30",
+      "filed": "2025-11-25"
+    },
+    "epsDiluted": {
+      "value": -1.3,
+      "year": 2023,
+      "periodEnd": "2023-09-30",
+      "filed": "2025-11-25"
+    },
+    "currentAssets": {
+      "value": 1320041000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "totalAssets": {
+      "value": 3183631000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "currentLiabilities": {
+      "value": 315765000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "totalLiabilities": {
+      "value": 1008504000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "shareholdersEquity": {
+      "value": 2175127000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "operatingCashFlow": {
+      "value": -461032000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "capex": {
+      "value": 19285904,
+      "year": 2022,
+      "periodEnd": "2022-09-30",
+      "filed": "2022-12-15"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:45.369Z"
+}

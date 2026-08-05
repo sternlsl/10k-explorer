@@ -1,0 +1,93 @@
+{
+  "ticker": "BCHT",
+  "name": "Birchtech Corp.",
+  "cik": 728385,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 17626366,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "cogs": {
+      "value": 12172374,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "grossProfit": {
+      "value": 7401587,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingIncome": {
+      "value": -3030313,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": -3026007,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": -0.11,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "epsDiluted": {
+      "value": -0.16,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 5003561,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 9237718,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 10740294,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 10952626,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -1714908,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -700110,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 29296,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:21.766Z"
+}

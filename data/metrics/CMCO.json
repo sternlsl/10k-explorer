@@ -1,0 +1,93 @@
+{
+  "ticker": "CMCO",
+  "name": "COLUMBUS MCKINNON CORP",
+  "cik": 1005229,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1193451000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "cogs": {
+      "value": 834020000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "grossProfit": {
+      "value": 359431000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "operatingIncome": {
+      "value": -119333000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "netIncome": {
+      "value": -229535000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "epsBasic": {
+      "value": -7.4,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "epsDiluted": {
+      "value": -7.4,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "currentAssets": {
+      "value": 1180861000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "totalAssets": {
+      "value": 4784703000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "currentLiabilities": {
+      "value": 584334000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "totalLiabilities": {
+      "value": 3336074000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "shareholdersEquity": {
+      "value": 1448727000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "operatingCashFlow": {
+      "value": -146211000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    },
+    "capex": {
+      "value": 17859000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-08"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:19.384Z"
+}

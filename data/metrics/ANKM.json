@@ -1,0 +1,88 @@
+{
+  "ticker": "ANKM",
+  "name": "Ankam, Inc.",
+  "cik": 1781629,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 325000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-17"
+    },
+    "cogs": {
+      "value": 149900,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-17"
+    },
+    "grossProfit": {
+      "value": 175100,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-17"
+    },
+    "operatingIncome": {
+      "value": -67192,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-17"
+    },
+    "netIncome": {
+      "value": -67152,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-17"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-17"
+    },
+    "epsDiluted": {
+      "value": -0.03,
+      "year": 2024,
+      "periodEnd": "2024-11-30",
+      "filed": "2025-03-14"
+    },
+    "currentAssets": {
+      "value": 131710,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-17"
+    },
+    "totalAssets": {
+      "value": 183552,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-17"
+    },
+    "currentLiabilities": {
+      "value": 574813,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-17"
+    },
+    "totalLiabilities": {
+      "value": 574813,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-17"
+    },
+    "shareholdersEquity": {
+      "value": -391261,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-17"
+    },
+    "operatingCashFlow": {
+      "value": 109446,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-17"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:23.128Z"
+}

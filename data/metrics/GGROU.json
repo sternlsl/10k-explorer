@@ -1,0 +1,73 @@
+{
+  "ticker": "GGROU",
+  "name": "Golden Growers Cooperative",
+  "cik": 1489874,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 62279000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "cogs": {
+      "value": 62293000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 5777000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "netIncome": null,
+    "epsBasic": {
+      "value": 0.43,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-08"
+    },
+    "epsDiluted": {
+      "value": 0.43,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-08"
+    },
+    "currentAssets": {
+      "value": 6112000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "totalAssets": {
+      "value": 20283000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentLiabilities": {
+      "value": 188000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": -396000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "capex": {
+      "value": 6000,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2015-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:57.448Z"
+}

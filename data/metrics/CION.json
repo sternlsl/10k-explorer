@@ -1,0 +1,48 @@
+{
+  "ticker": "CION",
+  "name": "CION Investment Corp",
+  "cik": 1534254,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -20631000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1854800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1147172000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "shareholdersEquity": {
+      "value": 707628000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "operatingCashFlow": {
+      "value": 76833000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:30.526Z"
+}

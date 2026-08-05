@@ -1,0 +1,73 @@
+{
+  "ticker": "DEI",
+  "name": "Douglas Emmett Inc",
+  "cik": 1364250,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 84900000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-17"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 636045000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "operatingIncome": {
+      "value": 242708000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-14"
+    },
+    "netIncome": {
+      "value": 16267000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsBasic": {
+      "value": 0.09,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsDiluted": {
+      "value": 0.09,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 9288181000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 5813250000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "shareholdersEquity": {
+      "value": 1904557000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "operatingCashFlow": {
+      "value": 386853000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:21.975Z"
+}

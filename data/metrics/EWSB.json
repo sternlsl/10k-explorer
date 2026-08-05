@@ -1,0 +1,63 @@
+{
+  "ticker": "EWSB",
+  "name": "EWSB Bancorp, Inc. /MD/",
+  "cik": 2013792,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -4176956,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "epsBasic": {
+      "value": -5.93,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "epsDiluted": {
+      "value": -5.93,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 270969326,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 257751400,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "shareholdersEquity": {
+      "value": 13217926,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "operatingCashFlow": {
+      "value": -1670495,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "capex": {
+      "value": 104878,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:11.022Z"
+}

@@ -1,0 +1,73 @@
+{
+  "ticker": "HSTC",
+  "name": "HST Global, Inc.",
+  "cik": 797564,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-05"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -140907,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-05"
+    },
+    "netIncome": {
+      "value": -146210,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-05"
+    },
+    "epsBasic": {
+      "value": -0.03,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-05"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 1526,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-05"
+    },
+    "totalAssets": {
+      "value": 1526,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-05"
+    },
+    "currentLiabilities": {
+      "value": 593593,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-05"
+    },
+    "totalLiabilities": {
+      "value": 593593,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-05"
+    },
+    "shareholdersEquity": {
+      "value": -592067,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-05"
+    },
+    "operatingCashFlow": {
+      "value": -20906,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-05"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:57.758Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "AVNT",
+  "name": "AVIENT CORP",
+  "cik": 1122976,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3260200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "cogs": {
+      "value": 2244600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "grossProfit": {
+      "value": 1015600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "operatingIncome": {
+      "value": 203500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "netIncome": {
+      "value": 81900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsBasic": {
+      "value": 0.9,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsDiluted": {
+      "value": 0.89,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentAssets": {
+      "value": 1400900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "totalAssets": {
+      "value": 6025600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentLiabilities": {
+      "value": 846300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 2374200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "operatingCashFlow": {
+      "value": 301600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "capex": {
+      "value": 106600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:47.006Z"
+}

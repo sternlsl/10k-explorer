@@ -1,0 +1,73 @@
+{
+  "ticker": "GLUE",
+  "name": "Monte Rosa Therapeutics, Inc.",
+  "cik": 1826457,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 123672000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -54208000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "netIncome": {
+      "value": -38626000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 393185000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "totalAssets": {
+      "value": 448659000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "currentLiabilities": {
+      "value": 64212000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "totalLiabilities": {
+      "value": 215603000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "shareholdersEquity": {
+      "value": 233056000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "operatingCashFlow": {
+      "value": -22798000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "capex": {
+      "value": 4700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:01.048Z"
+}

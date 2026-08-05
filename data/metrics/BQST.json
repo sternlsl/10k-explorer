@@ -1,0 +1,73 @@
+{
+  "ticker": "BQST",
+  "name": "Bioquest Corp",
+  "cik": 1568628,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2014,
+      "periodEnd": "2014-04-30",
+      "filed": "2014-09-10"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -817920,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-08-15"
+    },
+    "netIncome": {
+      "value": -821022,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-08-15"
+    },
+    "epsBasic": {
+      "value": -0.08,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-08-15"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 33540,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-08-15"
+    },
+    "totalAssets": {
+      "value": 33540,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-08-15"
+    },
+    "currentLiabilities": {
+      "value": 466530,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-08-15"
+    },
+    "totalLiabilities": {
+      "value": 466530,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-08-15"
+    },
+    "shareholdersEquity": {
+      "value": -432990,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-08-15"
+    },
+    "operatingCashFlow": {
+      "value": -116720,
+      "year": 2022,
+      "periodEnd": "2022-04-30",
+      "filed": "2022-08-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:03.864Z"
+}

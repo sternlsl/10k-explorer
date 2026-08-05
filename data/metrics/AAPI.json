@@ -1,0 +1,83 @@
+{
+  "ticker": "AAPI",
+  "name": "Apple iSports Group, Inc.",
+  "cik": 1134982,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2012,
+      "periodEnd": "2012-04-30",
+      "filed": "2012-07-27"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2012,
+      "periodEnd": "2012-04-30",
+      "filed": "2012-07-27"
+    },
+    "operatingIncome": {
+      "value": -6592032,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "netIncome": {
+      "value": -6407709,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.03,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "currentAssets": {
+      "value": 628911,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "totalAssets": {
+      "value": 2467566,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "currentLiabilities": {
+      "value": 6529020,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "totalLiabilities": {
+      "value": 6529020,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "shareholdersEquity": {
+      "value": -4061454,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "operatingCashFlow": {
+      "value": -1664244,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:13.180Z"
+}

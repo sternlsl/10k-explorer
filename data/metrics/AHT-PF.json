@@ -1,0 +1,73 @@
+{
+  "ticker": "AHT-PF",
+  "name": "ASHFORD HOSPITALITY TRUST INC",
+  "cik": 1232582,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1104388000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "cogs": {
+      "value": 952674000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-12"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 116415000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "netIncome": {
+      "value": -179839000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "epsBasic": {
+      "value": -35.99,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "epsDiluted": {
+      "value": -35.99,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2833632000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 3206874000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "shareholdersEquity": {
+      "value": -626352000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "operatingCashFlow": {
+      "value": -15668000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:15.136Z"
+}

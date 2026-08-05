@@ -1,0 +1,83 @@
+{
+  "ticker": "TASK",
+  "name": "TaskUs, Inc.",
+  "cik": 1829864,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1183547000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 140626000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "netIncome": {
+      "value": 102275000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "epsBasic": {
+      "value": 1.14,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "epsDiluted": {
+      "value": 1.1,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentAssets": {
+      "value": 509247000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "totalAssets": {
+      "value": 1050765000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentLiabilities": {
+      "value": 163261000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "totalLiabilities": {
+      "value": 450776000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "shareholdersEquity": {
+      "value": 599989000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "operatingCashFlow": {
+      "value": 137215000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "capex": {
+      "value": 63500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:41.408Z"
+}

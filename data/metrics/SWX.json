@@ -1,0 +1,83 @@
+{
+  "ticker": "SWX",
+  "name": "Southwest Gas Holdings, Inc.",
+  "cik": 1692115,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1497750000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-01"
+    },
+    "cogs": {
+      "value": 2415101000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-26"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 473886000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "netIncome": {
+      "value": 439826000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsBasic": {
+      "value": 6.09,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": 6.08,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentAssets": {
+      "value": 1192092000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "totalAssets": {
+      "value": 10429477000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": {
+      "value": 929898000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 3961119000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 556076000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "capex": {
+      "value": 807866000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:38.409Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "PAPL",
+  "name": "Pineapple Financial Inc.",
+  "cik": 1938109,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2986823,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-03"
+    },
+    "cogs": {
+      "value": 15026896,
+      "year": 2023,
+      "periodEnd": "2023-08-31",
+      "filed": "2023-12-14"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -2947893,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-03"
+    },
+    "netIncome": {
+      "value": -3638465,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-03"
+    },
+    "epsBasic": {
+      "value": -5.31,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-03"
+    },
+    "epsDiluted": {
+      "value": -5.31,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-03"
+    },
+    "currentAssets": {
+      "value": 2319595,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-03"
+    },
+    "totalAssets": {
+      "value": 5417221,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-03"
+    },
+    "currentLiabilities": {
+      "value": 3001691,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-03"
+    },
+    "totalLiabilities": {
+      "value": 4510542,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-03"
+    },
+    "shareholdersEquity": {
+      "value": 906679,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-03"
+    },
+    "operatingCashFlow": {
+      "value": -946820,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-03"
+    },
+    "capex": {
+      "value": 4991,
+      "year": 2024,
+      "periodEnd": "2024-08-31",
+      "filed": "2025-12-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:46.194Z"
+}

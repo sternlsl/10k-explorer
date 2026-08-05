@@ -1,0 +1,58 @@
+{
+  "ticker": "DBA",
+  "name": "INVESCO DB AGRICULTURE FUND",
+  "cik": 1383082,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 26373992,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "netIncome": {
+      "value": -9831015,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": -0.69,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-01"
+    },
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 725843982,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 3041381,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "shareholdersEquity": {
+      "value": 722802601,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "operatingCashFlow": {
+      "value": 38721791,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:27.712Z"
+}

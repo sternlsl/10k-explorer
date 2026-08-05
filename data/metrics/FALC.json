@@ -1,0 +1,93 @@
+{
+  "ticker": "FALC",
+  "name": "FALCONSTOR SOFTWARE INC",
+  "cik": 922521,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 10052248,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-23"
+    },
+    "cogs": {
+      "value": 1564881,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-23"
+    },
+    "grossProfit": {
+      "value": 8487367,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-23"
+    },
+    "operatingIncome": {
+      "value": -1257570,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-23"
+    },
+    "netIncome": {
+      "value": -1798955,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-23"
+    },
+    "epsBasic": {
+      "value": -0.47,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-23"
+    },
+    "epsDiluted": {
+      "value": -0.47,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-23"
+    },
+    "currentAssets": {
+      "value": 5369290,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-23"
+    },
+    "totalAssets": {
+      "value": 10170112,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-23"
+    },
+    "currentLiabilities": {
+      "value": 5711665,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-23"
+    },
+    "totalLiabilities": {
+      "value": 10649536,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-23"
+    },
+    "shareholdersEquity": {
+      "value": -16407442,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-23"
+    },
+    "operatingCashFlow": {
+      "value": -1199215,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-23"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-23"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:03.838Z"
+}

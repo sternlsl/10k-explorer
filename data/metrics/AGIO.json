@@ -1,0 +1,88 @@
+{
+  "ticker": "AGIO",
+  "name": "AGIOS PHARMACEUTICALS, INC.",
+  "cik": 1439222,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 54028000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "cogs": {
+      "value": 6345000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -472132000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "netIncome": {
+      "value": -412781000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "epsBasic": {
+      "value": -7.12,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "epsDiluted": {
+      "value": -7.12,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "currentAssets": {
+      "value": 942052000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "totalAssets": {
+      "value": 1297225000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "currentLiabilities": {
+      "value": 82206000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "totalLiabilities": {
+      "value": 104111000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "shareholdersEquity": {
+      "value": 1193114000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "operatingCashFlow": {
+      "value": -372977000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "capex": {
+      "value": 4316000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:55.879Z"
+}

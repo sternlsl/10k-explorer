@@ -1,0 +1,93 @@
+{
+  "ticker": "SMTK",
+  "name": "SmartKem, Inc.",
+  "cik": 1817760,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 697000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "cogs": {
+      "value": 272000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "grossProfit": {
+      "value": 425000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "operatingIncome": {
+      "value": -12835000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "netIncome": {
+      "value": -10509000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "epsBasic": {
+      "value": -1.29,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "epsDiluted": {
+      "value": -1.29,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "currentAssets": {
+      "value": 1501000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "totalAssets": {
+      "value": 2288000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "currentLiabilities": {
+      "value": 5910000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "totalLiabilities": {
+      "value": 6222000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "shareholdersEquity": {
+      "value": -3934000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "operatingCashFlow": {
+      "value": -7736000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    },
+    "capex": {
+      "value": 123000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-08"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:22.674Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "ZVRA",
+  "name": "ZEVRA THERAPEUTICS, INC.",
+  "cik": 1434647,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-03-16"
+    },
+    "cogs": {
+      "value": 10000000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-28"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -62943000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "netIncome": {
+      "value": 83229000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "epsBasic": {
+      "value": 1.4,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "epsDiluted": {
+      "value": 1.35,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "currentAssets": {
+      "value": 223007000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "totalAssets": {
+      "value": 284731000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "currentLiabilities": {
+      "value": 39277000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "totalLiabilities": {
+      "value": 130074000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "shareholdersEquity": {
+      "value": 154657000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "operatingCashFlow": {
+      "value": -1598000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "capex": {
+      "value": 835000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:39.932Z"
+}

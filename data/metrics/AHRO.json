@@ -1,0 +1,93 @@
+{
+  "ticker": "AHRO",
+  "name": "Authentic Holdings, Inc.",
+  "cik": 1338929,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 398600,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-16"
+    },
+    "cogs": {
+      "value": 127307,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-16"
+    },
+    "grossProfit": {
+      "value": 271293,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-16"
+    },
+    "operatingIncome": {
+      "value": -725927,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-16"
+    },
+    "netIncome": {
+      "value": -1320137,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-16"
+    },
+    "epsBasic": {
+      "value": -0.0011,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-04-15"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-16"
+    },
+    "currentAssets": {
+      "value": 207518,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-16"
+    },
+    "totalAssets": {
+      "value": 4491703,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-16"
+    },
+    "currentLiabilities": {
+      "value": 5532182,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-16"
+    },
+    "totalLiabilities": {
+      "value": 5532182,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-16"
+    },
+    "shareholdersEquity": {
+      "value": -1040479,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-16"
+    },
+    "operatingCashFlow": {
+      "value": -126719,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-16"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-06-12"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:14.261Z"
+}

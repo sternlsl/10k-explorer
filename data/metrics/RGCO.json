@@ -1,0 +1,83 @@
+{
+  "ticker": "RGCO",
+  "name": "RGC RESOURCES INC",
+  "cik": 1069533,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 93894115,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 32809157,
+      "year": 2017,
+      "periodEnd": "2017-09-30",
+      "filed": "2017-12-08"
+    },
+    "operatingIncome": {
+      "value": 18447501,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "netIncome": {
+      "value": 13279970,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "epsBasic": {
+      "value": 1.29,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "epsDiluted": {
+      "value": 1.29,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "currentAssets": {
+      "value": 23319191,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "totalAssets": {
+      "value": 329839566,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "currentLiabilities": {
+      "value": 22539724,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 113552790,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "operatingCashFlow": {
+      "value": 28948149,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "capex": {
+      "value": 20730140,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:40.744Z"
+}

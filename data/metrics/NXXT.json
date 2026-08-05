@@ -1,0 +1,88 @@
+{
+  "ticker": "NXXT",
+  "name": "NEXTNRG, INC.",
+  "cik": 1817004,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 15044721,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-20"
+    },
+    "cogs": {
+      "value": 74928249,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -70192548,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "netIncome": {
+      "value": -85738617,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "epsBasic": {
+      "value": -0.72,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "epsDiluted": {
+      "value": -0.72,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "currentAssets": {
+      "value": 3186046,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "totalAssets": {
+      "value": 11063353,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "currentLiabilities": {
+      "value": 28302041,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "totalLiabilities": {
+      "value": 33178198,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "shareholdersEquity": {
+      "value": -19677465,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "operatingCashFlow": {
+      "value": -14497300,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "capex": {
+      "value": 3258417,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:59.812Z"
+}

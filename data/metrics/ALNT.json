@@ -1,0 +1,88 @@
+{
+  "ticker": "ALNT",
+  "name": "ALLIENT INC",
+  "cik": 46129,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 554478000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "cogs": {
+      "value": 372769000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "grossProfit": {
+      "value": 181709000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "operatingIncome": {
+      "value": 43985000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "netIncome": null,
+    "epsBasic": {
+      "value": 1.32,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "epsDiluted": {
+      "value": 1.32,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentAssets": {
+      "value": 253437000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "totalAssets": {
+      "value": 577595000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentLiabilities": {
+      "value": 69323000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "totalLiabilities": {
+      "value": 276140000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "shareholdersEquity": {
+      "value": 301455000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "operatingCashFlow": {
+      "value": 56675000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "capex": {
+      "value": 6989000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:21.592Z"
+}

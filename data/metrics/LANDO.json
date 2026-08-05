@@ -1,0 +1,73 @@
+{
+  "ticker": "LANDO",
+  "name": "GLADSTONE LAND Corp",
+  "cik": 1495240,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 12164000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "cogs": {
+      "value": 9588000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 11376000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-20"
+    },
+    "netIncome": {
+      "value": 13529000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": -0.29,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsDiluted": {
+      "value": -0.29,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1239172000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 568886000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "shareholdersEquity": {
+      "value": 670286000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "operatingCashFlow": {
+      "value": 6993000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:23.839Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "ETS",
+  "name": "Elite Express Holding Inc.",
+  "cik": 2053641,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2665948,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 2647737,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "grossProfit": {
+      "value": 18211,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "operatingIncome": {
+      "value": -2503845,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": -2185987,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": -0.16,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": -0.16,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": {
+      "value": 12381556,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 13705022,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 513155,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": {
+      "value": 513155,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 13191867,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": -2819786,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 86325,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:52.339Z"
+}

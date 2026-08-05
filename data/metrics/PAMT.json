@@ -1,0 +1,83 @@
+{
+  "ticker": "PAMT",
+  "name": "PAMT CORP",
+  "cik": 798287,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 437838000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-09"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -64062000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "netIncome": {
+      "value": -52607000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "epsBasic": {
+      "value": -2.48,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "epsDiluted": {
+      "value": -2.48,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "currentAssets": {
+      "value": 171232000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "totalAssets": {
+      "value": 697912000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "currentLiabilities": {
+      "value": 139372000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "totalLiabilities": {
+      "value": 487428000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "shareholdersEquity": {
+      "value": 210484000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "operatingCashFlow": {
+      "value": 17335000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "capex": {
+      "value": 40740000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:02.485Z"
+}

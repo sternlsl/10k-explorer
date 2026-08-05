@@ -1,0 +1,88 @@
+{
+  "ticker": "AEO",
+  "name": "AMERICAN EAGLE OUTFITTERS INC",
+  "cik": 919012,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 5547236000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "cogs": {
+      "value": 3521915000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "grossProfit": {
+      "value": 2025321000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "operatingIncome": {
+      "value": 226222000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "netIncome": {
+      "value": 191983000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "epsBasic": {
+      "value": 1.12,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "epsDiluted": {
+      "value": 1.09,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "currentAssets": {
+      "value": 1314173000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "totalAssets": {
+      "value": 4009680000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "currentLiabilities": {
+      "value": 867563000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1693153000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "operatingCashFlow": {
+      "value": 456182000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    },
+    "capex": {
+      "value": 260795000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-30"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:04.024Z"
+}

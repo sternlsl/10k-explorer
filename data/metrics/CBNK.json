@@ -1,0 +1,68 @@
+{
+  "ticker": "CBNK",
+  "name": "Capital Bancorp Inc",
+  "cik": 1419536,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -3714000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-17"
+    },
+    "netIncome": {
+      "value": 57170000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "epsBasic": {
+      "value": 3.45,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "epsDiluted": {
+      "value": 3.41,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 3606207000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 3204450000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "shareholdersEquity": {
+      "value": 401757000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "operatingCashFlow": {
+      "value": 69721000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "capex": {
+      "value": 1735000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-01"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:59.527Z"
+}

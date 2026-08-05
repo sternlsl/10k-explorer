@@ -1,0 +1,78 @@
+{
+  "ticker": "MXC",
+  "name": "MEXCO ENERGY CORP",
+  "cik": 66418,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 6561324,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1270701,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "netIncome": {
+      "value": 1305722,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "epsBasic": {
+      "value": 0.64,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "epsDiluted": {
+      "value": 0.63,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "currentAssets": {
+      "value": 4448375,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "totalAssets": {
+      "value": 21692463,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "currentLiabilities": {
+      "value": 452919,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "totalLiabilities": {
+      "value": 1705644,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "shareholdersEquity": {
+      "value": 19986819,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "operatingCashFlow": {
+      "value": 3779152,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:09.404Z"
+}

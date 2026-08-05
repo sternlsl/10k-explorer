@@ -1,0 +1,88 @@
+{
+  "ticker": "ANIX",
+  "name": "Anixa Biosciences Inc",
+  "cik": 715446,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 210000,
+      "year": 2023,
+      "periodEnd": "2023-10-31",
+      "filed": "2025-01-10"
+    },
+    "cogs": {
+      "value": 3873,
+      "year": 2012,
+      "periodEnd": "2012-10-31",
+      "filed": "2013-01-29"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -11701000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-12"
+    },
+    "netIncome": {
+      "value": -10927000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-12"
+    },
+    "epsBasic": {
+      "value": -0.34,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-12"
+    },
+    "epsDiluted": {
+      "value": -0.34,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-12"
+    },
+    "currentAssets": {
+      "value": 15887000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-12"
+    },
+    "totalAssets": {
+      "value": 16080000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-12"
+    },
+    "currentLiabilities": {
+      "value": 1967000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-12"
+    },
+    "totalLiabilities": {
+      "value": 2130000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-12"
+    },
+    "shareholdersEquity": {
+      "value": 15161000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-12"
+    },
+    "operatingCashFlow": {
+      "value": -7173000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-12"
+    },
+    "capex": {
+      "value": 15791,
+      "year": 2020,
+      "periodEnd": "2020-10-31",
+      "filed": "2022-01-04"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:03.142Z"
+}

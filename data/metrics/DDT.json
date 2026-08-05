@@ -1,0 +1,83 @@
+{
+  "ticker": "DDT",
+  "name": "DILLARD'S, INC.",
+  "cik": 28917,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 6473623000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "cogs": {
+      "value": 3747665000,
+      "year": 2022,
+      "periodEnd": "2022-01-29",
+      "filed": "2022-03-29"
+    },
+    "grossProfit": {
+      "value": 2556761000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 570187000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "epsBasic": {
+      "value": 36.42,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "epsDiluted": {
+      "value": 36.42,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "currentAssets": {
+      "value": 2386571000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "totalAssets": {
+      "value": 3505023000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": {
+      "value": 902084000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1778970000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": 717008000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    },
+    "capex": {
+      "value": 93382000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:19.824Z"
+}

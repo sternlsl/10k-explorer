@@ -1,0 +1,93 @@
+{
+  "ticker": "SFM",
+  "name": "Sprouts Farmers Market, Inc.",
+  "cik": 1575515,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 8806159000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "cogs": {
+      "value": 5389770000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "grossProfit": {
+      "value": 3416389000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "operatingIncome": {
+      "value": 686158000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "netIncome": {
+      "value": 523670000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "epsBasic": {
+      "value": 5.36,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "epsDiluted": {
+      "value": 5.31,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "currentAssets": {
+      "value": 809904000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "totalAssets": {
+      "value": 4158649000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "currentLiabilities": {
+      "value": 870803000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "totalLiabilities": {
+      "value": 2755575000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "shareholdersEquity": {
+      "value": 1403074000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "operatingCashFlow": {
+      "value": 715998000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    },
+    "capex": {
+      "value": 248267000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:29.411Z"
+}

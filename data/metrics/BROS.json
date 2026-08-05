@@ -1,0 +1,88 @@
+{
+  "ticker": "BROS",
+  "name": "Dutch Bros Inc.",
+  "cik": 1866581,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1638159000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "cogs": {
+      "value": 1214213000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 161180000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "netIncome": {
+      "value": 79842000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsBasic": {
+      "value": 0.64,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsDiluted": {
+      "value": 0.64,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentAssets": {
+      "value": 357378000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "totalAssets": {
+      "value": 3009314000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentLiabilities": {
+      "value": 240499000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "totalLiabilities": {
+      "value": 2111445000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "shareholdersEquity": {
+      "value": 680818000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "operatingCashFlow": {
+      "value": 295545000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "capex": {
+      "value": 241134000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:14.157Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "HYEX",
+  "name": "HEALTHY EXTRACTS INC.",
+  "cik": 1630176,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4511997,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "cogs": {
+      "value": 2089506,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "grossProfit": {
+      "value": 2422491,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "operatingIncome": {
+      "value": -3323259,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2020-04-01"
+    },
+    "netIncome": {
+      "value": -881119,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 1327317,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "totalAssets": {
+      "value": 27824664,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "currentLiabilities": {
+      "value": 1688169,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "totalLiabilities": {
+      "value": 3795099,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "shareholdersEquity": {
+      "value": 24029564,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "operatingCashFlow": {
+      "value": 165520,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:07.503Z"
+}

@@ -1,0 +1,68 @@
+{
+  "ticker": "TELO",
+  "name": "Telomir Pharmaceuticals, Inc.",
+  "cik": 1971532,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -10413205,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "epsBasic": {
+      "value": -0.33,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "epsDiluted": {
+      "value": -0.33,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "currentAssets": {
+      "value": 7341361,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "totalAssets": {
+      "value": 7341361,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "currentLiabilities": {
+      "value": 1427991,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "totalLiabilities": {
+      "value": 1427991,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "shareholdersEquity": {
+      "value": 5913370,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "operatingCashFlow": {
+      "value": -3688188,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:12.649Z"
+}

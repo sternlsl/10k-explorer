@@ -1,0 +1,83 @@
+{
+  "ticker": "SKYW",
+  "name": "SKYWEST INC",
+  "cik": 793733,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2971963000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-18"
+    },
+    "cogs": {
+      "value": 2018304000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-22"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 617846000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "netIncome": {
+      "value": 428334000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsBasic": {
+      "value": 10.62,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsDiluted": {
+      "value": 10.35,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentAssets": {
+      "value": 1091194000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "totalAssets": {
+      "value": 7386249000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentLiabilities": {
+      "value": 1667608000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 2746433000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "operatingCashFlow": {
+      "value": 940364000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "capex": {
+      "value": 32023000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:47.372Z"
+}

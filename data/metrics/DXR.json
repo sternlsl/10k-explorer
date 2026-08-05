@@ -1,0 +1,83 @@
+{
+  "ticker": "DXR",
+  "name": "DAXOR CORP",
+  "cik": 27367,
+  "fiscalYear": 2011,
+  "metrics": {
+    "revenue": {
+      "value": 1446345,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-28"
+    },
+    "cogs": {
+      "value": 652511,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-28"
+    },
+    "grossProfit": {
+      "value": 793834,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-28"
+    },
+    "operatingIncome": {
+      "value": -5786414,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-28"
+    },
+    "netIncome": {
+      "value": -7185639,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-28"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 81686352,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-28"
+    },
+    "totalAssets": {
+      "value": 85724861,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-28"
+    },
+    "currentLiabilities": {
+      "value": 49264316,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-28"
+    },
+    "totalLiabilities": {
+      "value": 49508270,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-28"
+    },
+    "shareholdersEquity": {
+      "value": 36216591,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-28"
+    },
+    "operatingCashFlow": {
+      "value": -6508648,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-28"
+    },
+    "capex": {
+      "value": 123150,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:51.452Z"
+}

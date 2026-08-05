@@ -1,0 +1,88 @@
+{
+  "ticker": "MSN",
+  "name": "EMERSON RADIO CORP",
+  "cik": 32621,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 6310000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "cogs": {
+      "value": 6216000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -4870000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "netIncome": {
+      "value": -4300000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "epsBasic": {
+      "value": -0.2,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "epsDiluted": {
+      "value": -0.2,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "currentAssets": {
+      "value": 18127000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "totalAssets": {
+      "value": 18636000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "currentLiabilities": {
+      "value": 1280000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "totalLiabilities": {
+      "value": 1442000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "shareholdersEquity": {
+      "value": 17194000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "operatingCashFlow": {
+      "value": -3720000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:56.185Z"
+}

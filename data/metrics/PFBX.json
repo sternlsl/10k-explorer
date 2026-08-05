@@ -1,0 +1,63 @@
+{
+  "ticker": "PFBX",
+  "name": "PEOPLES FINANCIAL CORP /MS/",
+  "cik": 770460,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 3911000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsBasic": {
+      "value": 0.85,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsDiluted": {
+      "value": 0.85,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 727121000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 626454000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "shareholdersEquity": {
+      "value": 100667000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "operatingCashFlow": {
+      "value": 4503000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "capex": {
+      "value": 302000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:05.533Z"
+}

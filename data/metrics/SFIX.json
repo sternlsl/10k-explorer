@@ -1,0 +1,93 @@
+{
+  "ticker": "SFIX",
+  "name": "Stitch Fix, Inc.",
+  "cik": 1576942,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1267171000,
+      "year": 2025,
+      "periodEnd": "2025-08-02",
+      "filed": "2025-09-25"
+    },
+    "cogs": {
+      "value": 704232000,
+      "year": 2025,
+      "periodEnd": "2025-08-02",
+      "filed": "2025-09-25"
+    },
+    "grossProfit": {
+      "value": 562939000,
+      "year": 2025,
+      "periodEnd": "2025-08-02",
+      "filed": "2025-09-25"
+    },
+    "operatingIncome": {
+      "value": -38905000,
+      "year": 2025,
+      "periodEnd": "2025-08-02",
+      "filed": "2025-09-25"
+    },
+    "netIncome": {
+      "value": -28739000,
+      "year": 2025,
+      "periodEnd": "2025-08-02",
+      "filed": "2025-09-25"
+    },
+    "epsBasic": {
+      "value": -0.22,
+      "year": 2025,
+      "periodEnd": "2025-08-02",
+      "filed": "2025-09-25"
+    },
+    "epsDiluted": {
+      "value": -0.22,
+      "year": 2025,
+      "periodEnd": "2025-08-02",
+      "filed": "2025-09-25"
+    },
+    "currentAssets": {
+      "value": 373872000,
+      "year": 2025,
+      "periodEnd": "2025-08-02",
+      "filed": "2025-09-25"
+    },
+    "totalAssets": {
+      "value": 480622000,
+      "year": 2025,
+      "periodEnd": "2025-08-02",
+      "filed": "2025-09-25"
+    },
+    "currentLiabilities": {
+      "value": 206227000,
+      "year": 2025,
+      "periodEnd": "2025-08-02",
+      "filed": "2025-09-25"
+    },
+    "totalLiabilities": {
+      "value": 277644000,
+      "year": 2025,
+      "periodEnd": "2025-08-02",
+      "filed": "2025-09-25"
+    },
+    "shareholdersEquity": {
+      "value": 202978000,
+      "year": 2025,
+      "periodEnd": "2025-08-02",
+      "filed": "2025-09-25"
+    },
+    "operatingCashFlow": {
+      "value": 28207000,
+      "year": 2024,
+      "periodEnd": "2024-08-03",
+      "filed": "2024-09-25"
+    },
+    "capex": {
+      "value": 16293000,
+      "year": 2025,
+      "periodEnd": "2025-08-02",
+      "filed": "2025-09-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:01.519Z"
+}

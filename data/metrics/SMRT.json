@@ -1,0 +1,88 @@
+{
+  "ticker": "SMRT",
+  "name": "SmartRent, Inc.",
+  "cik": 1837014,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 152326000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "cogs": {
+      "value": 102457000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -63976000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "netIncome": {
+      "value": -60558000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "epsBasic": {
+      "value": -0.32,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "epsDiluted": {
+      "value": -0.32,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "currentAssets": {
+      "value": 187878000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "totalAssets": {
+      "value": 320925000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "currentLiabilities": {
+      "value": 60018000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "totalLiabilities": {
+      "value": 88786000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "shareholdersEquity": {
+      "value": 232139000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "operatingCashFlow": {
+      "value": -21575000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "capex": {
+      "value": 3553000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:27.152Z"
+}

@@ -1,0 +1,78 @@
+{
+  "ticker": "RAPP",
+  "name": "Rapport Therapeutics, Inc.",
+  "cik": 2012593,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -125099000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "netIncome": {
+      "value": -111483000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "epsBasic": {
+      "value": -2.86,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "epsDiluted": {
+      "value": -2.86,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "currentAssets": {
+      "value": 498561000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "totalAssets": {
+      "value": 512431000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "currentLiabilities": {
+      "value": 19049000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "totalLiabilities": {
+      "value": 27778000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "shareholdersEquity": {
+      "value": 484653000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "operatingCashFlow": {
+      "value": -87473000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "capex": {
+      "value": 616000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:51.505Z"
+}

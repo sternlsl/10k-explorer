@@ -1,0 +1,68 @@
+{
+  "ticker": "NRP",
+  "name": "NATURAL RESOURCE PARTNERS LP",
+  "cik": 1171486,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 232351000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 144351000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": -84819000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-15"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 60912000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 748365000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 32986000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": {
+      "value": 115846000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 165863000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:00.766Z"
+}

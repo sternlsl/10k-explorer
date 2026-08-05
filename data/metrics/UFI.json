@@ -1,0 +1,93 @@
+{
+  "ticker": "UFI",
+  "name": "UNIFI INC",
+  "cik": 100726,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 571344000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "cogs": {
+      "value": 562926000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "grossProfit": {
+      "value": 8418000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "operatingIncome": {
+      "value": -9520000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "netIncome": {
+      "value": -20348000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "epsBasic": {
+      "value": -1.11,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "epsDiluted": {
+      "value": -1.11,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "currentAssets": {
+      "value": 235627000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "totalAssets": {
+      "value": 426868000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "currentLiabilities": {
+      "value": 70943000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "totalLiabilities": {
+      "value": 177397000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "shareholdersEquity": {
+      "value": 392845000,
+      "year": 2019,
+      "periodEnd": "2019-06-30",
+      "filed": "2019-08-29"
+    },
+    "operatingCashFlow": {
+      "value": -21311000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "capex": {
+      "value": 10488000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:44.090Z"
+}

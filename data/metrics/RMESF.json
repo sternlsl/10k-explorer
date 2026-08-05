@@ -1,0 +1,73 @@
+{
+  "ticker": "RMESF",
+  "name": "RED METAL RESOURCES, LTD.",
+  "cik": 1358654,
+  "fiscalYear": 2021,
+  "metrics": {
+    "revenue": {
+      "value": 500,
+      "year": 2014,
+      "periodEnd": "2014-01-31",
+      "filed": "2014-04-30"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -159254,
+      "year": 2021,
+      "periodEnd": "2021-01-31",
+      "filed": "2021-05-03"
+    },
+    "epsBasic": {
+      "value": -0.06,
+      "year": 2013,
+      "periodEnd": "2013-01-31",
+      "filed": "2013-04-22"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 48287,
+      "year": 2021,
+      "periodEnd": "2021-01-31",
+      "filed": "2021-05-03"
+    },
+    "totalAssets": {
+      "value": 777678,
+      "year": 2021,
+      "periodEnd": "2021-01-31",
+      "filed": "2021-05-03"
+    },
+    "currentLiabilities": {
+      "value": 208744,
+      "year": 2021,
+      "periodEnd": "2021-01-31",
+      "filed": "2021-05-03"
+    },
+    "totalLiabilities": {
+      "value": 1418779,
+      "year": 2021,
+      "periodEnd": "2021-01-31",
+      "filed": "2021-05-03"
+    },
+    "shareholdersEquity": {
+      "value": -641101,
+      "year": 2021,
+      "periodEnd": "2021-01-31",
+      "filed": "2021-05-03"
+    },
+    "operatingCashFlow": {
+      "value": -170103,
+      "year": 2021,
+      "periodEnd": "2021-01-31",
+      "filed": "2021-05-03"
+    },
+    "capex": {
+      "value": 27725,
+      "year": 2021,
+      "periodEnd": "2021-01-31",
+      "filed": "2021-05-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:01.758Z"
+}

@@ -1,0 +1,78 @@
+{
+  "ticker": "WMG",
+  "name": "Warner Music Group Corp.",
+  "cik": 1319161,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6707000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "cogs": {
+      "value": 3632000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 694000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "netIncome": {
+      "value": 365000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 2770000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "totalAssets": {
+      "value": 9829000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "currentLiabilities": {
+      "value": 4201000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "totalLiabilities": {
+      "value": 9072000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "shareholdersEquity": {
+      "value": 647000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "operatingCashFlow": {
+      "value": 678000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "capex": {
+      "value": 139000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:40.680Z"
+}

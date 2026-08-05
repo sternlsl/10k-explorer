@@ -1,0 +1,68 @@
+{
+  "ticker": "NTRSO",
+  "name": "NORTHERN TRUST CORP",
+  "cik": 73124,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5017800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 1736900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": 8.78,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsDiluted": {
+      "value": 8.74,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 177132700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 164174800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "shareholdersEquity": {
+      "value": 12957900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "operatingCashFlow": {
+      "value": 5533500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "capex": {
+      "value": 74000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:05.481Z"
+}

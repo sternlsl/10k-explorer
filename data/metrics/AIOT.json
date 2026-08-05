@@ -1,0 +1,93 @@
+{
+  "ticker": "AIOT",
+  "name": "Powerfleet, Inc.",
+  "cik": 1774170,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 443777000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "cogs": {
+      "value": 197355000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "grossProfit": {
+      "value": 246422000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "operatingIncome": {
+      "value": 19576000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "netIncome": {
+      "value": -20552000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "epsBasic": {
+      "value": -0.15,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "epsDiluted": {
+      "value": -0.15,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "currentAssets": {
+      "value": 179180000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "totalAssets": {
+      "value": 955565000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "currentLiabilities": {
+      "value": 157952000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "totalLiabilities": {
+      "value": 473950000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "shareholdersEquity": {
+      "value": 475494000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "operatingCashFlow": {
+      "value": 30461000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    },
+    "capex": {
+      "value": 21618000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:13.893Z"
+}

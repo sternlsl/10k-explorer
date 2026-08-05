@@ -1,0 +1,63 @@
+{
+  "ticker": "CBLO",
+  "name": "C2 Blockchain, Inc.",
+  "cik": 1882781,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 185,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -222595,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "netIncome": {
+      "value": -235265,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 13077,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "totalAssets": {
+      "value": 75551,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 84000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "shareholdersEquity": {
+      "value": -8449,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "operatingCashFlow": {
+      "value": -149333,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:45.835Z"
+}

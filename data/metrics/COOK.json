@@ -1,0 +1,93 @@
+{
+  "ticker": "COOK",
+  "name": "Traeger, Inc.",
+  "cik": 1857853,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 559520000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "cogs": {
+      "value": 340174000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "grossProfit": {
+      "value": 219346000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "operatingIncome": {
+      "value": -97727000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "netIncome": {
+      "value": -115181000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsBasic": {
+      "value": -0.87,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsDiluted": {
+      "value": -0.87,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "currentAssets": {
+      "value": 214849000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "totalAssets": {
+      "value": 675976000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "currentLiabilities": {
+      "value": 80085000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "totalLiabilities": {
+      "value": 505128000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "shareholdersEquity": {
+      "value": 170848000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "operatingCashFlow": {
+      "value": 20520000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "capex": {
+      "value": 6934000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:54.236Z"
+}

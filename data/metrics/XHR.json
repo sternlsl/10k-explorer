@@ -1,0 +1,73 @@
+{
+  "ticker": "XHR",
+  "name": "Xenia Hotels & Resorts, Inc.",
+  "cik": 1616000,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1078500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "cogs": {
+      "value": 748578000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 107533000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "netIncome": {
+      "value": 63088000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": 0.64,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsDiluted": {
+      "value": 0.64,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2808675000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1625138000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "shareholdersEquity": {
+      "value": 1134218000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "operatingCashFlow": {
+      "value": 176514000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:01.415Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "ASTC",
+  "name": "ASTROTECH Corp",
+  "cik": 1001907,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "cogs": {
+      "value": 574000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "grossProfit": {
+      "value": 475000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "operatingIncome": {
+      "value": -14734000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "netIncome": {
+      "value": -13850000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "epsBasic": {
+      "value": -8.32,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "epsDiluted": {
+      "value": 0.25,
+      "year": 2014,
+      "periodEnd": "2014-06-30",
+      "filed": "2014-09-30"
+    },
+    "currentAssets": {
+      "value": 21975000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "totalAssets": {
+      "value": 26989000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "currentLiabilities": {
+      "value": 2451000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "totalLiabilities": {
+      "value": 4889000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "shareholdersEquity": {
+      "value": 22100000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "operatingCashFlow": {
+      "value": -12952000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    },
+    "capex": {
+      "value": 833000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:30.212Z"
+}

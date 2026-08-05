@@ -1,0 +1,93 @@
+{
+  "ticker": "CLFD",
+  "name": "Clearfield, Inc.",
+  "cik": 796505,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 150134000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "cogs": {
+      "value": 99597000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "grossProfit": {
+      "value": 50537000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "operatingIncome": {
+      "value": 2118000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "netIncome": {
+      "value": -8050000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "epsBasic": {
+      "value": -0.58,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "epsDiluted": {
+      "value": -0.58,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "currentAssets": {
+      "value": 198488000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "totalAssets": {
+      "value": 306173000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "currentLiabilities": {
+      "value": 36603000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "totalLiabilities": {
+      "value": 50010000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "shareholdersEquity": {
+      "value": 256163000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "operatingCashFlow": {
+      "value": 22223000,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2024-11-15"
+    },
+    "capex": {
+      "value": 9567000,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2024-11-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:25.547Z"
+}

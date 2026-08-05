@@ -1,0 +1,88 @@
+{
+  "ticker": "HWKE",
+  "name": "Hawkeye Systems, Inc.",
+  "cik": 1750777,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-30"
+    },
+    "operatingIncome": {
+      "value": -270669,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "netIncome": {
+      "value": -523327,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.06,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "currentAssets": {
+      "value": 3102,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "totalAssets": {
+      "value": 57917,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "currentLiabilities": {
+      "value": 2693020,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "totalLiabilities": {
+      "value": 3135271,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "shareholdersEquity": {
+      "value": -3077354,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "operatingCashFlow": {
+      "value": -169955,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "capex": {
+      "value": -4818,
+      "year": 2019,
+      "periodEnd": "2019-06-30",
+      "filed": "2019-12-09"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:09.858Z"
+}

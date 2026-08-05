@@ -1,0 +1,83 @@
+{
+  "ticker": "ASTI",
+  "name": "Ascent Solar Technologies, Inc.",
+  "cik": 1350102,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 76773,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -7874381,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "netIncome": {
+      "value": -7832755,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "epsBasic": {
+      "value": -3.09,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "epsDiluted": {
+      "value": -3.09,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "currentAssets": {
+      "value": 3384679,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "totalAssets": {
+      "value": 6331903,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "currentLiabilities": {
+      "value": 2205777,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "totalLiabilities": {
+      "value": 2994054,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "shareholdersEquity": {
+      "value": 3337849,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "operatingCashFlow": {
+      "value": -6903966,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "capex": {
+      "value": 32015,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:25.941Z"
+}

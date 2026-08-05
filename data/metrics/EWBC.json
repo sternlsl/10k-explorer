@@ -1,0 +1,68 @@
+{
+  "ticker": "EWBC",
+  "name": "EAST WEST BANCORP INC",
+  "cik": 1069157,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 55316000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 1325188000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": 9.58,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": 9.52,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 80434997000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 71535795000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 8899202000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 1501700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 6017000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:32.447Z"
+}

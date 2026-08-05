@@ -1,0 +1,88 @@
+{
+  "ticker": "ADCT",
+  "name": "ADC Therapeutics SA",
+  "cik": 1771910,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 69060000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-13"
+    },
+    "cogs": {
+      "value": 5798000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -121499000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "netIncome": {
+      "value": -142623000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "epsBasic": {
+      "value": -1.12,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "epsDiluted": {
+      "value": -1.12,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "currentAssets": {
+      "value": 306335000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "totalAssets": {
+      "value": 323150000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "currentLiabilities": {
+      "value": 70163000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "totalLiabilities": {
+      "value": 508984000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "shareholdersEquity": {
+      "value": -185834000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "operatingCashFlow": {
+      "value": -141174000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "capex": {
+      "value": 264000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:08.760Z"
+}

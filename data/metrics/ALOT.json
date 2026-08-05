@@ -1,0 +1,93 @@
+{
+  "ticker": "ALOT",
+  "name": "AstroNova, Inc.",
+  "cik": 8146,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 150515000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "cogs": {
+      "value": 102881000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "grossProfit": {
+      "value": 47634000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "operatingIncome": {
+      "value": 1206000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": -2376000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": -0.31,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": -0.31,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 70704000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 137566000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 38371000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 60704000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": 76862000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": 11738000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    },
+    "capex": {
+      "value": 332000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:58.435Z"
+}

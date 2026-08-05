@@ -1,0 +1,93 @@
+{
+  "ticker": "HNI",
+  "name": "HNI CORP",
+  "cik": 48287,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 2839000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "cogs": {
+      "value": 1662900000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "grossProfit": {
+      "value": 1176100000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "operatingIncome": {
+      "value": 126000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "netIncome": {
+      "value": 54200000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "epsBasic": {
+      "value": 1.13,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "epsDiluted": {
+      "value": 1.11,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "currentAssets": {
+      "value": 1411900000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "totalAssets": {
+      "value": 4885000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "currentLiabilities": {
+      "value": 1139300000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "totalLiabilities": {
+      "value": 3049500000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "shareholdersEquity": {
+      "value": 1835600000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "operatingCashFlow": {
+      "value": 276300000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "capex": {
+      "value": 109243000,
+      "year": 2017,
+      "periodEnd": "2017-12-30",
+      "filed": "2018-02-23"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:10.075Z"
+}

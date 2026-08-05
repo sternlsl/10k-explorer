@@ -1,0 +1,68 @@
+{
+  "ticker": "CAC",
+  "name": "CAMDEN NATIONAL CORP",
+  "cik": 750686,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 41739000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 65160000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsBasic": {
+      "value": 3.86,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsDiluted": {
+      "value": 3.84,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 6974584000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 6278026000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "shareholdersEquity": {
+      "value": 696558000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "operatingCashFlow": {
+      "value": 63912000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "capex": {
+      "value": 5708000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:07.010Z"
+}

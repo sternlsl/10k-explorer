@@ -2,60 +2,82 @@
   "ticker": "ROST",
   "name": "ROSS STORES, INC.",
   "cik": 745732,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
       "value": 22750559000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "cogs": {
       "value": 16447256000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "grossProfit": null,
     "operatingIncome": {
       "value": 2707357000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "netIncome": {
       "value": 2145044000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": 6.66,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": 6.61,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "currentAssets": {
       "value": 7640097000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "totalAssets": {
       "value": 15548737000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "currentLiabilities": {
       "value": 4827180000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "totalLiabilities": null,
     "shareholdersEquity": {
       "value": 6187443000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "operatingCashFlow": {
       "value": 3026883000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "capex": {
       "value": 819275000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     }
   },
-  "fetchedAt": "2026-05-08T19:01:29.488Z"
+  "updatedAt": "2026-08-05T16:53:36.867Z"
 }

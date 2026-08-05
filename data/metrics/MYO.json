@@ -1,0 +1,93 @@
+{
+  "ticker": "MYO",
+  "name": "MYOMO, INC.",
+  "cik": 1369290,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 40928042,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "cogs": {
+      "value": 109000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "grossProfit": {
+      "value": 26888324,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "operatingIncome": {
+      "value": -14401847,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "netIncome": {
+      "value": -15573884,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "epsBasic": {
+      "value": -0.37,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "epsDiluted": {
+      "value": -0.37,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "currentAssets": {
+      "value": 27557085,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "totalAssets": {
+      "value": 38636573,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "currentLiabilities": {
+      "value": 8345329,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "totalLiabilities": {
+      "value": 27233106,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "shareholdersEquity": {
+      "value": 11403467,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "operatingCashFlow": {
+      "value": -14511454,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "capex": {
+      "value": 1742247,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:37.530Z"
+}

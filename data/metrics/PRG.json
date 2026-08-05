@@ -1,0 +1,73 @@
+{
+  "ticker": "PRG",
+  "name": "PROG Holdings, Inc.",
+  "cik": 1808834,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2409223000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 206773000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "netIncome": {
+      "value": 146788000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "epsBasic": {
+      "value": 3.66,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "epsDiluted": {
+      "value": 3.59,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1610408000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 863991000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "shareholdersEquity": {
+      "value": 746417000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "operatingCashFlow": {
+      "value": 334962000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "capex": {
+      "value": 10042000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:10.393Z"
+}

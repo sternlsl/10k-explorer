@@ -1,0 +1,93 @@
+{
+  "ticker": "INM",
+  "name": "InMed Pharmaceuticals Inc.",
+  "cik": 1728328,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1365755,
+      "year": 2022,
+      "periodEnd": "2022-06-30",
+      "filed": "2022-09-23"
+    },
+    "cogs": {
+      "value": 545889,
+      "year": 2022,
+      "periodEnd": "2022-06-30",
+      "filed": "2022-09-23"
+    },
+    "grossProfit": {
+      "value": 1706586,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "operatingIncome": {
+      "value": -7947622,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-29"
+    },
+    "netIncome": {
+      "value": -8162133,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "epsBasic": {
+      "value": -8.36,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "epsDiluted": {
+      "value": -8.36,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "currentAssets": {
+      "value": 12867279,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "totalAssets": {
+      "value": 15580040,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "currentLiabilities": {
+      "value": 1839790,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "totalLiabilities": {
+      "value": 2145545,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "shareholdersEquity": {
+      "value": 13434495,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "operatingCashFlow": {
+      "value": -7766951,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-23"
+    },
+    "capex": {
+      "value": 9293,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2025-09-23"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:55.029Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "PCTY",
+  "name": "Paylocity Holding Corp",
+  "cik": 1591698,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1651362000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "cogs": {
+      "value": 545824000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "grossProfit": {
+      "value": 1225502000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "operatingIncome": {
+      "value": 385993000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "netIncome": {
+      "value": 269741000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "epsBasic": {
+      "value": 4.99,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "epsDiluted": {
+      "value": 4.92,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "currentAssets": {
+      "value": 3723056000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "totalAssets": {
+      "value": 4884358000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "currentLiabilities": {
+      "value": 3420238000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "totalLiabilities": {
+      "value": 3662941000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "shareholdersEquity": {
+      "value": 1221417000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "operatingCashFlow": {
+      "value": 533252000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    },
+    "capex": {
+      "value": 36152000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-08-05"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:47.984Z"
+}

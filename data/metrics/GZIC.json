@@ -1,0 +1,73 @@
+{
+  "ticker": "GZIC",
+  "name": "GZ6G Technologies Corp.",
+  "cik": 1286648,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 221946,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "cogs": {
+      "value": 18276,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -6871020,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 632120,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "totalAssets": {
+      "value": 1372732,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "currentLiabilities": {
+      "value": 9538325,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "totalLiabilities": {
+      "value": 10064615,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "shareholdersEquity": {
+      "value": -7975792,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "operatingCashFlow": {
+      "value": -2514937,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "capex": {
+      "value": 107909,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:19.687Z"
+}

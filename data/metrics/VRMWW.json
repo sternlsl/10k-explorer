@@ -1,0 +1,93 @@
+{
+  "ticker": "VRMWW",
+  "name": "Vroom, Inc.",
+  "cik": 1580864,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 893203000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-13"
+    },
+    "cogs": {
+      "value": 731256000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-13"
+    },
+    "grossProfit": {
+      "value": 161947000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-13"
+    },
+    "operatingIncome": {
+      "value": -270227000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-13"
+    },
+    "netIncome": {
+      "value": -53050000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": -10.24,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": -10.24,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentAssets": {
+      "value": 952639000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-13"
+    },
+    "totalAssets": {
+      "value": 937385000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentLiabilities": {
+      "value": 856806000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-13"
+    },
+    "totalLiabilities": {
+      "value": 820767000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "shareholdersEquity": {
+      "value": 116618000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "operatingCashFlow": {
+      "value": 75154000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "capex": {
+      "value": 7061000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:38.818Z"
+}

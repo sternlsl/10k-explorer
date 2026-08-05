@@ -1,0 +1,83 @@
+{
+  "ticker": "IMKTA",
+  "name": "INGLES MARKETS INC",
+  "cik": 50493,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5334032609,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "cogs": {
+      "value": 4059892018,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "grossProfit": {
+      "value": 1274140591,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "operatingIncome": {
+      "value": 117579855,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "netIncome": {
+      "value": 83592501,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 975556927,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "totalAssets": {
+      "value": 2566054643,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "currentLiabilities": {
+      "value": 302902593,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "totalLiabilities": {
+      "value": 950123066,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "shareholdersEquity": {
+      "value": 1615931577,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "operatingCashFlow": {
+      "value": 154097893,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "capex": {
+      "value": 114500588,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:53.821Z"
+}

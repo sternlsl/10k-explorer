@@ -1,0 +1,93 @@
+{
+  "ticker": "FWDI",
+  "name": "Forward Industries, Inc.",
+  "cik": 38264,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 18187525,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "cogs": {
+      "value": 14807116,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2024-12-27"
+    },
+    "grossProfit": {
+      "value": 5191244,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "operatingIncome": {
+      "value": -8392420,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "netIncome": {
+      "value": -166974340,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "epsBasic": {
+      "value": -24.59,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "epsDiluted": {
+      "value": -24.59,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "currentAssets": {
+      "value": 41221956,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "totalAssets": {
+      "value": 1474942489,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "currentLiabilities": {
+      "value": 2723543,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "totalLiabilities": {
+      "value": 4817622,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "shareholdersEquity": {
+      "value": 1470124867,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "operatingCashFlow": {
+      "value": -4502087,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    },
+    "capex": {
+      "value": 25774,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-11"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:51.647Z"
+}

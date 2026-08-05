@@ -1,0 +1,88 @@
+{
+  "ticker": "BICX",
+  "name": "BioCorRx Inc.",
+  "cik": 1443863,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 797244,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "cogs": {
+      "value": 18946,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "grossProfit": {
+      "value": 554775,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-04-14"
+    },
+    "operatingIncome": {
+      "value": -4831642,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": -3440146,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.19,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 814468,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 2147212,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 8306199,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 13674200,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -11223559,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -2298291,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:17.544Z"
+}

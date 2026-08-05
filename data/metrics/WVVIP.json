@@ -1,0 +1,93 @@
+{
+  "ticker": "WVVIP",
+  "name": "WILLAMETTE VALLEY VINEYARDS INC",
+  "cik": 838875,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 37197122,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "cogs": {
+      "value": 7971676,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-22"
+    },
+    "grossProfit": {
+      "value": 22492520,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "operatingIncome": {
+      "value": -1436172,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "netIncome": {
+      "value": -917685,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "epsBasic": {
+      "value": -0.48,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-25"
+    },
+    "epsDiluted": {
+      "value": 0.46,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-22"
+    },
+    "currentAssets": {
+      "value": 39005575,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "totalAssets": {
+      "value": 107735599,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "currentLiabilities": {
+      "value": 14467920,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "totalLiabilities": {
+      "value": 41547424,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "shareholdersEquity": {
+      "value": 66188175,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "operatingCashFlow": {
+      "value": -1790239,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "capex": {
+      "value": 444167,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:35.123Z"
+}

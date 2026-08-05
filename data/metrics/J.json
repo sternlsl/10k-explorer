@@ -2,64 +2,87 @@
   "ticker": "J",
   "name": "JACOBS SOLUTIONS INC.",
   "cik": 52988,
-  "fiscalYear": 2018,
+  "fiscalYear": 2025,
   "metrics": {
     "revenue": {
       "value": 14984646000,
       "year": 2018,
-      "periodEnd": "2018-09-28"
+      "periodEnd": "2018-09-28",
+      "filed": "2018-11-21"
     },
     "cogs": {
       "value": 9044849000,
       "year": 2025,
-      "periodEnd": "2025-09-26"
+      "periodEnd": "2025-09-26",
+      "filed": "2025-11-20"
     },
     "grossProfit": {
       "value": 2984934000,
       "year": 2025,
-      "periodEnd": "2025-09-26"
+      "periodEnd": "2025-09-26",
+      "filed": "2025-11-20"
     },
     "operatingIncome": {
       "value": 863634000,
       "year": 2025,
-      "periodEnd": "2025-09-26"
+      "periodEnd": "2025-09-26",
+      "filed": "2025-11-20"
     },
     "netIncome": {
       "value": 289336000,
       "year": 2025,
-      "periodEnd": "2025-09-26"
+      "periodEnd": "2025-09-26",
+      "filed": "2025-11-20"
+    },
+    "epsBasic": {
+      "value": 2.39,
+      "year": 2025,
+      "periodEnd": "2025-09-26",
+      "filed": "2025-11-20"
+    },
+    "epsDiluted": {
+      "value": 2.38,
+      "year": 2025,
+      "periodEnd": "2025-09-26",
+      "filed": "2025-11-20"
     },
     "currentAssets": {
       "value": 4359319000,
       "year": 2025,
-      "periodEnd": "2025-09-26"
+      "periodEnd": "2025-09-26",
+      "filed": "2025-11-20"
     },
     "totalAssets": {
       "value": 11252535000,
       "year": 2025,
-      "periodEnd": "2025-09-26"
+      "periodEnd": "2025-09-26",
+      "filed": "2025-11-20"
     },
     "currentLiabilities": {
       "value": 3350899000,
       "year": 2025,
-      "periodEnd": "2025-09-26"
+      "periodEnd": "2025-09-26",
+      "filed": "2025-11-20"
     },
     "totalLiabilities": null,
     "shareholdersEquity": {
       "value": 3640807000,
       "year": 2025,
-      "periodEnd": "2025-09-26"
+      "periodEnd": "2025-09-26",
+      "filed": "2025-11-20"
     },
     "operatingCashFlow": {
       "value": 686704000,
       "year": 2025,
-      "periodEnd": "2025-09-26"
+      "periodEnd": "2025-09-26",
+      "filed": "2025-11-20"
     },
     "capex": {
       "value": 79232000,
       "year": 2025,
-      "periodEnd": "2025-09-26"
+      "periodEnd": "2025-09-26",
+      "filed": "2025-11-20"
     }
   },
-  "fetchedAt": "2026-05-08T18:54:07.154Z"
+  "updatedAt": "2026-08-05T16:54:37.622Z"
 }

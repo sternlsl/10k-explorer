@@ -1,0 +1,88 @@
+{
+  "ticker": "KVHI",
+  "name": "KVH INDUSTRIES INC \\DE\\",
+  "cik": 1007587,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 111009000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "cogs": {
+      "value": 37474000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-02"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -11171000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "netIncome": {
+      "value": -7383000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "epsBasic": {
+      "value": -0.38,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "epsDiluted": {
+      "value": -0.38,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "currentAssets": {
+      "value": 117798000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "totalAssets": {
+      "value": 151500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "currentLiabilities": {
+      "value": 16670000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "totalLiabilities": {
+      "value": 20516000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "shareholdersEquity": {
+      "value": 130984000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "operatingCashFlow": {
+      "value": 17108000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "capex": {
+      "value": 7355000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:08.210Z"
+}

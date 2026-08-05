@@ -1,0 +1,58 @@
+{
+  "ticker": "QNRX",
+  "name": "Quoin Pharmaceuticals, Ltd.",
+  "cik": 1671502,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -15804655,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 20007235,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalAssets": {
+      "value": 20390569,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentLiabilities": {
+      "value": 5546930,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalLiabilities": {
+      "value": 7270663,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "shareholdersEquity": {
+      "value": 13119906,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "operatingCashFlow": {
+      "value": -13540994,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:43.636Z"
+}

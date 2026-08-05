@@ -1,0 +1,83 @@
+{
+  "ticker": "SRI",
+  "name": "STONERIDGE INC",
+  "cik": 1043337,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 861263000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "cogs": {
+      "value": 690109000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -38606000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "netIncome": {
+      "value": -102835000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "epsBasic": {
+      "value": -3.7,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "epsDiluted": {
+      "value": -3.7,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentAssets": {
+      "value": 361869000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "totalAssets": {
+      "value": 551188000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentLiabilities": {
+      "value": 157556000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 179779000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "operatingCashFlow": {
+      "value": 34022000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "capex": {
+      "value": 27232000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:05.693Z"
+}

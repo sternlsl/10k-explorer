@@ -1,0 +1,63 @@
+{
+  "ticker": "EGBN",
+  "name": "EAGLE BANCORP INC",
+  "cik": 1050441,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -138052000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "epsBasic": {
+      "value": -4.55,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "epsDiluted": {
+      "value": -4.55,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 10497203000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 9365920000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "shareholdersEquity": {
+      "value": 1131283000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "operatingCashFlow": {
+      "value": 28495000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    },
+    "capex": {
+      "value": 7733000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-09"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:10.678Z"
+}

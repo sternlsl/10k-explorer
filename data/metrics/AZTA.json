@@ -1,0 +1,93 @@
+{
+  "ticker": "AZTA",
+  "name": "Azenta, Inc.",
+  "cik": 933974,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 593821000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "cogs": {
+      "value": 323541000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "grossProfit": {
+      "value": 270280000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "operatingIncome": {
+      "value": -26844000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "netIncome": {
+      "value": -55763000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "epsBasic": {
+      "value": -1.22,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "epsDiluted": {
+      "value": -1.22,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "currentAssets": {
+      "value": 708339000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "totalAssets": {
+      "value": 2059582000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "currentLiabilities": {
+      "value": 237674000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "totalLiabilities": {
+      "value": 332596000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "shareholdersEquity": {
+      "value": 1726986000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "operatingCashFlow": {
+      "value": 72181000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "capex": {
+      "value": 33857000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:34.226Z"
+}

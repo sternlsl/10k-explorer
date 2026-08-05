@@ -2,52 +2,72 @@
   "ticker": "DTE",
   "name": "DTE ENERGY CO",
   "cik": 936340,
-  "fiscalYear": 2017,
+  "fiscalYear": 2025,
   "metrics": {
     "revenue": {
       "value": 12607000000,
       "year": 2017,
-      "periodEnd": "2017-12-31"
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-16"
     },
     "cogs": null,
     "grossProfit": null,
     "operatingIncome": {
       "value": 2374000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
     },
     "netIncome": {
       "value": 1462000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsBasic": {
+      "value": 7.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsDiluted": {
+      "value": 7.03,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
     },
     "currentAssets": {
       "value": 4348000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
     },
     "totalAssets": {
       "value": 54066000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
     },
     "currentLiabilities": {
       "value": 5409000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
     },
     "totalLiabilities": null,
     "shareholdersEquity": {
       "value": 12303000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
     },
     "operatingCashFlow": {
       "value": 3409000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
     },
     "capex": null
   },
-  "fetchedAt": "2026-05-08T18:48:06.528Z"
+  "updatedAt": "2026-08-05T16:54:05.234Z"
 }

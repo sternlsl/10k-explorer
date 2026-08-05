@@ -1,0 +1,83 @@
+{
+  "ticker": "CRD-A",
+  "name": "CRAWFORD & CO",
+  "cik": 25475,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1310827000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "cogs": {
+      "value": 943739000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 84124000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-05"
+    },
+    "netIncome": {
+      "value": 19634000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": 0.54,
+      "year": 2010,
+      "periodEnd": "2010-12-31",
+      "filed": "2011-03-04"
+    },
+    "epsDiluted": {
+      "value": 0.53,
+      "year": 2010,
+      "periodEnd": "2010-12-31",
+      "filed": "2011-03-04"
+    },
+    "currentAssets": {
+      "value": 352412000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "totalAssets": {
+      "value": 764300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": {
+      "value": 309570000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 173093000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "operatingCashFlow": {
+      "value": 101847000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "capex": {
+      "value": 7014000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:59.565Z"
+}

@@ -1,0 +1,68 @@
+{
+  "ticker": "FNWB",
+  "name": "First Northwest Bancorp",
+  "cik": 1556727,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 176000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-15"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -4191000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "epsBasic": {
+      "value": -0.48,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "epsDiluted": {
+      "value": -0.48,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2107895000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1950631000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "shareholdersEquity": {
+      "value": 163340000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-15"
+    },
+    "operatingCashFlow": {
+      "value": -2758000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "capex": {
+      "value": 1571000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:16.235Z"
+}

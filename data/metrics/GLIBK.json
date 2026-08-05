@@ -1,0 +1,83 @@
+{
+  "ticker": "GLIBK",
+  "name": "GCI Liberty, Inc.",
+  "cik": 2057463,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1046000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -347000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "netIncome": {
+      "value": -309000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "epsBasic": {
+      "value": -9.97,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "epsDiluted": {
+      "value": -9.97,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "currentAssets": {
+      "value": 615000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "totalAssets": {
+      "value": 3234000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "currentLiabilities": {
+      "value": 196000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "totalLiabilities": {
+      "value": 1528000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "shareholdersEquity": {
+      "value": 1688000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "operatingCashFlow": {
+      "value": 370000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "capex": {
+      "value": 248000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:15.932Z"
+}

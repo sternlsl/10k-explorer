@@ -1,0 +1,83 @@
+{
+  "ticker": "NERV",
+  "name": "Minerva Neurosciences, Inc.",
+  "cik": 1598646,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-25"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -15102970,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "netIncome": {
+      "value": -293423177,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsBasic": {
+      "value": -34.67,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsDiluted": {
+      "value": -34.67,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentAssets": {
+      "value": 83099489,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "totalAssets": {
+      "value": 97968888,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentLiabilities": {
+      "value": 2290473,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "totalLiabilities": {
+      "value": 233755048,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "shareholdersEquity": {
+      "value": -140748082,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "operatingCashFlow": {
+      "value": -13510936,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "capex": {
+      "value": 16326,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-02-22"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:23.719Z"
+}

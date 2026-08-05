@@ -1,0 +1,88 @@
+{
+  "ticker": "AGTX",
+  "name": "Agentix Corp.",
+  "cik": 1603345,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-03-31",
+      "filed": "2023-07-14"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-03-31",
+      "filed": "2023-07-14"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-03-31",
+      "filed": "2023-07-14"
+    },
+    "operatingIncome": {
+      "value": -445187,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-01"
+    },
+    "netIncome": {
+      "value": -485636,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-01"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-01"
+    },
+    "currentAssets": {
+      "value": 771,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-01"
+    },
+    "totalAssets": {
+      "value": 771,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-01"
+    },
+    "currentLiabilities": {
+      "value": 3596282,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-01"
+    },
+    "totalLiabilities": {
+      "value": 3596282,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-01"
+    },
+    "shareholdersEquity": {
+      "value": -3595511,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-01"
+    },
+    "operatingCashFlow": {
+      "value": -108529,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-01"
+    },
+    "capex": {
+      "value": 1328,
+      "year": 2014,
+      "periodEnd": "2014-08-31",
+      "filed": "2015-12-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:05.866Z"
+}

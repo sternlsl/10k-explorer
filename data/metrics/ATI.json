@@ -1,0 +1,88 @@
+{
+  "ticker": "ATI",
+  "name": "ATI INC",
+  "cik": 1018963,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4587400000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-20"
+    },
+    "cogs": {
+      "value": 3580400000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-20"
+    },
+    "grossProfit": {
+      "value": 1007000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-20"
+    },
+    "operatingIncome": {
+      "value": 640900000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-20"
+    },
+    "netIncome": {
+      "value": 404300000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-20"
+    },
+    "epsBasic": {
+      "value": 2.92,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-20"
+    },
+    "epsDiluted": {
+      "value": 2.85,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-20"
+    },
+    "currentAssets": {
+      "value": 2680000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-20"
+    },
+    "totalAssets": {
+      "value": 5099600000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-20"
+    },
+    "currentLiabilities": {
+      "value": 1006300000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-20"
+    },
+    "totalLiabilities": {
+      "value": 3182900000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-20"
+    },
+    "shareholdersEquity": {
+      "value": 1804500000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-20"
+    },
+    "operatingCashFlow": {
+      "value": 614300000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:54:21.313Z"
+}

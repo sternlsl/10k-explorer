@@ -1,0 +1,93 @@
+{
+  "ticker": "BLZE",
+  "name": "Backblaze, Inc.",
+  "cik": 1462056,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 145835000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "cogs": {
+      "value": 57042000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "grossProfit": {
+      "value": 88793000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "operatingIncome": {
+      "value": -23623000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "netIncome": {
+      "value": -25612000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "epsBasic": {
+      "value": -0.46,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "epsDiluted": {
+      "value": -0.46,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "currentAssets": {
+      "value": 65688000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "totalAssets": {
+      "value": 191826000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "currentLiabilities": {
+      "value": 61618000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "totalLiabilities": {
+      "value": 108605000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "shareholdersEquity": {
+      "value": 83221000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "operatingCashFlow": {
+      "value": 23544000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    },
+    "capex": {
+      "value": 4694000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-10"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:22.495Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "TGNT",
+  "name": "Totaligent, Inc.",
+  "cik": 846377,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2248,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "grossProfit": {
+      "value": 2248,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "operatingIncome": {
+      "value": -454992,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "netIncome": {
+      "value": -600046,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "epsBasic": {
+      "value": -0.06,
+      "year": 2014,
+      "periodEnd": "2014-06-30",
+      "filed": "2014-10-14"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "currentAssets": {
+      "value": 9696,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "totalAssets": {
+      "value": 206467,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "currentLiabilities": {
+      "value": 2370734,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "totalLiabilities": {
+      "value": 2370734,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "shareholdersEquity": {
+      "value": -2164267,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "operatingCashFlow": {
+      "value": -265041,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-10-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:52.731Z"
+}

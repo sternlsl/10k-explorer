@@ -1,0 +1,93 @@
+{
+  "ticker": "TTAN",
+  "name": "ServiceTitan, Inc.",
+  "cik": 1638826,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 960965000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "cogs": {
+      "value": 287226000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "grossProfit": {
+      "value": 673739000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "operatingIncome": {
+      "value": -169205000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "netIncome": {
+      "value": -159853000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "epsBasic": {
+      "value": -1.73,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "epsDiluted": {
+      "value": -1.73,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "currentAssets": {
+      "value": 590858000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "totalAssets": {
+      "value": 1745057000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "currentLiabilities": {
+      "value": 169452000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "totalLiabilities": {
+      "value": 219823000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "shareholdersEquity": {
+      "value": 1525234000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "operatingCashFlow": {
+      "value": 110131000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    },
+    "capex": {
+      "value": 4704000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:45.872Z"
+}

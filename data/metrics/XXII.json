@@ -1,0 +1,93 @@
+{
+  "ticker": "XXII",
+  "name": "22nd Century Group, Inc.",
+  "cik": 1347858,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 32204000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "cogs": {
+      "value": 25818075,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-11"
+    },
+    "grossProfit": {
+      "value": 14455,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-11"
+    },
+    "operatingIncome": {
+      "value": -11566000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "netIncome": {
+      "value": -5054000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": -52.87,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": -52.87,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentAssets": {
+      "value": 17631000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalAssets": {
+      "value": 27023000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentLiabilities": {
+      "value": 7272000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalLiabilities": {
+      "value": 8531000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "shareholdersEquity": {
+      "value": 15758000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "operatingCashFlow": {
+      "value": -7723000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "capex": {
+      "value": 61000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:10.633Z"
+}

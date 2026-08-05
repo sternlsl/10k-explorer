@@ -1,0 +1,88 @@
+{
+  "ticker": "CLH",
+  "name": "CLEAN HARBORS INC",
+  "cik": 822818,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6030837000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "cogs": {
+      "value": 4144599000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 673372000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "netIncome": {
+      "value": 390974000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "epsBasic": {
+      "value": 7.31,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "epsDiluted": {
+      "value": 7.28,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "currentAssets": {
+      "value": 2647243000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "totalAssets": {
+      "value": 7624056000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "currentLiabilities": {
+      "value": 1136847000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "totalLiabilities": {
+      "value": 2568565000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 2745660000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "operatingCashFlow": {
+      "value": 866725000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    },
+    "capex": {
+      "value": 424918000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-18"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:33.538Z"
+}

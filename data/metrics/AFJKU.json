@@ -1,0 +1,63 @@
+{
+  "ticker": "AFJKU",
+  "name": "Aimei Health Technology Co., Ltd.",
+  "cik": 1979005,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -835759,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "netIncome": {
+      "value": 1059768,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 2929,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "totalAssets": {
+      "value": 12103039,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "currentLiabilities": {
+      "value": 3371660,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "totalLiabilities": {
+      "value": 4061660,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "shareholdersEquity": {
+      "value": -4058731,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "operatingCashFlow": {
+      "value": -565100,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-04"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:20.675Z"
+}

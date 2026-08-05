@@ -1,0 +1,68 @@
+{
+  "ticker": "POLE",
+  "name": "Andretti Acquisition Corp. II",
+  "cik": 2025341,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": {
+      "value": 180000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1410877,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "netIncome": {
+      "value": 8350365,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 162053,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "totalAssets": {
+      "value": 244423346,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "currentLiabilities": {
+      "value": 191059,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "totalLiabilities": {
+      "value": 10416059,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "shareholdersEquity": {
+      "value": -10254006,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "operatingCashFlow": {
+      "value": -1199985,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:04.174Z"
+}

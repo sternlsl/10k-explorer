@@ -2,64 +2,87 @@
   "ticker": "CASY",
   "name": "CASEYS GENERAL STORES INC",
   "cik": 726958,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 15940899000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 17561101000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-22"
     },
     "cogs": {
       "value": 5825426000,
       "year": 2017,
-      "periodEnd": "2017-04-30"
+      "periodEnd": "2017-04-30",
+      "filed": "2017-06-29"
     },
     "grossProfit": {
       "value": 2144684000,
       "year": 2020,
-      "periodEnd": "2020-04-30"
+      "periodEnd": "2020-04-30",
+      "filed": "2020-06-26"
     },
     "operatingIncome": null,
     "netIncome": {
-      "value": 546520000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 714448000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-22"
+    },
+    "epsBasic": {
+      "value": 19.28,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-22"
+    },
+    "epsDiluted": {
+      "value": 19.16,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-22"
     },
     "currentAssets": {
-      "value": 1012853000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 1364012000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-22"
     },
     "totalAssets": {
-      "value": 8208118000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 8936055000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-22"
     },
     "currentLiabilities": {
-      "value": 1101693000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 1350606000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-22"
     },
     "totalLiabilities": {
-      "value": 4699448000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 4984336000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-22"
     },
     "shareholdersEquity": {
-      "value": 3508670000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 3951719000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-22"
     },
     "operatingCashFlow": {
-      "value": 1090854000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 1377540000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-22"
     },
     "capex": {
-      "value": 506224000,
-      "year": 2025,
-      "periodEnd": "2025-04-30"
+      "value": 655920000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-22"
     }
   },
-  "fetchedAt": "2026-05-08T18:44:04.898Z"
+  "updatedAt": "2026-08-05T16:54:03.842Z"
 }

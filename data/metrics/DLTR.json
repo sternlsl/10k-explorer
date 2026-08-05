@@ -2,68 +2,92 @@
   "ticker": "DLTR",
   "name": "DOLLAR TREE, INC.",
   "cik": 935703,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
       "value": 19395700000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
     },
     "cogs": {
       "value": 12345000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
     },
     "grossProfit": {
       "value": 7050700000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
     },
     "operatingIncome": {
       "value": 1653100000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
     },
     "netIncome": {
       "value": 1282500000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    },
+    "epsBasic": {
+      "value": 6.23,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
+    },
+    "epsDiluted": {
+      "value": 6.22,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
     },
     "currentAssets": {
       "value": 3446200000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
     },
     "totalAssets": {
       "value": 13466200000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
     },
     "currentLiabilities": {
       "value": 3228600000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
     },
     "totalLiabilities": {
       "value": 9711300000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
     },
     "shareholdersEquity": {
       "value": 3754900000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-16"
     },
     "operatingCashFlow": {
       "value": 2684500000,
-      "year": 2023,
-      "periodEnd": "2024-02-03"
+      "year": 2024,
+      "periodEnd": "2024-02-03",
+      "filed": "2024-03-20"
     },
     "capex": {
       "value": 817100000,
-      "year": 2018,
-      "periodEnd": "2019-02-02"
+      "year": 2019,
+      "periodEnd": "2019-02-02",
+      "filed": "2019-03-27"
     }
   },
-  "fetchedAt": "2026-05-08T18:47:41.664Z"
+  "updatedAt": "2026-08-05T16:54:27.858Z"
 }

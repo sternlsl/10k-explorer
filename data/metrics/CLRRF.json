@@ -1,0 +1,63 @@
+{
+  "ticker": "CLRRF",
+  "name": "ClimateRock",
+  "cik": 1903392,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1835282,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-06-25"
+    },
+    "netIncome": {
+      "value": -390001,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-06-25"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 14384,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-06-25"
+    },
+    "totalAssets": {
+      "value": 29395469,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-06-25"
+    },
+    "currentLiabilities": {
+      "value": 5767982,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-06-25"
+    },
+    "totalLiabilities": {
+      "value": 8130482,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-06-25"
+    },
+    "shareholdersEquity": {
+      "value": -8116098,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-06-25"
+    },
+    "operatingCashFlow": {
+      "value": -1585446,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-06-25"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:54.968Z"
+}

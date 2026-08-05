@@ -1,0 +1,83 @@
+{
+  "ticker": "BBLG",
+  "name": "Bone Biologics Corp",
+  "cik": 1419554,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1070000000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-04-15"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -3234942,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "netIncome": {
+      "value": -3108991,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": -2.65,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsDiluted": {
+      "value": -2.65,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentAssets": {
+      "value": 5796135,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "totalAssets": {
+      "value": 5796135,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": {
+      "value": 418587,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "totalLiabilities": {
+      "value": 418587,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "shareholdersEquity": {
+      "value": 5377548,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "operatingCashFlow": {
+      "value": -2691150,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "capex": {
+      "value": 504,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2017-03-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:55.125Z"
+}

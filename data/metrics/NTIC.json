@@ -1,0 +1,88 @@
+{
+  "ticker": "NTIC",
+  "name": "NORTHERN TECHNOLOGIES INTERNATIONAL CORP",
+  "cik": 875582,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 84234474,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "cogs": {
+      "value": 52557919,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "grossProfit": {
+      "value": 31676555,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "operatingIncome": {
+      "value": 2570297,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "netIncome": {
+      "value": 17619,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "currentAssets": {
+      "value": 44342816,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "totalAssets": {
+      "value": 102745280,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "currentLiabilities": {
+      "value": 23904094,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 72148754,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "operatingCashFlow": {
+      "value": 2442955,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "capex": {
+      "value": 1526437,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:32.618Z"
+}

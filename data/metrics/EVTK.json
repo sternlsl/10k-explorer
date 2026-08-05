@@ -1,0 +1,73 @@
+{
+  "ticker": "EVTK",
+  "name": "EVENTIKO INC.",
+  "cik": 1816554,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-18"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -23867,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-18"
+    },
+    "netIncome": {
+      "value": -23867,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-18"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-18"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-18"
+    },
+    "currentAssets": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-18"
+    },
+    "totalAssets": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-18"
+    },
+    "currentLiabilities": {
+      "value": 23867,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-18"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -23867,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-18"
+    },
+    "operatingCashFlow": {
+      "value": -23867,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-18"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:05.862Z"
+}

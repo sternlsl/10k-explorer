@@ -1,0 +1,88 @@
+{
+  "ticker": "NWL",
+  "name": "NEWELL BRANDS INC.",
+  "cik": 814453,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7204000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "cogs": {
+      "value": 4772000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "grossProfit": {
+      "value": 2432000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "operatingIncome": {
+      "value": 39000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "netIncome": {
+      "value": -285000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsBasic": {
+      "value": -0.68,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsDiluted": {
+      "value": -0.68,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentAssets": {
+      "value": 2708000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "totalAssets": {
+      "value": 10715000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentLiabilities": {
+      "value": 2525000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "totalLiabilities": {
+      "value": 8324000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "shareholdersEquity": {
+      "value": 2391000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "operatingCashFlow": {
+      "value": 264000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:35.927Z"
+}

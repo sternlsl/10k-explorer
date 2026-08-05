@@ -1,0 +1,78 @@
+{
+  "ticker": "VLGEA",
+  "name": "VILLAGE SUPER MARKET INC",
+  "cik": 103595,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2320690000,
+      "year": 2025,
+      "periodEnd": "2025-07-26",
+      "filed": "2025-10-09"
+    },
+    "cogs": {
+      "value": 1657724000,
+      "year": 2025,
+      "periodEnd": "2025-07-26",
+      "filed": "2025-10-09"
+    },
+    "grossProfit": {
+      "value": 662966000,
+      "year": 2025,
+      "periodEnd": "2025-07-26",
+      "filed": "2025-10-09"
+    },
+    "operatingIncome": {
+      "value": 72068000,
+      "year": 2025,
+      "periodEnd": "2025-07-26",
+      "filed": "2025-10-09"
+    },
+    "netIncome": {
+      "value": 56380000,
+      "year": 2025,
+      "periodEnd": "2025-07-26",
+      "filed": "2025-10-09"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 205109000,
+      "year": 2025,
+      "periodEnd": "2025-07-26",
+      "filed": "2025-10-09"
+    },
+    "totalAssets": {
+      "value": 1003711000,
+      "year": 2025,
+      "periodEnd": "2025-07-26",
+      "filed": "2025-10-09"
+    },
+    "currentLiabilities": {
+      "value": 181269000,
+      "year": 2025,
+      "periodEnd": "2025-07-26",
+      "filed": "2025-10-09"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 491964000,
+      "year": 2025,
+      "periodEnd": "2025-07-26",
+      "filed": "2025-10-09"
+    },
+    "operatingCashFlow": {
+      "value": 93222000,
+      "year": 2025,
+      "periodEnd": "2025-07-26",
+      "filed": "2025-10-09"
+    },
+    "capex": {
+      "value": 58765000,
+      "year": 2025,
+      "periodEnd": "2025-07-26",
+      "filed": "2025-10-09"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:32.960Z"
+}

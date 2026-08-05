@@ -1,0 +1,73 @@
+{
+  "ticker": "LCCCU",
+  "name": "Lakeshore Acquisition III Corp.",
+  "cik": 2049248,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -600384,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "netIncome": {
+      "value": 1257633,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "epsBasic": {
+      "value": -0.09,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "epsDiluted": {
+      "value": 0.31,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "currentAssets": {
+      "value": 765592,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "totalAssets": {
+      "value": 71623609,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "currentLiabilities": {
+      "value": 75000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "totalLiabilities": {
+      "value": 2490000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "shareholdersEquity": {
+      "value": -1724408,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "operatingCashFlow": {
+      "value": -519384,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:11.636Z"
+}

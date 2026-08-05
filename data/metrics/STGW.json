@@ -1,0 +1,88 @@
+{
+  "ticker": "STGW",
+  "name": "Stagwell Inc",
+  "cik": 876883,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2909000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "cogs": {
+      "value": 1845958000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 159001000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "netIncome": {
+      "value": 29101000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "epsBasic": {
+      "value": -2.31,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-18"
+    },
+    "epsDiluted": {
+      "value": -2.31,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-18"
+    },
+    "currentAssets": {
+      "value": 1162292000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "totalAssets": {
+      "value": 4214547000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "currentLiabilities": {
+      "value": 1480011000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "totalLiabilities": {
+      "value": 3413212000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "shareholdersEquity": {
+      "value": 758393000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "operatingCashFlow": {
+      "value": 291028000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "capex": {
+      "value": 43741000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:03.332Z"
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "AUBN",
+  "name": "AUBURN NATIONAL BANCORPORATION, INC",
+  "cik": 750574,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 619000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "epsBasic": {
+      "value": 2.08,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "epsDiluted": {
+      "value": 2.08,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1018797000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 926744000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "shareholdersEquity": {
+      "value": 92053000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "operatingCashFlow": {
+      "value": 12349000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "capex": {
+      "value": 1485000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:21.435Z"
+}

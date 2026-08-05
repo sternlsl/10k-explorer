@@ -2,64 +2,87 @@
   "ticker": "HRL",
   "name": "HORMEL FOODS CORP /DE/",
   "cik": 48465,
-  "fiscalYear": 2017,
+  "fiscalYear": 2025,
   "metrics": {
     "revenue": {
       "value": 9167519000,
       "year": 2017,
-      "periodEnd": "2017-10-29"
+      "periodEnd": "2017-10-29",
+      "filed": "2017-12-20"
     },
     "cogs": {
       "value": 10214344000,
       "year": 2025,
-      "periodEnd": "2025-10-26"
+      "periodEnd": "2025-10-26",
+      "filed": "2025-12-05"
     },
     "grossProfit": {
       "value": 1891816000,
       "year": 2025,
-      "periodEnd": "2025-10-26"
+      "periodEnd": "2025-10-26",
+      "filed": "2025-12-05"
     },
     "operatingIncome": {
       "value": 718603000,
       "year": 2025,
-      "periodEnd": "2025-10-26"
+      "periodEnd": "2025-10-26",
+      "filed": "2025-12-05"
     },
     "netIncome": {
       "value": 478197000,
       "year": 2025,
-      "periodEnd": "2025-10-26"
+      "periodEnd": "2025-10-26",
+      "filed": "2025-12-05"
+    },
+    "epsBasic": {
+      "value": 0.87,
+      "year": 2025,
+      "periodEnd": "2025-10-26",
+      "filed": "2025-12-05"
+    },
+    "epsDiluted": {
+      "value": 0.87,
+      "year": 2025,
+      "periodEnd": "2025-10-26",
+      "filed": "2025-12-05"
     },
     "currentAssets": {
       "value": 3405656000,
       "year": 2025,
-      "periodEnd": "2025-10-26"
+      "periodEnd": "2025-10-26",
+      "filed": "2025-12-05"
     },
     "totalAssets": {
       "value": 13393119000,
       "year": 2025,
-      "periodEnd": "2025-10-26"
+      "periodEnd": "2025-10-26",
+      "filed": "2025-12-05"
     },
     "currentLiabilities": {
       "value": 1380796000,
       "year": 2025,
-      "periodEnd": "2025-10-26"
+      "periodEnd": "2025-10-26",
+      "filed": "2025-12-05"
     },
     "totalLiabilities": null,
     "shareholdersEquity": {
       "value": 7901171000,
       "year": 2025,
-      "periodEnd": "2025-10-26"
+      "periodEnd": "2025-10-26",
+      "filed": "2025-12-05"
     },
     "operatingCashFlow": {
       "value": 845251000,
       "year": 2025,
-      "periodEnd": "2025-10-26"
+      "periodEnd": "2025-10-26",
+      "filed": "2025-12-05"
     },
     "capex": {
       "value": 310902000,
       "year": 2025,
-      "periodEnd": "2025-10-26"
+      "periodEnd": "2025-10-26",
+      "filed": "2025-12-05"
     }
   },
-  "fetchedAt": "2026-05-08T18:52:25.498Z"
+  "updatedAt": "2026-08-05T16:54:58.005Z"
 }

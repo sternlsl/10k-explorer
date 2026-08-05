@@ -1,0 +1,83 @@
+{
+  "ticker": "IBO",
+  "name": "IMPACT BIOMEDICAL INC.",
+  "cik": 1834105,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 32000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "cogs": {
+      "value": 424000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -4282000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "netIncome": {
+      "value": -11838000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsBasic": {
+      "value": -0.38,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsDiluted": {
+      "value": -0.38,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentAssets": {
+      "value": 411000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "totalAssets": {
+      "value": 17405000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentLiabilities": {
+      "value": 1162000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "totalLiabilities": {
+      "value": 1850000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "shareholdersEquity": {
+      "value": 12609000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "operatingCashFlow": {
+      "value": -1890000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:36.990Z"
+}

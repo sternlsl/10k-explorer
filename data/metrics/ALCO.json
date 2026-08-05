@@ -1,0 +1,93 @@
+{
+  "ticker": "ALCO",
+  "name": "ALICO, INC.",
+  "cik": 3545,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 44066000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "cogs": {
+      "value": 106712000,
+      "year": 2022,
+      "periodEnd": "2022-09-30",
+      "filed": "2022-12-13"
+    },
+    "grossProfit": {
+      "value": -192194000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "operatingIncome": {
+      "value": -203901000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "netIncome": {
+      "value": -147334000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "epsBasic": {
+      "value": -19.29,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "epsDiluted": {
+      "value": -19.29,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "currentAssets": {
+      "value": 54919000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "totalAssets": {
+      "value": 201527000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "currentLiabilities": {
+      "value": 5743000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "totalLiabilities": {
+      "value": 93533000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "shareholdersEquity": {
+      "value": 103032000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "operatingCashFlow": {
+      "value": 20126000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "capex": {
+      "value": 5504000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:06.554Z"
+}

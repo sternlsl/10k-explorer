@@ -1,0 +1,93 @@
+{
+  "ticker": "BLTH",
+  "name": "AMERICAN BATTERY MATERIALS, INC.",
+  "cik": 1487718,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 80233,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2021-09-27"
+    },
+    "cogs": {
+      "value": 88965,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2021-09-27"
+    },
+    "grossProfit": {
+      "value": -8732,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2021-09-27"
+    },
+    "operatingIncome": {
+      "value": -1863256,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "netIncome": {
+      "value": -6410564,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsBasic": {
+      "value": -2.3,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsDiluted": {
+      "value": -2.3,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentAssets": {
+      "value": 190365,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalAssets": {
+      "value": 396365,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentLiabilities": {
+      "value": 10692713,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalLiabilities": {
+      "value": 10692713,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "shareholdersEquity": {
+      "value": -10296348,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "operatingCashFlow": {
+      "value": -499416,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "capex": {
+      "value": 14084,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2021-05-12"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:04.428Z"
+}

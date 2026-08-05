@@ -1,0 +1,73 @@
+{
+  "ticker": "KOS",
+  "name": "Kosmos Energy Ltd.",
+  "cik": 1509991,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1718829000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-26"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -699786000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": -1.47,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsDiluted": {
+      "value": -1.47,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentAssets": {
+      "value": 427874000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "totalAssets": {
+      "value": 4696626000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": {
+      "value": 572307000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 528590000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "operatingCashFlow": {
+      "value": 134012000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "capex": {
+      "value": 611588000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:37.522Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "GTX",
+  "name": "Garrett Motion Inc.",
+  "cik": 1735707,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3584000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "cogs": {
+      "value": 2853000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "grossProfit": {
+      "value": 731000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 310000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "epsBasic": {
+      "value": 1.55,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "epsDiluted": {
+      "value": 1.52,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "currentAssets": {
+      "value": 1319000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "totalAssets": {
+      "value": 2367000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "currentLiabilities": {
+      "value": 1363000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "totalLiabilities": {
+      "value": 3169000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "shareholdersEquity": {
+      "value": -802000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "operatingCashFlow": {
+      "value": 413000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    },
+    "capex": {
+      "value": 72000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:09.850Z"
+}

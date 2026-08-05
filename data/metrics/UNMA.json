@@ -1,0 +1,73 @@
+{
+  "ticker": "UNMA",
+  "name": "Unum Group",
+  "cik": 5513,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 13075500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1241800000,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-02-26"
+    },
+    "netIncome": {
+      "value": 738500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsBasic": {
+      "value": 4.28,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsDiluted": {
+      "value": 4.27,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 63519400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 52400300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "shareholdersEquity": {
+      "value": 11119100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "operatingCashFlow": {
+      "value": 687700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "capex": {
+      "value": 132300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:49.443Z"
+}

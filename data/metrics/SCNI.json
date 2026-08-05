@@ -1,0 +1,73 @@
+{
+  "ticker": "SCNI",
+  "name": "Scinai Immunotherapeutics Ltd.",
+  "cik": 1611747,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -11061000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "netIncome": {
+      "value": -5796000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "currentAssets": {
+      "value": 14370000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "totalAssets": {
+      "value": 27067000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "currentLiabilities": {
+      "value": 2338000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -1760000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "operatingCashFlow": {
+      "value": -7265000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "capex": {
+      "value": 836000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:58.131Z"
+}

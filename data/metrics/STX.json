@@ -2,64 +2,87 @@
   "ticker": "STX",
   "name": "Seagate Technology Holdings plc",
   "cik": 1137789,
-  "fiscalYear": 2027,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 9097000000,
-      "year": 2027,
-      "periodEnd": "2025-06-27"
+      "value": 12195000000,
+      "year": 2026,
+      "periodEnd": "2026-07-03",
+      "filed": "2026-08-04"
     },
     "cogs": {
-      "value": 5897000000,
-      "year": 2027,
-      "periodEnd": "2025-06-27"
+      "value": 6637000000,
+      "year": 2026,
+      "periodEnd": "2026-07-03",
+      "filed": "2026-08-04"
     },
     "grossProfit": null,
     "operatingIncome": {
-      "value": 1890000000,
-      "year": 2027,
-      "periodEnd": "2025-06-27"
+      "value": 4094000000,
+      "year": 2026,
+      "periodEnd": "2026-07-03",
+      "filed": "2026-08-04"
     },
     "netIncome": {
-      "value": 1469000000,
-      "year": 2027,
-      "periodEnd": "2025-06-27"
+      "value": 3184000000,
+      "year": 2026,
+      "periodEnd": "2026-07-03",
+      "filed": "2026-08-04"
+    },
+    "epsBasic": {
+      "value": 14.54,
+      "year": 2026,
+      "periodEnd": "2026-07-03",
+      "filed": "2026-08-04"
+    },
+    "epsDiluted": {
+      "value": 13.9,
+      "year": 2026,
+      "periodEnd": "2026-07-03",
+      "filed": "2026-08-04"
     },
     "currentAssets": {
-      "value": 3653000000,
-      "year": 2027,
-      "periodEnd": "2025-06-27"
+      "value": 5221000000,
+      "year": 2026,
+      "periodEnd": "2026-07-03",
+      "filed": "2026-08-04"
     },
     "totalAssets": {
-      "value": 8023000000,
-      "year": 2027,
-      "periodEnd": "2025-06-27"
+      "value": 9972000000,
+      "year": 2026,
+      "periodEnd": "2026-07-03",
+      "filed": "2026-08-04"
     },
     "currentLiabilities": {
-      "value": 2648000000,
-      "year": 2027,
-      "periodEnd": "2025-06-27"
+      "value": 3127000000,
+      "year": 2026,
+      "periodEnd": "2026-07-03",
+      "filed": "2026-08-04"
     },
     "totalLiabilities": {
-      "value": 8476000000,
-      "year": 2027,
-      "periodEnd": "2025-06-27"
+      "value": 7805000000,
+      "year": 2026,
+      "periodEnd": "2026-07-03",
+      "filed": "2026-08-04"
     },
     "shareholdersEquity": {
-      "value": -453000000,
-      "year": 2027,
-      "periodEnd": "2025-06-27"
+      "value": 2167000000,
+      "year": 2026,
+      "periodEnd": "2026-07-03",
+      "filed": "2026-08-04"
     },
     "operatingCashFlow": {
-      "value": 1083000000,
-      "year": 2027,
-      "periodEnd": "2025-06-27"
+      "value": 3674000000,
+      "year": 2026,
+      "periodEnd": "2026-07-03",
+      "filed": "2026-08-04"
     },
     "capex": {
-      "value": 265000000,
-      "year": 2027,
-      "periodEnd": "2025-06-27"
+      "value": 569000000,
+      "year": 2026,
+      "periodEnd": "2026-07-03",
+      "filed": "2026-08-04"
     }
   },
-  "fetchedAt": "2026-05-08T19:01:52.725Z"
+  "updatedAt": "2026-08-05T16:53:20.656Z"
 }

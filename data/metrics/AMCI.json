@@ -1,0 +1,88 @@
+{
+  "ticker": "AMCI",
+  "name": "AMC Robotics Corp",
+  "cik": 1937891,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5980847,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-20"
+    },
+    "cogs": {
+      "value": 3127699,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-20"
+    },
+    "grossProfit": {
+      "value": 2853148,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-20"
+    },
+    "operatingIncome": {
+      "value": -505166,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-20"
+    },
+    "netIncome": {
+      "value": -24817342,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-20"
+    },
+    "epsBasic": {
+      "value": -1.36,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-20"
+    },
+    "epsDiluted": {
+      "value": -1.36,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-20"
+    },
+    "currentAssets": {
+      "value": 11056823,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-20"
+    },
+    "totalAssets": {
+      "value": 11172586,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-20"
+    },
+    "currentLiabilities": {
+      "value": 686821,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-20"
+    },
+    "totalLiabilities": {
+      "value": 746384,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-20"
+    },
+    "shareholdersEquity": {
+      "value": 10426202,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-20"
+    },
+    "operatingCashFlow": {
+      "value": -5555840,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:28.604Z"
+}

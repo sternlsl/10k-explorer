@@ -2,68 +2,92 @@
   "ticker": "TTWO",
   "name": "TAKE TWO INTERACTIVE SOFTWARE INC",
   "cik": 946581,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 5633600000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 6656400000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "cogs": {
       "value": 3064600000,
       "year": 2023,
-      "periodEnd": "2023-03-31"
+      "periodEnd": "2023-03-31",
+      "filed": "2023-05-26"
     },
     "grossProfit": {
-      "value": 3062200000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 3809700000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "operatingIncome": {
-      "value": -4391100000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": -104200000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "netIncome": {
-      "value": -4478900000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": -298200000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "epsBasic": {
+      "value": -1.62,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "epsDiluted": {
+      "value": -1.62,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "currentAssets": {
-      "value": 2815900000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 3199500000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "totalAssets": {
-      "value": 9180700000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 9383200000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "currentLiabilities": {
-      "value": 3615800000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 2588800000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "totalLiabilities": {
-      "value": 7043000000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 5872300000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "shareholdersEquity": {
-      "value": 2137700000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 3510900000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "operatingCashFlow": {
-      "value": -45200000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 624300000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     },
     "capex": {
-      "value": 169400000,
-      "year": 2025,
-      "periodEnd": "2025-03-31"
+      "value": 162800000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
     }
   },
-  "fetchedAt": "2026-05-08T19:03:17.498Z"
+  "updatedAt": "2026-08-05T16:53:52.258Z"
 }

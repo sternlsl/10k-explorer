@@ -1,0 +1,88 @@
+{
+  "ticker": "GAP",
+  "name": "GAP INC",
+  "cik": 39911,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 15366000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "cogs": {
+      "value": 9098000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "grossProfit": {
+      "value": 6268000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "operatingIncome": {
+      "value": 1115000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "netIncome": {
+      "value": 816000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "epsBasic": {
+      "value": 2.19,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "epsDiluted": {
+      "value": 2.13,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "currentAssets": {
+      "value": 5777000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "totalAssets": {
+      "value": 12632000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "currentLiabilities": {
+      "value": 3300000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 3801000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "operatingCashFlow": {
+      "value": 1293000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "capex": {
+      "value": 470000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:18.982Z"
+}

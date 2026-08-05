@@ -1,0 +1,63 @@
+{
+  "ticker": "PRA",
+  "name": "PROASSURANCE CORP",
+  "cik": 1127703,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1098028000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 50915000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "epsBasic": {
+      "value": 0.99,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "epsDiluted": {
+      "value": 0.99,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 5447192000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 4098058000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "shareholdersEquity": {
+      "value": 1349134000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "operatingCashFlow": {
+      "value": -25620000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:22.739Z"
+}

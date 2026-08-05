@@ -1,0 +1,88 @@
+{
+  "ticker": "DLTI",
+  "name": "DLT Resolution Inc.",
+  "cik": 1420368,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 142738,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-26"
+    },
+    "cogs": {
+      "value": 94342,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-26"
+    },
+    "grossProfit": {
+      "value": 48396,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-26"
+    },
+    "operatingIncome": {
+      "value": -81115,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-26"
+    },
+    "netIncome": {
+      "value": 1206581,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-26"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-26"
+    },
+    "currentAssets": {
+      "value": 211386,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-26"
+    },
+    "totalAssets": {
+      "value": 211386,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-26"
+    },
+    "currentLiabilities": {
+      "value": 263135,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-26"
+    },
+    "totalLiabilities": {
+      "value": 263135,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-26"
+    },
+    "shareholdersEquity": {
+      "value": -51749,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-26"
+    },
+    "operatingCashFlow": {
+      "value": -100077,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-26"
+    },
+    "capex": {
+      "value": -14825,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-09-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:21.942Z"
+}

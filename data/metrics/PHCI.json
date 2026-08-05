@@ -1,0 +1,83 @@
+{
+  "ticker": "PHCI",
+  "name": "Panamera Holdings Corp",
+  "cik": 1620749,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 241430,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-25"
+    },
+    "cogs": {
+      "value": 179915,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-25"
+    },
+    "grossProfit": {
+      "value": 61515,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-25"
+    },
+    "operatingIncome": {
+      "value": -545732,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-25"
+    },
+    "netIncome": {
+      "value": -536414,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-25"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-25"
+    },
+    "currentAssets": {
+      "value": 95424,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-25"
+    },
+    "totalAssets": {
+      "value": 803519,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-25"
+    },
+    "currentLiabilities": {
+      "value": 155355,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-25"
+    },
+    "totalLiabilities": {
+      "value": 179064,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-25"
+    },
+    "shareholdersEquity": {
+      "value": 624455,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-25"
+    },
+    "operatingCashFlow": {
+      "value": -515320,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-11-25"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:40.453Z"
+}

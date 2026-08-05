@@ -1,0 +1,93 @@
+{
+  "ticker": "DBD",
+  "name": "DIEBOLD NIXDORF, Inc",
+  "cik": 28823,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3805700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "cogs": {
+      "value": 2844500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "grossProfit": {
+      "value": 961200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "operatingIncome": {
+      "value": 242000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "netIncome": {
+      "value": 94600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "epsBasic": {
+      "value": 2.57,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "epsDiluted": {
+      "value": 2.54,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "currentAssets": {
+      "value": 1786800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "totalAssets": {
+      "value": 3854400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "currentLiabilities": {
+      "value": 1371500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "totalLiabilities": {
+      "value": 2749600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "shareholdersEquity": {
+      "value": 1099900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "operatingCashFlow": {
+      "value": 300700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "capex": {
+      "value": 51298000,
+      "year": 2010,
+      "periodEnd": "2010-12-31",
+      "filed": "2011-02-22"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:06.788Z"
+}

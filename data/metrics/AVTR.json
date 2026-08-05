@@ -1,0 +1,93 @@
+{
+  "ticker": "AVTR",
+  "name": "Avantor, Inc.",
+  "cik": 1722482,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6552200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "cogs": {
+      "value": 4412800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "grossProfit": {
+      "value": 2139400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "operatingIncome": {
+      "value": -246200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "netIncome": {
+      "value": -530200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "epsBasic": {
+      "value": -0.78,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "epsDiluted": {
+      "value": -0.78,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "currentAssets": {
+      "value": 2451200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "totalAssets": {
+      "value": 11794700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "currentLiabilities": {
+      "value": 1378900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "totalLiabilities": {
+      "value": 6229700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "shareholdersEquity": {
+      "value": 5565000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "operatingCashFlow": {
+      "value": 623800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "capex": {
+      "value": 128800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:56.241Z"
+}

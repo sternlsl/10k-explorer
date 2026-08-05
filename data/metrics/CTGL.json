@@ -1,0 +1,93 @@
+{
+  "ticker": "CTGL",
+  "name": "SKYTECH ORION GLOBAL CORP.",
+  "cik": 1498067,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 12000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-04-08"
+    },
+    "cogs": {
+      "value": 14000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-04-08"
+    },
+    "grossProfit": {
+      "value": -2000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-04-08"
+    },
+    "operatingIncome": {
+      "value": -1255000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": -1917000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 166000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 1211000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 4757000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 5468000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -4257000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -468000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": {
+      "value": 114000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:00.117Z"
+}

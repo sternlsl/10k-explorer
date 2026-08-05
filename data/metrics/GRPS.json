@@ -1,0 +1,78 @@
+{
+  "ticker": "GRPS",
+  "name": "Trans American Aquaculture, Inc",
+  "cik": 1990446,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 331645,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-17"
+    },
+    "cogs": {
+      "value": 321615,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-17"
+    },
+    "grossProfit": {
+      "value": 10030,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-17"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -2808894,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-17"
+    },
+    "epsBasic": {
+      "value": -0.001555,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-17"
+    },
+    "epsDiluted": {
+      "value": -0.001555,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-17"
+    },
+    "currentAssets": {
+      "value": 257310,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-17"
+    },
+    "totalAssets": {
+      "value": 948015,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-17"
+    },
+    "currentLiabilities": {
+      "value": 3608912,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-17"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -3221985,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-17"
+    },
+    "operatingCashFlow": {
+      "value": -2996776,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-07-17"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:20.884Z"
+}

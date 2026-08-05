@@ -1,0 +1,63 @@
+{
+  "ticker": "ALSUF",
+  "name": "Alpha Star Acquisition Corp",
+  "cik": 1865111,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -887584,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "netIncome": {
+      "value": -847048,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 6315,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "totalAssets": {
+      "value": 724387,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "currentLiabilities": {
+      "value": 2022100,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "totalLiabilities": {
+      "value": 2972100,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "shareholdersEquity": {
+      "value": -2965785,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "operatingCashFlow": {
+      "value": -651811,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:59:31.392Z"
+}

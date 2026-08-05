@@ -1,0 +1,88 @@
+{
+  "ticker": "CCOI",
+  "name": "COGENT COMMUNICATIONS HOLDINGS, INC.",
+  "cik": 1158324,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 485175000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-23"
+    },
+    "cogs": {
+      "value": 534962000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -101073000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "netIncome": {
+      "value": -182174000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsBasic": {
+      "value": -3.8,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsDiluted": {
+      "value": -3.8,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentAssets": {
+      "value": 450581000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "totalAssets": {
+      "value": 3099784000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentLiabilities": {
+      "value": 220841000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "totalLiabilities": {
+      "value": 3163632000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "shareholdersEquity": {
+      "value": -63848000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "operatingCashFlow": {
+      "value": -10579000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "capex": {
+      "value": 187569000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:06.018Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "MGNC",
+  "name": "Mag Magna Corp",
+  "cik": 1949864,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 49905,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-23"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 5600,
+      "year": 2024,
+      "periodEnd": "2024-04-30",
+      "filed": "2024-08-13"
+    },
+    "operatingIncome": {
+      "value": -52256,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-23"
+    },
+    "netIncome": {
+      "value": -52254,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-23"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-23"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2024,
+      "periodEnd": "2024-04-30",
+      "filed": "2024-08-13"
+    },
+    "currentAssets": {
+      "value": 25975,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-23"
+    },
+    "totalAssets": {
+      "value": 144297,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-23"
+    },
+    "currentLiabilities": {
+      "value": 227595,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-23"
+    },
+    "totalLiabilities": {
+      "value": 227595,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-23"
+    },
+    "shareholdersEquity": {
+      "value": -83298,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-23"
+    },
+    "operatingCashFlow": {
+      "value": -61558,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-23"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:44.527Z"
+}

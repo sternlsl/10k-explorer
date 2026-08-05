@@ -1,0 +1,68 @@
+{
+  "ticker": "UTGN",
+  "name": "UTG INC",
+  "cik": 832480,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 42345719,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 17079919,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "epsBasic": {
+      "value": 5.42,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "epsDiluted": {
+      "value": 5.42,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 491368581,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 258676314,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "shareholdersEquity": {
+      "value": 232242902,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "operatingCashFlow": {
+      "value": -6520014,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:21.932Z"
+}

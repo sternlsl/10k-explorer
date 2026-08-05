@@ -1,0 +1,63 @@
+{
+  "ticker": "GLNS",
+  "name": "Golden Star Resource Corp.",
+  "cik": 1375348,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2014,
+      "periodEnd": "2014-06-30",
+      "filed": "2014-09-26"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -69127,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2945,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 891112,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "shareholdersEquity": {
+      "value": -888168,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "operatingCashFlow": {
+      "value": -47081,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:11.322Z"
+}

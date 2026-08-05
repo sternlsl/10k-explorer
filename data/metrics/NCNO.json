@@ -1,0 +1,93 @@
+{
+  "ticker": "NCNO",
+  "name": "nCino, Inc.",
+  "cik": 1902733,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 594781000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "cogs": {
+      "value": 234612000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "grossProfit": {
+      "value": 360169000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "operatingIncome": {
+      "value": 3727000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": 5180000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": 0.05,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": 0.05,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 293503000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 1648106000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 294492000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 579454000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 1055915000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": 90065000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 7501000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:29.808Z"
+}

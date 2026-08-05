@@ -1,0 +1,88 @@
+{
+  "ticker": "CBT",
+  "name": "CABOT CORP",
+  "cik": 16040,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3713000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "cogs": {
+      "value": 2773000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "grossProfit": {
+      "value": 940000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "operatingIncome": {
+      "value": 621000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "netIncome": {
+      "value": 331000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "epsBasic": {
+      "value": 6.07,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "epsDiluted": {
+      "value": 6.02,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "currentAssets": {
+      "value": 1539000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "totalAssets": {
+      "value": 3815000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "currentLiabilities": {
+      "value": 957000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1550000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "operatingCashFlow": {
+      "value": 665000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    },
+    "capex": {
+      "value": 274000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-24"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:27.486Z"
+}

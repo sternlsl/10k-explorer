@@ -1,0 +1,93 @@
+{
+  "ticker": "HTFL",
+  "name": "Heartflow, Inc.",
+  "cik": 1464521,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 176034000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "cogs": {
+      "value": 40837000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "grossProfit": {
+      "value": 135197000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "operatingIncome": {
+      "value": -64066000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "netIncome": {
+      "value": -116791000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsBasic": {
+      "value": -3.17,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsDiluted": {
+      "value": -3.17,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentAssets": {
+      "value": 220204000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "totalAssets": {
+      "value": 359452000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentLiabilities": {
+      "value": 42370000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "totalLiabilities": {
+      "value": 58805000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "shareholdersEquity": {
+      "value": 300647000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "operatingCashFlow": {
+      "value": -54023000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "capex": {
+      "value": 5025000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:13.787Z"
+}

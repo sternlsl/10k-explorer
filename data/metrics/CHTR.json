@@ -7,51 +7,72 @@
     "revenue": {
       "value": 54774000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
     },
     "cogs": null,
     "grossProfit": null,
     "operatingIncome": {
       "value": 12908000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
     },
     "netIncome": {
       "value": 4987000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "epsBasic": {
+      "value": 36.9,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
+    },
+    "epsDiluted": {
+      "value": 36.21,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
     },
     "currentAssets": {
       "value": 5144000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
     },
     "totalAssets": {
       "value": 154213000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
     },
     "currentLiabilities": {
       "value": 13306000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
     },
     "totalLiabilities": null,
     "shareholdersEquity": {
       "value": 16054000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
     },
     "operatingCashFlow": {
       "value": 16077000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
     },
     "capex": {
       "value": 11659000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-30"
     }
   },
-  "fetchedAt": "2026-05-08T18:44:49.036Z"
+  "updatedAt": "2026-08-05T16:52:16.507Z"
 }

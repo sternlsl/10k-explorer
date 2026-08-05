@@ -2,68 +2,92 @@
   "ticker": "MSFT",
   "name": "MICROSOFT CORP",
   "cik": 789019,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 281724000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 331839000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-29"
     },
     "cogs": {
-      "value": 87831000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 106374000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-29"
     },
     "grossProfit": {
-      "value": 193893000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 225465000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-29"
     },
     "operatingIncome": {
-      "value": 128528000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 155237000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-29"
     },
     "netIncome": {
-      "value": 101832000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 133749000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-29"
+    },
+    "epsBasic": {
+      "value": 18,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-29"
+    },
+    "epsDiluted": {
+      "value": 17.95,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-29"
     },
     "currentAssets": {
-      "value": 191131000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 207710000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-29"
     },
     "totalAssets": {
-      "value": 619003000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 758376000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-29"
     },
     "currentLiabilities": {
-      "value": 141218000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 168825000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-29"
     },
     "totalLiabilities": {
-      "value": 275524000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 315989000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-29"
     },
     "shareholdersEquity": {
-      "value": 343479000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 442387000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-29"
     },
     "operatingCashFlow": {
-      "value": 136162000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 182935000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-29"
     },
     "capex": {
-      "value": 64551000000,
-      "year": 2025,
-      "periodEnd": "2025-06-30"
+      "value": 115948000000,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-29"
     }
   },
-  "fetchedAt": "2026-05-07T20:30:28.809Z"
+  "updatedAt": "2026-08-05T16:52:07.947Z"
 }

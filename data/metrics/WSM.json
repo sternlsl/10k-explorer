@@ -2,68 +2,92 @@
   "ticker": "WSM",
   "name": "WILLIAMS SONOMA INC",
   "cik": 719955,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
       "value": 7806816000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-26"
     },
     "cogs": {
       "value": 4203765000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-26"
     },
     "grossProfit": {
       "value": 3603051000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-26"
     },
     "operatingIncome": {
       "value": 1415722000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-26"
     },
     "netIncome": {
       "value": 1088437000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": 8.96,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": 8.84,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-26"
     },
     "currentAssets": {
       "value": 2713187000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-26"
     },
     "totalAssets": {
       "value": 5411912000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-26"
     },
     "currentLiabilities": {
       "value": 1954130000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-26"
     },
     "totalLiabilities": {
       "value": 3329353000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-26"
     },
     "shareholdersEquity": {
       "value": 2082559000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-26"
     },
     "operatingCashFlow": {
       "value": 1314889000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-26"
     },
     "capex": {
       "value": 259438000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-26"
     }
   },
-  "fetchedAt": "2026-05-08T19:06:40.460Z"
+  "updatedAt": "2026-08-05T16:54:21.057Z"
 }

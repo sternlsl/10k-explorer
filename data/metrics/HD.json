@@ -2,64 +2,87 @@
   "ticker": "HD",
   "name": "HOME DEPOT, INC.",
   "cik": 354950,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
       "value": 164683000000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-18"
     },
     "cogs": {
       "value": 109818000000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-18"
     },
     "grossProfit": {
       "value": 54865000000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-18"
     },
     "operatingIncome": {
       "value": 20890000000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-18"
     },
     "netIncome": {
       "value": 14156000000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-18"
+    },
+    "epsBasic": {
+      "value": 14.26,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-18"
+    },
+    "epsDiluted": {
+      "value": 14.23,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-18"
     },
     "currentAssets": {
       "value": 34391000000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-18"
     },
     "totalAssets": {
       "value": 105095000000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-18"
     },
     "currentLiabilities": {
       "value": 32424000000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-18"
     },
     "totalLiabilities": {
       "value": 92282000000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-18"
     },
     "shareholdersEquity": {
       "value": 12813000000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-18"
     },
     "operatingCashFlow": {
       "value": 16325000000,
-      "year": 2025,
-      "periodEnd": "2026-02-01"
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-18"
     },
     "capex": null
   },
-  "fetchedAt": "2026-05-08T18:52:18.568Z"
+  "updatedAt": "2026-08-05T16:52:13.477Z"
 }

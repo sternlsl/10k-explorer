@@ -1,0 +1,93 @@
+{
+  "ticker": "INTA",
+  "name": "Intapp, Inc.",
+  "cik": 1565687,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 504120000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-20"
+    },
+    "cogs": {
+      "value": 131148000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-20"
+    },
+    "grossProfit": {
+      "value": 372972000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-20"
+    },
+    "operatingIncome": {
+      "value": -27357000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-20"
+    },
+    "netIncome": {
+      "value": -18217000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-20"
+    },
+    "epsBasic": {
+      "value": -0.23,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-20"
+    },
+    "epsDiluted": {
+      "value": -0.23,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-20"
+    },
+    "currentAssets": {
+      "value": 455880000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-20"
+    },
+    "totalAssets": {
+      "value": 894161000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-20"
+    },
+    "currentLiabilities": {
+      "value": 349858000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-20"
+    },
+    "totalLiabilities": {
+      "value": 374396000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-20"
+    },
+    "shareholdersEquity": {
+      "value": 519765000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-20"
+    },
+    "operatingCashFlow": {
+      "value": 123529000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-20"
+    },
+    "capex": {
+      "value": 1673000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-20"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:39.804Z"
+}

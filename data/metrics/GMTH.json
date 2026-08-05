@@ -1,0 +1,83 @@
+{
+  "ticker": "GMTH",
+  "name": "GMTech Inc.",
+  "cik": 2000762,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3478036,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-03-06"
+    },
+    "cogs": {
+      "value": 816843,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-03-06"
+    },
+    "grossProfit": {
+      "value": 2661193,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-03-06"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 413355,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-03-06"
+    },
+    "epsBasic": {
+      "value": 0.03,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-03-06"
+    },
+    "epsDiluted": {
+      "value": 0.03,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-03-06"
+    },
+    "currentAssets": {
+      "value": 1275838,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-03-06"
+    },
+    "totalAssets": {
+      "value": 1375643,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-03-06"
+    },
+    "currentLiabilities": {
+      "value": 840627,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-03-06"
+    },
+    "totalLiabilities": {
+      "value": 851408,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-03-06"
+    },
+    "shareholdersEquity": {
+      "value": 524235,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-03-06"
+    },
+    "operatingCashFlow": {
+      "value": 142617,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-03-06"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:40.167Z"
+}

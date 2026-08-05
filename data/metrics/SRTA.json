@@ -1,0 +1,93 @@
+{
+  "ticker": "SRTA",
+  "name": "Strata Critical Medical, Inc.",
+  "cik": 1779128,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 197141000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "cogs": {
+      "value": 156015000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "grossProfit": {
+      "value": 41126000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "operatingIncome": {
+      "value": -22353000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "netIncome": {
+      "value": 41347000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "epsBasic": {
+      "value": 0.5,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "epsDiluted": {
+      "value": 0.5,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "currentAssets": {
+      "value": 126192000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalAssets": {
+      "value": 325472000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "currentLiabilities": {
+      "value": 19794000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalLiabilities": {
+      "value": 46400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "shareholdersEquity": {
+      "value": 279072000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "operatingCashFlow": {
+      "value": -48914000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "capex": {
+      "value": 9595000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:19.114Z"
+}

@@ -1,0 +1,78 @@
+{
+  "ticker": "WLFC",
+  "name": "WILLIS LEASE FINANCE CORP",
+  "cik": 1018164,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 569223000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "cogs": {
+      "value": 62647000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-12"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 144398000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "netIncome": {
+      "value": 108612000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "epsBasic": {
+      "value": 15.97,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "epsDiluted": {
+      "value": 15.34,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 3297196000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 2684736000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "shareholdersEquity": {
+      "value": 549338000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "operatingCashFlow": {
+      "value": 284406000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "capex": {
+      "value": 15631000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:06.292Z"
+}

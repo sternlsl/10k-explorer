@@ -1,0 +1,73 @@
+{
+  "ticker": "PRAA",
+  "name": "PRA GROUP INC",
+  "cik": 1185348,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 14699000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-01"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -30273000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "netIncome": {
+      "value": -305142000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": -7.79,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsDiluted": {
+      "value": -7.79,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 5103322000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 4063357000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "shareholdersEquity": {
+      "value": 979851000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "operatingCashFlow": {
+      "value": -85541000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "capex": {
+      "value": 4821000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:04.854Z"
+}

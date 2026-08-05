@@ -1,0 +1,83 @@
+{
+  "ticker": "VXRT",
+  "name": "Vaxart, Inc.",
+  "cik": 72444,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 237258000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 18074000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "netIncome": {
+      "value": 16327000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "epsBasic": {
+      "value": 0.07,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "epsDiluted": {
+      "value": 0.07,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "currentAssets": {
+      "value": 136123000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "totalAssets": {
+      "value": 186079000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "currentLiabilities": {
+      "value": 86754000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "totalLiabilities": {
+      "value": 98281000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "shareholdersEquity": {
+      "value": 87798000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "operatingCashFlow": {
+      "value": 7714000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "capex": {
+      "value": 145000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:09.503Z"
+}

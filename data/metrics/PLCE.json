@@ -1,0 +1,93 @@
+{
+  "ticker": "PLCE",
+  "name": "Childrens Place, Inc.",
+  "cik": 1041859,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1208830000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-10"
+    },
+    "cogs": {
+      "value": 1254488000,
+      "year": 2019,
+      "periodEnd": "2019-02-02",
+      "filed": "2019-03-21"
+    },
+    "grossProfit": {
+      "value": 361558000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-10"
+    },
+    "operatingIncome": {
+      "value": -57212000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-10"
+    },
+    "netIncome": {
+      "value": -88263000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-10"
+    },
+    "epsBasic": {
+      "value": -4.01,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-10"
+    },
+    "epsDiluted": {
+      "value": -4.01,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-10"
+    },
+    "currentAssets": {
+      "value": 397997000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-10"
+    },
+    "totalAssets": {
+      "value": 670299000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-10"
+    },
+    "currentLiabilities": {
+      "value": 387889000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-10"
+    },
+    "totalLiabilities": {
+      "value": 724482000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-10"
+    },
+    "shareholdersEquity": {
+      "value": -54183000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-10"
+    },
+    "operatingCashFlow": {
+      "value": 8118000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-10"
+    },
+    "capex": {
+      "value": 17381000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-10"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:39.185Z"
+}

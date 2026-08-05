@@ -1,0 +1,93 @@
+{
+  "ticker": "KRMN",
+  "name": "Karman Holdings Inc.",
+  "cik": 2040127,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 471500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "cogs": {
+      "value": 281474000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "grossProfit": {
+      "value": 190026000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "operatingIncome": {
+      "value": 72942000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "netIncome": {
+      "value": 17366000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "epsBasic": {
+      "value": 0.13,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "epsDiluted": {
+      "value": 0.13,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "currentAssets": {
+      "value": 291403000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "totalAssets": {
+      "value": 1104096000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "currentLiabilities": {
+      "value": 88667000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "totalLiabilities": {
+      "value": 721405000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "shareholdersEquity": {
+      "value": 382691000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "operatingCashFlow": {
+      "value": -22119000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "capex": {
+      "value": 20336000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:18.608Z"
+}

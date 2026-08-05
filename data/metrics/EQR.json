@@ -2,52 +2,72 @@
   "ticker": "EQR",
   "name": "EQUITY RESIDENTIAL",
   "cik": 906107,
-  "fiscalYear": 2019,
+  "fiscalYear": 2025,
   "metrics": {
     "revenue": {
       "value": 2701075000,
       "year": 2019,
-      "periodEnd": "2019-12-31"
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-20"
     },
     "cogs": null,
     "grossProfit": {
       "value": 1179565000,
       "year": 2010,
-      "periodEnd": "2010-12-31"
+      "periodEnd": "2010-12-31",
+      "filed": "2011-02-24"
     },
     "operatingIncome": {
       "value": 1160585000,
       "year": 2023,
-      "periodEnd": "2023-12-31"
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-15"
     },
     "netIncome": {
       "value": 1120089000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsBasic": {
+      "value": 2.95,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsDiluted": {
+      "value": 2.94,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
     },
     "currentAssets": null,
     "totalAssets": {
       "value": 20746023000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
     },
     "currentLiabilities": null,
     "totalLiabilities": {
       "value": 9336889000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
     },
     "shareholdersEquity": {
       "value": 11041499000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
     },
     "operatingCashFlow": {
       "value": 1648763000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
     },
     "capex": null
   },
-  "fetchedAt": "2026-05-08T18:49:13.874Z"
+  "updatedAt": "2026-08-05T16:54:12.840Z"
 }

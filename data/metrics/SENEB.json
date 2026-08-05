@@ -1,0 +1,93 @@
+{
+  "ticker": "SENEB",
+  "name": "Seneca Foods Corp",
+  "cik": 88948,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1314765000,
+      "year": 2018,
+      "periodEnd": "2018-03-31",
+      "filed": "2018-06-29"
+    },
+    "cogs": {
+      "value": 1428686000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "grossProfit": {
+      "value": 81003000,
+      "year": 2018,
+      "periodEnd": "2018-03-31",
+      "filed": "2019-06-13"
+    },
+    "operatingIncome": {
+      "value": 77770000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "netIncome": {
+      "value": 41224000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "epsBasic": {
+      "value": 5.95,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "epsDiluted": {
+      "value": 5.9,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "currentAssets": {
+      "value": 755654000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "totalAssets": {
+      "value": 1181429000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "currentLiabilities": {
+      "value": 214558000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "totalLiabilities": {
+      "value": 548406000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "shareholdersEquity": {
+      "value": 633023000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "operatingCashFlow": {
+      "value": 335475000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    },
+    "capex": {
+      "value": 37225000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:53.541Z"
+}

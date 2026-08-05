@@ -1,0 +1,78 @@
+{
+  "ticker": "DLHC",
+  "name": "DLH Holdings Corp.",
+  "cik": 785557,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 41923000,
+      "year": 2011,
+      "periodEnd": "2011-09-30",
+      "filed": "2011-12-02"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 30202000,
+      "year": 2018,
+      "periodEnd": "2018-09-30",
+      "filed": "2018-12-12"
+    },
+    "operatingIncome": {
+      "value": 16786000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "netIncome": null,
+    "epsBasic": {
+      "value": 0.09,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "epsDiluted": {
+      "value": 0.09,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "currentAssets": {
+      "value": 42537000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "totalAssets": {
+      "value": 290663000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "currentLiabilities": {
+      "value": 42671000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "totalLiabilities": {
+      "value": 177705000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "shareholdersEquity": {
+      "value": 112958000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "operatingCashFlow": {
+      "value": 23216000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-10"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:22.560Z"
+}

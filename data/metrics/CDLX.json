@@ -1,0 +1,83 @@
+{
+  "ticker": "CDLX",
+  "name": "Cardlytics, Inc.",
+  "cik": 1666071,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 212328000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -101816000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "netIncome": {
+      "value": -103488000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "epsBasic": {
+      "value": -1.95,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "epsDiluted": {
+      "value": -1.95,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "currentAssets": {
+      "value": 137279000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "totalAssets": {
+      "value": 285641000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "currentLiabilities": {
+      "value": 78390000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "totalLiabilities": {
+      "value": 292149000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "shareholdersEquity": {
+      "value": -6508000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "operatingCashFlow": {
+      "value": 9290000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    },
+    "capex": {
+      "value": 480000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-04"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:10.024Z"
+}

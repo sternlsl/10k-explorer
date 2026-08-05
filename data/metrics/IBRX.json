@@ -1,0 +1,88 @@
+{
+  "ticker": "IBRX",
+  "name": "ImmunityBio, Inc.",
+  "cik": 1326110,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 113288000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "cogs": {
+      "value": 753000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -256027000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "netIncome": {
+      "value": -351398000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "epsBasic": {
+      "value": -0.38,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "epsDiluted": {
+      "value": -0.38,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "currentAssets": {
+      "value": 314875000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "totalAssets": {
+      "value": 501898000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "currentLiabilities": {
+      "value": 61754000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "totalLiabilities": {
+      "value": 1001472000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "shareholdersEquity": {
+      "value": -500469000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "operatingCashFlow": {
+      "value": -304936000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "capex": {
+      "value": 3846000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:28.664Z"
+}

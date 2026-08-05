@@ -1,0 +1,88 @@
+{
+  "ticker": "VIRC",
+  "name": "VIRCO MFG CORPORATION",
+  "cik": 751365,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 199652000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-08"
+    },
+    "cogs": {
+      "value": 118413000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-08"
+    },
+    "grossProfit": {
+      "value": 81239000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-08"
+    },
+    "operatingIncome": {
+      "value": 3659000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-08"
+    },
+    "netIncome": {
+      "value": 2568000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-08"
+    },
+    "epsBasic": {
+      "value": 0.16,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-08"
+    },
+    "epsDiluted": {
+      "value": 0.16,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-08"
+    },
+    "currentAssets": {
+      "value": 98729000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-08"
+    },
+    "totalAssets": {
+      "value": 174179000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-08"
+    },
+    "currentLiabilities": {
+      "value": 31982000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-08"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 105931000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-08"
+    },
+    "operatingCashFlow": {
+      "value": -841000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-08"
+    },
+    "capex": {
+      "value": 5854000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-08"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:09.539Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "BGLC",
+  "name": "BioNexus Gene Lab Corp",
+  "cik": 1737523,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7424911,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "cogs": {
+      "value": 6339694,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "grossProfit": {
+      "value": 1085217,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "operatingIncome": {
+      "value": -2965065,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "netIncome": {
+      "value": -2984607,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.09,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "currentAssets": {
+      "value": 5448738,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "totalAssets": {
+      "value": 9252784,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "currentLiabilities": {
+      "value": 520957,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "totalLiabilities": {
+      "value": 637856,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "shareholdersEquity": {
+      "value": 8614928,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "operatingCashFlow": {
+      "value": -1838382,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "capex": {
+      "value": 36971,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:32.346Z"
+}

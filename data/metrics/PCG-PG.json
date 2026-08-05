@@ -1,0 +1,78 @@
+{
+  "ticker": "PCG-PG",
+  "name": "PG&E Corp",
+  "cik": 1004980,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 16759000000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-28"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 4749000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "netIncome": {
+      "value": 1220000000,
+      "year": 2009,
+      "periodEnd": "2009-12-31",
+      "filed": "2010-02-19"
+    },
+    "epsBasic": {
+      "value": 1.18,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "epsDiluted": {
+      "value": 1.18,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "currentAssets": {
+      "value": 15830000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "totalAssets": {
+      "value": 141611000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "currentLiabilities": {
+      "value": 16300000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 32540000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "operatingCashFlow": {
+      "value": 8716000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "capex": {
+      "value": 11787000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:53:58.456Z"
+}

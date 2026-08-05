@@ -7,55 +7,77 @@
     "revenue": {
       "value": 706413000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
     },
     "cogs": {
       "value": 535395000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
     },
     "grossProfit": null,
     "operatingIncome": {
       "value": 29825000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
     },
     "netIncome": {
       "value": 21893000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "epsBasic": {
+      "value": 2.74,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "epsDiluted": {
+      "value": 2.73,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
     },
     "currentAssets": {
       "value": 84874000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
     },
     "totalAssets": {
       "value": 284668000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
     },
     "currentLiabilities": {
       "value": 107469000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
     },
     "totalLiabilities": null,
     "shareholdersEquity": {
       "value": 99617000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
     },
     "operatingCashFlow": {
       "value": 41565000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
     },
     "capex": {
       "value": 26642000000,
       "year": 2026,
-      "periodEnd": "2026-01-31"
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
     }
   },
-  "fetchedAt": "2026-05-07T20:30:38.142Z"
+  "updatedAt": "2026-08-05T16:52:08.301Z"
 }

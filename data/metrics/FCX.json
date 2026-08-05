@@ -7,51 +7,72 @@
     "revenue": {
       "value": 25186000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
     },
     "cogs": {
       "value": 18618000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
     },
     "grossProfit": null,
     "operatingIncome": {
       "value": 6518000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
     },
     "netIncome": null,
+    "epsBasic": {
+      "value": 2.93,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-15"
+    },
+    "epsDiluted": {
+      "value": 2.9,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-15"
+    },
     "currentAssets": {
       "value": 13790000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
     },
     "totalAssets": {
       "value": 58167000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
     },
     "currentLiabilities": {
       "value": 6019000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
     },
     "totalLiabilities": {
       "value": 27401000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
     },
     "shareholdersEquity": {
       "value": 18899000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
     },
     "operatingCashFlow": {
       "value": 5610000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
     },
     "capex": null
   },
-  "fetchedAt": "2026-05-08T18:50:53.472Z"
+  "updatedAt": "2026-08-05T16:53:33.630Z"
 }

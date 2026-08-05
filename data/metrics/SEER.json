@@ -1,0 +1,93 @@
+{
+  "ticker": "SEER",
+  "name": "Seer, Inc.",
+  "cik": 1726445,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 16578000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "cogs": {
+      "value": 8113000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "grossProfit": {
+      "value": 8465000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "operatingIncome": {
+      "value": -77992000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "netIncome": {
+      "value": -73600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": -1.35,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-04"
+    },
+    "epsDiluted": {
+      "value": -1.35,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-04"
+    },
+    "currentAssets": {
+      "value": 201534000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "totalAssets": {
+      "value": 296083000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": {
+      "value": 15691000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "totalLiabilities": {
+      "value": 36776000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "shareholdersEquity": {
+      "value": 259307000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "operatingCashFlow": {
+      "value": -44448000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "capex": {
+      "value": 1797000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:57.123Z"
+}

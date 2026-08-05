@@ -1,0 +1,88 @@
+{
+  "ticker": "RHP",
+  "name": "Ryman Hospitality Properties, Inc.",
+  "cik": 1040829,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2577061000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "cogs": {
+      "value": 1441052000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 487012000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "netIncome": {
+      "value": 243425000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": 3.94,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsDiluted": {
+      "value": 3.77,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentAssets": {
+      "value": 211245000,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-02-27"
+    },
+    "totalAssets": {
+      "value": 6181183000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentLiabilities": {
+      "value": 348819000,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-02-27"
+    },
+    "totalLiabilities": {
+      "value": 4969407000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "shareholdersEquity": {
+      "value": 750152000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "operatingCashFlow": {
+      "value": 590629000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "capex": {
+      "value": 79815000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:39.316Z"
+}

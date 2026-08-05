@@ -1,0 +1,93 @@
+{
+  "ticker": "SWAG",
+  "name": "Stran & Company, Inc.",
+  "cik": 1872525,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 116191000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "cogs": {
+      "value": 81962000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "grossProfit": {
+      "value": 34229000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "operatingIncome": {
+      "value": -1957000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "netIncome": {
+      "value": -747000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "epsBasic": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "currentAssets": {
+      "value": 38641000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "totalAssets": {
+      "value": 49348000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "currentLiabilities": {
+      "value": 16503000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "totalLiabilities": {
+      "value": 18847000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "shareholdersEquity": {
+      "value": 30501000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "operatingCashFlow": {
+      "value": -4673000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "capex": {
+      "value": 823000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:50.577Z"
+}

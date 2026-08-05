@@ -1,0 +1,83 @@
+{
+  "ticker": "PWP",
+  "name": "Perella Weinberg Partners",
+  "cik": 1777835,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 750903000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 48010000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": 35477000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": 0.55,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": 0.47,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": {
+      "value": 1434758,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-15"
+    },
+    "totalAssets": {
+      "value": 797637000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 792983,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-15"
+    },
+    "totalLiabilities": {
+      "value": 536897000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": -421375000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 34789000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 4313000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:45.228Z"
+}

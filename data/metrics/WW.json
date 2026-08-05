@@ -1,0 +1,93 @@
+{
+  "ticker": "WW",
+  "name": "WW INTERNATIONAL, INC.",
+  "cik": 105319,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 785921000,
+      "year": 2024,
+      "periodEnd": "2024-12-28",
+      "filed": "2026-03-16"
+    },
+    "cogs": {
+      "value": 252818000,
+      "year": 2024,
+      "periodEnd": "2024-12-28",
+      "filed": "2026-03-16"
+    },
+    "grossProfit": {
+      "value": 533103000,
+      "year": 2024,
+      "periodEnd": "2024-12-28",
+      "filed": "2026-03-16"
+    },
+    "operatingIncome": {
+      "value": -236222000,
+      "year": 2024,
+      "periodEnd": "2024-12-28",
+      "filed": "2026-03-16"
+    },
+    "netIncome": {
+      "value": -345701000,
+      "year": 2024,
+      "periodEnd": "2024-12-28",
+      "filed": "2026-03-16"
+    },
+    "epsBasic": {
+      "value": -4.34,
+      "year": 2024,
+      "periodEnd": "2024-12-28",
+      "filed": "2026-03-16"
+    },
+    "epsDiluted": {
+      "value": -4.34,
+      "year": 2024,
+      "periodEnd": "2024-12-28",
+      "filed": "2026-03-16"
+    },
+    "currentAssets": {
+      "value": 213604000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "totalAssets": {
+      "value": 946758000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentLiabilities": {
+      "value": 126536000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "totalLiabilities": {
+      "value": 628687000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "shareholdersEquity": {
+      "value": 318071000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "operatingCashFlow": {
+      "value": -16840000,
+      "year": 2024,
+      "periodEnd": "2024-12-28",
+      "filed": "2026-03-16"
+    },
+    "capex": {
+      "value": 718000,
+      "year": 2024,
+      "periodEnd": "2024-12-28",
+      "filed": "2026-03-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:57.817Z"
+}

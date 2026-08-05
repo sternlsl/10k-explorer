@@ -1,0 +1,48 @@
+{
+  "ticker": "FGDL",
+  "name": "Franklin Templeton Holdings Trust",
+  "cik": 1858258,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 132107674,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 475653721,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 69686,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "shareholdersEquity": {
+      "value": 293077067,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "operatingCashFlow": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:10.378Z"
+}

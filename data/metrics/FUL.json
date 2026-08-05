@@ -1,0 +1,93 @@
+{
+  "ticker": "FUL",
+  "name": "FULLER H B CO",
+  "cik": 39368,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2897000000,
+      "year": 2019,
+      "periodEnd": "2019-11-30",
+      "filed": "2020-01-24"
+    },
+    "cogs": {
+      "value": 2392934000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-01-22"
+    },
+    "grossProfit": {
+      "value": 1080655000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-01-22"
+    },
+    "operatingIncome": {
+      "value": 348220000,
+      "year": 2024,
+      "periodEnd": "2024-11-30",
+      "filed": "2025-01-23"
+    },
+    "netIncome": {
+      "value": 151967000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-01-22"
+    },
+    "epsBasic": {
+      "value": 2.78,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-01-22"
+    },
+    "epsDiluted": {
+      "value": 2.75,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-01-22"
+    },
+    "currentAssets": {
+      "value": 1263265000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-01-22"
+    },
+    "totalAssets": {
+      "value": 5182706000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-01-22"
+    },
+    "currentLiabilities": {
+      "value": 743359000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-01-22"
+    },
+    "totalLiabilities": {
+      "value": 3179512000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-01-22"
+    },
+    "shareholdersEquity": {
+      "value": 2003218000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-01-22"
+    },
+    "operatingCashFlow": {
+      "value": 263493000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-01-22"
+    },
+    "capex": {
+      "value": 142275000,
+      "year": 2025,
+      "periodEnd": "2025-11-29",
+      "filed": "2026-01-22"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:49.275Z"
+}

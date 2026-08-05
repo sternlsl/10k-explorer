@@ -1,0 +1,63 @@
+{
+  "ticker": "EGP",
+  "name": "EASTGROUP PROPERTIES INC",
+  "cik": 49600,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 721336000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 108556000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-14"
+    },
+    "netIncome": null,
+    "epsBasic": {
+      "value": 4.88,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "epsDiluted": {
+      "value": 4.87,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 5431807000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1935219000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "shareholdersEquity": {
+      "value": 3496201000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "operatingCashFlow": {
+      "value": 480734000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:55:03.138Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "SMID",
+  "name": "SMITH MIDLAND CORP",
+  "cik": 924719,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 93446000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "cogs": {
+      "value": 67408000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "grossProfit": {
+      "value": 26038000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "operatingIncome": {
+      "value": 16994000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "netIncome": {
+      "value": 12506000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "epsBasic": {
+      "value": 2.36,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "epsDiluted": {
+      "value": 2.36,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "currentAssets": {
+      "value": 48747000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "totalAssets": {
+      "value": 87729000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "currentLiabilities": {
+      "value": 14332000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "totalLiabilities": {
+      "value": 33425000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "shareholdersEquity": {
+      "value": 54304000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "operatingCashFlow": {
+      "value": 14301000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "capex": {
+      "value": 9338000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:11.811Z"
+}

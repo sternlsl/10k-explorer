@@ -1,0 +1,88 @@
+{
+  "ticker": "EVI",
+  "name": "EVI INDUSTRIES, INC.",
+  "cik": 65312,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 389830000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "cogs": {
+      "value": 271482000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "grossProfit": {
+      "value": 118348000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "operatingIncome": {
+      "value": 13768000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "netIncome": {
+      "value": 7498000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "epsBasic": {
+      "value": 0.5,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "epsDiluted": {
+      "value": 0.49,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "currentAssets": {
+      "value": 145436000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "totalAssets": {
+      "value": 307028000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "currentLiabilities": {
+      "value": 94863000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "totalLiabilities": {
+      "value": 163551000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "shareholdersEquity": {
+      "value": 143477000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "operatingCashFlow": {
+      "value": 21265000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-11"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:23.357Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "LVO",
+  "name": "LiveOne, Inc.",
+  "cik": 1491419,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 77144000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "cogs": {
+      "value": 64865000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "grossProfit": {
+      "value": 6335610,
+      "year": 2015,
+      "periodEnd": "2015-03-31",
+      "filed": "2015-07-14"
+    },
+    "operatingIncome": {
+      "value": -15480000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "netIncome": {
+      "value": -20965000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "epsBasic": {
+      "value": -2.02,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "epsDiluted": {
+      "value": -0.12,
+      "year": 2023,
+      "periodEnd": "2023-03-31",
+      "filed": "2023-06-29"
+    },
+    "currentAssets": {
+      "value": 16778000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "totalAssets": {
+      "value": 46875000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "currentLiabilities": {
+      "value": 35883000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "totalLiabilities": {
+      "value": 59267000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "shareholdersEquity": {
+      "value": -20547000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "operatingCashFlow": {
+      "value": -10545000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "capex": {
+      "value": 3176000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:38.608Z"
+}

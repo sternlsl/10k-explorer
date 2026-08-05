@@ -1,0 +1,93 @@
+{
+  "ticker": "BILL",
+  "name": "BILL Holdings, Inc.",
+  "cik": 1786352,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1462570000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "cogs": {
+      "value": 272103000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "grossProfit": {
+      "value": 1190467000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "operatingIncome": {
+      "value": -80602000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "netIncome": {
+      "value": 23799000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "epsBasic": {
+      "value": 0.23,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "epsDiluted": {
+      "value": -0.07,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "currentAssets": {
+      "value": 7238793000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "totalAssets": {
+      "value": 10063982000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "currentLiabilities": {
+      "value": 4588660000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "totalLiabilities": {
+      "value": 6149942000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "shareholdersEquity": {
+      "value": 3914040000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "operatingCashFlow": {
+      "value": 350644000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    },
+    "capex": {
+      "value": 4335000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:28.793Z"
+}

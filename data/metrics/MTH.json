@@ -1,0 +1,73 @@
+{
+  "ticker": "MTH",
+  "name": "Meritage Homes CORP",
+  "cik": 833079,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": {
+      "value": 566499000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-12"
+    },
+    "operatingIncome": {
+      "value": 224522000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-02-17"
+    },
+    "netIncome": {
+      "value": 453013000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsBasic": {
+      "value": 6.4,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsDiluted": {
+      "value": 6.35,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 7622287000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 2426644000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "shareholdersEquity": {
+      "value": 5195643000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "operatingCashFlow": {
+      "value": 118288000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "capex": {
+      "value": 25722000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:20.623Z"
+}

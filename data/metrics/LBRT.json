@@ -1,0 +1,83 @@
+{
+  "ticker": "LBRT",
+  "name": "Liberty Energy Inc.",
+  "cik": 1694028,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4006116000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-02"
+    },
+    "cogs": {
+      "value": 3168109000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-02"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 72708000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-02"
+    },
+    "netIncome": {
+      "value": 147872000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-02"
+    },
+    "epsBasic": {
+      "value": 0.91,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-02"
+    },
+    "epsDiluted": {
+      "value": 0.89,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-02"
+    },
+    "currentAssets": {
+      "value": 877970000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-02"
+    },
+    "totalAssets": {
+      "value": 3558305000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-02"
+    },
+    "currentLiabilities": {
+      "value": 720353000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-02"
+    },
+    "totalLiabilities": {
+      "value": 1479416000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-02"
+    },
+    "shareholdersEquity": {
+      "value": 1841408000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-09"
+    },
+    "operatingCashFlow": {
+      "value": 609598000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-02"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:55:54.974Z"
+}

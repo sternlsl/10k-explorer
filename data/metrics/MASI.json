@@ -1,0 +1,93 @@
+{
+  "ticker": "MASI",
+  "name": "MASIMO CORP",
+  "cik": 937556,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1526900000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 581700000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "grossProfit": {
+      "value": 945200000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "operatingIncome": {
+      "value": 310000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": -151500000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": -2.83,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": -2.8,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": {
+      "value": 926000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 1698900000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 371600000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": {
+      "value": 977700000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 721200000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 217800000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 19400000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:14.934Z"
+}

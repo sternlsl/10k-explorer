@@ -1,0 +1,83 @@
+{
+  "ticker": "TBPH",
+  "name": "Theravance Biopharma, Inc.",
+  "cik": 1583107,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 107464000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "cogs": {
+      "value": 6030000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-28"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -3602000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "netIncome": {
+      "value": 105895000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "epsBasic": {
+      "value": 2.1,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "epsDiluted": {
+      "value": 2.06,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "currentAssets": {
+      "value": 418460000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "totalAssets": {
+      "value": 485570000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "currentLiabilities": {
+      "value": 38302000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 296723000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "operatingCashFlow": {
+      "value": 238541000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-23"
+    },
+    "capex": {
+      "value": 2135000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-01"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:00.577Z"
+}

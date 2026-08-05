@@ -1,0 +1,93 @@
+{
+  "ticker": "BWMG",
+  "name": "Brownie's Marine Group, Inc",
+  "cik": 1166708,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7516687,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "cogs": {
+      "value": 5055947,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-30"
+    },
+    "grossProfit": {
+      "value": 2811348,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "operatingIncome": {
+      "value": -147311,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "netIncome": {
+      "value": -105149,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "currentAssets": {
+      "value": 3040113,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "totalAssets": {
+      "value": 5221366,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "currentLiabilities": {
+      "value": 2461040,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "totalLiabilities": {
+      "value": 3287094,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "shareholdersEquity": {
+      "value": 1934272,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "operatingCashFlow": {
+      "value": -170645,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "capex": {
+      "value": 22,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-04-10"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:11.312Z"
+}

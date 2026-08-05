@@ -1,0 +1,48 @@
+{
+  "ticker": "VIXM",
+  "name": "ProShares Trust II",
+  "cik": 1415311,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 1711915524,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 6062940882,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 338871553,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "shareholdersEquity": {
+      "value": 5724069329,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "operatingCashFlow": {
+      "value": -246299551,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:33.755Z"
+}

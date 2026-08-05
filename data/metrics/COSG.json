@@ -1,0 +1,93 @@
+{
+  "ticker": "COSG",
+  "name": "Cosmos Group Holdings Inc.",
+  "cik": 1706509,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 90543,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-06-25"
+    },
+    "cogs": {
+      "value": 125337,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-06-25"
+    },
+    "grossProfit": {
+      "value": 2563,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "operatingIncome": {
+      "value": -276537,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "netIncome": {
+      "value": 4692389,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "currentAssets": {
+      "value": 43344,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "totalAssets": {
+      "value": 43344,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "currentLiabilities": {
+      "value": 41272390,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "totalLiabilities": {
+      "value": 41272390,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -41229046,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -3535489,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "capex": {
+      "value": 2859,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-04-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:22.384Z"
+}

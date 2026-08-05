@@ -1,0 +1,93 @@
+{
+  "ticker": "SNOW",
+  "name": "Snowflake Inc.",
+  "cik": 1640147,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 4683946000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-20"
+    },
+    "cogs": {
+      "value": 1537805000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-20"
+    },
+    "grossProfit": {
+      "value": 3146141000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-20"
+    },
+    "operatingIncome": {
+      "value": -1435165000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-20"
+    },
+    "netIncome": {
+      "value": -1331616000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-20"
+    },
+    "epsBasic": {
+      "value": -3.95,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-20"
+    },
+    "epsDiluted": {
+      "value": -3.95,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-20"
+    },
+    "currentAssets": {
+      "value": 5742612000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-20"
+    },
+    "totalAssets": {
+      "value": 9132495000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-20"
+    },
+    "currentLiabilities": {
+      "value": 4421691000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-20"
+    },
+    "totalLiabilities": {
+      "value": 7208393000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-20"
+    },
+    "shareholdersEquity": {
+      "value": 1924102000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-20"
+    },
+    "operatingCashFlow": {
+      "value": 1221942000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-20"
+    },
+    "capex": {
+      "value": 101628000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-20"
+    }
+  },
+  "updatedAt": "2026-08-05T16:52:19.261Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "DSP",
+  "name": "Viant Technology Inc.",
+  "cik": 1828791,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 344201000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "cogs": {
+      "value": 186616000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 12078000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "netIncome": {
+      "value": 8352000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsBasic": {
+      "value": 0.51,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsDiluted": {
+      "value": 0.36,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentAssets": {
+      "value": 376192000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "totalAssets": {
+      "value": 474663000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentLiabilities": {
+      "value": 157035000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "totalLiabilities": {
+      "value": 185862000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "shareholdersEquity": {
+      "value": 82137000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "operatingCashFlow": {
+      "value": 52607000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "capex": {
+      "value": 926000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:16.350Z"
+}

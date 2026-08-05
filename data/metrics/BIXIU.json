@@ -1,0 +1,48 @@
+{
+  "ticker": "BIXIU",
+  "name": "Bitcoin Infrastructure Acquisition Corp Ltd",
+  "cik": 2082542,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 2715777,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 223420406,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 133348,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 8933348,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -6158396,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": null,
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:10.833Z"
+}

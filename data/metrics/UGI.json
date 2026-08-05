@@ -1,0 +1,83 @@
+{
+  "ticker": "UGI",
+  "name": "UGI CORP /PA/",
+  "cik": 884614,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7147000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1107000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "netIncome": {
+      "value": 678000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "epsBasic": {
+      "value": 3.15,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "epsDiluted": {
+      "value": 3.09,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "currentAssets": {
+      "value": 1766000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "totalAssets": {
+      "value": 15462000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "currentLiabilities": {
+      "value": 1981000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "totalLiabilities": {
+      "value": 10676000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "shareholdersEquity": {
+      "value": 4777000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "operatingCashFlow": {
+      "value": 1227000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "capex": {
+      "value": 837000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:30.289Z"
+}

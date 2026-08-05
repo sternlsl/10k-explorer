@@ -1,0 +1,73 @@
+{
+  "ticker": "SUI",
+  "name": "SUN COMMUNITIES INC",
+  "cik": 912593,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2306100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "cogs": {
+      "value": 311200000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-23"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 550945000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-22"
+    },
+    "netIncome": {
+      "value": 1413900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsBasic": {
+      "value": 10.84,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": 10.84,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 12522900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 5194400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "shareholdersEquity": {
+      "value": 6956100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 864200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:54:36.388Z"
+}

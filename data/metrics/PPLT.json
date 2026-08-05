@@ -1,0 +1,58 @@
+{
+  "ticker": "PPLT",
+  "name": "abrdn Platinum ETF Trust",
+  "cik": 1460235,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": {
+      "value": 151000,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-02-28"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 1341630000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": 105.31,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2864352000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1384000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "shareholdersEquity": {
+      "value": 2862968000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "operatingCashFlow": {
+      "value": 0,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2016-02-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:09.997Z"
+}

@@ -1,0 +1,68 @@
+{
+  "ticker": "DMLP",
+  "name": "DORCHESTER MINERALS, L.P.",
+  "cik": 1172358,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 152832000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 20967000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-02"
+    },
+    "netIncome": {
+      "value": 57352000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": 1.16,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 58944000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "totalAssets": {
+      "value": 309554000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "currentLiabilities": {
+      "value": 3794000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "totalLiabilities": {
+      "value": 4315000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 132485000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:19.971Z"
+}

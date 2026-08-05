@@ -1,0 +1,68 @@
+{
+  "ticker": "CTDD",
+  "name": "QWEST CORP",
+  "cik": 68622,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4485000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "cogs": {
+      "value": 1449000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1009000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "netIncome": {
+      "value": -1327000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 4505000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "totalAssets": {
+      "value": 15820000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentLiabilities": {
+      "value": 653000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 10916000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "operatingCashFlow": {
+      "value": 1762000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:30.220Z"
+}

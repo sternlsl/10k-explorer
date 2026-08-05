@@ -1,0 +1,93 @@
+{
+  "ticker": "BIOE",
+  "name": "Bio Essence Corp",
+  "cik": 1723059,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1897566,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "cogs": {
+      "value": 274060,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "grossProfit": {
+      "value": 1428413,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingIncome": {
+      "value": 900011,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "netIncome": {
+      "value": 896197,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsBasic": {
+      "value": -0.03,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-28"
+    },
+    "epsDiluted": {
+      "value": -0.03,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-28"
+    },
+    "currentAssets": {
+      "value": 422377,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalAssets": {
+      "value": 422474,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": {
+      "value": 2439211,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalLiabilities": {
+      "value": 2495367,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "shareholdersEquity": {
+      "value": -2072893,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": 1569753,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "capex": {
+      "value": 3614,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:00.768Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "BWA",
+  "name": "BORGWARNER INC",
+  "cik": 908255,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 14316000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "cogs": {
+      "value": 11642000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "grossProfit": {
+      "value": 2674000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "operatingIncome": {
+      "value": 536000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "netIncome": {
+      "value": 277000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "epsBasic": {
+      "value": 1.29,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "epsDiluted": {
+      "value": 1.28,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "currentAssets": {
+      "value": 6795000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "totalAssets": {
+      "value": 13769000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "currentLiabilities": {
+      "value": 3282000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "totalLiabilities": {
+      "value": 8155000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "shareholdersEquity": {
+      "value": 5442000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "operatingCashFlow": {
+      "value": 1569000000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-09"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:54:56.449Z"
+}

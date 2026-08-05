@@ -44,6 +44,20 @@ export const METRICS = [
     concepts: ['NetIncomeLoss'],
     format: 'currency',
   },
+  {
+    id: 'epsBasic',
+    label: 'EPS (Basic)',
+    section: 'Income Statement',
+    concepts: ['EarningsPerShareBasic'],
+    format: 'perShare',
+  },
+  {
+    id: 'epsDiluted',
+    label: 'EPS (Diluted)',
+    section: 'Income Statement',
+    concepts: ['EarningsPerShareDiluted'],
+    format: 'perShare',
+  },
   // Balance Sheet
   {
     id: 'currentAssets',

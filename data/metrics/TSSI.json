@@ -1,0 +1,93 @@
+{
+  "ticker": "TSSI",
+  "name": "TSS, Inc.",
+  "cik": 1320760,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 245719000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "cogs": {
+      "value": 213337000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "grossProfit": {
+      "value": 32382000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "operatingIncome": {
+      "value": 6322000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "netIncome": {
+      "value": 15125000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsBasic": {
+      "value": 0.61,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsDiluted": {
+      "value": 0.56,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentAssets": {
+      "value": 118630000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "totalAssets": {
+      "value": 184935000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentLiabilities": {
+      "value": 72567000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "totalLiabilities": {
+      "value": 108300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "shareholdersEquity": {
+      "value": 76635000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "operatingCashFlow": {
+      "value": 34863000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "capex": {
+      "value": 259697,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-21"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:20.502Z"
+}

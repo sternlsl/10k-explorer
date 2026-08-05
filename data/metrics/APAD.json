@@ -1,0 +1,63 @@
+{
+  "ticker": "APAD",
+  "name": "AParadise Acquisition Corp.",
+  "cik": 1956439,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1038358,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "netIncome": {
+      "value": 2568594,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 836566,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "totalAssets": {
+      "value": 204154720,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "currentLiabilities": {
+      "value": 472203,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "totalLiabilities": {
+      "value": 8472203,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "shareholdersEquity": {
+      "value": -7635637,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "operatingCashFlow": {
+      "value": -774875,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:14.685Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "AR",
+  "name": "ANTERO RESOURCES Corp",
+  "cik": 1433270,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5275823000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 883646000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "netIncome": {
+      "value": 675835000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-02-25"
+    },
+    "epsBasic": {
+      "value": 2.05,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "epsDiluted": {
+      "value": 2.03,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "currentAssets": {
+      "value": 831780000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "totalAssets": {
+      "value": 13245407000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "currentLiabilities": {
+      "value": 1503313000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "totalLiabilities": {
+      "value": 5529758000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "shareholdersEquity": {
+      "value": 7550827000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "operatingCashFlow": {
+      "value": 1630930000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "capex": {
+      "value": 943971000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-15"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:52.348Z"
+}

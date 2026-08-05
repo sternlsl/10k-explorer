@@ -1,0 +1,83 @@
+{
+  "ticker": "ENTA",
+  "name": "ENANTA PHARMACEUTICALS INC",
+  "cik": 1177648,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 65324000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -85349000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "netIncome": {
+      "value": -81889000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "epsBasic": {
+      "value": -3.84,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "epsDiluted": {
+      "value": -3.84,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "currentAssets": {
+      "value": 204336000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "totalAssets": {
+      "value": 280732000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "currentLiabilities": {
+      "value": 48555000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "totalLiabilities": {
+      "value": 216015000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "shareholdersEquity": {
+      "value": 64717000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "operatingCashFlow": {
+      "value": -19272000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "capex": {
+      "value": 12896000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:19.758Z"
+}

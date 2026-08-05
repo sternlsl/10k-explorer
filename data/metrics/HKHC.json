@@ -1,0 +1,93 @@
+{
+  "ticker": "HKHC",
+  "name": "Horizon Kinetics Holding Corp",
+  "cik": 88000,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 72846000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "cogs": {
+      "value": 1956000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-26"
+    },
+    "grossProfit": {
+      "value": 1447000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-26"
+    },
+    "operatingIncome": {
+      "value": 11083000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "netIncome": {
+      "value": 5118000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "epsBasic": {
+      "value": 0.27,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "epsDiluted": {
+      "value": 0.27,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "currentAssets": {
+      "value": 4951000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-26"
+    },
+    "totalAssets": {
+      "value": 1996811000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "currentLiabilities": {
+      "value": 854000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-26"
+    },
+    "totalLiabilities": {
+      "value": 97406000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "shareholdersEquity": {
+      "value": 338953000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "operatingCashFlow": {
+      "value": -43067000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "capex": {
+      "value": 315000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:50.811Z"
+}

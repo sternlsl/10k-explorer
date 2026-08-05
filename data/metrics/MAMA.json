@@ -1,0 +1,93 @@
+{
+  "ticker": "MAMA",
+  "name": "Mama's Creations, Inc.",
+  "cik": 1520358,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 171714000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "cogs": {
+      "value": 128668000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "grossProfit": {
+      "value": 43046000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "operatingIncome": {
+      "value": 7112000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "netIncome": {
+      "value": 5286000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "epsBasic": {
+      "value": 0.14,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "epsDiluted": {
+      "value": 0.13,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "currentAssets": {
+      "value": 45081000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "totalAssets": {
+      "value": 85698000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "currentLiabilities": {
+      "value": 20771000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "totalLiabilities": {
+      "value": 33078000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "shareholdersEquity": {
+      "value": 52620000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "operatingCashFlow": {
+      "value": 11421000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "capex": {
+      "value": 1654000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:45.007Z"
+}

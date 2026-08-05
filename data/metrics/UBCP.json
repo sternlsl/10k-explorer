@@ -1,0 +1,63 @@
+{
+  "ticker": "UBCP",
+  "name": "UNITED BANCORP INC /OH/",
+  "cik": 731653,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 7753000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsBasic": {
+      "value": 1.34,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsDiluted": {
+      "value": 1.34,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 857445000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 786930000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "shareholdersEquity": {
+      "value": 70515000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "operatingCashFlow": {
+      "value": 10456000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "capex": {
+      "value": 11778000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:11.740Z"
+}

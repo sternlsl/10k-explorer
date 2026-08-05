@@ -1,0 +1,63 @@
+{
+  "ticker": "FGPR",
+  "name": "FERRELLGAS PARTNERS L P",
+  "cik": 922358,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1938337000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-15"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 90119000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-15"
+    },
+    "netIncome": {
+      "value": -15566000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-15"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 342671000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-15"
+    },
+    "totalAssets": {
+      "value": 1416716000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-15"
+    },
+    "currentLiabilities": {
+      "value": 914497000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-15"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 136349000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-15"
+    },
+    "capex": {
+      "value": 80004000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:25.530Z"
+}

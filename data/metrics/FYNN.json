@@ -1,0 +1,73 @@
+{
+  "ticker": "FYNN",
+  "name": "Fyntechnical Innovations Inc",
+  "cik": 1497230,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -798253,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "netIncome": {
+      "value": -8430308,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "currentAssets": {
+      "value": 11661,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "totalAssets": {
+      "value": 75855,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "currentLiabilities": {
+      "value": 3700524,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "totalLiabilities": {
+      "value": 11075904,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -11000049,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -195955,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:17.050Z"
+}

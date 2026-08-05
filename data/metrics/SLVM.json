@@ -1,0 +1,78 @@
+{
+  "ticker": "SLVM",
+  "name": "Sylvamo Corp",
+  "cik": 1856485,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3351000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 251000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "netIncome": {
+      "value": 132000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsBasic": {
+      "value": 3.29,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "epsDiluted": {
+      "value": 3.24,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentAssets": {
+      "value": 1076000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "totalAssets": {
+      "value": 2763000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentLiabilities": {
+      "value": 716000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 966000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "operatingCashFlow": {
+      "value": 268000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "capex": {
+      "value": 149000000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-22"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:53.575Z"
+}

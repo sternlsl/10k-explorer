@@ -1,0 +1,88 @@
+{
+  "ticker": "BIXT",
+  "name": "BIOXYTRAN, INC",
+  "cik": 1445815,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 191077,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-02"
+    },
+    "cogs": {
+      "value": 103979,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-02"
+    },
+    "grossProfit": {
+      "value": 87098,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-02"
+    },
+    "operatingIncome": {
+      "value": -1842509,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": -2123077,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 513465,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 658552,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 3249894,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 3249894,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -3158207,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-04-11"
+    },
+    "operatingCashFlow": {
+      "value": -526455,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:44.838Z"
+}

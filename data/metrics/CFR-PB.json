@@ -1,0 +1,68 @@
+{
+  "ticker": "CFR-PB",
+  "name": "CULLEN/FROST BANKERS, INC.",
+  "cik": 39263,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 121572000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 648557000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "epsBasic": {
+      "value": 9.92,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "epsDiluted": {
+      "value": 9.92,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 53041424000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 48468388000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "shareholdersEquity": {
+      "value": 4573036000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "operatingCashFlow": {
+      "value": 273979000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "capex": {
+      "value": 146652000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:18.173Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "EML",
+  "name": "EASTERN CO",
+  "cik": 31107,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 248970345,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "cogs": {
+      "value": 192011802,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "grossProfit": {
+      "value": 56958543,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "operatingIncome": {
+      "value": 10673309,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "netIncome": {
+      "value": 7132785,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "epsBasic": {
+      "value": 1.17,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "epsDiluted": {
+      "value": 1.17,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "currentAssets": {
+      "value": 99267774,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "totalAssets": {
+      "value": 216676616,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "currentLiabilities": {
+      "value": 27617480,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "totalLiabilities": {
+      "value": 92031287,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "shareholdersEquity": {
+      "value": 124645329,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "operatingCashFlow": {
+      "value": 8865383,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    },
+    "capex": {
+      "value": 3969860,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:38.848Z"
+}

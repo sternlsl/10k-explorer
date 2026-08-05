@@ -1,0 +1,63 @@
+{
+  "ticker": "CHR",
+  "name": "Cheer Holding, Inc.",
+  "cik": 1738758,
+  "fiscalYear": 2019,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -2351687,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-31"
+    },
+    "netIncome": {
+      "value": 3278278,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-31"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 81819,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-31"
+    },
+    "totalAssets": {
+      "value": 257597889,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-31"
+    },
+    "currentLiabilities": {
+      "value": 830410,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-31"
+    },
+    "totalLiabilities": {
+      "value": 1930410,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 5000001,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -1722467,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-31"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:50.885Z"
+}

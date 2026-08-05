@@ -1,0 +1,88 @@
+{
+  "ticker": "WLSS",
+  "name": "Welsis Corp.",
+  "cik": 1887912,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2025-01-14"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "operatingIncome": {
+      "value": -50573,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "netIncome": {
+      "value": -60690,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-09-30",
+      "filed": "2023-11-20"
+    },
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "currentAssets": {
+      "value": 2169,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "totalAssets": {
+      "value": 2169,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "currentLiabilities": {
+      "value": 84608,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "totalLiabilities": {
+      "value": 152500,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "shareholdersEquity": {
+      "value": -150331,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "operatingCashFlow": {
+      "value": -49947,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2026-01-13"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:46.955Z"
+}

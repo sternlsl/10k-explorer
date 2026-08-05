@@ -1,0 +1,93 @@
+{
+  "ticker": "FOXX",
+  "name": "Foxx Development Holdings Inc.",
+  "cik": 2013807,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 65919166,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "cogs": {
+      "value": 61144561,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "grossProfit": {
+      "value": 4774605,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "operatingIncome": {
+      "value": -9697934,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "netIncome": {
+      "value": -9020136,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "epsBasic": {
+      "value": -1.47,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "epsDiluted": {
+      "value": -1.47,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "currentAssets": {
+      "value": 23649638,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "totalAssets": {
+      "value": 25999814,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "currentLiabilities": {
+      "value": 30401252,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "totalLiabilities": {
+      "value": 31364497,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "shareholdersEquity": {
+      "value": -5364683,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "operatingCashFlow": {
+      "value": -6560121,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    },
+    "capex": {
+      "value": 68336,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:34.509Z"
+}

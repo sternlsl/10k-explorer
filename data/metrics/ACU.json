@@ -1,0 +1,93 @@
+{
+  "ticker": "ACU",
+  "name": "ACME UNITED CORP",
+  "cik": 2098,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 196541816,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "cogs": {
+      "value": 119131968,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "grossProfit": {
+      "value": 77409848,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "operatingIncome": {
+      "value": 14724514,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "netIncome": {
+      "value": 10184421,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsBasic": {
+      "value": 2.69,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsDiluted": {
+      "value": 2.49,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentAssets": {
+      "value": 96195034,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "totalAssets": {
+      "value": 170998209,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentLiabilities": {
+      "value": 22871997,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "totalLiabilities": {
+      "value": 53387100,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "shareholdersEquity": {
+      "value": 117611109,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "operatingCashFlow": {
+      "value": 18229449,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "capex": {
+      "value": 10651913,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:24.234Z"
+}

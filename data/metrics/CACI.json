@@ -1,0 +1,83 @@
+{
+  "ticker": "CACI",
+  "name": "CACI INTERNATIONAL INC /DE/",
+  "cik": 16058,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 8627824000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "cogs": {
+      "value": 4608474000,
+      "year": 2019,
+      "periodEnd": "2019-06-30",
+      "filed": "2019-08-21"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 764185000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "netIncome": {
+      "value": 499830000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "epsBasic": {
+      "value": 22.47,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "epsDiluted": {
+      "value": 22.32,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "currentAssets": {
+      "value": 1779945000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "totalAssets": {
+      "value": 8647598000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "currentLiabilities": {
+      "value": 1208106000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "totalLiabilities": {
+      "value": 4753653000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "shareholdersEquity": {
+      "value": 3518072000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-08-08"
+    },
+    "operatingCashFlow": {
+      "value": 547009000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-07"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:54:58.511Z"
+}

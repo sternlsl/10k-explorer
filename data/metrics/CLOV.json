@@ -1,0 +1,88 @@
+{
+  "ticker": "CLOV",
+  "name": "CLOVER HEALTH INVESTMENTS, CORP. /DE",
+  "cik": 1801170,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1924308000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 257332000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-14"
+    },
+    "operatingIncome": {
+      "value": -85529000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": -85549000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": -0.44,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-14"
+    },
+    "epsDiluted": {
+      "value": -0.44,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-14"
+    },
+    "currentAssets": {
+      "value": 307855000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 541011000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 208823000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": {
+      "value": 232307000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 347738000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-01"
+    },
+    "operatingCashFlow": {
+      "value": -66934000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 2043000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:13.755Z"
+}

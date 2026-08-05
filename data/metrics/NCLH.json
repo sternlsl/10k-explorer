@@ -2,64 +2,87 @@
   "ticker": "NCLH",
   "name": "Norwegian Cruise Line Holdings Ltd.",
   "cik": 1513761,
-  "fiscalYear": 2017,
+  "fiscalYear": 2025,
   "metrics": {
     "revenue": {
       "value": 5396175000,
       "year": 2017,
-      "periodEnd": "2017-12-31"
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-27"
     },
     "cogs": {
       "value": 5639163000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "grossProfit": null,
     "operatingIncome": {
       "value": 1560868000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "netIncome": {
       "value": 423246000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": 0.94,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsDiluted": {
+      "value": 0.92,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "currentAssets": {
       "value": 1138541000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "totalAssets": {
       "value": 22541401000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "currentLiabilities": {
       "value": 5452577000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "totalLiabilities": {
       "value": 20331513000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "shareholdersEquity": {
       "value": 2209888000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "operatingCashFlow": {
       "value": 2089746000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "capex": {
       "value": 3259606000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     }
   },
-  "fetchedAt": "2026-05-08T18:57:59.474Z"
+  "updatedAt": "2026-08-05T16:55:27.072Z"
 }

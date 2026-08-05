@@ -1,0 +1,93 @@
+{
+  "ticker": "CLF",
+  "name": "CLEVELAND-CLIFFS INC.",
+  "cik": 764065,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 18610000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "cogs": {
+      "value": 19470000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "grossProfit": {
+      "value": 575700000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-20"
+    },
+    "operatingIncome": {
+      "value": -1579000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "netIncome": {
+      "value": -1478000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "epsBasic": {
+      "value": -2.91,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "epsDiluted": {
+      "value": -2.91,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "currentAssets": {
+      "value": 6435000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "totalAssets": {
+      "value": 20012000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "currentLiabilities": {
+      "value": 3302000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "totalLiabilities": {
+      "value": 13689000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "shareholdersEquity": {
+      "value": 6116000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "operatingCashFlow": {
+      "value": -462000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "capex": {
+      "value": 561000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:49.894Z"
+}

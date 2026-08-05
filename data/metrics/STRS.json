@@ -1,0 +1,68 @@
+{
+  "ticker": "STRS",
+  "name": "STRATUS PROPERTIES INC",
+  "cik": 885508,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 17270000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "cogs": {
+      "value": 37068000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 10790000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "netIncome": null,
+    "epsBasic": {
+      "value": 1.49,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsDiluted": {
+      "value": 1.47,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 563428000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 216349000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "shareholdersEquity": {
+      "value": 204486000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": -29896000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:41.007Z"
+}

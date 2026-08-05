@@ -1,0 +1,93 @@
+{
+  "ticker": "DPLS",
+  "name": "DarkPulse, Inc.",
+  "cik": 866439,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 308492,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "cogs": {
+      "value": 98901,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "grossProfit": {
+      "value": 209591,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "operatingIncome": {
+      "value": -2438199,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "netIncome": {
+      "value": -2966814,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "epsBasic": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "currentAssets": {
+      "value": 543944,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "totalAssets": {
+      "value": 1367930,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "currentLiabilities": {
+      "value": 20265140,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "totalLiabilities": {
+      "value": 20888088,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "shareholdersEquity": {
+      "value": -328994,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-23"
+    },
+    "operatingCashFlow": {
+      "value": -66483,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:14.212Z"
+}

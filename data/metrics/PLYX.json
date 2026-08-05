@@ -1,0 +1,73 @@
+{
+  "ticker": "PLYX",
+  "name": "Polaryx Therapeutics, Inc.",
+  "cik": 2075320,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -7821000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "netIncome": {
+      "value": -8985000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "epsBasic": {
+      "value": -0.2,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "epsDiluted": {
+      "value": -0.2,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "currentAssets": {
+      "value": 5170000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "totalAssets": {
+      "value": 5170000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "currentLiabilities": {
+      "value": 605000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "totalLiabilities": {
+      "value": 605000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "shareholdersEquity": {
+      "value": 4565000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "operatingCashFlow": {
+      "value": -3944000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:37.483Z"
+}

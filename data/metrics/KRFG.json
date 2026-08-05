@@ -1,0 +1,93 @@
+{
+  "ticker": "KRFG",
+  "name": "King Resources, Inc.",
+  "cik": 774415,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 830662,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "cogs": {
+      "value": 726072,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "grossProfit": {
+      "value": 104590,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "operatingIncome": {
+      "value": -2184179,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "netIncome": {
+      "value": -2184179,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "epsBasic": {
+      "value": -0.1,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "epsDiluted": {
+      "value": -0.1,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "currentAssets": {
+      "value": 271830,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "totalAssets": {
+      "value": 280216,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "currentLiabilities": {
+      "value": 1465519,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "totalLiabilities": {
+      "value": 1465519,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "shareholdersEquity": {
+      "value": -1185303,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "operatingCashFlow": {
+      "value": -156676,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "capex": {
+      "value": 9437,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:49.257Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "SWBI",
+  "name": "SMITH & WESSON BRANDS, INC.",
+  "cik": 1092796,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 523845000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-17"
+    },
+    "cogs": {
+      "value": 382742000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-17"
+    },
+    "grossProfit": {
+      "value": 141103000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-17"
+    },
+    "operatingIncome": {
+      "value": 29211000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-17"
+    },
+    "netIncome": {
+      "value": 18481000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-17"
+    },
+    "epsBasic": {
+      "value": 0.42,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-17"
+    },
+    "epsDiluted": {
+      "value": 0.41,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-17"
+    },
+    "currentAssets": {
+      "value": 241403000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-17"
+    },
+    "totalAssets": {
+      "value": 512766000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-17"
+    },
+    "currentLiabilities": {
+      "value": 75367000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-17"
+    },
+    "totalLiabilities": {
+      "value": 136207000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-17"
+    },
+    "shareholdersEquity": {
+      "value": 376559000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-17"
+    },
+    "operatingCashFlow": {
+      "value": 114195000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-17"
+    },
+    "capex": {
+      "value": 23748000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-17"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:27.739Z"
+}

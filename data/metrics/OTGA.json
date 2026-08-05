@@ -1,0 +1,43 @@
+{
+  "ticker": "OTGA",
+  "name": "OTG Acquisition Corp. I",
+  "cik": 2077010,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 926058,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalAssets": {
+      "value": 234671338,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": {
+      "value": 85331,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 916126,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": null,
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:45.767Z"
+}

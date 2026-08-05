@@ -1,0 +1,43 @@
+{
+  "ticker": "GIXXU",
+  "name": "GigCapital9 Corp.",
+  "cik": 2098712,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 77874,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 155828,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 175592,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -19764,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": null,
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:43.609Z"
+}

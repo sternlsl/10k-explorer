@@ -1,0 +1,88 @@
+{
+  "ticker": "CENX",
+  "name": "CENTURY ALUMINUM CO",
+  "cik": 949157,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2527900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "cogs": {
+      "value": 2271500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "grossProfit": {
+      "value": 256400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "operatingIncome": {
+      "value": 158100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "netIncome": {
+      "value": 41800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "epsBasic": {
+      "value": 0.42,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "epsDiluted": {
+      "value": 0.42,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "currentAssets": {
+      "value": 1031300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalAssets": {
+      "value": 2269300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "currentLiabilities": {
+      "value": 523600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 805600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "operatingCashFlow": {
+      "value": 185000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "capex": {
+      "value": 100200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:48.536Z"
+}

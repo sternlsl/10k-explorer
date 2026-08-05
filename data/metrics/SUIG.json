@@ -1,0 +1,88 @@
+{
+  "ticker": "SUIG",
+  "name": "SUI Group Holdings Ltd.",
+  "cik": 1425355,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3898631,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 12111,
+      "year": 2010,
+      "periodEnd": "2010-12-31",
+      "filed": "2012-02-29"
+    },
+    "grossProfit": {
+      "value": -9111,
+      "year": 2010,
+      "periodEnd": "2010-12-31",
+      "filed": "2012-02-29"
+    },
+    "operatingIncome": {
+      "value": -264037495,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": -266081856,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": -6.59,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": -6.59,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": {
+      "value": 30335488,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 190364976,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 12717411,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": {
+      "value": 20623297,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 169741679,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": -8235211,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:46.222Z"
+}

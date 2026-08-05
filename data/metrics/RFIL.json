@@ -1,0 +1,93 @@
+{
+  "ticker": "RFIL",
+  "name": "R F INDUSTRIES LTD",
+  "cik": 740664,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 55325000,
+      "year": 2019,
+      "periodEnd": "2019-10-31",
+      "filed": "2019-12-20"
+    },
+    "cogs": {
+      "value": 53850000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "grossProfit": {
+      "value": 26736000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "operatingIncome": {
+      "value": 1785000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "netIncome": {
+      "value": 75000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "epsBasic": {
+      "value": 0.01,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "epsDiluted": {
+      "value": 0.01,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "currentAssets": {
+      "value": 34969000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "totalAssets": {
+      "value": 73046000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "currentLiabilities": {
+      "value": 20896000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "totalLiabilities": {
+      "value": 37842000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "shareholdersEquity": {
+      "value": 35204000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "operatingCashFlow": {
+      "value": 4579000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "capex": {
+      "value": 235000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:28.122Z"
+}

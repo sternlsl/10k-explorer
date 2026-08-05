@@ -1,0 +1,68 @@
+{
+  "ticker": "MSB",
+  "name": "MESABI TRUST",
+  "cik": 65172,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 98595651,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-04-24"
+    },
+    "cogs": {
+      "value": 5321408,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-04-24"
+    },
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 93274243,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-04-24"
+    },
+    "epsBasic": {
+      "value": 7.109,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-04-24"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 101728452,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-04-24"
+    },
+    "totalAssets": {
+      "value": 101728455,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-04-24"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 78400735,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-04-24"
+    },
+    "shareholdersEquity": {
+      "value": 23327720,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-04-24"
+    },
+    "operatingCashFlow": {
+      "value": 93936096,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-04-24"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:42.721Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "CVGW",
+  "name": "CALAVO GROWERS INC",
+  "cik": 1133470,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 648434000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "cogs": {
+      "value": 584771000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "grossProfit": {
+      "value": 63663000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "operatingIncome": {
+      "value": 19611000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "netIncome": {
+      "value": 19796000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "epsBasic": {
+      "value": 1.11,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "epsDiluted": {
+      "value": 1.11,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "currentAssets": {
+      "value": 149426000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "totalAssets": {
+      "value": 292249000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "currentLiabilities": {
+      "value": 60480000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 206940000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "operatingCashFlow": {
+      "value": 21542000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    },
+    "capex": {
+      "value": 2151000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:01.168Z"
+}

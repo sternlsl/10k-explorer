@@ -1,0 +1,58 @@
+{
+  "ticker": "DBO",
+  "name": "Invesco DB Oil Fund",
+  "cik": 1383058,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 6997214,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "netIncome": {
+      "value": -19419807,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": 0.6,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-03-01"
+    },
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 204946160,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 725308,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "shareholdersEquity": {
+      "value": 204220852,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "operatingCashFlow": {
+      "value": -13165770,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:26.037Z"
+}

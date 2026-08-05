@@ -1,0 +1,83 @@
+{
+  "ticker": "ODRS",
+  "name": "Outdoor Specialty Products, Inc.",
+  "cik": 1610718,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 306,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "cogs": {
+      "value": 976,
+      "year": 2023,
+      "periodEnd": "2023-09-30",
+      "filed": "2024-01-03"
+    },
+    "grossProfit": {
+      "value": 278,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "operatingIncome": {
+      "value": -42421,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "netIncome": {
+      "value": -48529,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2023,
+      "periodEnd": "2023-09-30",
+      "filed": "2024-01-03"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2023,
+      "periodEnd": "2023-09-30",
+      "filed": "2024-01-03"
+    },
+    "currentAssets": {
+      "value": 11572,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "totalAssets": {
+      "value": 19364,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 209859,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "shareholdersEquity": {
+      "value": -190495,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "operatingCashFlow": {
+      "value": -37463,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-12"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:12.993Z"
+}

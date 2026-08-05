@@ -1,0 +1,83 @@
+{
+  "ticker": "FCFS",
+  "name": "FirstCash Holdings, Inc.",
+  "cik": 840489,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1668410000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "cogs": {
+      "value": 1008148000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "grossProfit": {
+      "value": 1840607000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 330375000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "epsBasic": {
+      "value": 7.46,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "epsDiluted": {
+      "value": 7.42,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "currentAssets": {
+      "value": 1856468000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "totalAssets": {
+      "value": 5300763000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "currentLiabilities": {
+      "value": 407814000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "totalLiabilities": {
+      "value": 3024001000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "shareholdersEquity": {
+      "value": 2276762000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "operatingCashFlow": {
+      "value": 585942000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:55:11.247Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "MSS",
+  "name": "Maison Solutions Inc.",
+  "cik": 1892292,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 124217480,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-14"
+    },
+    "cogs": {
+      "value": 97874929,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-14"
+    },
+    "grossProfit": {
+      "value": 26342551,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-14"
+    },
+    "operatingIncome": {
+      "value": -1265006,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-14"
+    },
+    "netIncome": {
+      "value": 1169273,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-14"
+    },
+    "epsBasic": {
+      "value": 0.07,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-14"
+    },
+    "epsDiluted": {
+      "value": 0.07,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-14"
+    },
+    "currentAssets": {
+      "value": 12925135,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-14"
+    },
+    "totalAssets": {
+      "value": 77362889,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-14"
+    },
+    "currentLiabilities": {
+      "value": 22746598,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-14"
+    },
+    "totalLiabilities": {
+      "value": 65722860,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-14"
+    },
+    "shareholdersEquity": {
+      "value": 11667269,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-14"
+    },
+    "operatingCashFlow": {
+      "value": 4756130,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-08-14"
+    },
+    "capex": {
+      "value": 49388,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-07-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:35.402Z"
+}

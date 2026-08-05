@@ -1,0 +1,78 @@
+{
+  "ticker": "SCYYF",
+  "name": "SCANDIUM INTERNATIONAL MINING CORP.",
+  "cik": 1408146,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1590953,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-11"
+    },
+    "netIncome": {
+      "value": 47204,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "epsDiluted": {
+      "value": -0.015,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-25"
+    },
+    "currentAssets": {
+      "value": 1062167,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "totalAssets": {
+      "value": 1777257,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "currentLiabilities": {
+      "value": 2102488,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-25"
+    },
+    "totalLiabilities": {
+      "value": 349259,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "shareholdersEquity": {
+      "value": 1427998,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "operatingCashFlow": {
+      "value": -830754,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-01"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:59.707Z"
+}

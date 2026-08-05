@@ -1,0 +1,83 @@
+{
+  "ticker": "LRDC",
+  "name": "Laredo Oil, Inc.",
+  "cik": 1442492,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 9423,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-15"
+    },
+    "cogs": {
+      "value": 1286244,
+      "year": 2022,
+      "periodEnd": "2022-05-31",
+      "filed": "2023-09-13"
+    },
+    "grossProfit": {
+      "value": 9423,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-15"
+    },
+    "operatingIncome": {
+      "value": -3322430,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-15"
+    },
+    "netIncome": {
+      "value": -3181874,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-15"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 298523,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-15"
+    },
+    "totalAssets": {
+      "value": 1448018,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-15"
+    },
+    "currentLiabilities": {
+      "value": 12909540,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-15"
+    },
+    "totalLiabilities": {
+      "value": 14020333,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-15"
+    },
+    "shareholdersEquity": {
+      "value": -12572315,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-15"
+    },
+    "operatingCashFlow": {
+      "value": -1649834,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-15"
+    },
+    "capex": {
+      "value": 303,
+      "year": 2023,
+      "periodEnd": "2023-05-31",
+      "filed": "2023-09-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:57.034Z"
+}

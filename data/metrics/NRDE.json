@@ -1,0 +1,88 @@
+{
+  "ticker": "NRDE",
+  "name": "NU RIDE INC.",
+  "cik": 1759546,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2340000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-28"
+    },
+    "cogs": {
+      "value": 91550000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-28"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -3760000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "netIncome": {
+      "value": -619000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": -0.22,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": -0.22,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentAssets": {
+      "value": 44754000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalAssets": {
+      "value": 46969000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentLiabilities": {
+      "value": 991000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalLiabilities": {
+      "value": 5995000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "shareholdersEquity": {
+      "value": 2596000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "operatingCashFlow": {
+      "value": -7226000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "capex": {
+      "value": 10152000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:29.635Z"
+}

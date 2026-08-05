@@ -1,0 +1,88 @@
+{
+  "ticker": "MNRO",
+  "name": "MONRO, INC.",
+  "cik": 876427,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1157176000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 405261000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "operatingIncome": {
+      "value": 20029000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "netIncome": {
+      "value": 2173000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "epsBasic": {
+      "value": 0.03,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "epsDiluted": {
+      "value": 0.03,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "currentAssets": {
+      "value": 236641000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "totalAssets": {
+      "value": 1567977000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "currentLiabilities": {
+      "value": 517837000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "totalLiabilities": {
+      "value": 976504000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "shareholdersEquity": {
+      "value": 591473000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "operatingCashFlow": {
+      "value": 70438000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "capex": {
+      "value": 31657000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:01.819Z"
+}

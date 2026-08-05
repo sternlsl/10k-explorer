@@ -1,0 +1,83 @@
+{
+  "ticker": "NRIX",
+  "name": "Nurix Therapeutics, Inc.",
+  "cik": 1549595,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 83980000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -285666000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "netIncome": {
+      "value": -264457000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "epsBasic": {
+      "value": -3.05,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "epsDiluted": {
+      "value": -3.05,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "currentAssets": {
+      "value": 606819000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "totalAssets": {
+      "value": 688135000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "currentLiabilities": {
+      "value": 86471000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "totalLiabilities": {
+      "value": 149388000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "shareholdersEquity": {
+      "value": 538747000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "operatingCashFlow": {
+      "value": -249465000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    },
+    "capex": {
+      "value": 14002000,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-01-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:48.180Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "FERG",
+  "name": "Ferguson Enterprises Inc. /DE/",
+  "cik": 2011641,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 30762000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
+    },
+    "cogs": {
+      "value": 21327000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
+    },
+    "grossProfit": {
+      "value": 9435000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
+    },
+    "operatingIncome": {
+      "value": 2606000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
+    },
+    "netIncome": {
+      "value": 1856000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
+    },
+    "epsBasic": {
+      "value": 9.33,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
+    },
+    "epsDiluted": {
+      "value": 9.32,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
+    },
+    "currentAssets": {
+      "value": 10146000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
+    },
+    "totalAssets": {
+      "value": 17729000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
+    },
+    "currentLiabilities": {
+      "value": 6028000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
+    },
+    "totalLiabilities": {
+      "value": 11897000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
+    },
+    "shareholdersEquity": {
+      "value": 5832000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
+    },
+    "operatingCashFlow": {
+      "value": 1908000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:53:45.903Z"
+}

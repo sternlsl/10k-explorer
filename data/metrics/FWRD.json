@@ -1,0 +1,83 @@
+{
+  "ticker": "FWRD",
+  "name": "FORWARD AIR CORP",
+  "cik": 912728,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2495118000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "cogs": {
+      "value": 650664000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-01"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 36424000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "netIncome": {
+      "value": -107796000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsBasic": {
+      "value": -3.51,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsDiluted": {
+      "value": -3.51,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentAssets": {
+      "value": 521001000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "totalAssets": {
+      "value": 2718944000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentLiabilities": {
+      "value": 428325000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 113344000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "operatingCashFlow": {
+      "value": 159019000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-24"
+    },
+    "capex": {
+      "value": 29116000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:53.431Z"
+}

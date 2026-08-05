@@ -1,0 +1,93 @@
+{
+  "ticker": "SONM",
+  "name": "DNA X, Inc.",
+  "cik": 1178697,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 50919000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "cogs": {
+      "value": 48378000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "grossProfit": {
+      "value": 9920000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "operatingIncome": {
+      "value": -5406000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": -20657000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": -28.58,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": -28.58,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 28909000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 43898000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 48027000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 50625000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -7955000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -23526000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": {
+      "value": 214000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:09.557Z"
+}

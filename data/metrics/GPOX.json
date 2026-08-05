@@ -1,0 +1,88 @@
+{
+  "ticker": "GPOX",
+  "name": "GPO Plus, Inc.",
+  "cik": 1673475,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4744856,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-09-11"
+    },
+    "cogs": {
+      "value": 3613051,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-09-11"
+    },
+    "grossProfit": {
+      "value": 1131805,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-09-11"
+    },
+    "operatingIncome": {
+      "value": -3198262,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-09-11"
+    },
+    "netIncome": {
+      "value": -4335319,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-09-11"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.07,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-09-11"
+    },
+    "currentAssets": {
+      "value": 478225,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-09-11"
+    },
+    "totalAssets": {
+      "value": 786478,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-09-11"
+    },
+    "currentLiabilities": {
+      "value": 6035191,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-09-11"
+    },
+    "totalLiabilities": {
+      "value": 6161637,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-09-11"
+    },
+    "shareholdersEquity": {
+      "value": -7292313,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-09-11"
+    },
+    "operatingCashFlow": {
+      "value": -1043037,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-09-11"
+    },
+    "capex": {
+      "value": 67874,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-09-11"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:21.650Z"
+}

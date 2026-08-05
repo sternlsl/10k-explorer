@@ -1,0 +1,93 @@
+{
+  "ticker": "BASA",
+  "name": "BASANITE, INC.",
+  "cik": 1448705,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 87836,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-28"
+    },
+    "cogs": {
+      "value": 172191,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "grossProfit": {
+      "value": 262534,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "operatingIncome": {
+      "value": -804985,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "netIncome": {
+      "value": -1729396,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "currentAssets": {
+      "value": 132981,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "totalAssets": {
+      "value": 265709,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "currentLiabilities": {
+      "value": 9091656,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "totalLiabilities": {
+      "value": 9091656,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -8825947,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -401026,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "capex": {
+      "value": 178115,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:19.612Z"
+}

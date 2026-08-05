@@ -1,0 +1,88 @@
+{
+  "ticker": "ORCL-PD",
+  "name": "ORACLE CORP",
+  "cik": 1341439,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 67357000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-06-22"
+    },
+    "cogs": {
+      "value": 2057000000,
+      "year": 2011,
+      "periodEnd": "2011-05-31",
+      "filed": "2011-06-28"
+    },
+    "grossProfit": {
+      "value": 24287000000,
+      "year": 2018,
+      "periodEnd": "2018-05-31",
+      "filed": "2018-06-22"
+    },
+    "operatingIncome": {
+      "value": 20606000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-06-22"
+    },
+    "netIncome": {
+      "value": 17087000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-06-22"
+    },
+    "epsBasic": {
+      "value": 5.94,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-06-22"
+    },
+    "epsDiluted": {
+      "value": 5.83,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-06-22"
+    },
+    "currentAssets": {
+      "value": 46567000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-06-22"
+    },
+    "totalAssets": {
+      "value": 261759000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-06-22"
+    },
+    "currentLiabilities": {
+      "value": 41764000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-06-22"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 42508000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-06-22"
+    },
+    "operatingCashFlow": {
+      "value": 31977000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-06-22"
+    },
+    "capex": {
+      "value": 55663000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-06-22"
+    }
+  },
+  "updatedAt": "2026-08-05T16:53:15.455Z"
+}

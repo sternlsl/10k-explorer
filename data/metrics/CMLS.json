@@ -1,0 +1,88 @@
+{
+  "ticker": "CMLS",
+  "name": "CUMULUS MEDIA INC",
+  "cik": 1058623,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 741695000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "cogs": {
+      "value": 3500000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-21"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -138137000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "netIncome": {
+      "value": -200702000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "epsBasic": {
+      "value": -11.55,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "epsDiluted": {
+      "value": -11.55,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "currentAssets": {
+      "value": 242847000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "totalAssets": {
+      "value": 940960000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "currentLiabilities": {
+      "value": 157939000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "totalLiabilities": {
+      "value": 1132481000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "shareholdersEquity": {
+      "value": -191521000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "operatingCashFlow": {
+      "value": -21336000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "capex": {
+      "value": 20237000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:26.370Z"
+}

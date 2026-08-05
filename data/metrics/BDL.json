@@ -1,0 +1,83 @@
+{
+  "ticker": "BDL",
+  "name": "FLANIGANS ENTERPRISES INC",
+  "cik": 12040,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 205248000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-19"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 8745000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-19"
+    },
+    "netIncome": {
+      "value": 5033000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-19"
+    },
+    "epsBasic": {
+      "value": 2.71,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-19"
+    },
+    "epsDiluted": {
+      "value": 2.71,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-19"
+    },
+    "currentAssets": {
+      "value": 30593000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-19"
+    },
+    "totalAssets": {
+      "value": 140623000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-19"
+    },
+    "currentLiabilities": {
+      "value": 18118000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-19"
+    },
+    "totalLiabilities": {
+      "value": 61526000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-19"
+    },
+    "shareholdersEquity": {
+      "value": 65156000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-19"
+    },
+    "operatingCashFlow": {
+      "value": 10510000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-19"
+    },
+    "capex": {
+      "value": 5830000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-19"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:50.661Z"
+}

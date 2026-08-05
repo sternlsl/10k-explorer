@@ -2,60 +2,82 @@
   "ticker": "WYNN",
   "name": "WYNN RESORTS LTD",
   "cik": 1174922,
-  "fiscalYear": 2018,
+  "fiscalYear": 2025,
   "metrics": {
     "revenue": {
       "value": 6717660000,
       "year": 2018,
-      "periodEnd": "2018-12-31"
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-28"
     },
     "cogs": null,
     "grossProfit": null,
     "operatingIncome": {
       "value": 1118384000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "netIncome": {
       "value": 327334000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsBasic": {
+      "value": 3.16,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
+    },
+    "epsDiluted": {
+      "value": 3.14,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "currentAssets": {
       "value": 2683521000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "totalAssets": {
       "value": 13108117000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "currentLiabilities": {
       "value": 1643178000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "totalLiabilities": {
       "value": 14139396000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "shareholdersEquity": {
       "value": -275492000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "operatingCashFlow": {
       "value": 1352653000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     },
     "capex": {
       "value": 660433000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-02"
     }
   },
-  "fetchedAt": "2026-05-08T19:06:55.896Z"
+  "updatedAt": "2026-08-05T16:55:02.137Z"
 }

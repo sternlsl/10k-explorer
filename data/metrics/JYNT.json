@@ -1,0 +1,88 @@
+{
+  "ticker": "JYNT",
+  "name": "JOINT Corp",
+  "cik": 1612630,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 36661660,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2020-03-06"
+    },
+    "cogs": {
+      "value": 11225474,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -913376,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "netIncome": {
+      "value": -9752197,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-08"
+    },
+    "epsBasic": {
+      "value": 0.19,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "epsDiluted": {
+      "value": 0.19,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "currentAssets": {
+      "value": 52088539,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "totalAssets": {
+      "value": 60966527,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "currentLiabilities": {
+      "value": 32816581,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "totalLiabilities": {
+      "value": 45886935,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "shareholdersEquity": {
+      "value": 15054592,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "operatingCashFlow": {
+      "value": 1838509,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "capex": {
+      "value": 1503785,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:43.072Z"
+}

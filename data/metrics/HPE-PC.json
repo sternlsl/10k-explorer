@@ -1,0 +1,83 @@
+{
+  "ticker": "HPE-PC",
+  "name": "Hewlett Packard Enterprise Co",
+  "cik": 1645590,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 34296000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-18"
+    },
+    "cogs": {
+      "value": 14079000000,
+      "year": 2018,
+      "periodEnd": "2018-10-31",
+      "filed": "2018-12-12"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -437000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-18"
+    },
+    "netIncome": {
+      "value": 57000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-18"
+    },
+    "epsBasic": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-18"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-18"
+    },
+    "currentAssets": {
+      "value": 24994000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-18"
+    },
+    "totalAssets": {
+      "value": 75906000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-18"
+    },
+    "currentLiabilities": {
+      "value": 24643000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-18"
+    },
+    "totalLiabilities": {
+      "value": 14276000000,
+      "year": 2018,
+      "periodEnd": "2018-11-01",
+      "filed": "2019-12-13"
+    },
+    "shareholdersEquity": {
+      "value": 24688000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-18"
+    },
+    "operatingCashFlow": {
+      "value": 2919000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-18"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:53:55.735Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "CLOW",
+  "name": "Cloudweb, Inc.",
+  "cik": 1619227,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 30752,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-04-25"
+    },
+    "cogs": {
+      "value": 20160,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-04-25"
+    },
+    "grossProfit": {
+      "value": 10592,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-04-25"
+    },
+    "operatingIncome": {
+      "value": -195410,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-11"
+    },
+    "netIncome": {
+      "value": -70427,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 713921,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 781247,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -781247,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -33815,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:14.231Z"
+}

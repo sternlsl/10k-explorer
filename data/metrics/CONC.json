@@ -1,0 +1,78 @@
+{
+  "ticker": "CONC",
+  "name": "CONECTISYS CORP",
+  "cik": 790273,
+  "fiscalYear": 2021,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-11-10"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-11-10"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-11-10"
+    },
+    "operatingIncome": {
+      "value": -4274,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-11-10"
+    },
+    "netIncome": {
+      "value": -4274,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-11-10"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 0,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-11-10"
+    },
+    "totalAssets": {
+      "value": 0,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-11-10"
+    },
+    "currentLiabilities": {
+      "value": 31540,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-11-10"
+    },
+    "totalLiabilities": {
+      "value": 31540,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-11-10"
+    },
+    "shareholdersEquity": {
+      "value": -31540,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-11-10"
+    },
+    "operatingCashFlow": {
+      "value": -100,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-11-10"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:12.750Z"
+}

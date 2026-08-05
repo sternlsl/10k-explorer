@@ -1,0 +1,93 @@
+{
+  "ticker": "SNTL",
+  "name": "Sentinel Holdings Ltd.",
+  "cik": 889353,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1933422,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-05"
+    },
+    "cogs": {
+      "value": 4191878,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-28"
+    },
+    "grossProfit": {
+      "value": 437964,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-05"
+    },
+    "operatingIncome": {
+      "value": -4462697,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-05"
+    },
+    "netIncome": {
+      "value": 1664817,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-05"
+    },
+    "epsBasic": {
+      "value": -0.27,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-06-04"
+    },
+    "epsDiluted": {
+      "value": 9390000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-05"
+    },
+    "currentAssets": {
+      "value": 1296258,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-05"
+    },
+    "totalAssets": {
+      "value": 2641112,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-05"
+    },
+    "currentLiabilities": {
+      "value": 5488797,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-05"
+    },
+    "totalLiabilities": {
+      "value": 5488797,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-05"
+    },
+    "shareholdersEquity": {
+      "value": -2478734,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-05"
+    },
+    "operatingCashFlow": {
+      "value": -1320175,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-05"
+    },
+    "capex": {
+      "value": 11800,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-06-04"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:15.042Z"
+}

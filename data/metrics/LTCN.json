@@ -1,0 +1,38 @@
+{
+  "ticker": "LTCN",
+  "name": "Grayscale Litecoin Trust (LTC)",
+  "cik": 1732406,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 19410000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 175867000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-05"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": null,
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:14.250Z"
+}

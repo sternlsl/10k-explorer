@@ -1,0 +1,88 @@
+{
+  "ticker": "BUKS",
+  "name": "BUTLER NATIONAL CORP",
+  "cik": 15847,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 48260000,
+      "year": 2018,
+      "periodEnd": "2018-04-30",
+      "filed": "2018-07-20"
+    },
+    "cogs": {
+      "value": 14547000,
+      "year": 2017,
+      "periodEnd": "2017-04-30",
+      "filed": "2017-07-21"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 28453000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-08"
+    },
+    "netIncome": {
+      "value": 21933000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-08"
+    },
+    "epsBasic": {
+      "value": 0.34,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-08"
+    },
+    "epsDiluted": {
+      "value": 0.34,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-08"
+    },
+    "currentAssets": {
+      "value": 67297000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-08"
+    },
+    "totalAssets": {
+      "value": 141842000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-08"
+    },
+    "currentLiabilities": {
+      "value": 31419000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-08"
+    },
+    "totalLiabilities": {
+      "value": 59864000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-08"
+    },
+    "shareholdersEquity": {
+      "value": 81978000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-08"
+    },
+    "operatingCashFlow": {
+      "value": 25779000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-08"
+    },
+    "capex": {
+      "value": 6538000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-08"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:31.686Z"
+}

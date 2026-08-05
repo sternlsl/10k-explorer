@@ -1,0 +1,93 @@
+{
+  "ticker": "PENG",
+  "name": "Penguin Solutions, Inc.",
+  "cik": 1616533,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1368794000,
+      "year": 2025,
+      "periodEnd": "2025-08-29",
+      "filed": "2025-10-21"
+    },
+    "cogs": {
+      "value": 974520000,
+      "year": 2025,
+      "periodEnd": "2025-08-29",
+      "filed": "2025-10-21"
+    },
+    "grossProfit": {
+      "value": 394274000,
+      "year": 2025,
+      "periodEnd": "2025-08-29",
+      "filed": "2025-10-21"
+    },
+    "operatingIncome": {
+      "value": 58135000,
+      "year": 2025,
+      "periodEnd": "2025-08-29",
+      "filed": "2025-10-21"
+    },
+    "netIncome": {
+      "value": 25391000,
+      "year": 2025,
+      "periodEnd": "2025-08-29",
+      "filed": "2025-10-21"
+    },
+    "epsBasic": {
+      "value": 0.29,
+      "year": 2025,
+      "periodEnd": "2025-08-29",
+      "filed": "2025-10-21"
+    },
+    "epsDiluted": {
+      "value": 0.28,
+      "year": 2025,
+      "periodEnd": "2025-08-29",
+      "filed": "2025-10-21"
+    },
+    "currentAssets": {
+      "value": 1064227000,
+      "year": 2025,
+      "periodEnd": "2025-08-29",
+      "filed": "2025-10-21"
+    },
+    "totalAssets": {
+      "value": 1617200000,
+      "year": 2025,
+      "periodEnd": "2025-08-29",
+      "filed": "2025-10-21"
+    },
+    "currentLiabilities": {
+      "value": 473899000,
+      "year": 2025,
+      "periodEnd": "2025-08-29",
+      "filed": "2025-10-21"
+    },
+    "totalLiabilities": {
+      "value": 1008973000,
+      "year": 2025,
+      "periodEnd": "2025-08-29",
+      "filed": "2025-10-21"
+    },
+    "shareholdersEquity": {
+      "value": 394246000,
+      "year": 2025,
+      "periodEnd": "2025-08-29",
+      "filed": "2025-10-21"
+    },
+    "operatingCashFlow": {
+      "value": 109084000,
+      "year": 2025,
+      "periodEnd": "2025-08-29",
+      "filed": "2025-10-21"
+    },
+    "capex": {
+      "value": 9012000,
+      "year": 2025,
+      "periodEnd": "2025-08-29",
+      "filed": "2025-10-21"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:51.046Z"
+}

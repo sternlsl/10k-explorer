@@ -1,0 +1,88 @@
+{
+  "ticker": "KMX",
+  "name": "CARMAX INC",
+  "cik": 1170010,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 25881100000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-15"
+    },
+    "cogs": {
+      "value": 23074538000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-15"
+    },
+    "grossProfit": {
+      "value": 2806593000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-15"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 247290000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": 1.68,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": 1.68,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 5310402000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 26367903000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 2414805000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 20479047000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": 5888856000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": 1783847000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-15"
+    },
+    "capex": {
+      "value": 540989000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:01.048Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "SDOT",
+  "name": "Sadot Group Inc.",
+  "cik": 1701756,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 246900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-29"
+    },
+    "cogs": {
+      "value": 242400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-29"
+    },
+    "grossProfit": {
+      "value": 4569000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-29"
+    },
+    "operatingIncome": {
+      "value": -40490000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-29"
+    },
+    "netIncome": {
+      "value": -93388000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-29"
+    },
+    "epsBasic": {
+      "value": 0.87,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "epsDiluted": {
+      "value": 0.86,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "currentAssets": {
+      "value": 2757000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-29"
+    },
+    "totalAssets": {
+      "value": 2897000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-29"
+    },
+    "currentLiabilities": {
+      "value": 57558000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-29"
+    },
+    "totalLiabilities": {
+      "value": 57642000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-29"
+    },
+    "shareholdersEquity": {
+      "value": -57412000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-29"
+    },
+    "operatingCashFlow": {
+      "value": -13411000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-20"
+    },
+    "capex": {
+      "value": 37000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-04-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:19.031Z"
+}

@@ -1,0 +1,68 @@
+{
+  "ticker": "WNFT",
+  "name": "Worldwide NFT Inc.",
+  "cik": 1528188,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -97605,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-29"
+    },
+    "netIncome": {
+      "value": -97605,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-29"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-29"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-29"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1565,
+      "year": 2012,
+      "periodEnd": "2012-06-30",
+      "filed": "2012-09-28"
+    },
+    "currentLiabilities": {
+      "value": 274767,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-29"
+    },
+    "totalLiabilities": {
+      "value": 274767,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-29"
+    },
+    "shareholdersEquity": {
+      "value": -274767,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-29"
+    },
+    "operatingCashFlow": {
+      "value": -50000,
+      "year": 2022,
+      "periodEnd": "2022-06-30",
+      "filed": "2023-09-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:03.039Z"
+}

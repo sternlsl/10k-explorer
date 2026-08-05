@@ -1,0 +1,88 @@
+{
+  "ticker": "ESMC",
+  "name": "ESCALON MEDICAL CORP",
+  "cik": 862668,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 9400031,
+      "year": 2020,
+      "periodEnd": "2020-06-30",
+      "filed": "2020-09-28"
+    },
+    "cogs": {
+      "value": 6535090,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 133217,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "netIncome": {
+      "value": 105525,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "currentAssets": {
+      "value": 4611937,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "totalAssets": {
+      "value": 4993059,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "currentLiabilities": {
+      "value": 2685248,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "totalLiabilities": {
+      "value": 3077952,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "shareholdersEquity": {
+      "value": 1915107,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "operatingCashFlow": {
+      "value": 380725,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "capex": {
+      "value": 3880,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:08.577Z"
+}

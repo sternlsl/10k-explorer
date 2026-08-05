@@ -1,0 +1,88 @@
+{
+  "ticker": "CODQL",
+  "name": "Coronado Global Resources Inc.",
+  "cik": 1770561,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1949787000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "cogs": {
+      "value": 1524569000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -147951000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-25"
+    },
+    "netIncome": {
+      "value": 156065000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-20"
+    },
+    "epsBasic": {
+      "value": -2.58,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "epsDiluted": {
+      "value": -2.58,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "currentAssets": {
+      "value": 706796000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalAssets": {
+      "value": 2625555000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "currentLiabilities": {
+      "value": 457052000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalLiabilities": {
+      "value": 1975809000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "shareholdersEquity": {
+      "value": 1077502000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-22"
+    },
+    "operatingCashFlow": {
+      "value": -79997000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "capex": {
+      "value": 244784000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:51.376Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "BFS",
+  "name": "SAUL CENTERS, INC.",
+  "cik": 907254,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 289843000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 67139000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-29"
+    },
+    "grossProfit": {
+      "value": 190068000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-29"
+    },
+    "operatingIncome": {
+      "value": 195319000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": 37511000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": 1.09,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": 1.09,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2162678000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1685421000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 307820000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 99796000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 116888000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-02"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:28.594Z"
+}

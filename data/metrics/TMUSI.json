@@ -1,0 +1,88 @@
+{
+  "ticker": "TMUSI",
+  "name": "T-Mobile US, Inc.",
+  "cik": 1283699,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 88309000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "cogs": {
+      "value": 2930051000,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-01"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 18279000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "netIncome": {
+      "value": 10992000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "epsBasic": {
+      "value": 9.75,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "epsDiluted": {
+      "value": 9.72,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "currentAssets": {
+      "value": 24461000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "totalAssets": {
+      "value": 219237000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "currentLiabilities": {
+      "value": 24500000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "totalLiabilities": {
+      "value": 6830508000,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-01"
+    },
+    "shareholdersEquity": {
+      "value": 59203000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "operatingCashFlow": {
+      "value": 27950000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "capex": {
+      "value": 9955000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    }
+  },
+  "updatedAt": "2026-08-05T16:53:18.778Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "SMG",
+  "name": "SCOTTS MIRACLE-GRO CO",
+  "cik": 825542,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3413100000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "cogs": {
+      "value": 2348600000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "grossProfit": {
+      "value": 1044200000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "operatingIncome": {
+      "value": 358600000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "netIncome": {
+      "value": 145200000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "epsBasic": {
+      "value": 2.52,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "epsDiluted": {
+      "value": 2.47,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "currentAssets": {
+      "value": 940300000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "totalAssets": {
+      "value": 2742000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "currentLiabilities": {
+      "value": 739700000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "totalLiabilities": {
+      "value": 3099500000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "shareholdersEquity": {
+      "value": 1013300000,
+      "year": 2021,
+      "periodEnd": "2021-09-30",
+      "filed": "2021-11-23"
+    },
+    "operatingCashFlow": {
+      "value": 371300000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "capex": {
+      "value": 97400000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:39.449Z"
+}

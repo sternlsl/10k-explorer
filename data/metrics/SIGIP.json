@@ -1,0 +1,68 @@
+{
+  "ticker": "SIGIP",
+  "name": "SELECTIVE INSURANCE GROUP INC",
+  "cik": 230557,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5336928000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 466411000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "epsBasic": {
+      "value": 7.54,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "epsDiluted": {
+      "value": 7.49,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 15155710000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 11546735000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "shareholdersEquity": {
+      "value": 3608975000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "operatingCashFlow": {
+      "value": 1233021000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "capex": {
+      "value": 38742000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:08.087Z"
+}

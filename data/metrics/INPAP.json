@@ -1,0 +1,88 @@
+{
+  "ticker": "INPAP",
+  "name": "INTERNATIONAL PAPER CO /NEW/",
+  "cik": 51434,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 23634000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 16637000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "grossProfit": {
+      "value": 6897000000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-25"
+    },
+    "operatingIncome": {
+      "value": 2361000000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-25"
+    },
+    "netIncome": {
+      "value": -3516000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": -6.95,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": -6.95,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": {
+      "value": 10106000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 37964000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 7899000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 14827000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 1698000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 534000000,
+      "year": 2009,
+      "periodEnd": "2009-12-31",
+      "filed": "2010-02-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:33.395Z"
+}

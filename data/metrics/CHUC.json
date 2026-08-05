@@ -1,0 +1,93 @@
+{
+  "ticker": "CHUC",
+  "name": "Charlie's Holdings, Inc.",
+  "cik": 1134765,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 16250000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "cogs": {
+      "value": 15261000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "grossProfit": {
+      "value": 5655000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "operatingIncome": {
+      "value": -2165000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "netIncome": {
+      "value": 4499000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "epsBasic": {
+      "value": 0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "epsDiluted": {
+      "value": 0.02,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "currentAssets": {
+      "value": 10767000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "totalAssets": {
+      "value": 11564000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "currentLiabilities": {
+      "value": 7630000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "totalLiabilities": {
+      "value": 8141000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "shareholdersEquity": {
+      "value": 3423000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "operatingCashFlow": {
+      "value": -5778000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "capex": {
+      "value": 23000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:51.879Z"
+}

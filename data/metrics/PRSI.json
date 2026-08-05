@@ -1,0 +1,78 @@
+{
+  "ticker": "PRSI",
+  "name": "PORTSMOUTH SQUARE INC",
+  "cik": 79661,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 46363000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "cogs": {
+      "value": 37631000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 3871000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "netIncome": {
+      "value": -9110000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "epsBasic": {
+      "value": -12.41,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "epsDiluted": {
+      "value": -12.41,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 46920000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 171040000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "shareholdersEquity": {
+      "value": -124120000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "operatingCashFlow": {
+      "value": -2148000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "capex": {
+      "value": 2252000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:38.536Z"
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "SRBK",
+  "name": "SR Bancorp, Inc.",
+  "cik": 1951276,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 5136000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "epsBasic": {
+      "value": 0.61,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "epsDiluted": {
+      "value": 0.61,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1084405000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 890625000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "shareholdersEquity": {
+      "value": 193780000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "operatingCashFlow": {
+      "value": 4665000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "capex": {
+      "value": 433000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:34.962Z"
+}

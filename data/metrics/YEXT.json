@@ -1,0 +1,93 @@
+{
+  "ticker": "YEXT",
+  "name": "Yext, Inc.",
+  "cik": 1614178,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 446579000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-10"
+    },
+    "cogs": {
+      "value": 114068000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-10"
+    },
+    "grossProfit": {
+      "value": 332511000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-10"
+    },
+    "operatingIncome": {
+      "value": 44549000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-10"
+    },
+    "netIncome": {
+      "value": 37871000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-10"
+    },
+    "epsBasic": {
+      "value": 0.31,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-10"
+    },
+    "epsDiluted": {
+      "value": 0.07,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-10"
+    },
+    "currentAssets": {
+      "value": 317804000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-10"
+    },
+    "totalAssets": {
+      "value": 621776000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-10"
+    },
+    "currentLiabilities": {
+      "value": 296783000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-10"
+    },
+    "totalLiabilities": {
+      "value": 462355000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-10"
+    },
+    "shareholdersEquity": {
+      "value": 159421000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-10"
+    },
+    "operatingCashFlow": {
+      "value": 55847000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-10"
+    },
+    "capex": {
+      "value": 2557000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-10"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:23.160Z"
+}

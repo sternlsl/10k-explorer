@@ -1,0 +1,78 @@
+{
+  "ticker": "AASP",
+  "name": "Agassi Sports Entertainment Corp.",
+  "cik": 930245,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2017102,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-03-30"
+    },
+    "cogs": {
+      "value": 620296,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-03-30"
+    },
+    "grossProfit": {
+      "value": 1396806,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-03-30"
+    },
+    "operatingIncome": {
+      "value": -793749,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-26"
+    },
+    "netIncome": {
+      "value": -9491534,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 496375,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 800443,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 494400,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 306043,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -2198494,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 10050,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:51.617Z"
+}

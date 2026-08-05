@@ -1,0 +1,88 @@
+{
+  "ticker": "WWR",
+  "name": "WESTWATER RESOURCES, INC.",
+  "cik": 839470,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-14"
+    },
+    "cogs": {
+      "value": 9998619,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-27"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -11236000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-16"
+    },
+    "netIncome": {
+      "value": -27326000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsBasic": {
+      "value": -0.32,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsDiluted": {
+      "value": -0.32,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentAssets": {
+      "value": 48870000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalAssets": {
+      "value": 194533000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentLiabilities": {
+      "value": 11622000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalLiabilities": {
+      "value": 13004000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "shareholdersEquity": {
+      "value": 181529000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "operatingCashFlow": {
+      "value": -9897000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "capex": {
+      "value": 100000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2019-02-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:23.850Z"
+}

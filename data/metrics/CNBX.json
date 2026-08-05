@@ -1,0 +1,83 @@
+{
+  "ticker": "CNBX",
+  "name": "CNBX Pharmaceuticals Inc.",
+  "cik": 1343009,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 5684,
+      "year": 2017,
+      "periodEnd": "2017-08-31",
+      "filed": "2017-12-08"
+    },
+    "operatingIncome": {
+      "value": -271691,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "netIncome": {
+      "value": -313976,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "currentAssets": {
+      "value": 18437,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "totalAssets": {
+      "value": 18437,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "currentLiabilities": {
+      "value": 2514730,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "totalLiabilities": {
+      "value": 491164,
+      "year": 2016,
+      "periodEnd": "2016-08-31",
+      "filed": "2016-12-13"
+    },
+    "shareholdersEquity": {
+      "value": -2496293,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "operatingCashFlow": {
+      "value": -171305,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-01"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:23.359Z"
+}

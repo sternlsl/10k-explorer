@@ -1,0 +1,83 @@
+{
+  "ticker": "UNF",
+  "name": "UNIFIRST CORP",
+  "cik": 717954,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2432352000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-29"
+    },
+    "cogs": {
+      "value": 1542400000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-29"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 184498000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-29"
+    },
+    "netIncome": {
+      "value": 148271000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-29"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 7.98,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-29"
+    },
+    "currentAssets": {
+      "value": 924603000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-29"
+    },
+    "totalAssets": {
+      "value": 2778155000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-29"
+    },
+    "currentLiabilities": {
+      "value": 290403000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-29"
+    },
+    "totalLiabilities": {
+      "value": 609198000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-29"
+    },
+    "shareholdersEquity": {
+      "value": 2168957000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-29"
+    },
+    "operatingCashFlow": {
+      "value": 296872000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-29"
+    },
+    "capex": {
+      "value": 154345000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-29"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:13.394Z"
+}

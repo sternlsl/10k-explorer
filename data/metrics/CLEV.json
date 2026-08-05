@@ -1,0 +1,78 @@
+{
+  "ticker": "CLEV",
+  "name": "Concrete Leveling Systems Inc",
+  "cik": 1414382,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 703,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "cogs": {
+      "value": 397,
+      "year": 2022,
+      "periodEnd": "2022-07-31",
+      "filed": "2022-10-28"
+    },
+    "grossProfit": {
+      "value": 484,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "operatingIncome": {
+      "value": -51113,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "netIncome": {
+      "value": -61390,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "currentAssets": {
+      "value": 19479,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "totalAssets": {
+      "value": 19479,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "currentLiabilities": {
+      "value": 641128,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -621649,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "operatingCashFlow": {
+      "value": -63,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:01.205Z"
+}

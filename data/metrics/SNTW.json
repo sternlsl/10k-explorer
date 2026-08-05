@@ -1,0 +1,93 @@
+{
+  "ticker": "SNTW",
+  "name": "Summit Networks Inc.",
+  "cik": 1619096,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 11797,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "cogs": {
+      "value": 12667,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "grossProfit": {
+      "value": -870,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "operatingIncome": {
+      "value": -320220,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "netIncome": {
+      "value": -331073,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "epsBasic": {
+      "value": -0.05,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "epsDiluted": {
+      "value": -0.05,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "currentAssets": {
+      "value": 112229,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "totalAssets": {
+      "value": 116849,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "currentLiabilities": {
+      "value": 1009316,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "totalLiabilities": {
+      "value": 217866,
+      "year": 2020,
+      "periodEnd": "2020-07-31",
+      "filed": "2020-11-13"
+    },
+    "shareholdersEquity": {
+      "value": -892467,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "operatingCashFlow": {
+      "value": -265848,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "capex": {
+      "value": 6879,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:57.787Z"
+}

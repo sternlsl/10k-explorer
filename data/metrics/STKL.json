@@ -1,0 +1,93 @@
+{
+  "ticker": "STKL",
+  "name": "SunOpta Inc.",
+  "cik": 351834,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 817715000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "cogs": {
+      "value": 701768000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "grossProfit": {
+      "value": 115947000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "operatingIncome": {
+      "value": 39686000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "netIncome": {
+      "value": 15768000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "epsBasic": {
+      "value": 0.13,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "epsDiluted": {
+      "value": 0.13,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "currentAssets": {
+      "value": 219753000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "totalAssets": {
+      "value": 694659000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "currentLiabilities": {
+      "value": 186245000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "totalLiabilities": {
+      "value": 508639000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "shareholdersEquity": {
+      "value": 170797000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "operatingCashFlow": {
+      "value": 49661000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "capex": {
+      "value": 28429000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:52.794Z"
+}

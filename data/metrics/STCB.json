@@ -1,0 +1,93 @@
+{
+  "ticker": "STCB",
+  "name": "Starco Brands, Inc.",
+  "cik": 1539850,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 65211238,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-03"
+    },
+    "cogs": {
+      "value": 37431277,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-03"
+    },
+    "grossProfit": {
+      "value": 15652446,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "operatingIncome": {
+      "value": -18783694,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "netIncome": {
+      "value": -20927221,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "epsBasic": {
+      "value": -0.03,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "epsDiluted": {
+      "value": -0.03,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "currentAssets": {
+      "value": 11899737,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "totalAssets": {
+      "value": 35856694,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "currentLiabilities": {
+      "value": 13285278,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "totalLiabilities": {
+      "value": 21658455,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "shareholdersEquity": {
+      "value": 5117353,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "operatingCashFlow": {
+      "value": -900770,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    },
+    "capex": {
+      "value": 112950,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:17.118Z"
+}

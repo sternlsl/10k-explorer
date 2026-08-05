@@ -1,0 +1,93 @@
+{
+  "ticker": "DLTH",
+  "name": "DULUTH HOLDINGS INC.",
+  "cik": 1649744,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 565184000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-20"
+    },
+    "cogs": {
+      "value": 263570000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-20"
+    },
+    "grossProfit": {
+      "value": 301614000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-20"
+    },
+    "operatingIncome": {
+      "value": -10157000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-20"
+    },
+    "netIncome": {
+      "value": -16388000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-20"
+    },
+    "epsBasic": {
+      "value": -0.47,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-20"
+    },
+    "epsDiluted": {
+      "value": -0.47,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-20"
+    },
+    "currentAssets": {
+      "value": 172051000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-20"
+    },
+    "totalAssets": {
+      "value": 402609000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-20"
+    },
+    "currentLiabilities": {
+      "value": 108247000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-20"
+    },
+    "totalLiabilities": {
+      "value": 236494000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-20"
+    },
+    "shareholdersEquity": {
+      "value": 168973000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-20"
+    },
+    "operatingCashFlow": {
+      "value": 24172000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-20"
+    },
+    "capex": {
+      "value": 7600000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-03-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:43.096Z"
+}

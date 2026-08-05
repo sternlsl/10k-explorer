@@ -1,0 +1,88 @@
+{
+  "ticker": "LOOP",
+  "name": "Loop Industries, Inc.",
+  "cik": 1504678,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 514000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-27"
+    },
+    "cogs": {
+      "value": 381000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-27"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -8814001,
+      "year": 2017,
+      "periodEnd": "2017-02-28",
+      "filed": "2017-05-30"
+    },
+    "netIncome": {
+      "value": -12299000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-27"
+    },
+    "epsBasic": {
+      "value": -0.26,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-27"
+    },
+    "epsDiluted": {
+      "value": -0.32,
+      "year": 2025,
+      "periodEnd": "2025-02-28",
+      "filed": "2025-05-29"
+    },
+    "currentAssets": {
+      "value": 3606000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-27"
+    },
+    "totalAssets": {
+      "value": 8559000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-27"
+    },
+    "currentLiabilities": {
+      "value": 2755000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-27"
+    },
+    "totalLiabilities": {
+      "value": 18139000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-27"
+    },
+    "shareholdersEquity": {
+      "value": -9580000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-27"
+    },
+    "operatingCashFlow": {
+      "value": -10110000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-27"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-02-28",
+      "filed": "2025-05-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:43.037Z"
+}

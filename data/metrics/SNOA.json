@@ -1,0 +1,93 @@
+{
+  "ticker": "SNOA",
+  "name": "Sonoma Pharmaceuticals, Inc.",
+  "cik": 1367083,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 19529000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-16"
+    },
+    "cogs": {
+      "value": 8823000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-17"
+    },
+    "grossProfit": {
+      "value": 7415000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-16"
+    },
+    "operatingIncome": {
+      "value": -2461000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-16"
+    },
+    "netIncome": {
+      "value": -3175000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-16"
+    },
+    "epsBasic": {
+      "value": -1.89,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-16"
+    },
+    "epsDiluted": {
+      "value": -1.89,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-16"
+    },
+    "currentAssets": {
+      "value": 12100000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-16"
+    },
+    "totalAssets": {
+      "value": 13960000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-16"
+    },
+    "currentLiabilities": {
+      "value": 4832000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-16"
+    },
+    "totalLiabilities": {
+      "value": 10865000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-16"
+    },
+    "shareholdersEquity": {
+      "value": 3095000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-16"
+    },
+    "operatingCashFlow": {
+      "value": -3933000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-16"
+    },
+    "capex": {
+      "value": 192000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:34.637Z"
+}

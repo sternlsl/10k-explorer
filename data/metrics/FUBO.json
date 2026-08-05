@@ -1,0 +1,93 @@
+{
+  "ticker": "FUBO",
+  "name": "FuboTV Inc.",
+  "cik": 1484769,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 1622796000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-03"
+    },
+    "cogs": {
+      "value": 8000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-17"
+    },
+    "grossProfit": {
+      "value": 33000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-17"
+    },
+    "operatingIncome": {
+      "value": -196021000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-03"
+    },
+    "netIncome": {
+      "value": -172254000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-03"
+    },
+    "epsBasic": {
+      "value": -0.54,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-03"
+    },
+    "epsDiluted": {
+      "value": -0.54,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-03"
+    },
+    "currentAssets": {
+      "value": 274033000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-03"
+    },
+    "totalAssets": {
+      "value": 1077428000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-03"
+    },
+    "currentLiabilities": {
+      "value": 515322000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-03"
+    },
+    "totalLiabilities": {
+      "value": 896646000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-03"
+    },
+    "shareholdersEquity": {
+      "value": 143005000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-05-29"
+    },
+    "operatingCashFlow": {
+      "value": -79478000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-03"
+    },
+    "capex": {
+      "value": 2727000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:36.688Z"
+}

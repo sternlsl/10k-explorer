@@ -1,0 +1,83 @@
+{
+  "ticker": "SXI",
+  "name": "STANDEX INTERNATIONAL CORP/DE/",
+  "cik": 310354,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 604535000,
+      "year": 2020,
+      "periodEnd": "2020-06-30",
+      "filed": "2020-08-25"
+    },
+    "cogs": {
+      "value": 474859000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-04"
+    },
+    "grossProfit": {
+      "value": 315248000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-04"
+    },
+    "operatingIncome": {
+      "value": 93549000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-04"
+    },
+    "netIncome": {
+      "value": 55760000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-04"
+    },
+    "epsBasic": {
+      "value": 4.68,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-04"
+    },
+    "epsDiluted": {
+      "value": 4.64,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-04"
+    },
+    "currentAssets": {
+      "value": 480879000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-04"
+    },
+    "totalAssets": {
+      "value": 1566880000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-04"
+    },
+    "currentLiabilities": {
+      "value": 166975000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-04"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 711677000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-04"
+    },
+    "operatingCashFlow": {
+      "value": 69595000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-04"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:56:52.997Z"
+}

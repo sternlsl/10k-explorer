@@ -1,0 +1,88 @@
+{
+  "ticker": "CRMZ",
+  "name": "CREDITRISKMONITOR COM INC",
+  "cik": 315958,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 20123616,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "cogs": {
+      "value": 5764535,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-22"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 582031,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "netIncome": {
+      "value": 1017931,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "epsBasic": {
+      "value": 0.09,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "epsDiluted": {
+      "value": 0.09,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "currentAssets": {
+      "value": 21785471,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "totalAssets": {
+      "value": 26237315,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "currentLiabilities": {
+      "value": 13293479,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "totalLiabilities": {
+      "value": 13883222,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "shareholdersEquity": {
+      "value": 12354093,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "operatingCashFlow": {
+      "value": 968188,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "capex": {
+      "value": 268265,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:01.206Z"
+}

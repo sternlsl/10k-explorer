@@ -1,0 +1,93 @@
+{
+  "ticker": "CSPI",
+  "name": "CSP INC /MA/",
+  "cik": 356037,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 79061000,
+      "year": 2019,
+      "periodEnd": "2019-09-30",
+      "filed": "2019-12-10"
+    },
+    "cogs": {
+      "value": 54517000,
+      "year": 2018,
+      "periodEnd": "2018-09-30",
+      "filed": "2018-12-27"
+    },
+    "grossProfit": {
+      "value": 18511000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-16"
+    },
+    "operatingIncome": {
+      "value": -3109000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-16"
+    },
+    "netIncome": {
+      "value": -91000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-16"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-16"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-16"
+    },
+    "currentAssets": {
+      "value": 52320000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-16"
+    },
+    "totalAssets": {
+      "value": 71163000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-16"
+    },
+    "currentLiabilities": {
+      "value": 22183000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-16"
+    },
+    "totalLiabilities": {
+      "value": 26612000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-16"
+    },
+    "shareholdersEquity": {
+      "value": 44551000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-16"
+    },
+    "operatingCashFlow": {
+      "value": 2268000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-16"
+    },
+    "capex": {
+      "value": 348000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:14.475Z"
+}

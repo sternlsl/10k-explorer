@@ -1,0 +1,68 @@
+{
+  "ticker": "GRAF-WT",
+  "name": "Graf Global Corp.",
+  "cik": 1897463,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1825138,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-11"
+    },
+    "netIncome": {
+      "value": 8019450,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-11"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-13"
+    },
+    "currentAssets": {
+      "value": 116251,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-11"
+    },
+    "totalAssets": {
+      "value": 245725603,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-11"
+    },
+    "currentLiabilities": {
+      "value": 1284276,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-11"
+    },
+    "totalLiabilities": {
+      "value": 11084276,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-11"
+    },
+    "shareholdersEquity": {
+      "value": -10968025,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-11"
+    },
+    "operatingCashFlow": {
+      "value": -393929,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-11"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:07.083Z"
+}

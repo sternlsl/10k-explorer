@@ -1,0 +1,88 @@
+{
+  "ticker": "SNAP",
+  "name": "Snap Inc",
+  "cik": 1564408,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5931447000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "cogs": {
+      "value": 675000000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-07"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -532167000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "netIncome": {
+      "value": -460489000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "epsBasic": {
+      "value": -0.27,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "epsDiluted": {
+      "value": -0.27,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "currentAssets": {
+      "value": 4584874000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "totalAssets": {
+      "value": 7677802000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "currentLiabilities": {
+      "value": 1286868000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "totalLiabilities": {
+      "value": 5396307000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "shareholdersEquity": {
+      "value": 2281495000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "operatingCashFlow": {
+      "value": 656170000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "capex": {
+      "value": 218981000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:05.096Z"
+}

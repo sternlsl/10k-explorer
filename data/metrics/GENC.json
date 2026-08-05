@@ -1,0 +1,88 @@
+{
+  "ticker": "GENC",
+  "name": "GENCOR INDUSTRIES INC",
+  "cik": 64472,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 48943000,
+      "year": 2013,
+      "periodEnd": "2013-09-30",
+      "filed": "2013-12-13"
+    },
+    "cogs": {
+      "value": 83724000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "grossProfit": {
+      "value": 31713000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "operatingIncome": {
+      "value": 14018000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "netIncome": {
+      "value": 15661000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "epsBasic": {
+      "value": 1.07,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "epsDiluted": {
+      "value": 1.07,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "currentAssets": {
+      "value": 206541000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "totalAssets": {
+      "value": 222596000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "currentLiabilities": {
+      "value": 8811000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "totalLiabilities": {
+      "value": 10794000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "shareholdersEquity": {
+      "value": 211802000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "operatingCashFlow": {
+      "value": 3068000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-09"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:53.626Z"
+}

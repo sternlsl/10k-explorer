@@ -1,0 +1,93 @@
+{
+  "ticker": "ASPI",
+  "name": "ASP Isotopes Inc.",
+  "cik": 1921865,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 23849000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "cogs": {
+      "value": 20444000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "grossProfit": {
+      "value": 3405000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "operatingIncome": {
+      "value": -59908000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "netIncome": {
+      "value": -159843000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "epsBasic": {
+      "value": -2.11,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "epsDiluted": {
+      "value": -2.11,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "currentAssets": {
+      "value": 399919000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "totalAssets": {
+      "value": 498020000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "currentLiabilities": {
+      "value": 32696000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "totalLiabilities": {
+      "value": 235122000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "shareholdersEquity": {
+      "value": 204151000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "operatingCashFlow": {
+      "value": -37780000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "capex": {
+      "value": 9654000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:30.694Z"
+}

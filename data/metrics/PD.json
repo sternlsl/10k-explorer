@@ -1,0 +1,93 @@
+{
+  "ticker": "PD",
+  "name": "PagerDuty, Inc.",
+  "cik": 1568100,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 492546000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "cogs": {
+      "value": 74142000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "grossProfit": {
+      "value": 418404000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "operatingIncome": {
+      "value": 5840000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "netIncome": {
+      "value": 173373000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "epsBasic": {
+      "value": 1.91,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "epsDiluted": {
+      "value": 1.87,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "currentAssets": {
+      "value": 612239000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "totalAssets": {
+      "value": 990515000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "currentLiabilities": {
+      "value": 303893000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "totalLiabilities": {
+      "value": 719850000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "shareholdersEquity": {
+      "value": 253593000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "operatingCashFlow": {
+      "value": 114857000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "capex": {
+      "value": 2941000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:34.013Z"
+}

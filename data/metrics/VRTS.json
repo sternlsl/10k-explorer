@@ -1,0 +1,83 @@
+{
+  "ticker": "VRTS",
+  "name": "VIRTUS INVESTMENT PARTNERS, INC.",
+  "cik": 883237,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 852865000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 168680000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": 208131000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-25"
+    },
+    "epsBasic": {
+      "value": 20.27,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": 19.97,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": {
+      "value": 164826000,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-01"
+    },
+    "totalAssets": {
+      "value": 4291200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 62411000,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-01"
+    },
+    "totalLiabilities": {
+      "value": 3253421000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 934043000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": -67199000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 6890000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:53.594Z"
+}

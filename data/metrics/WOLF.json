@@ -1,0 +1,88 @@
+{
+  "ticker": "WOLF",
+  "name": "WOLFSPEED, INC.",
+  "cik": 895419,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 757600000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "cogs": {
+      "value": 879200000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "grossProfit": {
+      "value": -121600000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "operatingIncome": {
+      "value": -1329200000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "netIncome": {
+      "value": -1609200000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "epsBasic": {
+      "value": -11.39,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "epsDiluted": {
+      "value": -11.39,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "currentAssets": {
+      "value": 2542200000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "totalAssets": {
+      "value": 6854400000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "currentLiabilities": {
+      "value": 7090000000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -447100000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "operatingCashFlow": {
+      "value": -711700000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    },
+    "capex": {
+      "value": 1271400000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-08-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:49.451Z"
+}

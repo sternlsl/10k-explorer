@@ -1,0 +1,93 @@
+{
+  "ticker": "FC",
+  "name": "FRANKLIN COVEY CO",
+  "cik": 886206,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 267067000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "cogs": {
+      "value": 63498000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "grossProfit": {
+      "value": 203569000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "operatingIncome": {
+      "value": 5704000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "netIncome": {
+      "value": 3068000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "epsBasic": {
+      "value": 0.24,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "epsDiluted": {
+      "value": 0.24,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "currentAssets": {
+      "value": 129477000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "totalAssets": {
+      "value": 242912000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "currentLiabilities": {
+      "value": 157292000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "totalLiabilities": {
+      "value": 176001000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "shareholdersEquity": {
+      "value": 66911000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "operatingCashFlow": {
+      "value": 28977000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    },
+    "capex": {
+      "value": 8253000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-12"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:36.007Z"
+}

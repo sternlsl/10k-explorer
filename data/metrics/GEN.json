@@ -2,68 +2,92 @@
   "ticker": "GEN",
   "name": "Gen Digital Inc.",
   "cik": 849399,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 3935000000,
-      "year": 2025,
-      "periodEnd": "2025-03-28"
+      "value": 5000000000,
+      "year": 2026,
+      "periodEnd": "2026-04-03",
+      "filed": "2026-05-21"
     },
     "cogs": {
-      "value": 776000000,
-      "year": 2025,
-      "periodEnd": "2025-03-28"
+      "value": 1077000000,
+      "year": 2026,
+      "periodEnd": "2026-04-03",
+      "filed": "2026-05-21"
     },
     "grossProfit": {
-      "value": 3159000000,
-      "year": 2025,
-      "periodEnd": "2025-03-28"
+      "value": 3923000000,
+      "year": 2026,
+      "periodEnd": "2026-04-03",
+      "filed": "2026-05-21"
     },
     "operatingIncome": {
-      "value": 1610000000,
-      "year": 2025,
-      "periodEnd": "2025-03-28"
+      "value": 2120000000,
+      "year": 2026,
+      "periodEnd": "2026-04-03",
+      "filed": "2026-05-21"
     },
     "netIncome": {
-      "value": 643000000,
-      "year": 2025,
-      "periodEnd": "2025-03-28"
+      "value": 973000000,
+      "year": 2026,
+      "periodEnd": "2026-04-03",
+      "filed": "2026-05-21"
+    },
+    "epsBasic": {
+      "value": 1.59,
+      "year": 2026,
+      "periodEnd": "2026-04-03",
+      "filed": "2026-05-21"
+    },
+    "epsDiluted": {
+      "value": 1.57,
+      "year": 2026,
+      "periodEnd": "2026-04-03",
+      "filed": "2026-05-21"
     },
     "currentAssets": {
-      "value": 1444000000,
-      "year": 2025,
-      "periodEnd": "2025-03-28"
+      "value": 1081000000,
+      "year": 2026,
+      "periodEnd": "2026-04-03",
+      "filed": "2026-05-21"
     },
     "totalAssets": {
-      "value": 15495000000,
-      "year": 2025,
-      "periodEnd": "2025-03-28"
+      "value": 15589000000,
+      "year": 2026,
+      "periodEnd": "2026-04-03",
+      "filed": "2026-05-21"
     },
     "currentLiabilities": {
-      "value": 2851000000,
-      "year": 2025,
-      "periodEnd": "2025-03-28"
+      "value": 2710000000,
+      "year": 2026,
+      "periodEnd": "2026-04-03",
+      "filed": "2026-05-21"
     },
     "totalLiabilities": {
-      "value": 13226000000,
-      "year": 2025,
-      "periodEnd": "2025-03-28"
+      "value": 12978000000,
+      "year": 2026,
+      "periodEnd": "2026-04-03",
+      "filed": "2026-05-21"
     },
     "shareholdersEquity": {
-      "value": 2269000000,
-      "year": 2025,
-      "periodEnd": "2025-03-28"
+      "value": 2611000000,
+      "year": 2026,
+      "periodEnd": "2026-04-03",
+      "filed": "2026-05-21"
     },
     "operatingCashFlow": {
-      "value": 1221000000,
-      "year": 2025,
-      "periodEnd": "2025-03-28"
+      "value": 1545000000,
+      "year": 2026,
+      "periodEnd": "2026-04-03",
+      "filed": "2026-05-21"
     },
     "capex": {
-      "value": 15000000,
-      "year": 2025,
-      "periodEnd": "2025-03-28"
+      "value": 22000000,
+      "year": 2026,
+      "periodEnd": "2026-04-03",
+      "filed": "2026-05-21"
     }
   },
-  "fetchedAt": "2026-05-08T18:51:12.795Z"
+  "updatedAt": "2026-08-05T16:54:54.597Z"
 }

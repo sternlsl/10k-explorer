@@ -1,0 +1,93 @@
+{
+  "ticker": "ADMG",
+  "name": "ADAMANT DRI PROCESSING & MINERALS GROUP",
+  "cik": 1171008,
+  "fiscalYear": 2021,
+  "metrics": {
+    "revenue": {
+      "value": 48749,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-16"
+    },
+    "cogs": {
+      "value": 560000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-16"
+    },
+    "grossProfit": {
+      "value": 15157,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-16"
+    },
+    "operatingIncome": {
+      "value": -61099,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-24"
+    },
+    "netIncome": {
+      "value": -60899,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-24"
+    },
+    "epsBasic": {
+      "value": -0.1,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2018-05-29"
+    },
+    "epsDiluted": {
+      "value": -0.1,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2018-05-29"
+    },
+    "currentAssets": {
+      "value": 124247,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-16"
+    },
+    "totalAssets": {
+      "value": 536815,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-16"
+    },
+    "currentLiabilities": {
+      "value": 66099,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-24"
+    },
+    "totalLiabilities": {
+      "value": 91115,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-16"
+    },
+    "shareholdersEquity": {
+      "value": -66099,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-24"
+    },
+    "operatingCashFlow": {
+      "value": -38581,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-24"
+    },
+    "capex": {
+      "value": 13030,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2019-04-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:17.897Z"
+}

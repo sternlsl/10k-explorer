@@ -1,0 +1,78 @@
+{
+  "ticker": "PSPX",
+  "name": "Pacific Sports Exchange Inc.",
+  "cik": 1765651,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4600,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "cogs": {
+      "value": 26589,
+      "year": 2022,
+      "periodEnd": "2022-08-31",
+      "filed": "2022-11-30"
+    },
+    "grossProfit": {
+      "value": 1700,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "operatingIncome": {
+      "value": -36745,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "netIncome": {
+      "value": -36745,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "currentAssets": {
+      "value": 10245,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "totalAssets": {
+      "value": 10245,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "currentLiabilities": {
+      "value": 52322,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -42077,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "operatingCashFlow": {
+      "value": -519,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:36.265Z"
+}

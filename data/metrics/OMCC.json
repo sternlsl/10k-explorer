@@ -1,0 +1,88 @@
+{
+  "ticker": "OMCC",
+  "name": "OLD MARKET CAPITAL Corp",
+  "cik": 1000045,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 9366000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "cogs": {
+      "value": 8601,
+      "year": 2014,
+      "periodEnd": "2014-03-31",
+      "filed": "2014-06-16"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -6959000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "netIncome": {
+      "value": -5149000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "epsBasic": {
+      "value": -0.77,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "epsDiluted": {
+      "value": -0.77,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "currentAssets": {
+      "value": 27436000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "totalAssets": {
+      "value": 77672000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "currentLiabilities": {
+      "value": 2902000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "totalLiabilities": {
+      "value": 10652000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "shareholdersEquity": {
+      "value": 53140000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "operatingCashFlow": {
+      "value": -1900000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    },
+    "capex": {
+      "value": 8416000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-06-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:01.808Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "ASFH",
+  "name": "ASIAFIN HOLDINGS CORP.",
+  "cik": 1828748,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5126250,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "cogs": {
+      "value": 105547,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-22"
+    },
+    "grossProfit": {
+      "value": 1903867,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "operatingIncome": {
+      "value": 39667,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "netIncome": {
+      "value": -85333,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "currentAssets": {
+      "value": 3448269,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "totalAssets": {
+      "value": 4754814,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "currentLiabilities": {
+      "value": 1610855,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "totalLiabilities": {
+      "value": 2188648,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "shareholdersEquity": {
+      "value": 856528,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-16"
+    },
+    "operatingCashFlow": {
+      "value": 503858,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "capex": {
+      "value": 109262,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:23.962Z"
+}

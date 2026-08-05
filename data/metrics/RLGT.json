@@ -1,0 +1,88 @@
+{
+  "ticker": "RLGT",
+  "name": "RADIANT LOGISTICS, INC",
+  "cik": 1171155,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 902696000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 230101000,
+      "year": 2019,
+      "periodEnd": "2019-06-30",
+      "filed": "2019-09-12"
+    },
+    "operatingIncome": {
+      "value": 21058000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "netIncome": {
+      "value": 17291000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "epsBasic": {
+      "value": 0.37,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "epsDiluted": {
+      "value": 0.35,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "currentAssets": {
+      "value": 179250000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "totalAssets": {
+      "value": 426774000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "currentLiabilities": {
+      "value": 115145000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "totalLiabilities": {
+      "value": 200689000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "shareholdersEquity": {
+      "value": 226016000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "operatingCashFlow": {
+      "value": 13266000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    },
+    "capex": {
+      "value": 5122000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:44.972Z"
+}

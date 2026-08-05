@@ -1,0 +1,83 @@
+{
+  "ticker": "RENT",
+  "name": "Rent the Runway, Inc.",
+  "cik": 1468327,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 43800000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "cogs": {
+      "value": 88500000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -57500000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "netIncome": {
+      "value": 22600000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "epsBasic": {
+      "value": 1.89,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "epsDiluted": {
+      "value": 1.88,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "currentAssets": {
+      "value": 66700000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "totalAssets": {
+      "value": 221000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "currentLiabilities": {
+      "value": 63200000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "totalLiabilities": {
+      "value": 257100000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "shareholdersEquity": {
+      "value": -36100000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "operatingCashFlow": {
+      "value": 3500000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-14"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:21.861Z"
+}

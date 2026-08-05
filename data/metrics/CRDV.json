@@ -1,0 +1,88 @@
+{
+  "ticker": "CRDV",
+  "name": "Community Redevelopment Inc.",
+  "cik": 1084551,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 93750,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-30"
+    },
+    "cogs": {
+      "value": 87508,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-30"
+    },
+    "grossProfit": {
+      "value": 6242,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-30"
+    },
+    "operatingIncome": {
+      "value": -2275019,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-30"
+    },
+    "netIncome": {
+      "value": -10821237,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-30"
+    },
+    "epsBasic": {
+      "value": -0.22,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-30"
+    },
+    "epsDiluted": {
+      "value": -0.22,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-30"
+    },
+    "currentAssets": {
+      "value": 335742,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-30"
+    },
+    "totalAssets": {
+      "value": 7584318,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-30"
+    },
+    "currentLiabilities": {
+      "value": 5182577,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-30"
+    },
+    "totalLiabilities": {
+      "value": 7950450,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-30"
+    },
+    "shareholdersEquity": {
+      "value": -366132,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-30"
+    },
+    "operatingCashFlow": {
+      "value": 1226775,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-06-30"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:18.913Z"
+}

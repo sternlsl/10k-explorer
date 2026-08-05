@@ -1,0 +1,83 @@
+{
+  "ticker": "SAIC",
+  "name": "Science Applications International Corp",
+  "cik": 1571123,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 7262000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-16"
+    },
+    "cogs": {
+      "value": 6390000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-16"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 521000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-16"
+    },
+    "netIncome": {
+      "value": 362000000,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-03-17"
+    },
+    "epsBasic": {
+      "value": 7.73,
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-16"
+    },
+    "epsDiluted": {
+      "value": 7.7,
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-16"
+    },
+    "currentAssets": {
+      "value": 1179000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-16"
+    },
+    "totalAssets": {
+      "value": 5354000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-16"
+    },
+    "currentLiabilities": {
+      "value": 982000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-16"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1500000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-16"
+    },
+    "operatingCashFlow": {
+      "value": 609000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-16"
+    },
+    "capex": {
+      "value": 32000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30",
+      "filed": "2026-03-16"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:22.227Z"
+}

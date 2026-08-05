@@ -1,0 +1,88 @@
+{
+  "ticker": "XERI",
+  "name": "XERIANT, INC.",
+  "cik": 1481504,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 79665,
+      "year": 2018,
+      "periodEnd": "2018-06-30",
+      "filed": "2019-09-25"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 57466,
+      "year": 2018,
+      "periodEnd": "2018-06-30",
+      "filed": "2019-09-25"
+    },
+    "operatingIncome": {
+      "value": -1365491,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "netIncome": {
+      "value": -1646898,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "epsBasic": {
+      "value": -0.05,
+      "year": 2022,
+      "periodEnd": "2022-06-30",
+      "filed": "2022-10-13"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "currentAssets": {
+      "value": 56677,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "totalAssets": {
+      "value": 68219,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "currentLiabilities": {
+      "value": 8765577,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "totalLiabilities": {
+      "value": 8768682,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "shareholdersEquity": {
+      "value": -5823315,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "operatingCashFlow": {
+      "value": -1288505,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    },
+    "capex": {
+      "value": 1762,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-10-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:25.209Z"
+}

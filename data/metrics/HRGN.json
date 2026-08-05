@@ -1,0 +1,93 @@
+{
+  "ticker": "HRGN",
+  "name": "Harvard Apparatus Regenerative Technology, Inc.",
+  "cik": 1563665,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 704000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "cogs": {
+      "value": 646000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-03"
+    },
+    "operatingIncome": {
+      "value": -6915000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "netIncome": {
+      "value": -6869000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsBasic": {
+      "value": -0.42,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "epsDiluted": {
+      "value": -0.67,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "currentAssets": {
+      "value": 1829000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalAssets": {
+      "value": 2677000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "currentLiabilities": {
+      "value": 1534000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "totalLiabilities": {
+      "value": 1620000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "shareholdersEquity": {
+      "value": 1057000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "operatingCashFlow": {
+      "value": -3828000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-19"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:53.948Z"
+}

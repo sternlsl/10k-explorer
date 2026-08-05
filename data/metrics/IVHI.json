@@ -1,0 +1,68 @@
+{
+  "ticker": "IVHI",
+  "name": "Invech Holdings, Inc.",
+  "cik": 1009919,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-20"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -58018,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-20"
+    },
+    "netIncome": {
+      "value": -58018,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-20"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-20"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-20"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1500,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-20"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 63649,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-20"
+    },
+    "shareholdersEquity": {
+      "value": -62149,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-20"
+    },
+    "operatingCashFlow": {
+      "value": -58258,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-01-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:22.779Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "SEAV",
+  "name": "SEATech Ventures Corp.",
+  "cik": 1763660,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 328340,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-04-15"
+    },
+    "cogs": {
+      "value": 251700,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-04-15"
+    },
+    "grossProfit": {
+      "value": 76640,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-04-15"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -39341,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "currentAssets": {
+      "value": 7569,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "totalAssets": {
+      "value": 10484,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "currentLiabilities": {
+      "value": 391950,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "totalLiabilities": {
+      "value": 391950,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "shareholdersEquity": {
+      "value": -381466,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "operatingCashFlow": {
+      "value": -50073,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:49.881Z"
+}

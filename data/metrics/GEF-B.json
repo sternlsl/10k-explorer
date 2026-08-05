@@ -1,0 +1,78 @@
+{
+  "ticker": "GEF-B",
+  "name": "GREIF, INC",
+  "cik": 43920,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 3638200000,
+      "year": 2017,
+      "periodEnd": "2017-10-31",
+      "filed": "2017-12-20"
+    },
+    "cogs": {
+      "value": 4377300000,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2024-12-23"
+    },
+    "grossProfit": {
+      "value": 1070800000,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2024-12-23"
+    },
+    "operatingIncome": {
+      "value": 464600000,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2024-12-23"
+    },
+    "netIncome": {
+      "value": 268800000,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2024-12-23"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 1549400000,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2024-12-23"
+    },
+    "totalAssets": {
+      "value": 6647600000,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2024-12-23"
+    },
+    "currentLiabilities": {
+      "value": 1014400000,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2024-12-23"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 2082400000,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2024-12-23"
+    },
+    "operatingCashFlow": {
+      "value": 356000000,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2024-12-23"
+    },
+    "capex": {
+      "value": 156800000,
+      "year": 2019,
+      "periodEnd": "2019-10-31",
+      "filed": "2019-12-18"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:32.844Z"
+}

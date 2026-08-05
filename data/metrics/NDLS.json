@@ -1,0 +1,88 @@
+{
+  "ticker": "NDLS",
+  "name": "NOODLES & Co",
+  "cik": 1275158,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 495089000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-26"
+    },
+    "cogs": {
+      "value": 117179000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-26"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -31589000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-26"
+    },
+    "netIncome": {
+      "value": -42568000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": -7.36,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": -7.36,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-26"
+    },
+    "currentAssets": {
+      "value": 18893000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-26"
+    },
+    "totalAssets": {
+      "value": 261671000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-26"
+    },
+    "currentLiabilities": {
+      "value": 61845000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-26"
+    },
+    "totalLiabilities": {
+      "value": 306976000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-26"
+    },
+    "shareholdersEquity": {
+      "value": -45305000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-26"
+    },
+    "operatingCashFlow": {
+      "value": 7284000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-26"
+    },
+    "capex": {
+      "value": 12395000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-03-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:31.830Z"
+}

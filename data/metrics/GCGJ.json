@@ -1,0 +1,73 @@
+{
+  "ticker": "GCGJ",
+  "name": "GUOCHUN INTERNATIONAL INC.",
+  "cik": 1765048,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-16"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -37396,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "netIncome": {
+      "value": -37396,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 5500,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "totalAssets": {
+      "value": 5500,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "currentLiabilities": {
+      "value": 97508,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "totalLiabilities": {
+      "value": 97508,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "shareholdersEquity": {
+      "value": -92008,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "operatingCashFlow": {
+      "value": -36136,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-24"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:34.483Z"
+}

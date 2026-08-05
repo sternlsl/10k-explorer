@@ -1,0 +1,93 @@
+{
+  "ticker": "MOD",
+  "name": "MODINE MANUFACTURING CO",
+  "cik": 67347,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 3181100000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "cogs": {
+      "value": 2450000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "grossProfit": {
+      "value": 731100000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "operatingIncome": {
+      "value": 342400000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "netIncome": {
+      "value": 121500000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "epsBasic": {
+      "value": 2.3,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "epsDiluted": {
+      "value": 2.26,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "currentAssets": {
+      "value": 1416100000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "totalAssets": {
+      "value": 2674600000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "currentLiabilities": {
+      "value": 728900000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "totalLiabilities": {
+      "value": 1471800000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "shareholdersEquity": {
+      "value": 1194500000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "operatingCashFlow": {
+      "value": 248700000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "capex": {
+      "value": 143300000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:44.977Z"
+}

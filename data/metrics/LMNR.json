@@ -1,0 +1,88 @@
+{
+  "ticker": "LMNR",
+  "name": "Limoneira CO",
+  "cik": 1342423,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 153685000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-23"
+    },
+    "cogs": {
+      "value": 154810000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-23"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -20405000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-23"
+    },
+    "netIncome": {
+      "value": -15981000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-23"
+    },
+    "epsBasic": {
+      "value": -0.93,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-23"
+    },
+    "epsDiluted": {
+      "value": -0.93,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-23"
+    },
+    "currentAssets": {
+      "value": 40482000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-23"
+    },
+    "totalAssets": {
+      "value": 311137000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-23"
+    },
+    "currentLiabilities": {
+      "value": 30091000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-23"
+    },
+    "totalLiabilities": {
+      "value": 120300000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-23"
+    },
+    "shareholdersEquity": {
+      "value": 219140000,
+      "year": 2018,
+      "periodEnd": "2018-10-31",
+      "filed": "2019-01-14"
+    },
+    "operatingCashFlow": {
+      "value": -6009000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-23"
+    },
+    "capex": {
+      "value": 15867000,
+      "year": 2019,
+      "periodEnd": "2019-10-31",
+      "filed": "2020-01-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:44.745Z"
+}

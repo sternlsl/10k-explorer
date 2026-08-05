@@ -1,0 +1,88 @@
+{
+  "ticker": "GCAN",
+  "name": "Greater Cannabis Company, Inc.",
+  "cik": 1695473,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 12630,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2023-04-13"
+    },
+    "cogs": {
+      "value": 12655,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2023-04-13"
+    },
+    "grossProfit": {
+      "value": -25,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2023-04-13"
+    },
+    "operatingIncome": {
+      "value": -183005,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": -331612,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 815,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 815,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 742464,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 742464,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -741649,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -60153,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:24.540Z"
+}

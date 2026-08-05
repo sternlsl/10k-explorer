@@ -1,0 +1,88 @@
+{
+  "ticker": "GT",
+  "name": "GOODYEAR TIRE & RUBBER CO /OH/",
+  "cik": 42582,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 18280000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "cogs": {
+      "value": 14909000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 2022000000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-09"
+    },
+    "netIncome": {
+      "value": -1721000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "epsBasic": {
+      "value": -5.99,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "epsDiluted": {
+      "value": -5.99,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "currentAssets": {
+      "value": 7218000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "totalAssets": {
+      "value": 18208000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "currentLiabilities": {
+      "value": 6782000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "totalLiabilities": {
+      "value": 14805000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "shareholdersEquity": {
+      "value": 3233000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "operatingCashFlow": {
+      "value": 796000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "capex": {
+      "value": 826000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:35.322Z"
+}

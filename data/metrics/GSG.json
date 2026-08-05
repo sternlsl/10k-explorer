@@ -1,0 +1,63 @@
+{
+  "ticker": "GSG",
+  "name": "iShares S&P GSCI Commodity-Indexed Trust",
+  "cik": 1332174,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 42543734,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 34251853,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": 56966505,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": 1.26,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 798917906,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-02-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 11798140,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 787119766,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-02-27"
+    },
+    "operatingCashFlow": {
+      "value": -58201965,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:41.116Z"
+}

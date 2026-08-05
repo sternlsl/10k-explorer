@@ -1,0 +1,73 @@
+{
+  "ticker": "EMCGF",
+  "name": "Embrace Change Acquisition Corp.",
+  "cik": 1869601,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -551662,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "netIncome": {
+      "value": 1442593,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "epsBasic": {
+      "value": -0.08,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-07"
+    },
+    "epsDiluted": {
+      "value": -0.08,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-07"
+    },
+    "currentAssets": {
+      "value": 66985,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "totalAssets": {
+      "value": 26154194,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "currentLiabilities": {
+      "value": 2924908,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "totalLiabilities": {
+      "value": 5890908,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "shareholdersEquity": {
+      "value": -5823923,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "operatingCashFlow": {
+      "value": -528848,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-11"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:52.574Z"
+}

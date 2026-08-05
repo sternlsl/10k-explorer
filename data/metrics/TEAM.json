@@ -1,0 +1,93 @@
+{
+  "ticker": "TEAM",
+  "name": "Atlassian Corp",
+  "cik": 1650372,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5215304000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "cogs": {
+      "value": 894851000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "grossProfit": {
+      "value": 4320453000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "operatingIncome": {
+      "value": -130392000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "netIncome": {
+      "value": -256687000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "epsBasic": {
+      "value": -0.98,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "epsDiluted": {
+      "value": -0.98,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "currentAssets": {
+      "value": 3891237000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "totalAssets": {
+      "value": 6041970000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "currentLiabilities": {
+      "value": 3180859000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "totalLiabilities": {
+      "value": 4696316000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "shareholdersEquity": {
+      "value": 1345654000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "operatingCashFlow": {
+      "value": 1460393000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    },
+    "capex": {
+      "value": 44850000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-15"
+    }
+  },
+  "updatedAt": "2026-08-05T16:52:20.185Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "RSCF",
+  "name": "REFLECT SCIENTIFIC, INC.",
+  "cik": 1103090,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 1080154,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "cogs": {
+      "value": 483733,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "grossProfit": {
+      "value": 596421,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "operatingIncome": {
+      "value": -467278,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "netIncome": {
+      "value": -459028,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "currentAssets": {
+      "value": 2370150,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "totalAssets": {
+      "value": 2668903,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "currentLiabilities": {
+      "value": 596366,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "totalLiabilities": {
+      "value": 776329,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "shareholdersEquity": {
+      "value": 1892574,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "operatingCashFlow": {
+      "value": -103976,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:10.015Z"
+}

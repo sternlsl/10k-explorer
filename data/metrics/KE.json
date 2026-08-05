@@ -1,0 +1,93 @@
+{
+  "ticker": "KE",
+  "name": "Kimball Electronics, Inc.",
+  "cik": 1606757,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1486727000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "cogs": {
+      "value": 1382323000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "grossProfit": {
+      "value": 104404000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "operatingIncome": {
+      "value": 45535000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "netIncome": {
+      "value": 16984000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "epsBasic": {
+      "value": 0.68,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "epsDiluted": {
+      "value": 0.68,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "currentAssets": {
+      "value": 699604000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "totalAssets": {
+      "value": 1077312000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "currentLiabilities": {
+      "value": 318561000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "totalLiabilities": {
+      "value": 212672000,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-08-29"
+    },
+    "shareholdersEquity": {
+      "value": 569884000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "operatingCashFlow": {
+      "value": 183937000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "capex": {
+      "value": 33276000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:29.734Z"
+}

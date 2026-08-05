@@ -2,68 +2,87 @@
   "ticker": "GIS",
   "name": "GENERAL MILLS INC",
   "cik": 40704,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 19486600000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 18424600000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-01"
     },
     "cogs": {
-      "value": 12753600000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 12228900000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-01"
     },
-    "grossProfit": {
-      "value": 1474000000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
-    },
+    "grossProfit": null,
     "operatingIncome": {
-      "value": 3304800000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 885800000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-01"
     },
     "netIncome": {
-      "value": 2295200000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": -87600000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-01"
+    },
+    "epsBasic": {
+      "value": -0.16,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-01"
+    },
+    "epsDiluted": {
+      "value": -0.16,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-01"
     },
     "currentAssets": {
-      "value": 5275700000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 4618300000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-01"
     },
     "totalAssets": {
-      "value": 33071100000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 30016700000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-01"
     },
     "currentLiabilities": {
-      "value": 7857300000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 6774100000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-01"
     },
     "totalLiabilities": {
-      "value": 23859900000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 22636100000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-01"
     },
     "shareholdersEquity": {
-      "value": 9199200000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 7368400000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-01"
     },
     "operatingCashFlow": {
-      "value": 2918200000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 2166200000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-01"
     },
     "capex": {
-      "value": 625300000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 539900000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-01"
     }
   },
-  "fetchedAt": "2026-05-08T18:51:21.704Z"
+  "updatedAt": "2026-08-05T16:54:27.908Z"
 }

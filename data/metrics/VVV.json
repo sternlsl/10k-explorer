@@ -1,0 +1,88 @@
+{
+  "ticker": "VVV",
+  "name": "VALVOLINE INC",
+  "cik": 1674910,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1710300000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "cogs": {
+      "value": 1051800000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "grossProfit": {
+      "value": 658500000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "operatingIncome": {
+      "value": 389900000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "netIncome": {
+      "value": 210700000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "epsBasic": {
+      "value": 1.65,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "epsDiluted": {
+      "value": 1.64,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "currentAssets": {
+      "value": 243700000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "totalAssets": {
+      "value": 2670400000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "currentLiabilities": {
+      "value": 347400000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 338500000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "operatingCashFlow": {
+      "value": 297200000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "capex": {
+      "value": 259200000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:24.315Z"
+}

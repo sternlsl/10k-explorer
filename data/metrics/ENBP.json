@@ -1,0 +1,63 @@
+{
+  "ticker": "ENBP",
+  "name": "ENB Financial Corp",
+  "cik": 1437479,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 21559000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "epsBasic": {
+      "value": 3.8,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "epsDiluted": {
+      "value": 3.8,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2257727000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 2096673000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "shareholdersEquity": {
+      "value": 161054000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "operatingCashFlow": {
+      "value": 25116000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "capex": {
+      "value": 5941000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:31.436Z"
+}

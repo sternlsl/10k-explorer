@@ -1,0 +1,83 @@
+{
+  "ticker": "JFIL",
+  "name": "Jubilant Flame International, Ltd",
+  "cik": 1517389,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2022,
+      "periodEnd": "2022-02-28",
+      "filed": "2022-05-09"
+    },
+    "cogs": {
+      "value": 36997,
+      "year": 2020,
+      "periodEnd": "2020-02-29",
+      "filed": "2020-05-12"
+    },
+    "grossProfit": {
+      "value": 39775,
+      "year": 2012,
+      "periodEnd": "2012-02-29",
+      "filed": "2012-05-08"
+    },
+    "operatingIncome": {
+      "value": -59672,
+      "year": 2025,
+      "periodEnd": "2025-02-28",
+      "filed": "2025-04-04"
+    },
+    "netIncome": {
+      "value": -63507,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-28"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-28"
+    },
+    "currentAssets": {
+      "value": 16190,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-28"
+    },
+    "totalAssets": {
+      "value": 16190,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-28"
+    },
+    "currentLiabilities": {
+      "value": 1436282,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-28"
+    },
+    "totalLiabilities": {
+      "value": 1436282,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-28"
+    },
+    "shareholdersEquity": {
+      "value": -1420092,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-28"
+    },
+    "operatingCashFlow": {
+      "value": -49261,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-28"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:18.639Z"
+}

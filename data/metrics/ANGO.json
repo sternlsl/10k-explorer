@@ -1,0 +1,93 @@
+{
+  "ticker": "ANGO",
+  "name": "ANGIODYNAMICS INC",
+  "cik": 1275187,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 320174000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-14"
+    },
+    "cogs": {
+      "value": 145282000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-14"
+    },
+    "grossProfit": {
+      "value": 174892000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-14"
+    },
+    "operatingIncome": {
+      "value": -39927000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-14"
+    },
+    "netIncome": {
+      "value": -36742000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-14"
+    },
+    "epsBasic": {
+      "value": -0.88,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-14"
+    },
+    "epsDiluted": {
+      "value": -0.88,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-14"
+    },
+    "currentAssets": {
+      "value": 163394000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-14"
+    },
+    "totalAssets": {
+      "value": 267163000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-14"
+    },
+    "currentLiabilities": {
+      "value": 74717000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-14"
+    },
+    "totalLiabilities": {
+      "value": 96338000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-14"
+    },
+    "shareholdersEquity": {
+      "value": 170825000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-14"
+    },
+    "operatingCashFlow": {
+      "value": 3089000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-14"
+    },
+    "capex": {
+      "value": 2581000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:11.705Z"
+}

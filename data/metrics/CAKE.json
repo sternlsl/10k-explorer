@@ -1,0 +1,88 @@
+{
+  "ticker": "CAKE",
+  "name": "CHEESECAKE FACTORY INC",
+  "cik": 887596,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3751806000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-23"
+    },
+    "cogs": {
+      "value": 653133000,
+      "year": 2021,
+      "periodEnd": "2021-12-28",
+      "filed": "2022-02-22"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 187285000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-23"
+    },
+    "netIncome": {
+      "value": 148427000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-23"
+    },
+    "epsBasic": {
+      "value": 3.17,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-23"
+    },
+    "epsDiluted": {
+      "value": 3.06,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-23"
+    },
+    "currentAssets": {
+      "value": 454828000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-23"
+    },
+    "totalAssets": {
+      "value": 3261672000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-23"
+    },
+    "currentLiabilities": {
+      "value": 777011000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-23"
+    },
+    "totalLiabilities": {
+      "value": 2825245000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-23"
+    },
+    "shareholdersEquity": {
+      "value": 436427000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-23"
+    },
+    "operatingCashFlow": {
+      "value": 301281000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-23"
+    },
+    "capex": {
+      "value": 146204000,
+      "year": 2025,
+      "periodEnd": "2025-12-30",
+      "filed": "2026-02-23"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:56.128Z"
+}

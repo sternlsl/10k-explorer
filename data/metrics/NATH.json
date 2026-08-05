@@ -1,0 +1,93 @@
+{
+  "ticker": "NATH",
+  "name": "NATHANS FAMOUS, INC.",
+  "cik": 69733,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 162063000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-09"
+    },
+    "cogs": {
+      "value": 106519000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-09"
+    },
+    "grossProfit": {
+      "value": 55544000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-09"
+    },
+    "operatingIncome": {
+      "value": 30102000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-09"
+    },
+    "netIncome": {
+      "value": 20020000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-09"
+    },
+    "epsBasic": {
+      "value": 4.89,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-09"
+    },
+    "epsDiluted": {
+      "value": 4.85,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-09"
+    },
+    "currentAssets": {
+      "value": 47120000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-09"
+    },
+    "totalAssets": {
+      "value": 53651000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-09"
+    },
+    "currentLiabilities": {
+      "value": 18902000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-09"
+    },
+    "totalLiabilities": {
+      "value": 67874000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-09"
+    },
+    "shareholdersEquity": {
+      "value": -14223000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-09"
+    },
+    "operatingCashFlow": {
+      "value": 18234000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-09"
+    },
+    "capex": {
+      "value": 370000,
+      "year": 2026,
+      "periodEnd": "2026-03-29",
+      "filed": "2026-06-09"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:24.231Z"
+}

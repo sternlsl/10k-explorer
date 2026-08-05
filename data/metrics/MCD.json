@@ -7,51 +7,72 @@
     "revenue": {
       "value": 26885000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
     },
     "cogs": null,
     "grossProfit": null,
     "operatingIncome": {
       "value": 12393000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
     },
     "netIncome": {
       "value": 8563000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": 12,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
+    },
+    "epsDiluted": {
+      "value": 11.95,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
     },
     "currentAssets": {
       "value": 4163000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
     },
     "totalAssets": {
       "value": 59515000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
     },
     "currentLiabilities": {
       "value": 4361000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
     },
     "totalLiabilities": null,
     "shareholdersEquity": {
       "value": -1791000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
     },
     "operatingCashFlow": {
       "value": 10551000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
     },
     "capex": {
       "value": 3365000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-24"
     }
   },
-  "fetchedAt": "2026-05-08T18:56:15.944Z"
+  "updatedAt": "2026-08-05T16:52:13.673Z"
 }

@@ -1,0 +1,88 @@
+{
+  "ticker": "ZDGE",
+  "name": "Zedge, Inc.",
+  "cik": 1667313,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 29398000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-28"
+    },
+    "cogs": {
+      "value": 147000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-28"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -3232000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-28"
+    },
+    "netIncome": {
+      "value": -2392000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-28"
+    },
+    "epsBasic": {
+      "value": -0.17,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-28"
+    },
+    "epsDiluted": {
+      "value": -0.17,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-28"
+    },
+    "currentAssets": {
+      "value": 22444000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-28"
+    },
+    "totalAssets": {
+      "value": 35654000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-28"
+    },
+    "currentLiabilities": {
+      "value": 7763000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-28"
+    },
+    "totalLiabilities": {
+      "value": 9753000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-28"
+    },
+    "shareholdersEquity": {
+      "value": 25901000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-28"
+    },
+    "operatingCashFlow": {
+      "value": 3422000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-28"
+    },
+    "capex": {
+      "value": 83000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:20.805Z"
+}

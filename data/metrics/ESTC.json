@@ -1,0 +1,93 @@
+{
+  "ticker": "ESTC",
+  "name": "Elastic N.V.",
+  "cik": 1707753,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1739331000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-08"
+    },
+    "cogs": {
+      "value": 416272000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-08"
+    },
+    "grossProfit": {
+      "value": 1323059000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-08"
+    },
+    "operatingIncome": {
+      "value": -33476000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-08"
+    },
+    "netIncome": {
+      "value": 367766000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-08"
+    },
+    "epsBasic": {
+      "value": 3.49,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-08"
+    },
+    "epsDiluted": {
+      "value": 3.43,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-08"
+    },
+    "currentAssets": {
+      "value": 2023263000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-08"
+    },
+    "totalAssets": {
+      "value": 3152676000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-08"
+    },
+    "currentLiabilities": {
+      "value": 1204921000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-08"
+    },
+    "totalLiabilities": {
+      "value": 1876176000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-08"
+    },
+    "shareholdersEquity": {
+      "value": 1276500000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-08"
+    },
+    "operatingCashFlow": {
+      "value": 326894000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-08"
+    },
+    "capex": {
+      "value": 5092000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-08"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:00.457Z"
+}

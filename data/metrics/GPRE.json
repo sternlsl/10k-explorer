@@ -1,0 +1,93 @@
+{
+  "ticker": "GPRE",
+  "name": "Green Plains Inc.",
+  "cik": 1309402,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 188979000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "cogs": {
+      "value": 2860813000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-02-10"
+    },
+    "grossProfit": {
+      "value": 136926000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "operatingIncome": {
+      "value": -67248000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "netIncome": {
+      "value": -121278000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "epsBasic": {
+      "value": -1.8,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "epsDiluted": {
+      "value": -1.8,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "currentAssets": {
+      "value": 482212000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "totalAssets": {
+      "value": 1578396000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "currentLiabilities": {
+      "value": 268706000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "totalLiabilities": {
+      "value": 806425000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "shareholdersEquity": {
+      "value": 766247000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "operatingCashFlow": {
+      "value": 110864000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "capex": {
+      "value": 37199000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:23.102Z"
+}

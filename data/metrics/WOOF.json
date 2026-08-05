@@ -1,0 +1,93 @@
+{
+  "ticker": "WOOF",
+  "name": "Petco Health & Wellness Company, Inc.",
+  "cik": 1826470,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 5961467000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "cogs": {
+      "value": 3656395000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "grossProfit": {
+      "value": 2305072000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "operatingIncome": {
+      "value": 120433000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "netIncome": {
+      "value": 9066000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "epsBasic": {
+      "value": 0.03,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "epsDiluted": {
+      "value": 0.03,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "currentAssets": {
+      "value": 1019786000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "totalAssets": {
+      "value": 5173425000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "currentLiabilities": {
+      "value": 1134141000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "totalLiabilities": {
+      "value": 4009171000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "shareholdersEquity": {
+      "value": 1164254000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "operatingCashFlow": {
+      "value": 314050000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    },
+    "capex": {
+      "value": 127097000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:10.101Z"
+}

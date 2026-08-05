@@ -2,60 +2,82 @@
   "ticker": "MA",
   "name": "Mastercard Inc",
   "cik": 1141391,
-  "fiscalYear": 2021,
+  "fiscalYear": 2025,
   "metrics": {
     "revenue": {
       "value": 29845000000,
       "year": 2021,
-      "periodEnd": "2021-12-31"
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-11"
     },
     "cogs": null,
     "grossProfit": null,
     "operatingIncome": {
       "value": 18897000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
     },
     "netIncome": {
       "value": 3116000000,
       "year": 2013,
-      "periodEnd": "2013-12-31"
+      "periodEnd": "2013-12-31",
+      "filed": "2014-02-14"
+    },
+    "epsBasic": {
+      "value": 16.54,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
+    },
+    "epsDiluted": {
+      "value": 16.52,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
     },
     "currentAssets": {
       "value": 23558000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
     },
     "totalAssets": {
       "value": 54157000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
     },
     "currentLiabilities": {
       "value": 22762000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
     },
     "totalLiabilities": {
       "value": 46411000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
     },
     "shareholdersEquity": {
       "value": 7737000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
     },
     "operatingCashFlow": {
       "value": 17648000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
     },
     "capex": {
       "value": 489000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-11"
     }
   },
-  "fetchedAt": "2026-05-08T18:56:07.062Z"
+  "updatedAt": "2026-08-05T16:52:16.578Z"
 }

@@ -1,0 +1,88 @@
+{
+  "ticker": "AMTM",
+  "name": "Amentum Holdings, Inc.",
+  "cik": 2011286,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 14393000000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-11-25"
+    },
+    "cogs": {
+      "value": 12880000000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-11-25"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 480000000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-11-25"
+    },
+    "netIncome": {
+      "value": 66000000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-11-25"
+    },
+    "epsBasic": {
+      "value": 0.27,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-11-25"
+    },
+    "epsDiluted": {
+      "value": 0.27,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-11-25"
+    },
+    "currentAssets": {
+      "value": 3113000000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-11-25"
+    },
+    "totalAssets": {
+      "value": 11460000000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-11-25"
+    },
+    "currentLiabilities": {
+      "value": 2354000000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-11-25"
+    },
+    "totalLiabilities": {
+      "value": 6840000000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-11-25"
+    },
+    "shareholdersEquity": {
+      "value": 4505000000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-11-25"
+    },
+    "operatingCashFlow": {
+      "value": 543000000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-11-25"
+    },
+    "capex": {
+      "value": 27000000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-11-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:42.929Z"
+}

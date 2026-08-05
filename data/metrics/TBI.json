@@ -1,0 +1,93 @@
+{
+  "ticker": "TBI",
+  "name": "TrueBlue, Inc.",
+  "cik": 768899,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1615997000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-18"
+    },
+    "cogs": {
+      "value": 1248155000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-18"
+    },
+    "grossProfit": {
+      "value": 367842000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-18"
+    },
+    "operatingIncome": {
+      "value": -46634000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-18"
+    },
+    "netIncome": {
+      "value": -47960000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-18"
+    },
+    "epsBasic": {
+      "value": -1.61,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-18"
+    },
+    "epsDiluted": {
+      "value": -1.61,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-18"
+    },
+    "currentAssets": {
+      "value": 297609000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-18"
+    },
+    "totalAssets": {
+      "value": 638667000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-18"
+    },
+    "currentLiabilities": {
+      "value": 138533000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-18"
+    },
+    "totalLiabilities": {
+      "value": 364110000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-18"
+    },
+    "shareholdersEquity": {
+      "value": 274557000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-18"
+    },
+    "operatingCashFlow": {
+      "value": -58042000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-18"
+    },
+    "capex": {
+      "value": 15678000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-18"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:11.360Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "ABVC",
+  "name": "ABVC BIOPHARMA, INC.",
+  "cik": 1173313,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 509589,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-03"
+    },
+    "cogs": {
+      "value": 763,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-03"
+    },
+    "grossProfit": {
+      "value": 508826,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-03"
+    },
+    "operatingIncome": {
+      "value": -7151259,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "netIncome": {
+      "value": -7908554,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "epsBasic": {
+      "value": -0.39,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "epsDiluted": {
+      "value": -0.39,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "currentAssets": {
+      "value": 2501343,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalAssets": {
+      "value": 21062203,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "currentLiabilities": {
+      "value": 6163976,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "totalLiabilities": {
+      "value": 7764723,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "shareholdersEquity": {
+      "value": 11111861,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "operatingCashFlow": {
+      "value": -2986299,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-03"
+    },
+    "capex": {
+      "value": 21201,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:55.027Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "WBSR",
+  "name": "Webstar Technology Group Inc.",
+  "cik": 1645155,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6739,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-03-29"
+    },
+    "cogs": {
+      "value": 1600,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-03-29"
+    },
+    "grossProfit": {
+      "value": 5139,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-03-29"
+    },
+    "operatingIncome": {
+      "value": -495831,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": -1230235,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 37985344,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalAssets": {
+      "value": 37985344,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 39607927,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "totalLiabilities": {
+      "value": 40292845,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -2206346,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -761410,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:55.675Z"
+}

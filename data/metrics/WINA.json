@@ -1,0 +1,83 @@
+{
+  "ticker": "WINA",
+  "name": "WINMARK CORP",
+  "cik": 908315,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1300000,
+      "year": 2021,
+      "periodEnd": "2021-12-25",
+      "filed": "2023-03-10"
+    },
+    "cogs": {
+      "value": 3104400,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 54593900,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "netIncome": {
+      "value": 41654100,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "epsBasic": {
+      "value": 11.73,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": 11.3,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "currentAssets": {
+      "value": 14096000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "totalAssets": {
+      "value": 24884100,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": {
+      "value": 5666000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -53682400,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 44896800,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    },
+    "capex": {
+      "value": 192300,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:20.074Z"
+}

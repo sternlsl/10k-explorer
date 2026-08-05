@@ -1,0 +1,93 @@
+{
+  "ticker": "NVNO",
+  "name": "enVVeno Medical Corp",
+  "cik": 1661053,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 31243,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2021-03-31"
+    },
+    "cogs": {
+      "value": 419659,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2019-03-14"
+    },
+    "grossProfit": {
+      "value": 186552,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-14"
+    },
+    "operatingIncome": {
+      "value": -20899000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "netIncome": {
+      "value": -19472000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": -33.06,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": -33.06,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentAssets": {
+      "value": 28826000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalAssets": {
+      "value": 29562000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentLiabilities": {
+      "value": 2122000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalLiabilities": {
+      "value": 2432000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "shareholdersEquity": {
+      "value": 27130000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "operatingCashFlow": {
+      "value": -15568000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "capex": {
+      "value": 5000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:11.914Z"
+}

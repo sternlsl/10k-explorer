@@ -1,0 +1,93 @@
+{
+  "ticker": "NVTS",
+  "name": "Navitas Semiconductor Corp",
+  "cik": 1821769,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 45916000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 31668000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "grossProfit": {
+      "value": 10686000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "operatingIncome": {
+      "value": -107764000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": -84599000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-19"
+    },
+    "epsBasic": {
+      "value": -0.57,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": -0.57,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": {
+      "value": 259905000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 500469000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 52120000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": {
+      "value": 56808000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 380617000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-06"
+    },
+    "operatingCashFlow": {
+      "value": -42891000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 1478000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:34.679Z"
+}

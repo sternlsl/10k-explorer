@@ -1,0 +1,58 @@
+{
+  "ticker": "OZ",
+  "name": "Belpointe PREP, LLC",
+  "cik": 1807046,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 9187000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -40046000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "epsBasic": {
+      "value": -10.72,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "epsDiluted": {
+      "value": -10.72,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 564196000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 288981000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": -25208000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:02.000Z"
+}

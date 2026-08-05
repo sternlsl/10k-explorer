@@ -1,0 +1,83 @@
+{
+  "ticker": "RSRV",
+  "name": "RESERVE PETROLEUM CO",
+  "cik": 83350,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 16170884,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "cogs": {
+      "value": 3639924,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 4286527,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": 4864269,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": 32.32,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 9844629,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 41608523,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 2193015,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 7609157,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 33765153,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": 9941805,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 6789339,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-28"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:33.033Z"
+}

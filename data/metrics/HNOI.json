@@ -1,0 +1,93 @@
+{
+  "ticker": "HNOI",
+  "name": "HNO International, Inc.",
+  "cik": 1342916,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 65561,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-06"
+    },
+    "cogs": {
+      "value": 5885,
+      "year": 2023,
+      "periodEnd": "2023-10-31",
+      "filed": "2024-01-29"
+    },
+    "grossProfit": {
+      "value": 65561,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-06"
+    },
+    "operatingIncome": {
+      "value": -6615496,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-06"
+    },
+    "netIncome": {
+      "value": -6615496,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-06"
+    },
+    "epsBasic": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-06"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-06"
+    },
+    "currentAssets": {
+      "value": 343194,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-06"
+    },
+    "totalAssets": {
+      "value": 1731020,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-06"
+    },
+    "currentLiabilities": {
+      "value": 2765768,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-06"
+    },
+    "totalLiabilities": {
+      "value": 3360970,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-06"
+    },
+    "shareholdersEquity": {
+      "value": -1629950,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-06"
+    },
+    "operatingCashFlow": {
+      "value": -960488,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-06"
+    },
+    "capex": {
+      "value": 227943,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-02-06"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:48.017Z"
+}

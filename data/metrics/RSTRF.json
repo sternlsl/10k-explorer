@@ -1,0 +1,93 @@
+{
+  "ticker": "RSTRF",
+  "name": "Restaurant Brands International Limited Partnership",
+  "cik": 1618755,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 9434000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "cogs": {
+      "value": 2435000000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-22"
+    },
+    "grossProfit": {
+      "value": 826500000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-03-12"
+    },
+    "operatingIncome": {
+      "value": 2202000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "netIncome": {
+      "value": -277200000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-03-12"
+    },
+    "epsBasic": {
+      "value": -0.2,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2016-02-26"
+    },
+    "epsDiluted": {
+      "value": -0.2,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2016-02-26"
+    },
+    "currentAssets": {
+      "value": 2830000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "totalAssets": {
+      "value": 25615000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "currentLiabilities": {
+      "value": 2891000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "totalLiabilities": {
+      "value": 20456000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "shareholdersEquity": {
+      "value": 3616000000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2020-02-21"
+    },
+    "operatingCashFlow": {
+      "value": 1714000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    },
+    "capex": {
+      "value": 265000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:45.773Z"
+}

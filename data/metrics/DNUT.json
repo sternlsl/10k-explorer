@@ -1,0 +1,83 @@
+{
+  "ticker": "DNUT",
+  "name": "Krispy Kreme, Inc.",
+  "cik": 1857154,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1522616000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-06"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -469270000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-06"
+    },
+    "netIncome": {
+      "value": -515767000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-06"
+    },
+    "epsBasic": {
+      "value": -3.04,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-06"
+    },
+    "epsDiluted": {
+      "value": -3.04,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-06"
+    },
+    "currentAssets": {
+      "value": 174454000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-06"
+    },
+    "totalAssets": {
+      "value": 2592959000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-06"
+    },
+    "currentLiabilities": {
+      "value": 457280000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-06"
+    },
+    "totalLiabilities": {
+      "value": 1915998000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-06"
+    },
+    "shareholdersEquity": {
+      "value": 650123000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-06"
+    },
+    "operatingCashFlow": {
+      "value": 33924000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-06"
+    },
+    "capex": {
+      "value": 97929000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-06"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:31.960Z"
+}

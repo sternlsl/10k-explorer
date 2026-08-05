@@ -1,0 +1,88 @@
+{
+  "ticker": "EZPW",
+  "name": "EZCORP INC",
+  "cik": 876523,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1274280000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "cogs": {
+      "value": 295620000,
+      "year": 2011,
+      "periodEnd": "2011-09-30",
+      "filed": "2011-11-23"
+    },
+    "grossProfit": {
+      "value": 746065000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "operatingIncome": {
+      "value": 149169000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "netIncome": {
+      "value": 109613000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "epsBasic": {
+      "value": 1.91,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "epsDiluted": {
+      "value": 1.42,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "currentAssets": {
+      "value": 1125956000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "totalAssets": {
+      "value": 1951209000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "currentLiabilities": {
+      "value": 200572000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "totalLiabilities": {
+      "value": 925724000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "shareholdersEquity": {
+      "value": 744949000,
+      "year": 2019,
+      "periodEnd": "2019-09-30",
+      "filed": "2019-12-05"
+    },
+    "operatingCashFlow": {
+      "value": 148985000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:33.293Z"
+}

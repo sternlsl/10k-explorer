@@ -1,0 +1,88 @@
+{
+  "ticker": "APOG",
+  "name": "APOGEE ENTERPRISES, INC.",
+  "cik": 6845,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1404733000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-24"
+    },
+    "cogs": {
+      "value": 1085259000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-24"
+    },
+    "grossProfit": {
+      "value": 319474000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-24"
+    },
+    "operatingIncome": {
+      "value": 84474000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-24"
+    },
+    "netIncome": {
+      "value": 54131000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-24"
+    },
+    "epsBasic": {
+      "value": 2.54,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-24"
+    },
+    "epsDiluted": {
+      "value": 2.52,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-24"
+    },
+    "currentAssets": {
+      "value": 439433000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-24"
+    },
+    "totalAssets": {
+      "value": 1122345000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-24"
+    },
+    "currentLiabilities": {
+      "value": 266856000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-24"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 511794000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-24"
+    },
+    "operatingCashFlow": {
+      "value": 122465000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-24"
+    },
+    "capex": {
+      "value": 27308000,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-04-24"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:16.013Z"
+}

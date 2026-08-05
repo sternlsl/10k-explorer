@@ -1,0 +1,73 @@
+{
+  "ticker": "ZARE",
+  "name": "Ares Real Estate Income Trust Inc.",
+  "cik": 1327978,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 498835000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "cogs": {
+      "value": 61060000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-05"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 331583000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "netIncome": {
+      "value": -68004000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsBasic": {
+      "value": -0.37,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsDiluted": {
+      "value": -0.37,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 7268524000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 5746004000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "shareholdersEquity": {
+      "value": 655447000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "operatingCashFlow": {
+      "value": 253643000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:28.619Z"
+}

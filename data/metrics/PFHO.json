@@ -1,0 +1,88 @@
+{
+  "ticker": "PFHO",
+  "name": "PACIFIC HEALTH CARE ORGANIZATION INC",
+  "cik": 1138476,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6715175,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "cogs": {
+      "value": 512760,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-29"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1001038,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "netIncome": {
+      "value": 1387647,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsBasic": {
+      "value": 0.11,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsDiluted": {
+      "value": 0.11,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentAssets": {
+      "value": 13388043,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "totalAssets": {
+      "value": 13463446,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentLiabilities": {
+      "value": 388596,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "totalLiabilities": {
+      "value": 745600,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-19"
+    },
+    "shareholdersEquity": {
+      "value": 13074850,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "operatingCashFlow": {
+      "value": 1160784,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "capex": {
+      "value": 23279,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:32.722Z"
+}

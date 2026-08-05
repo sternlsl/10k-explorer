@@ -1,0 +1,88 @@
+{
+  "ticker": "CTA-PA",
+  "name": "EIDP, Inc.",
+  "cik": 30554,
+  "fiscalYear": 2018,
+  "metrics": {
+    "revenue": {
+      "value": 24594000000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-02-02"
+    },
+    "cogs": {
+      "value": 14469000000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-02-02"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 6356000000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-02-05"
+    },
+    "netIncome": {
+      "value": 2513000000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-02-02"
+    },
+    "epsBasic": {
+      "value": 2.87,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-02-02"
+    },
+    "epsDiluted": {
+      "value": 2.85,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-02-02"
+    },
+    "currentAssets": {
+      "value": 18606000000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-11"
+    },
+    "totalAssets": {
+      "value": 101025000000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-11"
+    },
+    "currentLiabilities": {
+      "value": 11441000000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-11"
+    },
+    "totalLiabilities": {
+      "value": 29768000000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-02-02"
+    },
+    "shareholdersEquity": {
+      "value": 69857000000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-11"
+    },
+    "operatingCashFlow": {
+      "value": 3300000000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-02-02"
+    },
+    "capex": {
+      "value": 1019000000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-02-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:43.606Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "ODC",
+  "name": "Oil-Dri Corp of America",
+  "cik": 74046,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 485572000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "cogs": {
+      "value": 342489000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "grossProfit": {
+      "value": 143083000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "operatingIncome": {
+      "value": 68220000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "netIncome": {
+      "value": 53996000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 1.67,
+      "year": 2019,
+      "periodEnd": "2019-07-31",
+      "filed": "2019-10-10"
+    },
+    "currentAssets": {
+      "value": 177383000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "totalAssets": {
+      "value": 391677000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "currentLiabilities": {
+      "value": 69187000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "totalLiabilities": {
+      "value": 132617000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "shareholdersEquity": {
+      "value": 126037000,
+      "year": 2017,
+      "periodEnd": "2017-07-31",
+      "filed": "2017-10-10"
+    },
+    "operatingCashFlow": {
+      "value": 80183000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    },
+    "capex": {
+      "value": 32562000,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-09"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:42.307Z"
+}

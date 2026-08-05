@@ -1,0 +1,88 @@
+{
+  "ticker": "FOSL",
+  "name": "Fossil Group, Inc.",
+  "cik": 883569,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1004406000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "cogs": {
+      "value": 441258000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "grossProfit": {
+      "value": 563148000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "operatingIncome": {
+      "value": -19079000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "netIncome": {
+      "value": 294702000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-29"
+    },
+    "epsBasic": {
+      "value": -1.45,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "epsDiluted": {
+      "value": -1.45,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "currentAssets": {
+      "value": 467830000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "totalAssets": {
+      "value": 689254000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "currentLiabilities": {
+      "value": 301763000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 102835000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "operatingCashFlow": {
+      "value": -57897000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    },
+    "capex": {
+      "value": 2564000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-12"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:33.227Z"
+}

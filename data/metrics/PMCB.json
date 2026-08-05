@@ -1,0 +1,88 @@
+{
+  "ticker": "PMCB",
+  "name": "PharmaCyte Biotech, Inc.",
+  "cik": 1157075,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2016,
+      "periodEnd": "2016-04-30",
+      "filed": "2016-07-29"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2016,
+      "periodEnd": "2016-04-30",
+      "filed": "2016-07-29"
+    },
+    "operatingIncome": {
+      "value": -6853713,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "netIncome": {
+      "value": -19424654,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "epsBasic": {
+      "value": -2.77,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "epsDiluted": {
+      "value": -2.77,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "currentAssets": {
+      "value": 37420554,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "totalAssets": {
+      "value": 46753242,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "currentLiabilities": {
+      "value": 826424,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "totalLiabilities": {
+      "value": 11772424,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "shareholdersEquity": {
+      "value": 33294926,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "operatingCashFlow": {
+      "value": -5152914,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:03.234Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "SNYR",
+  "name": "Synergy CHC Corp.",
+  "cik": 1562733,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 29357546,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-04-29"
+    },
+    "cogs": {
+      "value": 11191224,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "grossProfit": {
+      "value": 20302817,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "operatingIncome": {
+      "value": -8458749,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "netIncome": {
+      "value": -12341208,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "epsBasic": {
+      "value": -1.27,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "epsDiluted": {
+      "value": -1.27,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "currentAssets": {
+      "value": 10014376,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "totalAssets": {
+      "value": 10164376,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "currentLiabilities": {
+      "value": 8236068,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "totalLiabilities": {
+      "value": 33292514,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "shareholdersEquity": {
+      "value": -23128138,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "operatingCashFlow": {
+      "value": -2585022,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "capex": {
+      "value": 129087,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2020-04-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:11.112Z"
+}

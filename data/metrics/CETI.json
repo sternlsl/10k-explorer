@@ -1,0 +1,93 @@
+{
+  "ticker": "CETI",
+  "name": "Cyber Enviro-Tech, Inc.",
+  "cik": 1935092,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 23649,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "cogs": {
+      "value": 6159,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "grossProfit": {
+      "value": 17490,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "operatingIncome": {
+      "value": -3116470,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "netIncome": {
+      "value": -7640973,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "epsBasic": {
+      "value": -0.07,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "epsDiluted": {
+      "value": -0.07,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "currentAssets": {
+      "value": 738117,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "totalAssets": {
+      "value": 1989348,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "currentLiabilities": {
+      "value": 2628563,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "totalLiabilities": {
+      "value": 5090572,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "shareholdersEquity": {
+      "value": -3101224,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "operatingCashFlow": {
+      "value": -1599480,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "capex": {
+      "value": 861350,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:42.355Z"
+}

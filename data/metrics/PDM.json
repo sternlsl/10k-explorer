@@ -1,0 +1,68 @@
+{
+  "ticker": "PDM",
+  "name": "Piedmont Realty Trust, Inc.",
+  "cik": 1042776,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 564994000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 115665000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-20"
+    },
+    "netIncome": {
+      "value": -83620000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsBasic": {
+      "value": -0.67,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsDiluted": {
+      "value": -0.67,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 4031354000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 2534651000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "shareholdersEquity": {
+      "value": 1495201000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "operatingCashFlow": {
+      "value": 140565000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:44.293Z"
+}

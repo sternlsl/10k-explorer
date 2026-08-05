@@ -1,0 +1,93 @@
+{
+  "ticker": "KITL",
+  "name": "Kisses From Italy Inc.",
+  "cik": 1608092,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 461298,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-05-18"
+    },
+    "cogs": {
+      "value": 213106,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "grossProfit": {
+      "value": 107948,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-15"
+    },
+    "operatingIncome": {
+      "value": -3561510,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-15"
+    },
+    "netIncome": {
+      "value": -4871545,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-15"
+    },
+    "epsBasic": {
+      "value": -0.02,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-15"
+    },
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-15"
+    },
+    "currentAssets": {
+      "value": 41876,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-15"
+    },
+    "totalAssets": {
+      "value": 85473,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-15"
+    },
+    "currentLiabilities": {
+      "value": 831505,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-15"
+    },
+    "totalLiabilities": {
+      "value": 934002,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-15"
+    },
+    "shareholdersEquity": {
+      "value": -848528,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-15"
+    },
+    "operatingCashFlow": {
+      "value": -835051,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-15"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-07-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:13.353Z"
+}

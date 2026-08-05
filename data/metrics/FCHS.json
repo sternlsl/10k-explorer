@@ -1,0 +1,88 @@
+{
+  "ticker": "FCHS",
+  "name": "First Choice Healthcare Solutions, Inc.",
+  "cik": 1416876,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1048469,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-31"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 7350,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "operatingIncome": {
+      "value": -2671033,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "netIncome": {
+      "value": -6961918,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "epsBasic": {
+      "value": -0.12,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "epsDiluted": {
+      "value": -0.21,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentAssets": {
+      "value": 6613,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "totalAssets": {
+      "value": 4047430,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "currentLiabilities": {
+      "value": 40674816,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "totalLiabilities": {
+      "value": 43575506,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "shareholdersEquity": {
+      "value": -39528075,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "operatingCashFlow": {
+      "value": -549019,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-11"
+    },
+    "capex": {
+      "value": 82918,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:25.944Z"
+}

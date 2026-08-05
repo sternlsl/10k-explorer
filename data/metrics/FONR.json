@@ -1,0 +1,83 @@
+{
+  "ticker": "FONR",
+  "name": "FONAR CORP",
+  "cik": 355019,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 104351318,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-22"
+    },
+    "cogs": {
+      "value": 751221,
+      "year": 2018,
+      "periodEnd": "2018-06-30",
+      "filed": "2018-09-21"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 4516000,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2024-09-27"
+    },
+    "netIncome": {
+      "value": 8334261,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-22"
+    },
+    "epsBasic": {
+      "value": 1.78,
+      "year": 2022,
+      "periodEnd": "2022-06-30",
+      "filed": "2022-09-28"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 144671810,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-22"
+    },
+    "totalAssets": {
+      "value": 216907877,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-22"
+    },
+    "currentLiabilities": {
+      "value": 17124406,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-22"
+    },
+    "totalLiabilities": {
+      "value": 56803257,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-22"
+    },
+    "shareholdersEquity": {
+      "value": 172608186,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-22"
+    },
+    "operatingCashFlow": {
+      "value": 11264882,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-22"
+    },
+    "capex": {
+      "value": 3791581,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-22"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:48.173Z"
+}

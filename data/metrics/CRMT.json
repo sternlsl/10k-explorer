@@ -1,0 +1,78 @@
+{
+  "ticker": "CRMT",
+  "name": "AMERICAS CARMART INC",
+  "cik": 799850,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1027813000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-14"
+    },
+    "cogs": {
+      "value": 663981000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-14"
+    },
+    "grossProfit": {
+      "value": 264517000,
+      "year": 2020,
+      "periodEnd": "2020-04-30",
+      "filed": "2020-06-24"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 51343000,
+      "year": 2020,
+      "periodEnd": "2020-04-30",
+      "filed": "2020-06-24"
+    },
+    "epsBasic": {
+      "value": -16.79,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-14"
+    },
+    "epsDiluted": {
+      "value": -16.79,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-14"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1416840000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-14"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 970784000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-14"
+    },
+    "shareholdersEquity": {
+      "value": 445556000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-14"
+    },
+    "operatingCashFlow": {
+      "value": 64959000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-14"
+    },
+    "capex": {
+      "value": 1810000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:02.451Z"
+}

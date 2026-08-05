@@ -1,0 +1,73 @@
+{
+  "ticker": "PINE",
+  "name": "Alpine Income Property Trust, Inc.",
+  "cik": 1786117,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 60532000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 52051000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "operatingIncome": {
+      "value": 13138000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "netIncome": {
+      "value": -2657000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "epsBasic": {
+      "value": -0.22,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "epsDiluted": {
+      "value": -0.22,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 715874000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 414618000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "shareholdersEquity": {
+      "value": 279876000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "operatingCashFlow": {
+      "value": 25752000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-05"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:50.108Z"
+}

@@ -1,0 +1,48 @@
+{
+  "ticker": "AACI",
+  "name": "Armada Acquisition Corp. III",
+  "cik": 2092897,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 4347,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "totalAssets": {
+      "value": 332011,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "currentLiabilities": {
+      "value": 359961,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "totalLiabilities": {
+      "value": 359961,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "shareholdersEquity": {
+      "value": -27950,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "operatingCashFlow": null,
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:30.875Z"
+}

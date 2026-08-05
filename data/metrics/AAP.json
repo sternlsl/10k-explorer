@@ -1,0 +1,93 @@
+{
+  "ticker": "AAP",
+  "name": "ADVANCE AUTO PARTS INC",
+  "cik": 1158449,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 8601000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-13"
+    },
+    "cogs": {
+      "value": 4868000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-13"
+    },
+    "grossProfit": {
+      "value": 3733000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-13"
+    },
+    "operatingIncome": {
+      "value": -43000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-13"
+    },
+    "netIncome": {
+      "value": 44000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-13"
+    },
+    "epsBasic": {
+      "value": 0.73,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-13"
+    },
+    "epsDiluted": {
+      "value": 0.73,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-13"
+    },
+    "currentAssets": {
+      "value": 7290000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-13"
+    },
+    "totalAssets": {
+      "value": 11826000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-13"
+    },
+    "currentLiabilities": {
+      "value": 4176000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-13"
+    },
+    "totalLiabilities": {
+      "value": 9628000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-13"
+    },
+    "shareholdersEquity": {
+      "value": 2198000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-13"
+    },
+    "operatingCashFlow": {
+      "value": -46000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-13"
+    },
+    "capex": {
+      "value": 252000000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:38.829Z"
+}

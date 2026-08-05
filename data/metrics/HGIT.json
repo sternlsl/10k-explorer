@@ -1,0 +1,73 @@
+{
+  "ticker": "HGIT",
+  "name": "HINES GLOBAL INCOME TRUST, INC.",
+  "cik": 1585101,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 15738000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 263678000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "operatingIncome": {
+      "value": -8021000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-29"
+    },
+    "netIncome": {
+      "value": 17291000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsBasic": {
+      "value": 0.06,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "epsDiluted": {
+      "value": 0.06,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 5992588000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 4013912000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "shareholdersEquity": {
+      "value": 1978676000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "operatingCashFlow": {
+      "value": 54666000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-30"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:45.337Z"
+}

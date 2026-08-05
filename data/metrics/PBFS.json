@@ -1,0 +1,68 @@
+{
+  "ticker": "PBFS",
+  "name": "Pioneer Bancorp, Inc./MD",
+  "cik": 1769663,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 15814000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 20287000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "epsBasic": {
+      "value": 0.83,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "epsDiluted": {
+      "value": 0.83,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2150684000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1826823000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "shareholdersEquity": {
+      "value": 323861000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "operatingCashFlow": {
+      "value": 11117000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-12"
+    },
+    "capex": {
+      "value": 451000,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:50.881Z"
+}

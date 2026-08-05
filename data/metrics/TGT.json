@@ -2,64 +2,87 @@
   "ticker": "TGT",
   "name": "TARGET CORP",
   "cik": 27419,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
       "value": 104780000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-11"
     },
     "cogs": {
       "value": 75511000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-11"
     },
     "grossProfit": {
       "value": 20754000000,
-      "year": 2017,
-      "periodEnd": "2018-02-03"
+      "year": 2018,
+      "periodEnd": "2018-02-03",
+      "filed": "2018-03-14"
     },
     "operatingIncome": {
       "value": 5117000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-11"
     },
     "netIncome": {
       "value": 3705000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-11"
+    },
+    "epsBasic": {
+      "value": 8.16,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-11"
+    },
+    "epsDiluted": {
+      "value": 8.13,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-11"
     },
     "currentAssets": {
       "value": 20005000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-11"
     },
     "totalAssets": {
       "value": 59490000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-11"
     },
     "currentLiabilities": {
       "value": 21230000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-11"
     },
     "totalLiabilities": null,
     "shareholdersEquity": {
       "value": 16165000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-11"
     },
     "operatingCashFlow": {
       "value": 6562000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-11"
     },
     "capex": {
       "value": 3727000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-11"
     }
   },
-  "fetchedAt": "2026-05-07T20:30:40.970Z"
+  "updatedAt": "2026-08-05T16:52:08.687Z"
 }

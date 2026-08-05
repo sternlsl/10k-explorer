@@ -1,0 +1,68 @@
+{
+  "ticker": "SRGZ",
+  "name": "Star Gold Corp.",
+  "cik": 1401835,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -774959,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "netIncome": {
+      "value": -824850,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 2148171,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "totalAssets": {
+      "value": 2851738,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "currentLiabilities": {
+      "value": 124352,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "totalLiabilities": {
+      "value": 124352,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "shareholdersEquity": {
+      "value": 2727386,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "operatingCashFlow": {
+      "value": -929165,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-22"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:01.901Z"
+}

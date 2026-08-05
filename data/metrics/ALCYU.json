@@ -1,0 +1,63 @@
+{
+  "ticker": "ALCYU",
+  "name": "Alchemy Investments Acquisition Corp 1",
+  "cik": 1901336,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1429215,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "netIncome": {
+      "value": -1098247,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 78905,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "totalAssets": {
+      "value": 8892310,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "currentLiabilities": {
+      "value": 3513322,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "totalLiabilities": {
+      "value": 8688322,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "shareholdersEquity": {
+      "value": -8509049,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "operatingCashFlow": {
+      "value": -1306154,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:08.007Z"
+}

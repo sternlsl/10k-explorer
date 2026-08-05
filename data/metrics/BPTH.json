@@ -1,0 +1,83 @@
+{
+  "ticker": "BPTH",
+  "name": "BIO-PATH HOLDINGS, INC.",
+  "cik": 1133818,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-19"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -11992000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "netIncome": {
+      "value": -9894000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "epsBasic": {
+      "value": -4.12,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "epsDiluted": {
+      "value": -4.12,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "currentAssets": {
+      "value": 3776000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "totalAssets": {
+      "value": 3883000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "currentLiabilities": {
+      "value": 3295000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "totalLiabilities": {
+      "value": 3729000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "shareholdersEquity": {
+      "value": 154000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "operatingCashFlow": {
+      "value": -10575000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "capex": {
+      "value": 21000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:17.963Z"
+}

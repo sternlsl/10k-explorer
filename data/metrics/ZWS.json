@@ -1,0 +1,93 @@
+{
+  "ticker": "ZWS",
+  "name": "Zurn Elkay Water Solutions Corp",
+  "cik": 1439288,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1695900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "cogs": {
+      "value": 931100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "grossProfit": {
+      "value": 764800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "operatingIncome": {
+      "value": 278900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "netIncome": {
+      "value": 198000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "epsBasic": {
+      "value": 1.17,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "epsDiluted": {
+      "value": 1.15,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "currentAssets": {
+      "value": 811700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "totalAssets": {
+      "value": 2679400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "currentLiabilities": {
+      "value": 259400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "totalLiabilities": {
+      "value": 1076100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "shareholdersEquity": {
+      "value": 1603300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "operatingCashFlow": {
+      "value": 346500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-09"
+    },
+    "capex": {
+      "value": 41400000,
+      "year": 2020,
+      "periodEnd": "2020-03-31",
+      "filed": "2020-05-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:23.050Z"
+}

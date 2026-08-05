@@ -1,0 +1,88 @@
+{
+  "ticker": "BLBD",
+  "name": "Blue Bird Corp",
+  "cik": 1589526,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1480099000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "cogs": {
+      "value": 1176586000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "grossProfit": {
+      "value": 303513000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "operatingIncome": {
+      "value": 167166000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "netIncome": {
+      "value": 127720000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "epsBasic": {
+      "value": 4.01,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "epsDiluted": {
+      "value": 3.88,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "currentAssets": {
+      "value": 411628000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "totalAssets": {
+      "value": 625255000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "currentLiabilities": {
+      "value": 236799000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "totalLiabilities": {
+      "value": 8410000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 255415000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "operatingCashFlow": {
+      "value": 176214000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-24"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:26.155Z"
+}

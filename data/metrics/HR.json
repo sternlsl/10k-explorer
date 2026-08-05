@@ -1,0 +1,68 @@
+{
+  "ticker": "HR",
+  "name": "Healthcare Realty Trust Inc",
+  "cik": 1360604,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 28215000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 123647000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-20"
+    },
+    "netIncome": {
+      "value": -246071000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsBasic": {
+      "value": -0.71,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "epsDiluted": {
+      "value": -0.71,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 9210861000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 4534236000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "shareholdersEquity": {
+      "value": 4616893000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "operatingCashFlow": {
+      "value": 457095000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-13"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:55:36.263Z"
+}

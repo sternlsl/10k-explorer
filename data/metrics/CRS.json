@@ -1,0 +1,88 @@
+{
+  "ticker": "CRS",
+  "name": "CARPENTER TECHNOLOGY CORP",
+  "cik": 17843,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2877100000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "cogs": {
+      "value": 1935400000,
+      "year": 2019,
+      "periodEnd": "2019-06-30",
+      "filed": "2019-08-29"
+    },
+    "grossProfit": {
+      "value": 768600000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "operatingIncome": {
+      "value": 521800000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "netIncome": {
+      "value": 376000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "epsBasic": {
+      "value": 7.5,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "epsDiluted": {
+      "value": 7.42,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "currentAssets": {
+      "value": 1764700000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "totalAssets": {
+      "value": 3486800000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "currentLiabilities": {
+      "value": 483700000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "totalLiabilities": {
+      "value": 1599800000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "shareholdersEquity": {
+      "value": 1887000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "operatingCashFlow": {
+      "value": 440400000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:54:20.237Z"
+}

@@ -1,0 +1,73 @@
+{
+  "ticker": "DRMAW",
+  "name": "Dermata Therapeutics, Inc.",
+  "cik": 1853816,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -7773598,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "netIncome": {
+      "value": -7558557,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": -8.16,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": -8.16,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentAssets": {
+      "value": 11623940,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-28"
+    },
+    "totalAssets": {
+      "value": 7863826,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentLiabilities": {
+      "value": 1516836,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-28"
+    },
+    "totalLiabilities": {
+      "value": 1640446,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "shareholdersEquity": {
+      "value": 6223380,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "operatingCashFlow": {
+      "value": -7757559,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:28.866Z"
+}

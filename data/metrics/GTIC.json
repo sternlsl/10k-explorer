@@ -1,0 +1,78 @@
+{
+  "ticker": "GTIC",
+  "name": "Greentech Innovations, Inc.",
+  "cik": 1584480,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2020,
+      "periodEnd": "2020-05-31",
+      "filed": "2020-08-21"
+    },
+    "cogs": {
+      "value": 3363,
+      "year": 2018,
+      "periodEnd": "2018-05-31",
+      "filed": "2018-11-08"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2020,
+      "periodEnd": "2020-05-31",
+      "filed": "2020-08-21"
+    },
+    "operatingIncome": {
+      "value": -31099,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "netIncome": {
+      "value": -60650,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-05-31",
+      "filed": "2024-08-29"
+    },
+    "totalAssets": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "currentLiabilities": {
+      "value": 434363,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "totalLiabilities": {
+      "value": 434363,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "shareholdersEquity": {
+      "value": -434363,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "operatingCashFlow": {
+      "value": -29298,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-08-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:26.028Z"
+}

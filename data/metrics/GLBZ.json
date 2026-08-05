@@ -1,0 +1,63 @@
+{
+  "ticker": "GLBZ",
+  "name": "GLEN BURNIE BANCORP",
+  "cik": 890066,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -111563,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "epsBasic": {
+      "value": -0.04,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 358956000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 341139000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "shareholdersEquity": {
+      "value": 17817000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "operatingCashFlow": {
+      "value": 28000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "capex": {
+      "value": 81000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:04.659Z"
+}

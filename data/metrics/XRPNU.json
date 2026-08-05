@@ -1,0 +1,63 @@
+{
+  "ticker": "XRPNU",
+  "name": "Armada Acquisition Corp. II",
+  "cik": 2044009,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1706183,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "netIncome": {
+      "value": 1771983,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 548532,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "totalAssets": {
+      "value": 235199591,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "currentLiabilities": {
+      "value": 1478430,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "totalLiabilities": {
+      "value": 10715994,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "shareholdersEquity": {
+      "value": -10144569,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "operatingCashFlow": {
+      "value": -349425,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-04"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:24.701Z"
+}

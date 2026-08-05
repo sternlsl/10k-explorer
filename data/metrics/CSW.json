@@ -1,0 +1,88 @@
+{
+  "ticker": "CSW",
+  "name": "CSW INDUSTRIALS, INC.",
+  "cik": 1624794,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1082549000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-26"
+    },
+    "cogs": {
+      "value": 628867000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-26"
+    },
+    "grossProfit": {
+      "value": 453682000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-26"
+    },
+    "operatingIncome": {
+      "value": 168535000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-26"
+    },
+    "netIncome": {
+      "value": 112045000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-26"
+    },
+    "epsBasic": {
+      "value": 6.73,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-26"
+    },
+    "epsDiluted": {
+      "value": 6.7,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-26"
+    },
+    "currentAssets": {
+      "value": 589067000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-26"
+    },
+    "totalAssets": {
+      "value": 2316684000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-26"
+    },
+    "currentLiabilities": {
+      "value": 226921000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-26"
+    },
+    "totalLiabilities": {
+      "value": 1247286000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-26"
+    },
+    "shareholdersEquity": {
+      "value": 525675000,
+      "year": 2023,
+      "periodEnd": "2023-03-31",
+      "filed": "2023-05-25"
+    },
+    "operatingCashFlow": {
+      "value": 149653000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-26"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:56:10.961Z"
+}

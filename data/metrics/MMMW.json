@@ -1,0 +1,83 @@
+{
+  "ticker": "MMMW",
+  "name": "MASS MEGAWATTS WIND POWER INC",
+  "cik": 1117228,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": {
+      "value": 0,
+      "year": 2013,
+      "periodEnd": "2013-04-30",
+      "filed": "2013-08-09"
+    },
+    "operatingIncome": {
+      "value": -442920,
+      "year": 2014,
+      "periodEnd": "2014-04-30",
+      "filed": "2014-08-13"
+    },
+    "netIncome": {
+      "value": -347174,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-07-25"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-07-25"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-07-25"
+    },
+    "currentAssets": {
+      "value": 2829,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-07-25"
+    },
+    "totalAssets": {
+      "value": 2829,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-07-25"
+    },
+    "currentLiabilities": {
+      "value": 272709,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-07-25"
+    },
+    "totalLiabilities": {
+      "value": 272709,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-07-25"
+    },
+    "shareholdersEquity": {
+      "value": -269880,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-07-25"
+    },
+    "operatingCashFlow": {
+      "value": -198473,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-07-25"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2013,
+      "periodEnd": "2013-04-30",
+      "filed": "2013-08-09"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:19.133Z"
+}

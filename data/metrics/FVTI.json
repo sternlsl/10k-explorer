@@ -1,0 +1,93 @@
+{
+  "ticker": "FVTI",
+  "name": "Fortune Valley Treasures, Inc.",
+  "cik": 1626745,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 4236565,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "cogs": {
+      "value": 2255306,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "grossProfit": {
+      "value": 1981259,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "operatingIncome": {
+      "value": -4156227,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "netIncome": {
+      "value": -4046615,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "epsBasic": {
+      "value": -0.26,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "epsDiluted": {
+      "value": -0.26,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "currentAssets": {
+      "value": 5083189,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "totalAssets": {
+      "value": 6249169,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "currentLiabilities": {
+      "value": 3851925,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "totalLiabilities": {
+      "value": 4258331,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "shareholdersEquity": {
+      "value": 2119679,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -179210,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "capex": {
+      "value": 4879,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:16.465Z"
+}

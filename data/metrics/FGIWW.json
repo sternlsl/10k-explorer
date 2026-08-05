@@ -1,0 +1,93 @@
+{
+  "ticker": "FGIWW",
+  "name": "FGI Industries Ltd.",
+  "cik": 1864943,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 130528652,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "cogs": {
+      "value": 95277560,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "grossProfit": {
+      "value": 35251092,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "operatingIncome": {
+      "value": -2402056,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "netIncome": {
+      "value": -6139526,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "epsBasic": {
+      "value": -3.2,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "epsDiluted": {
+      "value": -3.2,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "currentAssets": {
+      "value": 51543423,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "totalAssets": {
+      "value": 69537581,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "currentLiabilities": {
+      "value": 43914924,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "totalLiabilities": {
+      "value": 53927540,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "shareholdersEquity": {
+      "value": 17283149,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "operatingCashFlow": {
+      "value": 673220,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    },
+    "capex": {
+      "value": 885740,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-10"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:33.036Z"
+}

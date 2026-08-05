@@ -1,0 +1,93 @@
+{
+  "ticker": "SMTI",
+  "name": "Sanara MedTech Inc.",
+  "cik": 714256,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 103117982,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "cogs": {
+      "value": 7520969,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "grossProfit": {
+      "value": 95597013,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "operatingIncome": {
+      "value": 7304538,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "netIncome": {
+      "value": -37562606,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "epsBasic": {
+      "value": -4.36,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "epsDiluted": {
+      "value": -4.36,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "currentAssets": {
+      "value": 33542163,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "totalAssets": {
+      "value": 72944071,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "currentLiabilities": {
+      "value": 18626530,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "totalLiabilities": {
+      "value": 67014295,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "shareholdersEquity": {
+      "value": 5938442,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "operatingCashFlow": {
+      "value": 6786629,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    },
+    "capex": {
+      "value": 4625650,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-24"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:15.337Z"
+}

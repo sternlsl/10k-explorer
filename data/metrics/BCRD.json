@@ -1,0 +1,93 @@
+{
+  "ticker": "BCRD",
+  "name": "BlueOne Card, Inc.",
+  "cik": 1496690,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 110145,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-08-27"
+    },
+    "cogs": {
+      "value": 31948,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-08-27"
+    },
+    "grossProfit": {
+      "value": 78197,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-08-27"
+    },
+    "operatingIncome": {
+      "value": -4078673,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "netIncome": {
+      "value": -2945205,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "epsBasic": {
+      "value": -0.21,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "epsDiluted": {
+      "value": -0.21,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "currentAssets": {
+      "value": 197503,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "totalAssets": {
+      "value": 12627742,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "currentLiabilities": {
+      "value": 2265856,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "totalLiabilities": {
+      "value": 2265856,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "shareholdersEquity": {
+      "value": 5706805,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "operatingCashFlow": {
+      "value": -571105,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:04.255Z"
+}

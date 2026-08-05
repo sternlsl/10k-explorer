@@ -1,0 +1,93 @@
+{
+  "ticker": "SLNG",
+  "name": "Stabilis Solutions, Inc.",
+  "cik": 1043186,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 68245000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "cogs": {
+      "value": 5677000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-16"
+    },
+    "grossProfit": {
+      "value": 1914000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-16"
+    },
+    "operatingIncome": {
+      "value": -4511000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-29"
+    },
+    "netIncome": {
+      "value": -1354000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "epsBasic": {
+      "value": -0.07,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "epsDiluted": {
+      "value": 0.25,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-25"
+    },
+    "currentAssets": {
+      "value": 12907000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "totalAssets": {
+      "value": 83110000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentLiabilities": {
+      "value": 9957000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "totalLiabilities": {
+      "value": 16438000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "shareholdersEquity": {
+      "value": 66672000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "operatingCashFlow": {
+      "value": 8603000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "capex": {
+      "value": 8141000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:22.722Z"
+}

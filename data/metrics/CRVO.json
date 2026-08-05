@@ -1,0 +1,93 @@
+{
+  "ticker": "CRVO",
+  "name": "CervoMed Inc.",
+  "cik": 1053691,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4006510,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "cogs": {
+      "value": 2308610,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-05-21"
+    },
+    "grossProfit": {
+      "value": -1738134,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-05-21"
+    },
+    "operatingIncome": {
+      "value": -28294877,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "netIncome": {
+      "value": -26966367,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "epsBasic": {
+      "value": -2.98,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "epsDiluted": {
+      "value": 2038891,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-24"
+    },
+    "currentAssets": {
+      "value": 22879018,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "totalAssets": {
+      "value": 22879018,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "currentLiabilities": {
+      "value": 4656117,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "totalLiabilities": {
+      "value": 4656117,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "shareholdersEquity": {
+      "value": 18222901,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "operatingCashFlow": {
+      "value": -23449963,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "capex": {
+      "value": 447823,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2019-03-19"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:34.915Z"
+}

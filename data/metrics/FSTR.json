@@ -1,0 +1,88 @@
+{
+  "ticker": "FSTR",
+  "name": "FOSTER L B CO",
+  "cik": 352825,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 536377000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-28"
+    },
+    "cogs": {
+      "value": 509810000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-18"
+    },
+    "grossProfit": {
+      "value": 113752000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "operatingIncome": {
+      "value": 21885000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "netIncome": {
+      "value": 7545000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "epsBasic": {
+      "value": 0.73,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "epsDiluted": {
+      "value": 0.69,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentAssets": {
+      "value": 156871000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "totalAssets": {
+      "value": 330372000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "currentLiabilities": {
+      "value": 83921000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 175276000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "operatingCashFlow": {
+      "value": 35619000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    },
+    "capex": {
+      "value": 10424000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-05"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:35.046Z"
+}

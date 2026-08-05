@@ -1,0 +1,93 @@
+{
+  "ticker": "CPRI",
+  "name": "Capri Holdings Ltd",
+  "cik": 1530721,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 3474000000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "cogs": {
+      "value": 1895000000,
+      "year": 2023,
+      "periodEnd": "2023-04-01",
+      "filed": "2023-05-31"
+    },
+    "grossProfit": {
+      "value": 2163000000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "operatingIncome": {
+      "value": 23000000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "netIncome": {
+      "value": 137000000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "epsBasic": {
+      "value": 1.14,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "epsDiluted": {
+      "value": 1.14,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "currentAssets": {
+      "value": 1153000000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "totalAssets": {
+      "value": 3234000000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "currentLiabilities": {
+      "value": 954000000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "totalLiabilities": {
+      "value": 3150000000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "shareholdersEquity": {
+      "value": 80000000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "operatingCashFlow": {
+      "value": 77000000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    },
+    "capex": {
+      "value": 63000000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:23.621Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "MOG-B",
+  "name": "MOOG INC.",
+  "cik": 67887,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3860624000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "cogs": {
+      "value": 2794802000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "grossProfit": {
+      "value": 1057348000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "operatingIncome": {
+      "value": 449606000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "netIncome": {
+      "value": 235028000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "epsBasic": {
+      "value": 7.42,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "epsDiluted": {
+      "value": 7.33,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "currentAssets": {
+      "value": 2369980000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "totalAssets": {
+      "value": 4426055000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "currentLiabilities": {
+      "value": 1119068000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "totalLiabilities": {
+      "value": 2433500000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "shareholdersEquity": {
+      "value": 1992555000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "operatingCashFlow": {
+      "value": 273086000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    },
+    "capex": {
+      "value": 144731000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-11-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:11.158Z"
+}

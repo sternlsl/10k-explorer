@@ -1,0 +1,93 @@
+{
+  "ticker": "WOR",
+  "name": "WORTHINGTON ENTERPRISES, INC.",
+  "cik": 108516,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 4916392000,
+      "year": 2023,
+      "periodEnd": "2023-05-31",
+      "filed": "2023-07-31"
+    },
+    "cogs": {
+      "value": 1003017000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "grossProfit": {
+      "value": 378275000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "operatingIncome": {
+      "value": 76209000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "netIncome": {
+      "value": 156085000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "epsBasic": {
+      "value": 3.18,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "epsDiluted": {
+      "value": 3.14,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "currentAssets": {
+      "value": 524474000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "totalAssets": {
+      "value": 1848064000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "currentLiabilities": {
+      "value": 221426000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "totalLiabilities": {
+      "value": 821024000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "shareholdersEquity": {
+      "value": 1027040000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "operatingCashFlow": {
+      "value": 226119000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    },
+    "capex": {
+      "value": 55913000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-30"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:09.296Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "HWH",
+  "name": "HWH International Inc.",
+  "cik": 1897245,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1184,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2025-03-31"
+    },
+    "cogs": {
+      "value": 407199,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "grossProfit": {
+      "value": 459727,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -2630620,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": -0.4,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": -0.4,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentAssets": {
+      "value": 2972037,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalAssets": {
+      "value": 4567858,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentLiabilities": {
+      "value": 1279041,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalLiabilities": {
+      "value": 3856325,
+      "year": 2023,
+      "periodEnd": "2023-11-30",
+      "filed": "2024-02-28"
+    },
+    "shareholdersEquity": {
+      "value": 2618881,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "operatingCashFlow": {
+      "value": -1750290,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "capex": {
+      "value": 19464,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:05.086Z"
+}

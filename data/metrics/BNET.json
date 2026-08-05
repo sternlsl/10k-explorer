@@ -1,0 +1,83 @@
+{
+  "ticker": "BNET",
+  "name": "BION ENVIRONMENTAL TECHNOLOGIES INC",
+  "cik": 875729,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3658,
+      "year": 2016,
+      "periodEnd": "2016-06-30",
+      "filed": "2017-09-26"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -2167517,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "netIncome": {
+      "value": -2379924,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "epsBasic": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "epsDiluted": {
+      "value": -0.04,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "currentAssets": {
+      "value": 29233,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "totalAssets": {
+      "value": 29233,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "currentLiabilities": {
+      "value": 7126418,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "totalLiabilities": {
+      "value": 7126418,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "shareholdersEquity": {
+      "value": -7134758,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "operatingCashFlow": {
+      "value": -868234,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "capex": {
+      "value": 869398,
+      "year": 2024,
+      "periodEnd": "2024-06-30",
+      "filed": "2025-09-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:45.788Z"
+}

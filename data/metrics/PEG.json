@@ -7,55 +7,77 @@
     "revenue": {
       "value": 12168000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     },
     "cogs": {
       "value": 3056000000,
       "year": 2020,
-      "periodEnd": "2020-12-31"
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-01"
     },
     "grossProfit": null,
     "operatingIncome": {
       "value": 2980000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     },
     "netIncome": {
       "value": 2111000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsBasic": {
+      "value": 4.23,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsDiluted": {
+      "value": 4.22,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     },
     "currentAssets": {
       "value": 4596000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     },
     "totalAssets": {
       "value": 57576000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     },
     "currentLiabilities": {
       "value": 5740000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     },
     "totalLiabilities": null,
     "shareholdersEquity": {
       "value": 13130000000,
       "year": 2016,
-      "periodEnd": "2016-12-31"
+      "periodEnd": "2016-12-31",
+      "filed": "2017-02-27"
     },
     "operatingCashFlow": {
       "value": 3298000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     },
     "capex": {
       "value": 3272000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     }
   },
-  "fetchedAt": "2026-05-08T19:00:08.872Z"
+  "updatedAt": "2026-08-05T16:53:53.933Z"
 }

@@ -1,0 +1,88 @@
+{
+  "ticker": "TWAV",
+  "name": "TaoWeave, Inc.",
+  "cik": 746210,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2437000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 1014000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "operatingIncome": {
+      "value": -2962000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "netIncome": {
+      "value": -6355000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "epsBasic": {
+      "value": -2.76,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "epsDiluted": {
+      "value": -0.98,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-19"
+    },
+    "currentAssets": {
+      "value": 8215000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "totalAssets": {
+      "value": 8219000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "currentLiabilities": {
+      "value": 1186000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "totalLiabilities": {
+      "value": 1186000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "shareholdersEquity": {
+      "value": 7033000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "operatingCashFlow": {
+      "value": -3015000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-19"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:24.539Z"
+}

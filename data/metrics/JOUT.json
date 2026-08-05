@@ -1,0 +1,78 @@
+{
+  "ticker": "JOUT",
+  "name": "JOHNSON OUTDOORS INC",
+  "cik": 788329,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 592415000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-12-12"
+    },
+    "cogs": {
+      "value": 384322000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-12-12"
+    },
+    "grossProfit": {
+      "value": 208093000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-12-12"
+    },
+    "operatingIncome": {
+      "value": -16191000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-12-12"
+    },
+    "netIncome": {
+      "value": -34294000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-12-12"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 408788000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-12-12"
+    },
+    "totalAssets": {
+      "value": 604103000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-12-12"
+    },
+    "currentLiabilities": {
+      "value": 104640000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-12-12"
+    },
+    "totalLiabilities": {
+      "value": 185684000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-12-12"
+    },
+    "shareholdersEquity": {
+      "value": 418419000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-12-12"
+    },
+    "operatingCashFlow": {
+      "value": 56206000,
+      "year": 2025,
+      "periodEnd": "2025-10-03",
+      "filed": "2025-12-12"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:59:53.870Z"
+}

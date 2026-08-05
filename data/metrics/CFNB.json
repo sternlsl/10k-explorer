@@ -1,0 +1,58 @@
+{
+  "ticker": "CFNB",
+  "name": "CALIFORNIA FIRST LEASING CORP",
+  "cik": 803016,
+  "fiscalYear": 2017,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 11123000,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-27"
+    },
+    "epsBasic": {
+      "value": 1.08,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-27"
+    },
+    "epsDiluted": {
+      "value": 1.08,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-27"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 715585000,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 519451000,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-27"
+    },
+    "shareholdersEquity": {
+      "value": 196134000,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-27"
+    },
+    "operatingCashFlow": {
+      "value": 44328000,
+      "year": 2017,
+      "periodEnd": "2017-06-30",
+      "filed": "2017-09-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:01:34.783Z"
+}

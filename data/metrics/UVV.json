@@ -1,0 +1,88 @@
+{
+  "ticker": "UVV",
+  "name": "UNIVERSAL CORP /VA/",
+  "cik": 102037,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 2885078000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "cogs": {
+      "value": 2412454000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 168451000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "netIncome": {
+      "value": 32637000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "epsBasic": {
+      "value": 1.3,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "epsDiluted": {
+      "value": 1.3,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "currentAssets": {
+      "value": 1971697000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "totalAssets": {
+      "value": 2766767000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "currentLiabilities": {
+      "value": 564241000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "totalLiabilities": {
+      "value": 1305643000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "shareholdersEquity": {
+      "value": 1415400000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "operatingCashFlow": {
+      "value": 129100000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    },
+    "capex": {
+      "value": 48829000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-01"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:16.946Z"
+}

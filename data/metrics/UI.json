@@ -1,0 +1,93 @@
+{
+  "ticker": "UI",
+  "name": "Ubiquiti Inc.",
+  "cik": 1511737,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2573545000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "cogs": {
+      "value": 1456094000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "grossProfit": {
+      "value": 1117451000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "operatingIncome": {
+      "value": 836280000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "netIncome": {
+      "value": 711922000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "epsBasic": {
+      "value": 11.77,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "epsDiluted": {
+      "value": 11.76,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "currentAssets": {
+      "value": 1173222000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "totalAssets": {
+      "value": 1466451000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "currentLiabilities": {
+      "value": 710855000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "totalLiabilities": {
+      "value": 798191000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "shareholdersEquity": {
+      "value": 668260000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "operatingCashFlow": {
+      "value": 640027000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    },
+    "capex": {
+      "value": 12586000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-22"
+    }
+  },
+  "updatedAt": "2026-08-05T16:53:41.674Z"
+}

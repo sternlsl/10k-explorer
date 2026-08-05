@@ -1,0 +1,88 @@
+{
+  "ticker": "INNV",
+  "name": "InnovAge Holding Corp.",
+  "cik": 1834376,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 853699000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 153639000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "operatingIncome": {
+      "value": -29761000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "netIncome": {
+      "value": -30313000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "epsBasic": {
+      "value": -0.22,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "epsDiluted": {
+      "value": -0.22,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "currentAssets": {
+      "value": 176108000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "totalAssets": {
+      "value": 526851000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "currentLiabilities": {
+      "value": 164807000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "totalLiabilities": {
+      "value": 263943000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "shareholdersEquity": {
+      "value": 234968000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "operatingCashFlow": {
+      "value": 32866000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "capex": {
+      "value": 6263000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:35.355Z"
+}

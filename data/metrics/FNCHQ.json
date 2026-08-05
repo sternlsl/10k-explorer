@@ -1,0 +1,83 @@
+{
+  "ticker": "FNCHQ",
+  "name": "Finch Therapeutics Group, Inc.",
+  "cik": 1733257,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 107000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-25"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -83861000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-25"
+    },
+    "netIncome": {
+      "value": -74754000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-25"
+    },
+    "epsBasic": {
+      "value": -46.59,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-25"
+    },
+    "epsDiluted": {
+      "value": -46.59,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-25"
+    },
+    "currentAssets": {
+      "value": 25847000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-25"
+    },
+    "totalAssets": {
+      "value": 55373000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-25"
+    },
+    "currentLiabilities": {
+      "value": 4084000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-25"
+    },
+    "totalLiabilities": {
+      "value": 32487000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-25"
+    },
+    "shareholdersEquity": {
+      "value": 22886000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-25"
+    },
+    "operatingCashFlow": {
+      "value": -31505000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-25"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:26.627Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "WAST",
+  "name": "WASTE ENERGY CORP.",
+  "cik": 1515139,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 424167,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "cogs": {
+      "value": 675633,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-26"
+    },
+    "grossProfit": {
+      "value": 304167,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "operatingIncome": {
+      "value": -365988,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "netIncome": {
+      "value": -1076807,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "epsBasic": {
+      "value": -0.02,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-05-12"
+    },
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-05-12"
+    },
+    "currentAssets": {
+      "value": 99744,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "totalAssets": {
+      "value": 1025791,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "currentLiabilities": {
+      "value": 4597087,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "totalLiabilities": {
+      "value": 4767965,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "shareholdersEquity": {
+      "value": -3580916,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-07-14"
+    },
+    "operatingCashFlow": {
+      "value": -1023047,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:24.203Z"
+}

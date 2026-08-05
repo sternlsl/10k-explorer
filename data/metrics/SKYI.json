@@ -1,0 +1,83 @@
+{
+  "ticker": "SKYI",
+  "name": "Sky Century Investment, Inc.",
+  "cik": 1555017,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 76338,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "cogs": {
+      "value": 51859,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "grossProfit": {
+      "value": 24479,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "operatingIncome": {
+      "value": -116631,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "netIncome": {
+      "value": -117225,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 1977,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "totalAssets": {
+      "value": 111742,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "currentLiabilities": {
+      "value": 397449,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "totalLiabilities": {
+      "value": 397449,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "shareholdersEquity": {
+      "value": -31765,
+      "year": 2014,
+      "periodEnd": "2014-05-31",
+      "filed": "2014-09-05"
+    },
+    "operatingCashFlow": {
+      "value": 46481,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-12-16"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:19.164Z"
+}

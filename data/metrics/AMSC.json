@@ -1,0 +1,93 @@
+{
+  "ticker": "AMSC",
+  "name": "AMERICAN SUPERCONDUCTOR CORP /DE/",
+  "cik": 880807,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 900000,
+      "year": 2017,
+      "periodEnd": "2017-03-31",
+      "filed": "2017-05-25"
+    },
+    "cogs": {
+      "value": 207776000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "grossProfit": {
+      "value": 91379000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "operatingIncome": {
+      "value": 11445000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "netIncome": {
+      "value": 133809000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "epsBasic": {
+      "value": 3.12,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "epsDiluted": {
+      "value": 3.05,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "currentAssets": {
+      "value": 331737000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "totalAssets": {
+      "value": 739481000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "currentLiabilities": {
+      "value": 138527000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "totalLiabilities": {
+      "value": 184034000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "shareholdersEquity": {
+      "value": 555447000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "operatingCashFlow": {
+      "value": 23148000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "capex": {
+      "value": 4888000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:16.964Z"
+}

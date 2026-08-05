@@ -1,0 +1,93 @@
+{
+  "ticker": "HOFT",
+  "name": "HOOKER FURNISHINGS Corp",
+  "cik": 1077688,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 218359000,
+      "year": 2013,
+      "periodEnd": "2013-02-03",
+      "filed": "2013-04-19"
+    },
+    "cogs": {
+      "value": 204644000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-17"
+    },
+    "grossProfit": {
+      "value": 73495000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-17"
+    },
+    "operatingIncome": {
+      "value": -16464000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-17"
+    },
+    "netIncome": {
+      "value": -26967000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-17"
+    },
+    "epsBasic": {
+      "value": -2.54,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-17"
+    },
+    "epsDiluted": {
+      "value": -2.54,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-17"
+    },
+    "currentAssets": {
+      "value": 92895000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-17"
+    },
+    "totalAssets": {
+      "value": 225891000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-17"
+    },
+    "currentLiabilities": {
+      "value": 27593000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-17"
+    },
+    "totalLiabilities": {
+      "value": 56649000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-17"
+    },
+    "shareholdersEquity": {
+      "value": 169242000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-17"
+    },
+    "operatingCashFlow": {
+      "value": -23016000,
+      "year": 2025,
+      "periodEnd": "2025-02-02",
+      "filed": "2025-04-18"
+    },
+    "capex": {
+      "value": 3163000,
+      "year": 2026,
+      "periodEnd": "2026-02-01",
+      "filed": "2026-04-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:40.263Z"
+}

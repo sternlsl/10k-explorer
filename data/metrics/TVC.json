@@ -1,0 +1,68 @@
+{
+  "ticker": "TVC",
+  "name": "Tennessee Valley Authority",
+  "cik": 1376986,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 12054000000,
+      "year": 2023,
+      "periodEnd": "2023-09-30",
+      "filed": "2023-11-14"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 2569000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "netIncome": {
+      "value": 1360000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 5177000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "totalAssets": {
+      "value": 60882000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "currentLiabilities": {
+      "value": 5607000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "totalLiabilities": {
+      "value": 39893000000,
+      "year": 2020,
+      "periodEnd": "2020-09-30",
+      "filed": "2020-11-17"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 3324000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    },
+    "capex": {
+      "value": 4457000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-13"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:04.773Z"
+}

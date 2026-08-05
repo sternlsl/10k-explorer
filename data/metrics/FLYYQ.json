@@ -1,0 +1,78 @@
+{
+  "ticker": "FLYYQ",
+  "name": "Spirit Aviation Holdings, Inc.",
+  "cik": 1498710,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4913421000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-16"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1105378000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-16"
+    },
+    "netIncome": {
+      "value": -1229495000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-16"
+    },
+    "epsBasic": {
+      "value": -11.23,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-16"
+    },
+    "epsDiluted": {
+      "value": -11.23,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentAssets": {
+      "value": 1245824000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "totalAssets": {
+      "value": 5993137000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "currentLiabilities": {
+      "value": 1283725000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -2091688000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-16"
+    },
+    "operatingCashFlow": {
+      "value": -758087000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-03-16"
+    },
+    "capex": {
+      "value": 192437000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-05"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:08.716Z"
+}

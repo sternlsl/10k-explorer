@@ -1,0 +1,93 @@
+{
+  "ticker": "LAKE",
+  "name": "LAKELAND INDUSTRIES INC",
+  "cik": 798081,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 192648000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "cogs": {
+      "value": 79717000,
+      "year": 2021,
+      "periodEnd": "2021-01-31",
+      "filed": "2022-04-21"
+    },
+    "grossProfit": {
+      "value": 63326000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "operatingIncome": {
+      "value": -15512000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "netIncome": {
+      "value": -25311000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "epsBasic": {
+      "value": -2.63,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "epsDiluted": {
+      "value": -2.63,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "currentAssets": {
+      "value": 134186000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "totalAssets": {
+      "value": 209933000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "currentLiabilities": {
+      "value": 37962000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "totalLiabilities": {
+      "value": 80806000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "shareholdersEquity": {
+      "value": 129127000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "operatingCashFlow": {
+      "value": -15750000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "capex": {
+      "value": 671000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:10.452Z"
+}

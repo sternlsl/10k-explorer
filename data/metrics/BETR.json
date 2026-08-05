@@ -1,0 +1,83 @@
+{
+  "ticker": "BETR",
+  "name": "Better Home & Finance Holding Co",
+  "cik": 1835856,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 164872000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -291276000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-08"
+    },
+    "netIncome": {
+      "value": -165872000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "epsBasic": {
+      "value": -10.8,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "epsDiluted": {
+      "value": -10.8,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "currentAssets": {
+      "value": 419183,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "totalAssets": {
+      "value": 1505434000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "currentLiabilities": {
+      "value": 15024385,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "totalLiabilities": {
+      "value": 1468251000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "shareholdersEquity": {
+      "value": 37183000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "operatingCashFlow": {
+      "value": -166575000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    },
+    "capex": {
+      "value": 1193000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-13"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:25.851Z"
+}

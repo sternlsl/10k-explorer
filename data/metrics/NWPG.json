@@ -1,0 +1,53 @@
+{
+  "ticker": "NWPG",
+  "name": "Newport Gold, Inc.",
+  "cik": 1289223,
+  "fiscalYear": 2012,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -223259,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-01"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 26813,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-01"
+    },
+    "totalAssets": {
+      "value": 62210,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-01"
+    },
+    "currentLiabilities": {
+      "value": 190401,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-01"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -128191,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-01"
+    },
+    "operatingCashFlow": {
+      "value": -113237,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-01"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:15.819Z"
+}

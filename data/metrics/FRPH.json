@@ -1,0 +1,88 @@
+{
+  "ticker": "FRPH",
+  "name": "FRP HOLDINGS, INC.",
+  "cik": 844059,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 42846000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 16383000,
+      "year": 2016,
+      "periodEnd": "2016-09-30",
+      "filed": "2016-12-12"
+    },
+    "operatingIncome": {
+      "value": 7028000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": 3330000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": 0.18,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": 0.18,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": {
+      "value": 20044000,
+      "year": 2014,
+      "periodEnd": "2014-09-30",
+      "filed": "2014-12-08"
+    },
+    "totalAssets": {
+      "value": 735145000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": {
+      "value": 21927000,
+      "year": 2014,
+      "periodEnd": "2014-09-30",
+      "filed": "2014-12-08"
+    },
+    "totalLiabilities": {
+      "value": 279488000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": 428513000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": 29677000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": {
+      "value": 51137000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:28.498Z"
+}

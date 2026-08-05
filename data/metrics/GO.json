@@ -1,0 +1,93 @@
+{
+  "ticker": "GO",
+  "name": "Grocery Outlet Holding Corp.",
+  "cik": 1771515,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 4688759000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "cogs": {
+      "value": 3269466000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "grossProfit": {
+      "value": 1419293000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "operatingIncome": {
+      "value": -221705000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "netIncome": {
+      "value": -224912000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "epsBasic": {
+      "value": -2.3,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "epsDiluted": {
+      "value": -2.3,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "currentAssets": {
+      "value": 497640000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "totalAssets": {
+      "value": 3091099000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "currentLiabilities": {
+      "value": 363996000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "totalLiabilities": {
+      "value": 2107436000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "shareholdersEquity": {
+      "value": 983663000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "operatingCashFlow": {
+      "value": 222133000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    },
+    "capex": {
+      "value": 198333000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-03-04"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:09.950Z"
+}

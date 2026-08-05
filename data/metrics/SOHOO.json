@@ -1,0 +1,78 @@
+{
+  "ticker": "SOHOO",
+  "name": "Sotherly Hotels Inc.",
+  "cik": 1301236,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 176387228,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "cogs": {
+      "value": 133935434,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 12696273,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "netIncome": {
+      "value": -7687009,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsBasic": {
+      "value": -0.77,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "epsDiluted": {
+      "value": -0.77,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 407913819,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 379653004,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "shareholdersEquity": {
+      "value": 28261214,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "operatingCashFlow": {
+      "value": 10315065,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-15"
+    },
+    "capex": {
+      "value": 30725959,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:55.860Z"
+}

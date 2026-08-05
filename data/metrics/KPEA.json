@@ -1,0 +1,93 @@
+{
+  "ticker": "KPEA",
+  "name": "Kun Peng International Ltd.",
+  "cik": 1502557,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1438127,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "cogs": {
+      "value": 479832,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "grossProfit": {
+      "value": 958295,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "operatingIncome": {
+      "value": -1779710,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "netIncome": {
+      "value": -1263384,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "epsBasic": {
+      "value": -0.003,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "epsDiluted": {
+      "value": -0.003,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 499447,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 840809,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 8994644,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 9028650,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": -8187841,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": -208156,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-31"
+    },
+    "capex": {
+      "value": 320498,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2025-01-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:12.506Z"
+}

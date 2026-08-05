@@ -1,0 +1,88 @@
+{
+  "ticker": "BKYI",
+  "name": "BIO KEY INTERNATIONAL INC",
+  "cik": 1019034,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6302984,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-04-02"
+    },
+    "cogs": {
+      "value": 1373037,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-12"
+    },
+    "grossProfit": {
+      "value": 4564518,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-12"
+    },
+    "operatingIncome": {
+      "value": -6827607,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-12"
+    },
+    "netIncome": {
+      "value": -7157946,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-12"
+    },
+    "epsBasic": {
+      "value": -10.77,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-12"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 4537687,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-12"
+    },
+    "totalAssets": {
+      "value": 8303315,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-12"
+    },
+    "currentLiabilities": {
+      "value": 3096160,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-12"
+    },
+    "totalLiabilities": {
+      "value": 3196510,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-12"
+    },
+    "shareholdersEquity": {
+      "value": 5106805,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-12"
+    },
+    "operatingCashFlow": {
+      "value": -4668689,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-12"
+    },
+    "capex": {
+      "value": 12012,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-12"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:23.150Z"
+}

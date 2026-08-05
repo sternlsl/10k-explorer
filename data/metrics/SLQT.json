@@ -1,0 +1,88 @@
+{
+  "ticker": "SLQT",
+  "name": "SelectQuote, Inc.",
+  "cik": 1794783,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1526594000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "cogs": {
+      "value": 630340000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 68499000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "netIncome": {
+      "value": 47580000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "epsBasic": {
+      "value": 0.14,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "epsDiluted": {
+      "value": 0.01,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "currentAssets": {
+      "value": 341042000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "totalAssets": {
+      "value": 1249356000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "currentLiabilities": {
+      "value": 212910000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "totalLiabilities": {
+      "value": 673838000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "shareholdersEquity": {
+      "value": 351144000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "operatingCashFlow": {
+      "value": -11666000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "capex": {
+      "value": 2191000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:32.623Z"
+}

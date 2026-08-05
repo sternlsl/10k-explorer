@@ -1,0 +1,88 @@
+{
+  "ticker": "TNBI",
+  "name": "Tanke Biosciences Corp",
+  "cik": 1452011,
+  "fiscalYear": 2012,
+  "metrics": {
+    "revenue": {
+      "value": 28561829,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-15"
+    },
+    "cogs": {
+      "value": 18617364,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-15"
+    },
+    "grossProfit": {
+      "value": 9944465,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-15"
+    },
+    "operatingIncome": {
+      "value": 4531619,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-15"
+    },
+    "netIncome": {
+      "value": -210247,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-15"
+    },
+    "epsBasic": {
+      "value": -0.24,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-04-16"
+    },
+    "epsDiluted": {
+      "value": -0.24,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-04-16"
+    },
+    "currentAssets": {
+      "value": 22367919,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-15"
+    },
+    "totalAssets": {
+      "value": 28849160,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-15"
+    },
+    "currentLiabilities": {
+      "value": 12095685,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-15"
+    },
+    "totalLiabilities": {
+      "value": 12926200,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-15"
+    },
+    "shareholdersEquity": {
+      "value": 15751517,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-15"
+    },
+    "operatingCashFlow": null,
+    "capex": {
+      "value": 856361,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-04-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:14.342Z"
+}

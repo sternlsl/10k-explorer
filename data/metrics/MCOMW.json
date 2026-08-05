@@ -1,0 +1,83 @@
+{
+  "ticker": "MCOMW",
+  "name": "micromobility.com Inc.",
+  "cik": 1788841,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 1422000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "cogs": {
+      "value": 1114000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -2303000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "netIncome": {
+      "value": 8148000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "epsBasic": {
+      "value": 0.12,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "epsDiluted": {
+      "value": 0.12,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "currentAssets": {
+      "value": 1735000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "totalAssets": {
+      "value": 2136000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "currentLiabilities": {
+      "value": 34448000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "totalLiabilities": {
+      "value": 35300000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "shareholdersEquity": {
+      "value": -33164000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "operatingCashFlow": {
+      "value": -8506000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:17.523Z"
+}

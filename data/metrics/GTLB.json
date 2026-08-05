@@ -1,0 +1,93 @@
+{
+  "ticker": "GTLB",
+  "name": "Gitlab Inc.",
+  "cik": 1653482,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 955224000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "cogs": {
+      "value": 120743000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "grossProfit": {
+      "value": 834481000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "operatingIncome": {
+      "value": -70481000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "netIncome": {
+      "value": -55956000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "epsBasic": {
+      "value": -0.34,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "epsDiluted": {
+      "value": -0.34,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "currentAssets": {
+      "value": 1655779000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "totalAssets": {
+      "value": 1722747000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "currentLiabilities": {
+      "value": 652143000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "totalLiabilities": {
+      "value": 686499000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "shareholdersEquity": {
+      "value": 990668000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "operatingCashFlow": {
+      "value": 232856000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "capex": {
+      "value": 10827000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:21.824Z"
+}

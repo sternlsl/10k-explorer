@@ -2,68 +2,87 @@
   "ticker": "CPRT",
   "name": "COPART INC",
   "cik": 900075,
-  "fiscalYear": 2020,
+  "fiscalYear": 2025,
   "metrics": {
     "revenue": {
-      "value": 525659000,
-      "year": 2020,
-      "periodEnd": "2020-07-31"
+      "value": 1805695000,
+      "year": 2018,
+      "periodEnd": "2018-07-31",
+      "filed": "2018-10-01"
     },
     "cogs": {
       "value": 255504000,
       "year": 2019,
-      "periodEnd": "2019-07-31"
+      "periodEnd": "2019-07-31",
+      "filed": "2019-09-30"
     },
-    "grossProfit": {
-      "value": 250431000,
-      "year": 2020,
-      "periodEnd": "2020-07-31"
-    },
+    "grossProfit": null,
     "operatingIncome": {
       "value": 1696714000,
       "year": 2025,
-      "periodEnd": "2025-07-31"
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
     },
     "netIncome": {
       "value": 1552449000,
       "year": 2025,
-      "periodEnd": "2025-07-31"
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
+    },
+    "epsBasic": {
+      "value": 1.61,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
+    },
+    "epsDiluted": {
+      "value": 1.59,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
     },
     "currentAssets": {
       "value": 5754628000,
       "year": 2025,
-      "periodEnd": "2025-07-31"
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
     },
     "totalAssets": {
       "value": 10090902000,
       "year": 2025,
-      "periodEnd": "2025-07-31"
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
     },
     "currentLiabilities": {
       "value": 683281000,
       "year": 2025,
-      "periodEnd": "2025-07-31"
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
     },
     "totalLiabilities": {
       "value": 883411000,
       "year": 2025,
-      "periodEnd": "2025-07-31"
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
     },
     "shareholdersEquity": {
       "value": 5987440000,
       "year": 2023,
-      "periodEnd": "2023-07-31"
+      "periodEnd": "2023-07-31",
+      "filed": "2023-09-28"
     },
     "operatingCashFlow": {
       "value": 1799750000,
       "year": 2025,
-      "periodEnd": "2025-07-31"
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
     },
     "capex": {
       "value": 568990000,
       "year": 2025,
-      "periodEnd": "2025-07-31"
+      "periodEnd": "2025-07-31",
+      "filed": "2025-09-26"
     }
   },
-  "fetchedAt": "2026-05-08T18:46:24.113Z"
+  "updatedAt": "2026-08-05T16:54:02.675Z"
 }

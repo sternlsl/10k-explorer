@@ -2,64 +2,87 @@
   "ticker": "LDOS",
   "name": "Leidos Holdings, Inc.",
   "cik": 1336920,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
       "value": 17107000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-17"
     },
     "cogs": {
       "value": 14075000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-17"
     },
     "grossProfit": null,
     "operatingIncome": {
       "value": 2109000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-17"
     },
     "netIncome": {
       "value": 1448000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-17"
+    },
+    "epsBasic": {
+      "value": 11.31,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-17"
+    },
+    "epsDiluted": {
+      "value": 11.14,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-17"
     },
     "currentAssets": {
       "value": 4814000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-17"
     },
     "totalAssets": {
       "value": 13493000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-17"
     },
     "currentLiabilities": {
       "value": 2827000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-17"
     },
     "totalLiabilities": {
       "value": 8531000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-17"
     },
     "shareholdersEquity": {
       "value": 4916000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-17"
     },
     "operatingCashFlow": {
       "value": 1750000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-17"
     },
     "capex": {
       "value": 121000000,
-      "year": 2019,
-      "periodEnd": "2020-01-03"
+      "year": 2020,
+      "periodEnd": "2020-01-03",
+      "filed": "2020-02-18"
     }
   },
-  "fetchedAt": "2026-05-08T18:55:06.273Z"
+  "updatedAt": "2026-08-05T16:54:26.395Z"
 }

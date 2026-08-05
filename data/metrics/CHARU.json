@@ -1,0 +1,63 @@
+{
+  "ticker": "CHARU",
+  "name": "Charlton Aria Acquisition Corp",
+  "cik": 2024459,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -595545,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-28"
+    },
+    "netIncome": {
+      "value": 2982042,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-28"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 13291,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-28"
+    },
+    "totalAssets": {
+      "value": 89457824,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-28"
+    },
+    "currentLiabilities": {
+      "value": 198508,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-28"
+    },
+    "totalLiabilities": {
+      "value": 1898508,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-28"
+    },
+    "shareholdersEquity": {
+      "value": -1885217,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-28"
+    },
+    "operatingCashFlow": {
+      "value": -543165,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-28"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:49.712Z"
+}

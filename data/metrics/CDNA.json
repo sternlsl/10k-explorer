@@ -1,0 +1,93 @@
+{
+  "ticker": "CDNA",
+  "name": "CareDx, Inc.",
+  "cik": 1217234,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 379805000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "cogs": {
+      "value": 45455000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-28"
+    },
+    "grossProfit": {
+      "value": 81613000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-28"
+    },
+    "operatingIncome": {
+      "value": -30781000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "netIncome": {
+      "value": -21354000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsBasic": {
+      "value": -0.4,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": -0.4,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentAssets": {
+      "value": 257132000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "totalAssets": {
+      "value": 413228000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": {
+      "value": 89849000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "totalLiabilities": {
+      "value": 110127000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "shareholdersEquity": {
+      "value": 303101000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 42032000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-25"
+    },
+    "capex": {
+      "value": 2035000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-06"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:38.559Z"
+}

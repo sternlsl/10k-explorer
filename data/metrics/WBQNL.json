@@ -1,0 +1,33 @@
+{
+  "ticker": "WBQNL",
+  "name": "Woodbridge Liquidation Trust",
+  "cik": 1785494,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 64154000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 26820000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": null,
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:47.025Z"
+}

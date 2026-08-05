@@ -1,0 +1,88 @@
+{
+  "ticker": "WNLV",
+  "name": "Winvest Group Ltd",
+  "cik": 1558740,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 78426,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "cogs": {
+      "value": 46408,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "grossProfit": {
+      "value": 32018,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "operatingIncome": {
+      "value": -576841,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "netIncome": {
+      "value": -15044666,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "epsBasic": {
+      "value": -0.05,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-19"
+    },
+    "epsDiluted": {
+      "value": -0.14,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "currentAssets": {
+      "value": 215008,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "totalAssets": {
+      "value": 217374,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "currentLiabilities": {
+      "value": 1702905,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "totalLiabilities": {
+      "value": 1827905,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "shareholdersEquity": {
+      "value": -1610531,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "operatingCashFlow": {
+      "value": -551290,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-08"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:21.665Z"
+}

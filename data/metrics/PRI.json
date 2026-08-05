@@ -1,0 +1,73 @@
+{
+  "ticker": "PRI",
+  "name": "Primerica, Inc.",
+  "cik": 1475922,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3291713000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "cogs": {
+      "value": 55233000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-28"
+    },
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 470518000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-28"
+    },
+    "epsBasic": {
+      "value": 22.95,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": 22.91,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 15012336000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 12566434000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 2445902000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 901178000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 3913000,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-02-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:19.799Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "CULP",
+  "name": "CULP INC",
+  "cik": 723603,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 203482000,
+      "year": 2026,
+      "periodEnd": "2026-05-03",
+      "filed": "2026-07-17"
+    },
+    "cogs": {
+      "value": 178322000,
+      "year": 2026,
+      "periodEnd": "2026-05-03",
+      "filed": "2026-07-17"
+    },
+    "grossProfit": {
+      "value": 25160000,
+      "year": 2026,
+      "periodEnd": "2026-05-03",
+      "filed": "2026-07-17"
+    },
+    "operatingIncome": {
+      "value": -7185000,
+      "year": 2026,
+      "periodEnd": "2026-05-03",
+      "filed": "2026-07-17"
+    },
+    "netIncome": {
+      "value": 20877000,
+      "year": 2018,
+      "periodEnd": "2018-04-29",
+      "filed": "2018-07-13"
+    },
+    "epsBasic": {
+      "value": -0.81,
+      "year": 2026,
+      "periodEnd": "2026-05-03",
+      "filed": "2026-07-17"
+    },
+    "epsDiluted": {
+      "value": -0.81,
+      "year": 2026,
+      "periodEnd": "2026-05-03",
+      "filed": "2026-07-17"
+    },
+    "currentAssets": {
+      "value": 80697000,
+      "year": 2026,
+      "periodEnd": "2026-05-03",
+      "filed": "2026-07-17"
+    },
+    "totalAssets": {
+      "value": 111990000,
+      "year": 2026,
+      "periodEnd": "2026-05-03",
+      "filed": "2026-07-17"
+    },
+    "currentLiabilities": {
+      "value": 44959000,
+      "year": 2026,
+      "periodEnd": "2026-05-03",
+      "filed": "2026-07-17"
+    },
+    "totalLiabilities": {
+      "value": 63843000,
+      "year": 2026,
+      "periodEnd": "2026-05-03",
+      "filed": "2026-07-17"
+    },
+    "shareholdersEquity": {
+      "value": 129698000,
+      "year": 2020,
+      "periodEnd": "2020-05-03",
+      "filed": "2020-07-17"
+    },
+    "operatingCashFlow": {
+      "value": -9371000,
+      "year": 2026,
+      "periodEnd": "2026-05-03",
+      "filed": "2026-07-17"
+    },
+    "capex": {
+      "value": 5890000,
+      "year": 2012,
+      "periodEnd": "2012-04-29",
+      "filed": "2012-07-12"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:19.994Z"
+}

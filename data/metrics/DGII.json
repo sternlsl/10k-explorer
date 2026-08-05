@@ -1,0 +1,88 @@
+{
+  "ticker": "DGII",
+  "name": "DIGI INTERNATIONAL INC",
+  "cik": 854775,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 430221000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "cogs": {
+      "value": 159544000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "grossProfit": {
+      "value": 270677000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "operatingIncome": {
+      "value": 56290000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "netIncome": {
+      "value": 40804000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "epsBasic": {
+      "value": 1.1,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "epsDiluted": {
+      "value": 1.08,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "currentAssets": {
+      "value": 130699000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "totalAssets": {
+      "value": 922646000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "currentLiabilities": {
+      "value": 107810000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "totalLiabilities": {
+      "value": 286569000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "shareholdersEquity": {
+      "value": 636077000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "operatingCashFlow": {
+      "value": 107959000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-21"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:26.898Z"
+}

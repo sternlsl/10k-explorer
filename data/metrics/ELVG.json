@@ -1,0 +1,93 @@
+{
+  "ticker": "ELVG",
+  "name": "Elvictor Group, Inc.",
+  "cik": 1741489,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2427968,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-06"
+    },
+    "cogs": {
+      "value": 153005,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-31"
+    },
+    "grossProfit": {
+      "value": 1805223,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-06"
+    },
+    "operatingIncome": {
+      "value": -209737,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-06"
+    },
+    "netIncome": {
+      "value": -175719,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-06"
+    },
+    "epsBasic": {
+      "value": -0.21,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-06"
+    },
+    "epsDiluted": {
+      "value": -0.21,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-06"
+    },
+    "currentAssets": {
+      "value": 979167,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-06"
+    },
+    "totalAssets": {
+      "value": 2034540,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-06"
+    },
+    "currentLiabilities": {
+      "value": 1492125,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-06"
+    },
+    "totalLiabilities": {
+      "value": 1677466,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-06"
+    },
+    "shareholdersEquity": {
+      "value": 357074,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-06"
+    },
+    "operatingCashFlow": {
+      "value": 418351,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-06"
+    },
+    "capex": {
+      "value": 11194,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-06"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:02.016Z"
+}

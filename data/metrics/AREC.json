@@ -1,0 +1,88 @@
+{
+  "ticker": "AREC",
+  "name": "American Resources Corp",
+  "cik": 1590715,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "cogs": {
+      "value": 320644,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-03"
+    },
+    "grossProfit": {
+      "value": 66360,
+      "year": 2016,
+      "periodEnd": "2016-09-30",
+      "filed": "2017-01-13"
+    },
+    "operatingIncome": {
+      "value": -11308535,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "netIncome": {
+      "value": 55385211,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 0.63,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "currentAssets": {
+      "value": 134264713,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "totalAssets": {
+      "value": 168907706,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "currentLiabilities": {
+      "value": 61210368,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "totalLiabilities": {
+      "value": 75718780,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "shareholdersEquity": {
+      "value": 94777118,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-20"
+    },
+    "operatingCashFlow": {
+      "value": -14515241,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-15"
+    },
+    "capex": {
+      "value": 133363,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:37.778Z"
+}

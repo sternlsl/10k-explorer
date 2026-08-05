@@ -1,0 +1,88 @@
+{
+  "ticker": "ENR",
+  "name": "ENERGIZER HOLDINGS, INC.",
+  "cik": 1632790,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2952700000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "cogs": {
+      "value": 1720000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "grossProfit": {
+      "value": 1232700000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 239000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "epsBasic": {
+      "value": 3.37,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "epsDiluted": {
+      "value": 3.32,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "currentAssets": {
+      "value": 1679100000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "totalAssets": {
+      "value": 4556700000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "currentLiabilities": {
+      "value": 795000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "totalLiabilities": {
+      "value": 4386800000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "shareholdersEquity": {
+      "value": 169900000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "operatingCashFlow": {
+      "value": 147100000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    },
+    "capex": {
+      "value": 83900000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-18"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:18.159Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "APVO",
+  "name": "Aptevo Therapeutics Inc.",
+  "cik": 1671584,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3114000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-03-05"
+    },
+    "cogs": {
+      "value": 19927000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-25"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -26312000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "netIncome": {
+      "value": -25967000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsBasic": {
+      "value": -87.27,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "epsDiluted": {
+      "value": -87.27,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentAssets": {
+      "value": 23081000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalAssets": {
+      "value": 27194000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "currentLiabilities": {
+      "value": 6050000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "totalLiabilities": {
+      "value": 9813000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "shareholdersEquity": {
+      "value": 17381000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "operatingCashFlow": {
+      "value": -25592000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-26"
+    },
+    "capex": {
+      "value": 29000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-03-05"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:16.361Z"
+}

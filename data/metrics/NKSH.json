@@ -1,0 +1,68 @@
+{
+  "ticker": "NKSH",
+  "name": "NATIONAL BANKSHARES INC",
+  "cik": 796534,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 8176000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 15826000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsBasic": {
+      "value": 2.49,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsDiluted": {
+      "value": 2.49,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1824506000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1639598000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "shareholdersEquity": {
+      "value": 184908000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": 17890000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "capex": {
+      "value": 1492000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-19"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:46.555Z"
+}

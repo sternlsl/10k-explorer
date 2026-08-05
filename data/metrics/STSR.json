@@ -1,0 +1,63 @@
+{
+  "ticker": "STSR",
+  "name": "Strategic Student & Senior Housing Trust, Inc.",
+  "cik": 1698538,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 37733555,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "cogs": {
+      "value": 26229908,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-22"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 981720,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "netIncome": {
+      "value": -5763981,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 152918071,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 129713878,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "shareholdersEquity": {
+      "value": 8799234,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "operatingCashFlow": {
+      "value": 3158822,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-20"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:34.344Z"
+}

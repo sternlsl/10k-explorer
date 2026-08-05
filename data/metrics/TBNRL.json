@@ -1,0 +1,78 @@
+{
+  "ticker": "TBNRL",
+  "name": "Tamboran Resources Corp",
+  "cik": 1997652,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -39315159,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "netIncome": {
+      "value": -36901412,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "epsBasic": {
+      "value": -2.517,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "epsDiluted": {
+      "value": -2.517,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "currentAssets": {
+      "value": 56696650,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "totalAssets": {
+      "value": 446462122,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "currentLiabilities": {
+      "value": 36605180,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "totalLiabilities": {
+      "value": 57010352,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "shareholdersEquity": {
+      "value": 287721473,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "operatingCashFlow": {
+      "value": -29637369,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-25"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:48.486Z"
+}

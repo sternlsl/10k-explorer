@@ -1,0 +1,68 @@
+{
+  "ticker": "PECO",
+  "name": "Phillips Edison & Company, Inc.",
+  "cik": 1476204,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 12751000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -2019000,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2014-03-13"
+    },
+    "netIncome": {
+      "value": 111303000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "epsBasic": {
+      "value": 0.89,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "epsDiluted": {
+      "value": 0.89,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 5286438000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 2697060000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "shareholdersEquity": {
+      "value": 2286569000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "operatingCashFlow": {
+      "value": 348149000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:55:55.925Z"
+}

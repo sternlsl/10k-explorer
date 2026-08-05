@@ -1,0 +1,88 @@
+{
+  "ticker": "RDDT",
+  "name": "Reddit, Inc.",
+  "cik": 1713445,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2202506000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "cogs": {
+      "value": 194216000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 441984000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "netIncome": {
+      "value": 529721000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "epsBasic": {
+      "value": 2.84,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "epsDiluted": {
+      "value": 2.62,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "currentAssets": {
+      "value": 3135985000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "totalAssets": {
+      "value": 3239173000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "currentLiabilities": {
+      "value": 271283000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "totalLiabilities": {
+      "value": 310135000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "shareholdersEquity": {
+      "value": 2929038000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "operatingCashFlow": {
+      "value": 690875000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "capex": {
+      "value": 6706000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    }
+  },
+  "updatedAt": "2026-08-05T16:54:02.392Z"
+}

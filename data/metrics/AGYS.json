@@ -1,0 +1,83 @@
+{
+  "ticker": "AGYS",
+  "name": "AGILYSYS INC",
+  "cik": 78749,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 319312000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "cogs": {
+      "value": 119389000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "grossProfit": {
+      "value": 199923000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "operatingIncome": {
+      "value": 43015000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "netIncome": {
+      "value": 38791000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "epsBasic": {
+      "value": 1.39,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "epsDiluted": {
+      "value": 1.37,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "currentAssets": {
+      "value": 184131000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "totalAssets": {
+      "value": 481528000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "currentLiabilities": {
+      "value": 125110000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 326791000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "operatingCashFlow": {
+      "value": 69997000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-21"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:36.254Z"
+}

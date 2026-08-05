@@ -1,0 +1,73 @@
+{
+  "ticker": "VRE",
+  "name": "Veris Residential, Inc.",
+  "cik": 924901,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 288434000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "cogs": {
+      "value": 9290000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 105347000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-21"
+    },
+    "netIncome": {
+      "value": 75239000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "epsBasic": {
+      "value": 0.81,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "epsDiluted": {
+      "value": 0.8,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2706871000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1431915000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "shareholdersEquity": {
+      "value": 1151621000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "operatingCashFlow": {
+      "value": 75967000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-23"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:37.340Z"
+}

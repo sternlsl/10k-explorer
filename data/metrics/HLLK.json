@@ -1,0 +1,88 @@
+{
+  "ticker": "HLLK",
+  "name": "HALLMARK VENTURE GROUP, INC.",
+  "cik": 1331421,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 609549,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "cogs": {
+      "value": 89087,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "grossProfit": {
+      "value": 520462,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-27"
+    },
+    "operatingIncome": {
+      "value": -228095,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-28"
+    },
+    "netIncome": {
+      "value": -126948,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-28"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-28"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-28"
+    },
+    "currentAssets": {
+      "value": 3382,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-28"
+    },
+    "totalAssets": {
+      "value": 3382,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-28"
+    },
+    "currentLiabilities": {
+      "value": 349258,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-28"
+    },
+    "totalLiabilities": {
+      "value": 349258,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-28"
+    },
+    "shareholdersEquity": {
+      "value": -345876,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-28"
+    },
+    "operatingCashFlow": {
+      "value": -150524,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-28"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:02.343Z"
+}

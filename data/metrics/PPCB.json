@@ -1,0 +1,83 @@
+{
+  "ticker": "PPCB",
+  "name": "Propanc Biopharma, Inc.",
+  "cik": 1517681,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": {
+      "value": 28062,
+      "year": 2019,
+      "periodEnd": "2019-06-30",
+      "filed": "2019-10-15"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -57278131,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "netIncome": {
+      "value": -58923300,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "epsBasic": {
+      "value": -14.85,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "epsDiluted": {
+      "value": -14.85,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "currentAssets": {
+      "value": 8352816,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "totalAssets": {
+      "value": 19631808,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "currentLiabilities": {
+      "value": 5578240,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "totalLiabilities": {
+      "value": 5725616,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "shareholdersEquity": {
+      "value": 13906192,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "operatingCashFlow": {
+      "value": -405168,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-29"
+    },
+    "capex": {
+      "value": 2874,
+      "year": 2019,
+      "periodEnd": "2019-06-30",
+      "filed": "2020-10-01"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:58.522Z"
+}

@@ -1,0 +1,78 @@
+{
+  "ticker": "NXMH",
+  "name": "Next Meats Holdings, Inc.",
+  "cik": 1811530,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 1398133,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-09-28"
+    },
+    "cogs": {
+      "value": 1326938,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-09-28"
+    },
+    "grossProfit": {
+      "value": 71195,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-09-28"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -4832028,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-09-28"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-09-28"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 962402,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-09-28"
+    },
+    "totalAssets": {
+      "value": 1224683,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-09-28"
+    },
+    "currentLiabilities": {
+      "value": 816983,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-09-28"
+    },
+    "totalLiabilities": {
+      "value": 1178219,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-09-28"
+    },
+    "shareholdersEquity": {
+      "value": -9700,
+      "year": 2021,
+      "periodEnd": "2021-04-30",
+      "filed": "2021-08-13"
+    },
+    "operatingCashFlow": {
+      "value": -1659270,
+      "year": 2023,
+      "periodEnd": "2023-04-30",
+      "filed": "2023-09-28"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:10.027Z"
+}

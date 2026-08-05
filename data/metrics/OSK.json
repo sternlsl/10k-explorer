@@ -1,0 +1,88 @@
+{
+  "ticker": "OSK",
+  "name": "OSHKOSH CORP",
+  "cik": 775158,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 10422300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "cogs": {
+      "value": 8603300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "grossProfit": {
+      "value": 1819000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "operatingIncome": {
+      "value": 939500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "netIncome": {
+      "value": 229500000,
+      "year": 2015,
+      "periodEnd": "2015-09-30",
+      "filed": "2015-11-13"
+    },
+    "epsBasic": {
+      "value": 6.38,
+      "year": 2018,
+      "periodEnd": "2018-09-30",
+      "filed": "2018-11-20"
+    },
+    "epsDiluted": {
+      "value": 6.29,
+      "year": 2018,
+      "periodEnd": "2018-09-30",
+      "filed": "2018-11-20"
+    },
+    "currentAssets": {
+      "value": 5168500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "totalAssets": {
+      "value": 10072400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentLiabilities": {
+      "value": 2664400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 4530500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "operatingCashFlow": {
+      "value": 783400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "capex": {
+      "value": 165400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:13.880Z"
+}

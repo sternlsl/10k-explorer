@@ -1,0 +1,93 @@
+{
+  "ticker": "BEEM",
+  "name": "Beam Global",
+  "cik": 1398805,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 28236000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "cogs": {
+      "value": 24715000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "grossProfit": {
+      "value": 3521000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "operatingIncome": {
+      "value": -27532000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "netIncome": {
+      "value": -27003000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "epsBasic": {
+      "value": -1.61,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "epsDiluted": {
+      "value": -0.77,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-11"
+    },
+    "currentAssets": {
+      "value": 21041000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "totalAssets": {
+      "value": 42732000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "currentLiabilities": {
+      "value": 12109000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "totalLiabilities": {
+      "value": 17887000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "shareholdersEquity": {
+      "value": 24845000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "operatingCashFlow": {
+      "value": -10482000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    },
+    "capex": {
+      "value": 418000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-09"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:26.260Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "CBRL",
+  "name": "CRACKER BARREL OLD COUNTRY STORE, INC",
+  "cik": 1067294,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3483684000,
+      "year": 2025,
+      "periodEnd": "2025-08-01",
+      "filed": "2025-09-26"
+    },
+    "cogs": {
+      "value": 1081029000,
+      "year": 2025,
+      "periodEnd": "2025-08-01",
+      "filed": "2025-09-26"
+    },
+    "grossProfit": {
+      "value": 1810919000,
+      "year": 2014,
+      "periodEnd": "2014-08-01",
+      "filed": "2014-09-25"
+    },
+    "operatingIncome": {
+      "value": 55029000,
+      "year": 2025,
+      "periodEnd": "2025-08-01",
+      "filed": "2025-09-26"
+    },
+    "netIncome": {
+      "value": 46379000,
+      "year": 2025,
+      "periodEnd": "2025-08-01",
+      "filed": "2025-09-26"
+    },
+    "epsBasic": {
+      "value": 2.08,
+      "year": 2025,
+      "periodEnd": "2025-08-01",
+      "filed": "2025-09-26"
+    },
+    "epsDiluted": {
+      "value": 2.06,
+      "year": 2025,
+      "periodEnd": "2025-08-01",
+      "filed": "2025-09-26"
+    },
+    "currentAssets": {
+      "value": 313112000,
+      "year": 2025,
+      "periodEnd": "2025-08-01",
+      "filed": "2025-09-26"
+    },
+    "totalAssets": {
+      "value": 2161884000,
+      "year": 2025,
+      "periodEnd": "2025-08-01",
+      "filed": "2025-09-26"
+    },
+    "currentLiabilities": {
+      "value": 625603000,
+      "year": 2025,
+      "periodEnd": "2025-08-01",
+      "filed": "2025-09-26"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 461689000,
+      "year": 2025,
+      "periodEnd": "2025-08-01",
+      "filed": "2025-09-26"
+    },
+    "operatingCashFlow": {
+      "value": 218899000,
+      "year": 2025,
+      "periodEnd": "2025-08-01",
+      "filed": "2025-09-26"
+    },
+    "capex": {
+      "value": 159144000,
+      "year": 2025,
+      "periodEnd": "2025-08-01",
+      "filed": "2025-09-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:30.417Z"
+}

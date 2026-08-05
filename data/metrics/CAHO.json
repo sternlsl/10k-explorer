@@ -1,0 +1,83 @@
+{
+  "ticker": "CAHO",
+  "name": "Caro Holdings Inc.",
+  "cik": 1678105,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 11254,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-15"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2020,
+      "periodEnd": "2020-03-31",
+      "filed": "2020-08-27"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2020,
+      "periodEnd": "2020-03-31",
+      "filed": "2020-08-27"
+    },
+    "operatingIncome": {
+      "value": -282284,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-15"
+    },
+    "netIncome": {
+      "value": -407797,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-15"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-15"
+    },
+    "currentAssets": {
+      "value": 262757,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-15"
+    },
+    "totalAssets": {
+      "value": 437831,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-15"
+    },
+    "currentLiabilities": {
+      "value": 1986308,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-15"
+    },
+    "totalLiabilities": {
+      "value": 1986308,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-15"
+    },
+    "shareholdersEquity": {
+      "value": -1548477,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-15"
+    },
+    "operatingCashFlow": {
+      "value": -105126,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-07-15"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:05:30.183Z"
+}

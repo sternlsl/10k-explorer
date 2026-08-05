@@ -1,0 +1,63 @@
+{
+  "ticker": "SLV",
+  "name": "iShares Silver Trust",
+  "cik": 1330568,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": -1914970000,
+      "year": 2013,
+      "periodEnd": "2013-12-31",
+      "filed": "2016-02-29"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -95546277,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": 21306921615,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": 40.9,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 5263140000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-02-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 2338000,
+      "year": 2014,
+      "periodEnd": "2014-12-31",
+      "filed": "2015-02-27"
+    },
+    "shareholdersEquity": {
+      "value": 4391944000,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-02-29"
+    },
+    "operatingCashFlow": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-27"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:34.010Z"
+}

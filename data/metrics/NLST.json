@@ -1,0 +1,93 @@
+{
+  "ticker": "NLST",
+  "name": "NETLIST INC",
+  "cik": 1282631,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 38322000,
+      "year": 2017,
+      "periodEnd": "2017-12-30",
+      "filed": "2018-03-30"
+    },
+    "cogs": {
+      "value": 177190000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-19"
+    },
+    "grossProfit": {
+      "value": 11440000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-19"
+    },
+    "operatingIncome": {
+      "value": -25510000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-19"
+    },
+    "netIncome": {
+      "value": -24824000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-19"
+    },
+    "epsBasic": {
+      "value": -0.09,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-19"
+    },
+    "epsDiluted": {
+      "value": -0.09,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-19"
+    },
+    "currentAssets": {
+      "value": 48208000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-19"
+    },
+    "totalAssets": {
+      "value": 49477000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-19"
+    },
+    "currentLiabilities": {
+      "value": 54640000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-19"
+    },
+    "totalLiabilities": {
+      "value": 54680000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-19"
+    },
+    "shareholdersEquity": {
+      "value": -5203000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-19"
+    },
+    "operatingCashFlow": {
+      "value": -14735000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-19"
+    },
+    "capex": {
+      "value": 42000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-03-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:01.518Z"
+}

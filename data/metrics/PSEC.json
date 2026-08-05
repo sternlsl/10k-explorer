@@ -1,0 +1,58 @@
+{
+  "ticker": "PSEC",
+  "name": "PROSPECT CAPITAL CORP",
+  "cik": 1287032,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -469924000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "epsBasic": {
+      "value": -1.35,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "epsDiluted": {
+      "value": -1.35,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 6804938000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 2186266000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "shareholdersEquity": {
+      "value": 2988772000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "operatingCashFlow": {
+      "value": 523171000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-26"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:18.770Z"
+}

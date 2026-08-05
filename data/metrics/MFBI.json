@@ -1,0 +1,63 @@
+{
+  "ticker": "MFBI",
+  "name": "Monroe Federal Bancorp, Inc.",
+  "cik": 2024899,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -514598,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "epsBasic": {
+      "value": -1.04,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "epsDiluted": {
+      "value": -1.04,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 142428750,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 130027346,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "shareholdersEquity": {
+      "value": 12401404,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "operatingCashFlow": {
+      "value": -317867,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    },
+    "capex": {
+      "value": 152139,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:17.847Z"
+}

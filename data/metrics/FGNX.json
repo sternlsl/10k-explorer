@@ -1,0 +1,73 @@
+{
+  "ticker": "FGNX",
+  "name": "FG Nexus Inc.",
+  "cik": 1591890,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2413000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -64000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "netIncome": {
+      "value": 1088000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-24"
+    },
+    "epsBasic": {
+      "value": -25.69,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "epsDiluted": {
+      "value": -25.69,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 163844000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 20353000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "shareholdersEquity": {
+      "value": 74197000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -6250000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "capex": {
+      "value": 81000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-03-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:26.853Z"
+}

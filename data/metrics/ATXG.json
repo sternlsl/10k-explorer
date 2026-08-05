@@ -1,0 +1,93 @@
+{
+  "ticker": "ATXG",
+  "name": "ADDENTAX GROUP CORP.",
+  "cik": 1650101,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 5371183,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "cogs": {
+      "value": 4613578,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "grossProfit": {
+      "value": 757605,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "operatingIncome": {
+      "value": -1529220,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "netIncome": {
+      "value": -4469165,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "epsBasic": {
+      "value": -6.27,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "epsDiluted": {
+      "value": -6.27,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "currentAssets": {
+      "value": 22908405,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "totalAssets": {
+      "value": 29252097,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "currentLiabilities": {
+      "value": 3064796,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "totalLiabilities": {
+      "value": 7565858,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "shareholdersEquity": {
+      "value": 21804765,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "operatingCashFlow": {
+      "value": -603603,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "capex": {
+      "value": 180894,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:39.578Z"
+}

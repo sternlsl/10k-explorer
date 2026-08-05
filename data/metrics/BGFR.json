@@ -1,0 +1,78 @@
+{
+  "ticker": "BGFR",
+  "name": "BestGofer Inc.",
+  "cik": 1722556,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5260,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-13"
+    },
+    "cogs": {
+      "value": 1264,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-13"
+    },
+    "grossProfit": {
+      "value": 3996,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-13"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -25748,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-13"
+    },
+    "epsBasic": {
+      "value": -0.004,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-13"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 25223,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-13"
+    },
+    "totalAssets": {
+      "value": 116477,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-13"
+    },
+    "currentLiabilities": {
+      "value": 83485,
+      "year": 2023,
+      "periodEnd": "2023-11-30",
+      "filed": "2024-01-18"
+    },
+    "totalLiabilities": {
+      "value": 140772,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-13"
+    },
+    "shareholdersEquity": {
+      "value": -70985,
+      "year": 2023,
+      "periodEnd": "2023-11-30",
+      "filed": "2024-01-18"
+    },
+    "operatingCashFlow": {
+      "value": 3140,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-13"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:36.665Z"
+}

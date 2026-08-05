@@ -1,0 +1,88 @@
+{
+  "ticker": "ONAR",
+  "name": "Onar Holding Corp",
+  "cik": 1682265,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3179519,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-11"
+    },
+    "cogs": {
+      "value": 1582809,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-18"
+    },
+    "grossProfit": {
+      "value": 147712,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-11"
+    },
+    "operatingIncome": {
+      "value": -7508305,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-11"
+    },
+    "netIncome": {
+      "value": -9276897,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-11"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.08,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-11"
+    },
+    "currentAssets": {
+      "value": 257657,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-11"
+    },
+    "totalAssets": {
+      "value": 3807247,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-11"
+    },
+    "currentLiabilities": {
+      "value": 9666472,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-11"
+    },
+    "totalLiabilities": {
+      "value": 676959,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-18"
+    },
+    "shareholdersEquity": {
+      "value": -5859225,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-11"
+    },
+    "operatingCashFlow": {
+      "value": -1717888,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-15"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-06-11"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:22.167Z"
+}

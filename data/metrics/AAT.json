@@ -1,0 +1,73 @@
+{
+  "ticker": "AAT",
+  "name": "American Assets Trust, Inc.",
+  "cik": 1500217,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 39914000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 266609000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "operatingIncome": {
+      "value": 145932000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "netIncome": {
+      "value": 27660000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-16"
+    },
+    "epsBasic": {
+      "value": 0.92,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "epsDiluted": {
+      "value": 0.92,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2921276000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1830071000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "shareholdersEquity": {
+      "value": 1150817000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "operatingCashFlow": {
+      "value": 167115000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-06"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:58.807Z"
+}

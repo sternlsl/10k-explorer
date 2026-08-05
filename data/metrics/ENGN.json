@@ -1,0 +1,78 @@
+{
+  "ticker": "ENGN",
+  "name": "enGene Therapeutics Inc.",
+  "cik": 1980845,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -123165000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "netIncome": {
+      "value": -117302000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "epsBasic": {
+      "value": 2.29,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "epsDiluted": {
+      "value": 2.29,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "currentAssets": {
+      "value": 201391000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "totalAssets": {
+      "value": 221468000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "currentLiabilities": {
+      "value": 31979000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "totalLiabilities": {
+      "value": 53758000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "shareholdersEquity": {
+      "value": 167710000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "operatingCashFlow": {
+      "value": -99239000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    },
+    "capex": {
+      "value": 1485000,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2025-12-22"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:56.364Z"
+}

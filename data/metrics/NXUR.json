@@ -1,0 +1,93 @@
+{
+  "ticker": "NXUR",
+  "name": "Nxu, Inc.",
+  "cik": 1722969,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 18000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-17"
+    },
+    "cogs": {
+      "value": 95000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-17"
+    },
+    "grossProfit": {
+      "value": -77000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-17"
+    },
+    "operatingIncome": {
+      "value": -22710000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-17"
+    },
+    "netIncome": {
+      "value": -23748000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-17"
+    },
+    "epsBasic": {
+      "value": -1.88,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-17"
+    },
+    "epsDiluted": {
+      "value": -1.88,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-17"
+    },
+    "currentAssets": {
+      "value": 4418000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-17"
+    },
+    "totalAssets": {
+      "value": 8478000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-17"
+    },
+    "currentLiabilities": {
+      "value": 2427000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-17"
+    },
+    "totalLiabilities": {
+      "value": 2446000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-17"
+    },
+    "shareholdersEquity": {
+      "value": 6032000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-17"
+    },
+    "operatingCashFlow": {
+      "value": -12078000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-17"
+    },
+    "capex": {
+      "value": 1868000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:22.187Z"
+}

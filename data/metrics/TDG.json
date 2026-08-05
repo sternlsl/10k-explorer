@@ -2,68 +2,92 @@
   "ticker": "TDG",
   "name": "TransDigm Group INC",
   "cik": 1260221,
-  "fiscalYear": 2024,
+  "fiscalYear": 2025,
   "metrics": {
     "revenue": {
       "value": 7940000000,
       "year": 2024,
-      "periodEnd": "2024-09-30"
+      "periodEnd": "2024-09-30",
+      "filed": "2024-11-07"
     },
     "cogs": {
       "value": 3520000000,
       "year": 2025,
-      "periodEnd": "2025-09-30"
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-12"
     },
     "grossProfit": {
       "value": 5311000000,
       "year": 2025,
-      "periodEnd": "2025-09-30"
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-12"
     },
     "operatingIncome": {
       "value": 4165000000,
       "year": 2025,
-      "periodEnd": "2025-09-30"
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-12"
     },
     "netIncome": {
       "value": 2074000000,
       "year": 2025,
-      "periodEnd": "2025-09-30"
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-12"
+    },
+    "epsBasic": {
+      "value": 32.08,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-12"
+    },
+    "epsDiluted": {
+      "value": 32.08,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-12"
     },
     "currentAssets": {
       "value": 7012000000,
       "year": 2025,
-      "periodEnd": "2025-09-30"
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-12"
     },
     "totalAssets": {
       "value": 22909000000,
       "year": 2025,
-      "periodEnd": "2025-09-30"
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-12"
     },
     "currentLiabilities": {
       "value": 2182000000,
       "year": 2025,
-      "periodEnd": "2025-09-30"
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-12"
     },
     "totalLiabilities": {
       "value": 32588000000,
       "year": 2025,
-      "periodEnd": "2025-09-30"
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-12"
     },
     "shareholdersEquity": {
       "value": -9686000000,
       "year": 2025,
-      "periodEnd": "2025-09-30"
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-12"
     },
     "operatingCashFlow": {
       "value": 2038000000,
       "year": 2025,
-      "periodEnd": "2025-09-30"
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-12"
     },
     "capex": {
       "value": 222000000,
       "year": 2025,
-      "periodEnd": "2025-09-30"
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-12"
     }
   },
-  "fetchedAt": "2026-05-08T19:04:09.670Z"
+  "updatedAt": "2026-08-05T16:53:40.173Z"
 }

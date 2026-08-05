@@ -1,0 +1,88 @@
+{
+  "ticker": "FLNC",
+  "name": "Fluence Energy, Inc.",
+  "cik": 1868941,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2262830000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "cogs": {
+      "value": 1967045000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "grossProfit": {
+      "value": 295785000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -48314000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "epsBasic": {
+      "value": -0.37,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "epsDiluted": {
+      "value": -0.37,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "currentAssets": {
+      "value": 2064256000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "totalAssets": {
+      "value": 2357000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "currentLiabilities": {
+      "value": 1370369000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "totalLiabilities": {
+      "value": 1808152000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "shareholdersEquity": {
+      "value": 429595000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "operatingCashFlow": {
+      "value": -145538000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "capex": {
+      "value": 14884000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:21.238Z"
+}

@@ -2,68 +2,92 @@
   "ticker": "CAG",
   "name": "CONAGRA BRANDS INC.",
   "cik": 23217,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 11612800000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 11281600000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-15"
     },
     "cogs": {
-      "value": 8609300000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 8583200000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-15"
     },
     "grossProfit": {
-      "value": 3003500000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 2698400000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-15"
     },
     "operatingIncome": {
-      "value": 1364600000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": -1628400000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-15"
     },
     "netIncome": {
-      "value": 1152400000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": -1916200000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-15"
+    },
+    "epsBasic": {
+      "value": -4,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-15"
+    },
+    "epsDiluted": {
+      "value": -4,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-15"
     },
     "currentAssets": {
-      "value": 3071000000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 2882100000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-15"
     },
     "totalAssets": {
-      "value": 20933900000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 17274400000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-15"
     },
     "currentLiabilities": {
-      "value": 4317000000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 3188000000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-15"
     },
     "totalLiabilities": {
-      "value": 12001200000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 10916800000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-15"
     },
     "shareholdersEquity": {
       "value": 8932700000,
       "year": 2025,
-      "periodEnd": "2025-05-25"
+      "periodEnd": "2025-05-25",
+      "filed": "2025-07-10"
     },
     "operatingCashFlow": {
-      "value": 1691900000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 1402100000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-15"
     },
     "capex": {
-      "value": 389300000,
-      "year": 2025,
-      "periodEnd": "2025-05-25"
+      "value": 423400000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-15"
     }
   },
-  "fetchedAt": "2026-05-08T18:46:04.569Z"
+  "updatedAt": "2026-08-05T16:55:39.603Z"
 }

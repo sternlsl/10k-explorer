@@ -1,0 +1,93 @@
+{
+  "ticker": "BOX",
+  "name": "BOX INC",
+  "cik": 1372612,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1177253000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-09"
+    },
+    "cogs": {
+      "value": 244647000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-09"
+    },
+    "grossProfit": {
+      "value": 932606000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-09"
+    },
+    "operatingIncome": {
+      "value": 83189000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-09"
+    },
+    "netIncome": {
+      "value": 115383000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-09"
+    },
+    "epsBasic": {
+      "value": 0.6,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-09"
+    },
+    "epsDiluted": {
+      "value": 0.58,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-09"
+    },
+    "currentAssets": {
+      "value": 891273000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-09"
+    },
+    "totalAssets": {
+      "value": 1546060000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-09"
+    },
+    "currentLiabilities": {
+      "value": 802667000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-09"
+    },
+    "totalLiabilities": {
+      "value": 1348962000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-09"
+    },
+    "shareholdersEquity": {
+      "value": -299278000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-09"
+    },
+    "operatingCashFlow": {
+      "value": 356450000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-09"
+    },
+    "capex": {
+      "value": 6074000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-09"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:38.421Z"
+}

@@ -1,0 +1,73 @@
+{
+  "ticker": "ZDPY",
+  "name": "Zoned Properties, Inc.",
+  "cik": 1279620,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2886991,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-26"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1885542,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "netIncome": {
+      "value": -2854415,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "epsBasic": {
+      "value": -0.24,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "epsDiluted": {
+      "value": -0.24,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 13932476,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 10864850,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "shareholdersEquity": {
+      "value": 3067626,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "operatingCashFlow": {
+      "value": 781476,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "capex": {
+      "value": 6480,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-04-01"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:20.207Z"
+}

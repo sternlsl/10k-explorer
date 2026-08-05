@@ -2,68 +2,92 @@
   "ticker": "LHX",
   "name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
   "cik": 202058,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 21865000000,
+      "value": 21325000000,
       "year": 2025,
-      "periodEnd": "2026-01-02"
+      "periodEnd": "2025-01-03",
+      "filed": "2026-02-12"
     },
     "cogs": {
-      "value": 16240000000,
+      "value": 15801000000,
       "year": 2025,
-      "periodEnd": "2026-01-02"
+      "periodEnd": "2025-01-03",
+      "filed": "2026-02-12"
     },
     "grossProfit": {
       "value": 1871700000,
       "year": 2010,
-      "periodEnd": "2010-07-02"
+      "periodEnd": "2010-07-02",
+      "filed": "2010-08-30"
     },
     "operatingIncome": {
       "value": 2110000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-12"
     },
     "netIncome": {
       "value": 1606000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-12"
+    },
+    "epsBasic": {
+      "value": 8.57,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-12"
+    },
+    "epsDiluted": {
+      "value": 8.53,
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-12"
     },
     "currentAssets": {
       "value": 8593000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-12"
     },
     "totalAssets": {
       "value": 41195000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-12"
     },
     "currentLiabilities": {
       "value": 7226000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-12"
     },
     "totalLiabilities": {
       "value": 21560000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-12"
     },
     "shareholdersEquity": {
       "value": 19635000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-12"
     },
     "operatingCashFlow": {
       "value": 3106000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-12"
     },
     "capex": {
       "value": 424000000,
-      "year": 2025,
-      "periodEnd": "2026-01-02"
+      "year": 2026,
+      "periodEnd": "2026-01-02",
+      "filed": "2026-02-12"
     }
   },
-  "fetchedAt": "2026-05-08T18:54:52.196Z"
+  "updatedAt": "2026-08-05T16:53:43.677Z"
 }

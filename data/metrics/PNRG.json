@@ -1,0 +1,83 @@
+{
+  "ticker": "PNRG",
+  "name": "PRIMEENERGY RESOURCES CORP",
+  "cik": 56868,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 189052000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "cogs": {
+      "value": 6197000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 59665000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "netIncome": {
+      "value": 48664000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-17"
+    },
+    "epsBasic": {
+      "value": 15.85,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "epsDiluted": {
+      "value": 10.86,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "currentAssets": {
+      "value": 27707000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "totalAssets": {
+      "value": 323895000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "currentLiabilities": {
+      "value": 37425000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "totalLiabilities": {
+      "value": 108210000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "shareholdersEquity": {
+      "value": 215685000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "operatingCashFlow": {
+      "value": 96734000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-16"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:39.621Z"
+}

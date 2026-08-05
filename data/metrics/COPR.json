@@ -1,0 +1,93 @@
+{
+  "ticker": "COPR",
+  "name": "Idaho Copper Corp",
+  "cik": 1263364,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 609174,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-31"
+    },
+    "cogs": {
+      "value": 295705,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-31"
+    },
+    "grossProfit": {
+      "value": 313469,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-31"
+    },
+    "operatingIncome": {
+      "value": -2623677,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "netIncome": {
+      "value": -3074964,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "epsBasic": {
+      "value": -0.23,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "epsDiluted": {
+      "value": -0.23,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "currentAssets": {
+      "value": 92016,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "totalAssets": {
+      "value": 192016,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "currentLiabilities": {
+      "value": 4678067,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "totalLiabilities": {
+      "value": 6646351,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "shareholdersEquity": {
+      "value": -6454335,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "operatingCashFlow": {
+      "value": -818603,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-17"
+    },
+    "capex": {
+      "value": 89472,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:54.183Z"
+}

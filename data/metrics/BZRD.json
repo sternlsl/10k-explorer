@@ -1,0 +1,58 @@
+{
+  "ticker": "BZRD",
+  "name": "Blubuzzard, Inc.",
+  "cik": 1765826,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -33474,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-03"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 82,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-04-12"
+    },
+    "totalAssets": {
+      "value": 82,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2022-04-12"
+    },
+    "currentLiabilities": {
+      "value": 121211,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-03"
+    },
+    "totalLiabilities": {
+      "value": 121211,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-03"
+    },
+    "shareholdersEquity": {
+      "value": -121211,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-03"
+    },
+    "operatingCashFlow": {
+      "value": -34674,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-03"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:03.259Z"
+}

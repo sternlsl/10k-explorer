@@ -1,0 +1,78 @@
+{
+  "ticker": "IRT",
+  "name": "INDEPENDENCE REALTY TRUST, INC.",
+  "cik": 1466085,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 657696000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "cogs": {
+      "value": 7726000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-18"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 51822000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-22"
+    },
+    "netIncome": {
+      "value": 56558000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsBasic": {
+      "value": 0.24,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "epsDiluted": {
+      "value": 0.24,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 6021750000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 2432324000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "shareholdersEquity": {
+      "value": 3459936000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "operatingCashFlow": {
+      "value": 282149000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-17"
+    },
+    "capex": {
+      "value": 177000,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-24"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:26.912Z"
+}

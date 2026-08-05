@@ -1,0 +1,78 @@
+{
+  "ticker": "AMIX",
+  "name": "Autonomix Medical, Inc.",
+  "cik": 1617867,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -17034000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "netIncome": {
+      "value": -16715000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "epsBasic": {
+      "value": -2.32,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 7581000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "totalAssets": {
+      "value": 7600000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "currentLiabilities": {
+      "value": 1705000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "totalLiabilities": {
+      "value": 1705000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "shareholdersEquity": {
+      "value": 5895000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "operatingCashFlow": {
+      "value": -12282000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    },
+    "capex": {
+      "value": 10000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-27"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:39.092Z"
+}

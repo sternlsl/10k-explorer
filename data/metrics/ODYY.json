@@ -1,0 +1,93 @@
+{
+  "ticker": "ODYY",
+  "name": "Odyssey Health, Inc.",
+  "cik": 1626644,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2020,
+      "periodEnd": "2020-07-31",
+      "filed": "2020-11-16"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2020,
+      "periodEnd": "2020-07-31",
+      "filed": "2020-11-16"
+    },
+    "grossProfit": {
+      "value": 0,
+      "year": 2020,
+      "periodEnd": "2020-07-31",
+      "filed": "2020-11-16"
+    },
+    "operatingIncome": {
+      "value": -1020753,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "netIncome": {
+      "value": -1742691,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "epsBasic": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "currentAssets": {
+      "value": 49723,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "totalAssets": {
+      "value": 49723,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "currentLiabilities": {
+      "value": 7004421,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "totalLiabilities": {
+      "value": 3377887,
+      "year": 2021,
+      "periodEnd": "2021-07-31",
+      "filed": "2021-10-29"
+    },
+    "shareholdersEquity": {
+      "value": -6954698,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "operatingCashFlow": {
+      "value": -347392,
+      "year": 2025,
+      "periodEnd": "2025-07-31",
+      "filed": "2025-10-29"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2017,
+      "periodEnd": "2017-07-31",
+      "filed": "2017-11-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:19.260Z"
+}

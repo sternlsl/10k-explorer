@@ -1,0 +1,48 @@
+{
+  "ticker": "USCI",
+  "name": "United States Commodity Index Funds Trust",
+  "cik": 1479247,
+  "fiscalYear": 2021,
+  "metrics": {
+    "revenue": {
+      "value": -16559249,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-02-26"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 75327633,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-25"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 200014444,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-13"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 3102585,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-13"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 73615098,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-02-25"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:08:25.013Z"
+}

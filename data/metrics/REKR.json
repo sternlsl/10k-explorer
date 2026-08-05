@@ -1,0 +1,88 @@
+{
+  "ticker": "REKR",
+  "name": "Rekor Systems, Inc.",
+  "cik": 1697851,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 9234000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-12"
+    },
+    "cogs": {
+      "value": 3533000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-12"
+    },
+    "grossProfit": {
+      "value": 5701000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-12"
+    },
+    "operatingIncome": {
+      "value": -28886000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": -31460000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": -0.26,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": -0.44,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-04-11"
+    },
+    "currentAssets": {
+      "value": 30728000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 85387000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 29088000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 42517000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 42870000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -20372000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-31"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:51.626Z"
+}

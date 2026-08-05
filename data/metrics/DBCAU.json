@@ -1,0 +1,43 @@
+{
+  "ticker": "DBCAU",
+  "name": "D. Boral Acquisition I Corp.",
+  "cik": 2095161,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": null,
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 50000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "totalAssets": {
+      "value": 185954,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 227799,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "shareholdersEquity": {
+      "value": -41845,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-01"
+    },
+    "operatingCashFlow": null,
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:00:17.918Z"
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "QSEA",
+  "name": "Quartzsea Acquisition Corp",
+  "cik": 2047455,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1906211,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-16"
+    },
+    "netIncome": {
+      "value": 510959,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-16"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 92494,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-16"
+    },
+    "totalAssets": {
+      "value": 85336925,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-16"
+    },
+    "currentLiabilities": {
+      "value": 741883,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-16"
+    },
+    "totalLiabilities": {
+      "value": 4053883,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-16"
+    },
+    "shareholdersEquity": {
+      "value": -3919690,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-16"
+    },
+    "operatingCashFlow": {
+      "value": -1266120,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-16"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:48.251Z"
+}

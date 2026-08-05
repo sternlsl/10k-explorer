@@ -1,0 +1,88 @@
+{
+  "ticker": "ONEW",
+  "name": "OneWater Marine Inc.",
+  "cik": 1772921,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1872334000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "cogs": {
+      "value": 1445312000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -85450000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "netIncome": {
+      "value": -114582000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "epsBasic": {
+      "value": 2.79,
+      "year": 2020,
+      "periodEnd": "2020-09-30",
+      "filed": "2020-12-03"
+    },
+    "epsDiluted": {
+      "value": 2.77,
+      "year": 2020,
+      "periodEnd": "2020-09-30",
+      "filed": "2020-12-03"
+    },
+    "currentAssets": {
+      "value": 719213000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "totalAssets": {
+      "value": 1403825000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "currentLiabilities": {
+      "value": 631296000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "totalLiabilities": {
+      "value": 1118872000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "shareholdersEquity": {
+      "value": 284953000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "operatingCashFlow": {
+      "value": 91753000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "capex": {
+      "value": 12019000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:17.719Z"
+}

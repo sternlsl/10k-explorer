@@ -1,0 +1,78 @@
+{
+  "ticker": "FMHS",
+  "name": "FARMHOUSE, INC. /NV",
+  "cik": 1811999,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 623,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-17"
+    },
+    "cogs": {
+      "value": 125,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-17"
+    },
+    "grossProfit": {
+      "value": 498,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-17"
+    },
+    "operatingIncome": {
+      "value": -410442,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-17"
+    },
+    "netIncome": {
+      "value": -393266,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-17"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 57163,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-17"
+    },
+    "totalAssets": {
+      "value": 57163,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-17"
+    },
+    "currentLiabilities": {
+      "value": 2272492,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-17"
+    },
+    "totalLiabilities": {
+      "value": 2731592,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-17"
+    },
+    "shareholdersEquity": {
+      "value": -2674429,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-17"
+    },
+    "operatingCashFlow": {
+      "value": -179022,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-17"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:06:46.388Z"
+}

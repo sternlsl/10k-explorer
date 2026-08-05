@@ -1,0 +1,93 @@
+{
+  "ticker": "AOUT",
+  "name": "American Outdoor Brands, Inc.",
+  "cik": 1808997,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 190536000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-25"
+    },
+    "cogs": {
+      "value": 105342000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-25"
+    },
+    "grossProfit": {
+      "value": 85194000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-25"
+    },
+    "operatingIncome": {
+      "value": -9000000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-25"
+    },
+    "netIncome": {
+      "value": -9208000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-25"
+    },
+    "epsBasic": {
+      "value": -0.73,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-25"
+    },
+    "epsDiluted": {
+      "value": -0.73,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-25"
+    },
+    "currentAssets": {
+      "value": 162694000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-25"
+    },
+    "totalAssets": {
+      "value": 226620000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-25"
+    },
+    "currentLiabilities": {
+      "value": 29913000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-25"
+    },
+    "totalLiabilities": {
+      "value": 60727000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-25"
+    },
+    "shareholdersEquity": {
+      "value": 165893000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-25"
+    },
+    "operatingCashFlow": {
+      "value": 6315000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-25"
+    },
+    "capex": {
+      "value": 2046000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:49.095Z"
+}

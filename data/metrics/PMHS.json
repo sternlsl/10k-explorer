@@ -1,0 +1,93 @@
+{
+  "ticker": "PMHS",
+  "name": "Polomar Health Services, Inc.",
+  "cik": 1265521,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 648231,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-06"
+    },
+    "cogs": {
+      "value": 188132,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-06"
+    },
+    "grossProfit": {
+      "value": 460099,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-06"
+    },
+    "operatingIncome": {
+      "value": -10550264,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-06"
+    },
+    "netIncome": {
+      "value": -10701105,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-06"
+    },
+    "epsBasic": {
+      "value": -0.39,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-06"
+    },
+    "epsDiluted": {
+      "value": -0.39,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-06"
+    },
+    "currentAssets": {
+      "value": 322727,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-06"
+    },
+    "totalAssets": {
+      "value": 390043,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-06"
+    },
+    "currentLiabilities": {
+      "value": 1612372,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-06"
+    },
+    "totalLiabilities": {
+      "value": 1612372,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-06"
+    },
+    "shareholdersEquity": {
+      "value": -1222329,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-06"
+    },
+    "operatingCashFlow": {
+      "value": -395995,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-05-06"
+    },
+    "capex": {
+      "value": 90893,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2026-05-06"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:45.380Z"
+}

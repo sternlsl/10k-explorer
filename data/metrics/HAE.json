@@ -1,0 +1,88 @@
+{
+  "ticker": "HAE",
+  "name": "HAEMONETICS CORP",
+  "cik": 313143,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1334027000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "cogs": {
+      "value": 546441000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "grossProfit": {
+      "value": 787586000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "operatingIncome": {
+      "value": 156734000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "netIncome": {
+      "value": 97308000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "epsBasic": {
+      "value": 2.06,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "epsDiluted": {
+      "value": 2.05,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "currentAssets": {
+      "value": 834879000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "totalAssets": {
+      "value": 2395925000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "currentLiabilities": {
+      "value": 282599000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 796320000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "operatingCashFlow": {
+      "value": 293221000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    },
+    "capex": {
+      "value": 32780000,
+      "year": 2026,
+      "periodEnd": "2026-03-28",
+      "filed": "2026-05-20"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:11.325Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "LDXC",
+  "name": "Londax Corp.",
+  "cik": 1985554,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 66410,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "cogs": {
+      "value": 12000,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "grossProfit": {
+      "value": 54410,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "operatingIncome": {
+      "value": -1198,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "netIncome": {
+      "value": -1198,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "currentAssets": {
+      "value": 30606,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "totalAssets": {
+      "value": 93308,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "currentLiabilities": {
+      "value": 55653,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 37655,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "operatingCashFlow": {
+      "value": 94461,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-09-02"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2024,
+      "periodEnd": "2024-05-31",
+      "filed": "2024-08-19"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:43.472Z"
+}

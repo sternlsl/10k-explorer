@@ -1,0 +1,83 @@
+{
+  "ticker": "ARKR",
+  "name": "ARK RESTAURANTS CORP",
+  "cik": 779544,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 165751000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-18"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -4064000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-18"
+    },
+    "netIncome": {
+      "value": -11466000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-18"
+    },
+    "epsBasic": {
+      "value": -3.18,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-18"
+    },
+    "epsDiluted": {
+      "value": -3.18,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-18"
+    },
+    "currentAssets": {
+      "value": 17843000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-18"
+    },
+    "totalAssets": {
+      "value": 133503000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-18"
+    },
+    "currentLiabilities": {
+      "value": 23220000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-18"
+    },
+    "totalLiabilities": {
+      "value": 101389000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-18"
+    },
+    "shareholdersEquity": {
+      "value": 32726000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-18"
+    },
+    "operatingCashFlow": {
+      "value": 1752000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-18"
+    },
+    "capex": {
+      "value": 3247000,
+      "year": 2025,
+      "periodEnd": "2025-09-27",
+      "filed": "2025-12-18"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:45.591Z"
+}

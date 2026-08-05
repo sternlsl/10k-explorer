@@ -1,0 +1,93 @@
+{
+  "ticker": "NMGX",
+  "name": "Nano Magic Inc.",
+  "cik": 891417,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 2782390,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-03"
+    },
+    "cogs": {
+      "value": 3451969,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-11-14"
+    },
+    "grossProfit": {
+      "value": 363869,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-03"
+    },
+    "operatingIncome": {
+      "value": -2840932,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-03"
+    },
+    "netIncome": {
+      "value": -2855719,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-03"
+    },
+    "epsBasic": {
+      "value": -0.25,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-03"
+    },
+    "epsDiluted": {
+      "value": -0.25,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-03"
+    },
+    "currentAssets": {
+      "value": 1699821,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-03"
+    },
+    "totalAssets": {
+      "value": 3515104,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-03"
+    },
+    "currentLiabilities": {
+      "value": 1244852,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-03"
+    },
+    "totalLiabilities": {
+      "value": 2205366,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-03"
+    },
+    "shareholdersEquity": {
+      "value": 1309738,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-03"
+    },
+    "operatingCashFlow": {
+      "value": -1537468,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-03"
+    },
+    "capex": {
+      "value": 9352,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:11.019Z"
+}

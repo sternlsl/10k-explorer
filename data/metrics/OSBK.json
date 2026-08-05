@@ -1,0 +1,53 @@
+{
+  "ticker": "OSBK",
+  "name": "OCONEE FINANCIAL CORP",
+  "cik": 1076691,
+  "fiscalYear": 2011,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -2124598,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 259845955,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 237663468,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "shareholdersEquity": {
+      "value": 22182487,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "operatingCashFlow": {
+      "value": 2340408,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "capex": {
+      "value": 78127,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:01.918Z"
+}

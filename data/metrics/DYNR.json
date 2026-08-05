@@ -1,0 +1,88 @@
+{
+  "ticker": "DYNR",
+  "name": "DYNARESOURCE, INC.",
+  "cik": 1111741,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 58467565,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 17279995,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "operatingIncome": {
+      "value": 9666010,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "netIncome": {
+      "value": 3817103,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "epsBasic": {
+      "value": 0.12,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "epsDiluted": {
+      "value": 0.13,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "currentAssets": {
+      "value": 10200354,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "totalAssets": {
+      "value": 57596586,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "currentLiabilities": {
+      "value": 41936062,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "totalLiabilities": {
+      "value": 52834056,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "shareholdersEquity": {
+      "value": -1094950,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "operatingCashFlow": {
+      "value": 5757148,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    },
+    "capex": {
+      "value": 2614497,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:40.018Z"
+}

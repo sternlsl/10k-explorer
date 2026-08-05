@@ -1,0 +1,93 @@
+{
+  "ticker": "WFRD",
+  "name": "Weatherford International plc",
+  "cik": 1603923,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4331000000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-08"
+    },
+    "cogs": {
+      "value": 2142000000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-14"
+    },
+    "grossProfit": {
+      "value": 1101000000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-16"
+    },
+    "operatingIncome": {
+      "value": 756000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "netIncome": {
+      "value": 431000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "epsBasic": {
+      "value": 5.96,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "epsDiluted": {
+      "value": 5.93,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "currentAssets": {
+      "value": 3372000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "totalAssets": {
+      "value": 5197000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "currentLiabilities": {
+      "value": 1537000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "totalLiabilities": {
+      "value": 3501000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "shareholdersEquity": {
+      "value": 1699000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "operatingCashFlow": {
+      "value": 676000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "capex": {
+      "value": 226000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:26.569Z"
+}

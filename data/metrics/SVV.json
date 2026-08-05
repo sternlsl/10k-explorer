@@ -1,0 +1,88 @@
+{
+  "ticker": "SVV",
+  "name": "Savers Value Village, Inc.",
+  "cik": 1883313,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1678954000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-20"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 427617000,
+      "year": 2023,
+      "periodEnd": "2023-12-30",
+      "filed": "2024-03-08"
+    },
+    "operatingIncome": {
+      "value": 124100000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-20"
+    },
+    "netIncome": {
+      "value": 22639000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-20"
+    },
+    "epsBasic": {
+      "value": 0.14,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-20"
+    },
+    "epsDiluted": {
+      "value": 0.14,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-20"
+    },
+    "currentAssets": {
+      "value": 197107000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-20"
+    },
+    "totalAssets": {
+      "value": 2010887000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-20"
+    },
+    "currentLiabilities": {
+      "value": 244017000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-20"
+    },
+    "totalLiabilities": {
+      "value": 1575308000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-20"
+    },
+    "shareholdersEquity": {
+      "value": 435579000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-20"
+    },
+    "operatingCashFlow": {
+      "value": 167280000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-20"
+    },
+    "capex": {
+      "value": 118643000,
+      "year": 2026,
+      "periodEnd": "2026-01-03",
+      "filed": "2026-02-20"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:22.352Z"
+}

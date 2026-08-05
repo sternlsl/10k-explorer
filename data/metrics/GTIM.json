@@ -1,0 +1,83 @@
+{
+  "ticker": "GTIM",
+  "name": "Good Times Restaurants Inc.",
+  "cik": 825324,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 142315000,
+      "year": 2024,
+      "periodEnd": "2024-09-24",
+      "filed": "2024-12-12"
+    },
+    "cogs": {
+      "value": 99636000,
+      "year": 2019,
+      "periodEnd": "2019-09-24",
+      "filed": "2019-12-20"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 330000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "netIncome": {
+      "value": 1024000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "epsBasic": {
+      "value": 0.1,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "epsDiluted": {
+      "value": 0.1,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "currentAssets": {
+      "value": 5254000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "totalAssets": {
+      "value": 83807000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "currentLiabilities": {
+      "value": 14378000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 33058000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "operatingCashFlow": {
+      "value": 1613000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    },
+    "capex": {
+      "value": 3067000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:36.050Z"
+}

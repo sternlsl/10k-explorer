@@ -1,0 +1,93 @@
+{
+  "ticker": "CYDY",
+  "name": "CytoDyn Inc.",
+  "cik": 1175680,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-05-31",
+      "filed": "2023-09-14"
+    },
+    "cogs": {
+      "value": 53000,
+      "year": 2022,
+      "periodEnd": "2022-05-31",
+      "filed": "2023-09-14"
+    },
+    "grossProfit": {
+      "value": 213000,
+      "year": 2022,
+      "periodEnd": "2022-05-31",
+      "filed": "2023-09-14"
+    },
+    "operatingIncome": {
+      "value": 9661000,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-07-25"
+    },
+    "netIncome": {
+      "value": 3745000,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-07-25"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-07-25"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-07-25"
+    },
+    "currentAssets": {
+      "value": 17878000,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-07-25"
+    },
+    "totalAssets": {
+      "value": 18047000,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-07-25"
+    },
+    "currentLiabilities": {
+      "value": 70518000,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-07-25"
+    },
+    "totalLiabilities": {
+      "value": 114089000,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-07-25"
+    },
+    "shareholdersEquity": {
+      "value": -96042000,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-07-25"
+    },
+    "operatingCashFlow": {
+      "value": -8765000,
+      "year": 2025,
+      "periodEnd": "2025-05-31",
+      "filed": "2025-07-25"
+    },
+    "capex": {
+      "value": 122000,
+      "year": 2021,
+      "periodEnd": "2021-05-31",
+      "filed": "2022-08-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:24.386Z"
+}

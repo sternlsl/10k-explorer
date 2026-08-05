@@ -1,0 +1,93 @@
+{
+  "ticker": "KMT",
+  "name": "KENNAMETAL INC",
+  "cik": 55242,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1966845000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "cogs": {
+      "value": 1368775000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "grossProfit": {
+      "value": 598070000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "operatingIncome": {
+      "value": 143123000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "netIncome": {
+      "value": 93125000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "epsBasic": {
+      "value": 1.21,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "epsDiluted": {
+      "value": 1.2,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "currentAssets": {
+      "value": 1039270000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "totalAssets": {
+      "value": 2545412000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "currentLiabilities": {
+      "value": 422329000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "totalLiabilities": {
+      "value": 1220764000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "shareholdersEquity": {
+      "value": 1283979000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "operatingCashFlow": {
+      "value": 208324000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    },
+    "capex": {
+      "value": 88971000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:01.650Z"
+}

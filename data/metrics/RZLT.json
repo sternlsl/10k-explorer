@@ -1,0 +1,78 @@
+{
+  "ticker": "RZLT",
+  "name": "Rezolute, Inc.",
+  "cik": 1509261,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -79894000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "netIncome": {
+      "value": -74412000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "epsBasic": {
+      "value": -0.98,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "epsDiluted": {
+      "value": -0.98,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "currentAssets": {
+      "value": 171145000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "totalAssets": {
+      "value": 175490000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "currentLiabilities": {
+      "value": 11912000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "totalLiabilities": {
+      "value": 13363000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "shareholdersEquity": {
+      "value": 162127000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "operatingCashFlow": {
+      "value": -69075000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-17"
+    },
+    "capex": {
+      "value": 153000,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2024-09-19"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:04.148Z"
+}

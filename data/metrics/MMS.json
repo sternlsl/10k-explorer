@@ -1,0 +1,93 @@
+{
+  "ticker": "MMS",
+  "name": "MAXIMUS, INC.",
+  "cik": 1032220,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5431276000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "cogs": {
+      "value": 4097833000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "grossProfit": {
+      "value": 1333443000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "operatingIncome": {
+      "value": 528289000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "netIncome": {
+      "value": 319034000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "epsBasic": {
+      "value": 5.56,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "epsDiluted": {
+      "value": 5.51,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "currentAssets": {
+      "value": 1252924000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "totalAssets": {
+      "value": 4069639000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "currentLiabilities": {
+      "value": 765163000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "totalLiabilities": {
+      "value": 2395604000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "shareholdersEquity": {
+      "value": 1674035000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "operatingCashFlow": {
+      "value": 429372000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-20"
+    },
+    "capex": {
+      "value": 98994000,
+      "year": 2015,
+      "periodEnd": "2015-09-30",
+      "filed": "2015-11-16"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:37.664Z"
+}

@@ -1,0 +1,63 @@
+{
+  "ticker": "WALDW",
+  "name": "Waldencast plc",
+  "cik": 1840199,
+  "fiscalYear": 2021,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -9133011,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "netIncome": {
+      "value": -14427685,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 1708589,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "totalAssets": {
+      "value": 346793686,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "currentLiabilities": {
+      "value": 367953,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "totalLiabilities": {
+      "value": 56602720,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -54809034,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -815682,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:54.360Z"
+}

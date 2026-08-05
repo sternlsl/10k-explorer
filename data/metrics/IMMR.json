@@ -1,0 +1,93 @@
+{
+  "ticker": "IMMR",
+  "name": "IMMERSION CORP",
+  "cik": 1058811,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 1730694000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-24"
+    },
+    "cogs": {
+      "value": 4000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-02-22"
+    },
+    "grossProfit": {
+      "value": 35783000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-03-06"
+    },
+    "operatingIncome": {
+      "value": 25914000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-24"
+    },
+    "netIncome": {
+      "value": 4524000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-24"
+    },
+    "epsBasic": {
+      "value": 0.14,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-24"
+    },
+    "epsDiluted": {
+      "value": 0.14,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-24"
+    },
+    "currentAssets": {
+      "value": 675152000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-24"
+    },
+    "totalAssets": {
+      "value": 1052342000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-24"
+    },
+    "currentLiabilities": {
+      "value": 293351000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-24"
+    },
+    "totalLiabilities": {
+      "value": 484937000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-24"
+    },
+    "shareholdersEquity": {
+      "value": 297165000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-24"
+    },
+    "operatingCashFlow": {
+      "value": 59066000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-24"
+    },
+    "capex": {
+      "value": 16196000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-24"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:52.881Z"
+}

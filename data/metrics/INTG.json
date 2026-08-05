@@ -1,0 +1,78 @@
+{
+  "ticker": "INTG",
+  "name": "INTERGROUP CORP",
+  "cik": 69422,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 64378000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "cogs": {
+      "value": 7810000,
+      "year": 2019,
+      "periodEnd": "2019-06-30",
+      "filed": "2019-08-30"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 7643000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "netIncome": {
+      "value": -5348000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "epsBasic": {
+      "value": -2.47,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "epsDiluted": {
+      "value": 4.06,
+      "year": 2021,
+      "periodEnd": "2021-06-30",
+      "filed": "2022-09-28"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 104101000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 218405000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "shareholdersEquity": {
+      "value": -86115000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "operatingCashFlow": {
+      "value": 5893000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    },
+    "capex": {
+      "value": 2252000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-30"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:19.702Z"
+}

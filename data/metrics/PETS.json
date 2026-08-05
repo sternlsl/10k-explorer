@@ -1,0 +1,93 @@
+{
+  "ticker": "PETS",
+  "name": "PETMED EXPRESS INC",
+  "cik": 1040130,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 179021000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-02"
+    },
+    "cogs": {
+      "value": 157835000,
+      "year": 2025,
+      "periodEnd": "2025-03-31",
+      "filed": "2025-10-14"
+    },
+    "grossProfit": {
+      "value": 50216000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-02"
+    },
+    "operatingIncome": {
+      "value": -58673000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-02"
+    },
+    "netIncome": {
+      "value": -57286000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-02"
+    },
+    "epsBasic": {
+      "value": -2.74,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-02"
+    },
+    "epsDiluted": {
+      "value": -2.74,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-02"
+    },
+    "currentAssets": {
+      "value": 43564000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-02"
+    },
+    "totalAssets": {
+      "value": 81191000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-02"
+    },
+    "currentLiabilities": {
+      "value": 52034000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-02"
+    },
+    "totalLiabilities": {
+      "value": 52251000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-02"
+    },
+    "shareholdersEquity": {
+      "value": 28940000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-02"
+    },
+    "operatingCashFlow": {
+      "value": -28394000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-02"
+    },
+    "capex": {
+      "value": 4615000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-02"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:09.955Z"
+}

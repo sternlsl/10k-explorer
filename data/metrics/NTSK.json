@@ -1,0 +1,93 @@
+{
+  "ticker": "NTSK",
+  "name": "Netskope Inc",
+  "cik": 2063196,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 708997000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "cogs": {
+      "value": 226328000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "grossProfit": {
+      "value": 482669000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "operatingIncome": {
+      "value": -652579000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "netIncome": {
+      "value": -679388000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": -3.18,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": -3.18,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 1448967000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 1772292000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 681532000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "totalLiabilities": {
+      "value": 1577761000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 194531000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": 38073000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "capex": {
+      "value": 22920000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:22.973Z"
+}

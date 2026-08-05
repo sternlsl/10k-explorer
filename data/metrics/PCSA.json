@@ -1,0 +1,93 @@
+{
+  "ticker": "PCSA",
+  "name": "Processa Pharmaceuticals, Inc.",
+  "cik": 1533743,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-30"
+    },
+    "cogs": {
+      "value": 125876,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2017-09-25"
+    },
+    "grossProfit": {
+      "value": 5000,
+      "year": 2016,
+      "periodEnd": "2016-12-31",
+      "filed": "2017-09-25"
+    },
+    "operatingIncome": {
+      "value": -13988505,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "netIncome": {
+      "value": -13563834,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsBasic": {
+      "value": -10.36,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "epsDiluted": {
+      "value": -10.36,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentAssets": {
+      "value": 5670874,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "totalAssets": {
+      "value": 7813567,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "currentLiabilities": {
+      "value": 2236253,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "totalLiabilities": {
+      "value": 2236253,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "shareholdersEquity": {
+      "value": 5577314,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "operatingCashFlow": {
+      "value": -11385195,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-18"
+    },
+    "capex": {
+      "value": 3244,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:10.720Z"
+}

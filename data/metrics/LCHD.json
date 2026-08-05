@@ -1,0 +1,78 @@
+{
+  "ticker": "LCHD",
+  "name": "Leader Capital Holdings Corp.",
+  "cik": 1715433,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 339442,
+      "year": 2022,
+      "periodEnd": "2022-08-31",
+      "filed": "2022-12-14"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -7562287,
+      "year": 2022,
+      "periodEnd": "2022-08-31",
+      "filed": "2022-12-14"
+    },
+    "netIncome": {
+      "value": -11920097,
+      "year": 2022,
+      "periodEnd": "2022-08-31",
+      "filed": "2022-12-14"
+    },
+    "epsBasic": {
+      "value": -0.07,
+      "year": 2022,
+      "periodEnd": "2022-08-31",
+      "filed": "2022-12-14"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 401958,
+      "year": 2022,
+      "periodEnd": "2022-08-31",
+      "filed": "2022-12-14"
+    },
+    "totalAssets": {
+      "value": 718818,
+      "year": 2022,
+      "periodEnd": "2022-08-31",
+      "filed": "2022-12-14"
+    },
+    "currentLiabilities": {
+      "value": 2650503,
+      "year": 2022,
+      "periodEnd": "2022-08-31",
+      "filed": "2022-12-14"
+    },
+    "totalLiabilities": {
+      "value": 2918925,
+      "year": 2022,
+      "periodEnd": "2022-08-31",
+      "filed": "2022-12-14"
+    },
+    "shareholdersEquity": {
+      "value": -2200107,
+      "year": 2022,
+      "periodEnd": "2022-08-31",
+      "filed": "2022-12-14"
+    },
+    "operatingCashFlow": {
+      "value": -2909958,
+      "year": 2022,
+      "periodEnd": "2022-08-31",
+      "filed": "2022-12-14"
+    },
+    "capex": {
+      "value": 49033,
+      "year": 2022,
+      "periodEnd": "2022-08-31",
+      "filed": "2022-12-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:09.504Z"
+}

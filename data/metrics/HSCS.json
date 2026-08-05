@@ -1,0 +1,93 @@
+{
+  "ticker": "HSCS",
+  "name": "HeartSciences Inc.",
+  "cik": 1468492,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 4319,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-23"
+    },
+    "cogs": {
+      "value": 1768,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-23"
+    },
+    "grossProfit": {
+      "value": 2551,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-23"
+    },
+    "operatingIncome": {
+      "value": -8412867,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-23"
+    },
+    "netIncome": {
+      "value": -9141875,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-23"
+    },
+    "epsBasic": {
+      "value": -3.48,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-23"
+    },
+    "epsDiluted": {
+      "value": -9.34,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-24"
+    },
+    "currentAssets": {
+      "value": 2582928,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-23"
+    },
+    "totalAssets": {
+      "value": 5262673,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-23"
+    },
+    "currentLiabilities": {
+      "value": 4861112,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-23"
+    },
+    "totalLiabilities": {
+      "value": 5036613,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-23"
+    },
+    "shareholdersEquity": {
+      "value": 226060,
+      "year": 2026,
+      "periodEnd": "2026-06-30",
+      "filed": "2026-07-23"
+    },
+    "operatingCashFlow": {
+      "value": -7426707,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-23"
+    },
+    "capex": {
+      "value": 3554,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-07-23"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:17.006Z"
+}

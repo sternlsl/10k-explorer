@@ -1,0 +1,88 @@
+{
+  "ticker": "BBWI",
+  "name": "Bath & Body Works, Inc.",
+  "cik": 701985,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 7291000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "cogs": {
+      "value": 4102000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "grossProfit": {
+      "value": 3189000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "operatingIncome": {
+      "value": 1126000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "netIncome": {
+      "value": 649000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "epsBasic": {
+      "value": 3.12,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "epsDiluted": {
+      "value": 3.11,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "currentAssets": {
+      "value": 2019000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "totalAssets": {
+      "value": 5069000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "currentLiabilities": {
+      "value": 1591000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -1281000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "operatingCashFlow": {
+      "value": 1102000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    },
+    "capex": {
+      "value": 237000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:33.318Z"
+}

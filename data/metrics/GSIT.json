@@ -1,0 +1,93 @@
+{
+  "ticker": "GSIT",
+  "name": "GSI TECHNOLOGY INC",
+  "cik": 1126741,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 25122000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-05"
+    },
+    "cogs": {
+      "value": 11427000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-05"
+    },
+    "grossProfit": {
+      "value": 13695000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-05"
+    },
+    "operatingIncome": {
+      "value": -17477000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-05"
+    },
+    "netIncome": {
+      "value": -13246000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-05"
+    },
+    "epsBasic": {
+      "value": -0.42,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-05"
+    },
+    "epsDiluted": {
+      "value": -0.42,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-05"
+    },
+    "currentAssets": {
+      "value": 79187000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-05"
+    },
+    "totalAssets": {
+      "value": 97953000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-05"
+    },
+    "currentLiabilities": {
+      "value": 9196000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-05"
+    },
+    "totalLiabilities": {
+      "value": 16192000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-05"
+    },
+    "shareholdersEquity": {
+      "value": 81761000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-05"
+    },
+    "operatingCashFlow": {
+      "value": -15923000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-05"
+    },
+    "capex": {
+      "value": 486000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-05"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:21.054Z"
+}

@@ -1,0 +1,93 @@
+{
+  "ticker": "INHD",
+  "name": "INNO HOLDINGS INC.",
+  "cik": 1961847,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2846250,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "cogs": {
+      "value": 2790500,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "grossProfit": {
+      "value": 55750,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "operatingIncome": {
+      "value": -4362473,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "netIncome": {
+      "value": -7079363,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "epsBasic": {
+      "value": -1.31,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "epsDiluted": {
+      "value": -1.31,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "currentAssets": {
+      "value": 13805383,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "totalAssets": {
+      "value": 16005383,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "currentLiabilities": {
+      "value": 468110,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "totalLiabilities": {
+      "value": 838656,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "shareholdersEquity": {
+      "value": 15166727,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "operatingCashFlow": {
+      "value": -4728738,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-15"
+    },
+    "capex": {
+      "value": 559629,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2024-12-09"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:14.460Z"
+}

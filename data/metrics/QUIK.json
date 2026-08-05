@@ -1,0 +1,93 @@
+{
+  "ticker": "QUIK",
+  "name": "QUICKLOGIC Corp",
+  "cik": 882508,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 13774000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-27"
+    },
+    "cogs": {
+      "value": 10740000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-27"
+    },
+    "grossProfit": {
+      "value": 3034000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-27"
+    },
+    "operatingIncome": {
+      "value": -11919000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-27"
+    },
+    "netIncome": {
+      "value": -14816000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-27"
+    },
+    "epsBasic": {
+      "value": -0.91,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-27"
+    },
+    "epsDiluted": {
+      "value": -0.91,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-27"
+    },
+    "currentAssets": {
+      "value": 24223000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalAssets": {
+      "value": 44804000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "currentLiabilities": {
+      "value": 21285000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "totalLiabilities": {
+      "value": 22337000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "shareholdersEquity": {
+      "value": 22467000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-27"
+    },
+    "operatingCashFlow": {
+      "value": -3262000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-27"
+    },
+    "capex": {
+      "value": 3164000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-03-27"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:58.397Z"
+}

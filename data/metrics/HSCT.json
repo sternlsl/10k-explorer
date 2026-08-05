@@ -1,0 +1,68 @@
+{
+  "ticker": "HSCT",
+  "name": "HOOPS SCOUTING USA",
+  "cik": 1721056,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 0,
+      "year": 2019,
+      "periodEnd": "2019-06-30",
+      "filed": "2020-08-05"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -20118,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2026-01-13"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2026-01-13"
+    },
+    "currentAssets": {
+      "value": 76889,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2026-01-13"
+    },
+    "totalAssets": {
+      "value": 76889,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2026-01-13"
+    },
+    "currentLiabilities": {
+      "value": 237676,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2026-01-13"
+    },
+    "totalLiabilities": {
+      "value": 253676,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2026-01-13"
+    },
+    "shareholdersEquity": {
+      "value": -176787,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2026-01-13"
+    },
+    "operatingCashFlow": {
+      "value": -29053,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2026-01-13"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:46.027Z"
+}

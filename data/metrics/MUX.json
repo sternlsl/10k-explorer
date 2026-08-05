@@ -1,0 +1,93 @@
+{
+  "ticker": "MUX",
+  "name": "McEwen Inc.",
+  "cik": 314203,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 197553000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "cogs": {
+      "value": 45180000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-21"
+    },
+    "grossProfit": {
+      "value": 47564000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "operatingIncome": {
+      "value": 2653000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "netIncome": {
+      "value": 34434000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "epsBasic": {
+      "value": 0.64,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "epsDiluted": {
+      "value": 0.59,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "currentAssets": {
+      "value": 107886000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "totalAssets": {
+      "value": 820218000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "currentLiabilities": {
+      "value": 63809000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "totalLiabilities": {
+      "value": 273981000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "shareholdersEquity": {
+      "value": 365328000,
+      "year": 2020,
+      "periodEnd": "2020-12-31",
+      "filed": "2021-03-10"
+    },
+    "operatingCashFlow": {
+      "value": 6865000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "capex": {
+      "value": 62338000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-20"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:26.156Z"
+}

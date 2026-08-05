@@ -1,0 +1,93 @@
+{
+  "ticker": "MGLD",
+  "name": "Marygold Companies, Inc.",
+  "cik": 1005101,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 30154000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-19"
+    },
+    "cogs": {
+      "value": 8282000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-19"
+    },
+    "grossProfit": {
+      "value": 21872000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-19"
+    },
+    "operatingIncome": {
+      "value": -6690000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-19"
+    },
+    "netIncome": {
+      "value": -5820000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-19"
+    },
+    "epsBasic": {
+      "value": -0.14,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-19"
+    },
+    "epsDiluted": {
+      "value": -0.14,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-19"
+    },
+    "currentAssets": {
+      "value": 19046000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-19"
+    },
+    "totalAssets": {
+      "value": 30420000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-19"
+    },
+    "currentLiabilities": {
+      "value": 6632000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-19"
+    },
+    "totalLiabilities": {
+      "value": 7433000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-19"
+    },
+    "shareholdersEquity": {
+      "value": 22987000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-19"
+    },
+    "operatingCashFlow": {
+      "value": -3319000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-19"
+    },
+    "capex": {
+      "value": 54000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-19"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:09.132Z"
+}

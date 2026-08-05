@@ -1,0 +1,93 @@
+{
+  "ticker": "EACO",
+  "name": "EACO CORP",
+  "cik": 784539,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 427931000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "cogs": {
+      "value": 82023000,
+      "year": 2012,
+      "periodEnd": "2012-08-31",
+      "filed": "2012-11-26"
+    },
+    "grossProfit": {
+      "value": 128706000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "operatingIncome": {
+      "value": 41843000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "netIncome": {
+      "value": 32294000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "epsBasic": {
+      "value": 6.63,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "epsDiluted": {
+      "value": 6.59,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "currentAssets": {
+      "value": 185965000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "totalAssets": {
+      "value": 230153000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "currentLiabilities": {
+      "value": 65919000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "totalLiabilities": {
+      "value": 74303000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "shareholdersEquity": {
+      "value": 155850000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "operatingCashFlow": {
+      "value": 17169000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    },
+    "capex": {
+      "value": 1284000,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:07.215Z"
+}

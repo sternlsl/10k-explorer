@@ -1,0 +1,68 @@
+{
+  "ticker": "KRP",
+  "name": "Kimbell Royalty Partners, LP",
+  "cik": 1657788,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 267584785,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-02-21"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 132829000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "netIncome": {
+      "value": 1715740,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-09"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 88483000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalAssets": {
+      "value": 1229340000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentLiabilities": {
+      "value": 10241000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "totalLiabilities": {
+      "value": 456180000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": 246462000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "capex": {
+      "value": 403699,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-12"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:51.286Z"
+}

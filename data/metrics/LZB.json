@@ -1,0 +1,88 @@
+{
+  "ticker": "LZB",
+  "name": "LA-Z-BOY INC",
+  "cik": 57131,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 2126635000,
+      "year": 2026,
+      "periodEnd": "2026-04-25",
+      "filed": "2026-06-16"
+    },
+    "cogs": {
+      "value": 1190034000,
+      "year": 2026,
+      "periodEnd": "2026-04-25",
+      "filed": "2026-06-16"
+    },
+    "grossProfit": {
+      "value": 936601000,
+      "year": 2026,
+      "periodEnd": "2026-04-25",
+      "filed": "2026-06-16"
+    },
+    "operatingIncome": {
+      "value": 129207000,
+      "year": 2026,
+      "periodEnd": "2026-04-25",
+      "filed": "2026-06-16"
+    },
+    "netIncome": {
+      "value": 101985000,
+      "year": 2026,
+      "periodEnd": "2026-04-25",
+      "filed": "2026-06-16"
+    },
+    "epsBasic": {
+      "value": 2.49,
+      "year": 2026,
+      "periodEnd": "2026-04-25",
+      "filed": "2026-06-16"
+    },
+    "epsDiluted": {
+      "value": 2.47,
+      "year": 2026,
+      "periodEnd": "2026-04-25",
+      "filed": "2026-06-16"
+    },
+    "currentAssets": {
+      "value": 773914000,
+      "year": 2026,
+      "periodEnd": "2026-04-25",
+      "filed": "2026-06-16"
+    },
+    "totalAssets": {
+      "value": 2042335000,
+      "year": 2026,
+      "periodEnd": "2026-04-25",
+      "filed": "2026-06-16"
+    },
+    "currentLiabilities": {
+      "value": 429895000,
+      "year": 2026,
+      "periodEnd": "2026-04-25",
+      "filed": "2026-06-16"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1049997000,
+      "year": 2026,
+      "periodEnd": "2026-04-25",
+      "filed": "2026-06-16"
+    },
+    "operatingCashFlow": {
+      "value": 204106000,
+      "year": 2026,
+      "periodEnd": "2026-04-25",
+      "filed": "2026-06-16"
+    },
+    "capex": {
+      "value": 76306000,
+      "year": 2026,
+      "periodEnd": "2026-04-25",
+      "filed": "2026-06-16"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:14.739Z"
+}

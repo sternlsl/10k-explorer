@@ -1,0 +1,88 @@
+{
+  "ticker": "BLMN",
+  "name": "Bloomin' Brands, Inc.",
+  "cik": 1546417,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3955996000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "cogs": {
+      "value": 1177303000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 37163000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "netIncome": {
+      "value": 8237000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "epsBasic": {
+      "value": 0.1,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "epsDiluted": {
+      "value": 0.1,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "currentAssets": {
+      "value": 269638000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "totalAssets": {
+      "value": 3171907000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "currentLiabilities": {
+      "value": 878646000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "totalLiabilities": {
+      "value": 2834742000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "shareholdersEquity": {
+      "value": 333602000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "operatingCashFlow": {
+      "value": 276694000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    },
+    "capex": {
+      "value": 179924000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:04.890Z"
+}

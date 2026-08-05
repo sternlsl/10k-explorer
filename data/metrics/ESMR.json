@@ -1,0 +1,78 @@
+{
+  "ticker": "ESMR",
+  "name": "E-Smart Corp.",
+  "cik": 1995920,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 29289,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-26"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 29247,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-26"
+    },
+    "operatingIncome": {
+      "value": -58141,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-26"
+    },
+    "netIncome": {
+      "value": -68034,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-26"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": -0.01,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-26"
+    },
+    "currentAssets": {
+      "value": 27099,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-26"
+    },
+    "totalAssets": {
+      "value": 141281,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-26"
+    },
+    "currentLiabilities": {
+      "value": 200988,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-26"
+    },
+    "totalLiabilities": {
+      "value": 200988,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-26"
+    },
+    "shareholdersEquity": {
+      "value": -59708,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-26"
+    },
+    "operatingCashFlow": {
+      "value": -43452,
+      "year": 2025,
+      "periodEnd": "2025-08-31",
+      "filed": "2025-11-26"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:42.740Z"
+}

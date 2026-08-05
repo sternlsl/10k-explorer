@@ -1,0 +1,93 @@
+{
+  "ticker": "CXM",
+  "name": "Sprinklr, Inc.",
+  "cik": 1569345,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 857200000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "cogs": {
+      "value": 279417000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "grossProfit": {
+      "value": 577783000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "operatingIncome": {
+      "value": 40239000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "netIncome": {
+      "value": 22905000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "epsBasic": {
+      "value": 0.09,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "epsDiluted": {
+      "value": 0.09,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "currentAssets": {
+      "value": 887980000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "totalAssets": {
+      "value": 1205061000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "currentLiabilities": {
+      "value": 554091000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "totalLiabilities": {
+      "value": 612418000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "shareholdersEquity": {
+      "value": 592643000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "operatingCashFlow": {
+      "value": 159193000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    },
+    "capex": {
+      "value": 1379000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:16.863Z"
+}

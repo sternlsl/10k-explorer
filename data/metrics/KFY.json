@@ -1,0 +1,83 @@
+{
+  "ticker": "KFY",
+  "name": "KORN FERRY",
+  "cik": 56679,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 2938641000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-26"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 374743000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-26"
+    },
+    "netIncome": {
+      "value": 277434000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-26"
+    },
+    "epsBasic": {
+      "value": 5.33,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-26"
+    },
+    "epsDiluted": {
+      "value": 5.22,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-26"
+    },
+    "currentAssets": {
+      "value": 1905977000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-26"
+    },
+    "totalAssets": {
+      "value": 4064776000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-26"
+    },
+    "currentLiabilities": {
+      "value": 982010000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-26"
+    },
+    "totalLiabilities": {
+      "value": 2085873000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-26"
+    },
+    "shareholdersEquity": {
+      "value": 1972606000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-26"
+    },
+    "operatingCashFlow": {
+      "value": 414192000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-26"
+    },
+    "capex": {
+      "value": 89899000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-26"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:38.876Z"
+}

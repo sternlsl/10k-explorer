@@ -1,0 +1,93 @@
+{
+  "ticker": "LUCD",
+  "name": "Lucid Diagnostics Inc.",
+  "cik": 1799011,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4346000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-24"
+    },
+    "cogs": {
+      "value": 100000000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-14"
+    },
+    "grossProfit": {
+      "value": 377000,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-03-14"
+    },
+    "operatingIncome": {
+      "value": -49640000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "netIncome": {
+      "value": -58010000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "epsBasic": {
+      "value": -0.69,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "epsDiluted": {
+      "value": -1.05,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-24"
+    },
+    "currentAssets": {
+      "value": 37468000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "totalAssets": {
+      "value": 40445000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "currentLiabilities": {
+      "value": 28582000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "totalLiabilities": {
+      "value": 29509000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "shareholdersEquity": {
+      "value": 10936000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "operatingCashFlow": {
+      "value": -46485000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    },
+    "capex": {
+      "value": 197000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:57.849Z"
+}

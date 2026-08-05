@@ -1,0 +1,93 @@
+{
+  "ticker": "RH",
+  "name": "RH",
+  "cik": 1528849,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 2647437000,
+      "year": 2020,
+      "periodEnd": "2020-02-01",
+      "filed": "2020-03-30"
+    },
+    "cogs": {
+      "value": 1923779000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "grossProfit": {
+      "value": 1515757000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "operatingIncome": {
+      "value": 387268000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "netIncome": {
+      "value": 124787000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "epsBasic": {
+      "value": 6.65,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "epsDiluted": {
+      "value": 6.31,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "currentAssets": {
+      "value": 1107662000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "totalAssets": {
+      "value": 4835710000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "currentLiabilities": {
+      "value": 930606000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "totalLiabilities": {
+      "value": 4775110000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "shareholdersEquity": {
+      "value": 60600000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "operatingCashFlow": {
+      "value": 452241000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    },
+    "capex": {
+      "value": 199843000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-01"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:20.270Z"
+}

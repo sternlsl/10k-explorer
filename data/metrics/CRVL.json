@@ -1,0 +1,88 @@
+{
+  "ticker": "CRVL",
+  "name": "CORVEL CORP",
+  "cik": 874866,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 958527000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "cogs": {
+      "value": 725664000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "grossProfit": {
+      "value": 232863000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 110344000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "epsBasic": {
+      "value": 2.15,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "epsDiluted": {
+      "value": 2.14,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "currentAssets": {
+      "value": 462297000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "totalAssets": {
+      "value": 642986000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "currentLiabilities": {
+      "value": 228068000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "totalLiabilities": {
+      "value": 248755000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "shareholdersEquity": {
+      "value": 394231000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "operatingCashFlow": {
+      "value": 155640000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    },
+    "capex": {
+      "value": 45357000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-05-22"
+    }
+  },
+  "updatedAt": "2026-08-05T16:56:57.117Z"
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "FWRG",
+  "name": "First Watch Restaurant Group, Inc.",
+  "cik": 1789940,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1222501000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-24"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 27511000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-24"
+    },
+    "netIncome": {
+      "value": 19432000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": 0.32,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-24"
+    },
+    "epsDiluted": {
+      "value": 0.31,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-24"
+    },
+    "currentAssets": {
+      "value": 49080000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-24"
+    },
+    "totalAssets": {
+      "value": 1742029000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-24"
+    },
+    "currentLiabilities": {
+      "value": 167499000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-24"
+    },
+    "totalLiabilities": {
+      "value": 1115750000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-24"
+    },
+    "shareholdersEquity": {
+      "value": 626279000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-24"
+    },
+    "operatingCashFlow": {
+      "value": 125912000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-24"
+    },
+    "capex": {
+      "value": 156906000,
+      "year": 2025,
+      "periodEnd": "2025-12-28",
+      "filed": "2026-02-24"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:14.357Z"
+}

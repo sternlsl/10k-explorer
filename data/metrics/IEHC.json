@@ -1,0 +1,88 @@
+{
+  "ticker": "IEHC",
+  "name": "IEH Corp",
+  "cik": 50292,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 29417600,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-12"
+    },
+    "cogs": {
+      "value": 23866707,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-12"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1631879,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-12"
+    },
+    "netIncome": {
+      "value": -1296784,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-12"
+    },
+    "epsBasic": {
+      "value": -0.53,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-12"
+    },
+    "epsDiluted": {
+      "value": -0.53,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-12"
+    },
+    "currentAssets": {
+      "value": 22085542,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-12"
+    },
+    "totalAssets": {
+      "value": 27058894,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-12"
+    },
+    "currentLiabilities": {
+      "value": 3147798,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-12"
+    },
+    "totalLiabilities": {
+      "value": 4700402,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-12"
+    },
+    "shareholdersEquity": {
+      "value": 22358492,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-12"
+    },
+    "operatingCashFlow": {
+      "value": -631130,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-12"
+    },
+    "capex": {
+      "value": 953094,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-12"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:09.835Z"
+}

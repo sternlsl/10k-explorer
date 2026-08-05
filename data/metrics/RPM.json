@@ -1,0 +1,78 @@
+{
+  "ticker": "RPM",
+  "name": "RPM INTERNATIONAL INC/DE/",
+  "cik": 110621,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 7863422000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "cogs": {
+      "value": 4605197000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "grossProfit": {
+      "value": 3258225000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 661392000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "epsBasic": {
+      "value": 5.19,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "epsDiluted": {
+      "value": 5.17,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "currentAssets": {
+      "value": 3458835000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "totalAssets": {
+      "value": 8344605000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "currentLiabilities": {
+      "value": 2061063000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 3311533000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "operatingCashFlow": {
+      "value": 898708000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-22"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:54:49.987Z"
+}

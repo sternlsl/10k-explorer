@@ -1,0 +1,88 @@
+{
+  "ticker": "CCEL",
+  "name": "CRYO CELL INTERNATIONAL INC",
+  "cik": 862692,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 25384279,
+      "year": 2017,
+      "periodEnd": "2017-11-30",
+      "filed": "2018-02-28"
+    },
+    "cogs": {
+      "value": 7376648,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 482394,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "netIncome": {
+      "value": -2429385,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "epsBasic": {
+      "value": -0.3,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "epsDiluted": {
+      "value": -0.3,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "currentAssets": {
+      "value": 11758221,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "totalAssets": {
+      "value": 61728514,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "currentLiabilities": {
+      "value": 19792987,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "totalLiabilities": {
+      "value": 80334443,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "shareholdersEquity": {
+      "value": -18605929,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "operatingCashFlow": {
+      "value": 5478606,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    },
+    "capex": {
+      "value": 230475,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-02-27"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:49.910Z"
+}

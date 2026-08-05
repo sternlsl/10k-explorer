@@ -1,0 +1,73 @@
+{
+  "ticker": "ACAT",
+  "name": "NP Life Sciences Health Industry Group Inc.",
+  "cik": 1781726,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 164621,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -690,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "netIncome": {
+      "value": -2935,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "epsDiluted": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 76864,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "currentLiabilities": {
+      "value": 38121,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "totalLiabilities": {
+      "value": 60483,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "shareholdersEquity": {
+      "value": 19316,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2023-04-18"
+    },
+    "operatingCashFlow": {
+      "value": -73607,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-04-16"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:34.620Z"
+}

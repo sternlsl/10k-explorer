@@ -1,0 +1,88 @@
+{
+  "ticker": "RAVE",
+  "name": "RAVE RESTAURANT GROUP, INC.",
+  "cik": 718332,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 12039000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-09-25"
+    },
+    "cogs": {
+      "value": 36325000,
+      "year": 2014,
+      "periodEnd": "2014-06-29",
+      "filed": "2014-09-23"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 802,
+      "year": 2012,
+      "periodEnd": "2012-06-24",
+      "filed": "2012-09-24"
+    },
+    "netIncome": {
+      "value": 2702000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-09-25"
+    },
+    "epsBasic": {
+      "value": 0.19,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-09-25"
+    },
+    "epsDiluted": {
+      "value": 0.19,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-09-25"
+    },
+    "currentAssets": {
+      "value": 11493000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-09-25"
+    },
+    "totalAssets": {
+      "value": 16557000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-09-25"
+    },
+    "currentLiabilities": {
+      "value": 1740000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-09-25"
+    },
+    "totalLiabilities": {
+      "value": 2403000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-09-25"
+    },
+    "shareholdersEquity": {
+      "value": 14154000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-09-25"
+    },
+    "operatingCashFlow": {
+      "value": 3395000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-09-25"
+    },
+    "capex": {
+      "value": 56000,
+      "year": 2025,
+      "periodEnd": "2025-06-29",
+      "filed": "2025-09-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:26.714Z"
+}

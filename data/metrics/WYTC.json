@@ -1,0 +1,93 @@
+{
+  "ticker": "WYTC",
+  "name": "WYTEC INTERNATIONAL INC",
+  "cik": 1560143,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 131077,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "cogs": {
+      "value": 55571,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "grossProfit": {
+      "value": 75506,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "operatingIncome": {
+      "value": -3085816,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "netIncome": {
+      "value": -3672367,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "epsBasic": {
+      "value": -0.25,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "epsDiluted": {
+      "value": -0.25,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "currentAssets": {
+      "value": 237003,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "totalAssets": {
+      "value": 323570,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "currentLiabilities": {
+      "value": 2595254,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "totalLiabilities": {
+      "value": 2608098,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "shareholdersEquity": {
+      "value": -2284528,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "operatingCashFlow": {
+      "value": -1704485,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    },
+    "capex": {
+      "value": 1899,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:32.050Z"
+}

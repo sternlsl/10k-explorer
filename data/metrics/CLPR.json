@@ -1,0 +1,68 @@
+{
+  "ticker": "CLPR",
+  "name": "Clipper Realty Inc.",
+  "cik": 1649096,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 109997000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-07"
+    },
+    "cogs": {
+      "value": 149000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 4176000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "netIncome": null,
+    "epsBasic": {
+      "value": -1.38,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsDiluted": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1234319000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1315073000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "shareholdersEquity": {
+      "value": -30706000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "operatingCashFlow": {
+      "value": 22571000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "capex": {
+      "value": 69730000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-02-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:36.035Z"
+}

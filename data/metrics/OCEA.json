@@ -1,0 +1,73 @@
+{
+  "ticker": "OCEA",
+  "name": "Ocean Biomedical, Inc.",
+  "cik": 1869974,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -3798000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "netIncome": {
+      "value": -9480000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "epsBasic": {
+      "value": -0.34,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "epsDiluted": {
+      "value": -0.34,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "currentAssets": {
+      "value": 812000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "totalAssets": {
+      "value": 902000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "currentLiabilities": {
+      "value": 33889000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "totalLiabilities": {
+      "value": 98518000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "shareholdersEquity": {
+      "value": -97616000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "operatingCashFlow": {
+      "value": -4180000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-08"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:07:26.975Z"
+}

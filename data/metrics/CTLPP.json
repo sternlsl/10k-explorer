@@ -1,0 +1,93 @@
+{
+  "ticker": "CTLPP",
+  "name": "CANTALOUPE, INC.",
+  "cik": 896429,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 302548000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "cogs": {
+      "value": 162405000,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-25"
+    },
+    "grossProfit": {
+      "value": 81236000,
+      "year": 2023,
+      "periodEnd": "2023-06-30",
+      "filed": "2023-09-25"
+    },
+    "operatingIncome": {
+      "value": 22330000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "netIncome": {
+      "value": 64533000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "epsBasic": {
+      "value": 0.87,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "epsDiluted": {
+      "value": 0.86,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "currentAssets": {
+      "value": 152925000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "totalAssets": {
+      "value": 381858000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "currentLiabilities": {
+      "value": 82396000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "totalLiabilities": {
+      "value": 128107000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "shareholdersEquity": {
+      "value": 251031000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "operatingCashFlow": {
+      "value": 20340000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-08"
+    },
+    "capex": {
+      "value": 1838000,
+      "year": 2021,
+      "periodEnd": "2021-06-30",
+      "filed": "2021-09-03"
+    }
+  },
+  "updatedAt": "2026-08-05T16:59:06.346Z"
+}

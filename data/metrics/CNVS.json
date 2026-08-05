@@ -1,0 +1,88 @@
+{
+  "ticker": "CNVS",
+  "name": "Cineverse Corp.",
+  "cik": 1173204,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 65733000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "cogs": {
+      "value": 813000,
+      "year": 2022,
+      "periodEnd": "2022-03-31",
+      "filed": "2022-07-01"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -15156000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "netIncome": {
+      "value": -8657000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "epsBasic": {
+      "value": -0.49,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "epsDiluted": {
+      "value": -0.49,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "currentAssets": {
+      "value": 50778000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "totalAssets": {
+      "value": 130281000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "currentLiabilities": {
+      "value": 63009000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "totalLiabilities": {
+      "value": 86909000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "shareholdersEquity": {
+      "value": 44324000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "operatingCashFlow": {
+      "value": -26497000,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-26"
+    },
+    "capex": {
+      "value": 1069000,
+      "year": 2024,
+      "periodEnd": "2024-03-31",
+      "filed": "2024-07-01"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:00.597Z"
+}

@@ -1,0 +1,78 @@
+{
+  "ticker": "AVXL",
+  "name": "ANAVEX LIFE SCIENCES CORP.",
+  "cik": 1314052,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -51408000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "netIncome": {
+      "value": -46377000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "epsBasic": {
+      "value": -0.54,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "epsDiluted": {
+      "value": -0.54,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "currentAssets": {
+      "value": 25329373,
+      "year": 2019,
+      "periodEnd": "2019-09-30",
+      "filed": "2019-12-16"
+    },
+    "totalAssets": {
+      "value": 103815000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "currentLiabilities": {
+      "value": 5039674,
+      "year": 2019,
+      "periodEnd": "2019-09-30",
+      "filed": "2019-12-16"
+    },
+    "totalLiabilities": {
+      "value": 8946000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "shareholdersEquity": {
+      "value": 94869000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "operatingCashFlow": {
+      "value": -39044000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-25"
+    },
+    "capex": {
+      "value": 3015,
+      "year": 2014,
+      "periodEnd": "2014-09-30",
+      "filed": "2016-12-14"
+    }
+  },
+  "updatedAt": "2026-08-05T17:01:03.785Z"
+}

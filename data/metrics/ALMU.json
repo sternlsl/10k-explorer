@@ -1,0 +1,88 @@
+{
+  "ticker": "ALMU",
+  "name": "Aeluma, Inc.",
+  "cik": 1828805,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4665000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "cogs": {
+      "value": 1884000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -2142000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "netIncome": {
+      "value": -3022000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "epsBasic": {
+      "value": -0.23,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "epsDiluted": {
+      "value": -0.23,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "currentAssets": {
+      "value": 17335000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "totalAssets": {
+      "value": 19406000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "currentLiabilities": {
+      "value": 705000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "totalLiabilities": {
+      "value": 1508000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "shareholdersEquity": {
+      "value": 17898000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "operatingCashFlow": {
+      "value": -1148000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    },
+    "capex": {
+      "value": 161000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-09-09"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:20.753Z"
+}

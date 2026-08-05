@@ -2,60 +2,82 @@
   "ticker": "DUK",
   "name": "Duke Energy CORP",
   "cik": 1326160,
-  "fiscalYear": 2012,
+  "fiscalYear": 2025,
   "metrics": {
     "revenue": {
       "value": 19624000000,
       "year": 2012,
-      "periodEnd": "2012-12-31"
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-01"
     },
     "cogs": {
       "value": 6826000000,
       "year": 2019,
-      "periodEnd": "2019-12-31"
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-20"
     },
     "grossProfit": null,
     "operatingIncome": {
       "value": 8626000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     },
     "netIncome": {
       "value": 4968000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsBasic": {
+      "value": 6.31,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
+    },
+    "epsDiluted": {
+      "value": 6.31,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     },
     "currentAssets": {
       "value": 11613000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     },
     "totalAssets": {
       "value": 195736000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     },
     "currentLiabilities": {
       "value": 21047000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     },
     "totalLiabilities": null,
     "shareholdersEquity": {
       "value": 51842000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     },
     "operatingCashFlow": {
       "value": 12330000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     },
     "capex": {
       "value": 14024000000,
       "year": 2025,
-      "periodEnd": "2025-12-31"
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-26"
     }
   },
-  "fetchedAt": "2026-05-08T18:48:09.715Z"
+  "updatedAt": "2026-08-05T16:52:17.301Z"
 }

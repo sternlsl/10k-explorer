@@ -2,68 +2,92 @@
   "ticker": "MDT",
   "name": "Medtronic plc",
   "cik": 1613103,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 33537000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 36364000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-18"
     },
     "cogs": {
-      "value": 11632000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 12721000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-18"
     },
     "grossProfit": {
-      "value": 3734000000,
-      "year": 2020,
-      "periodEnd": "2020-04-24"
+      "value": 20898000000,
+      "year": 2018,
+      "periodEnd": "2018-04-27",
+      "filed": "2018-06-22"
     },
     "operatingIncome": {
-      "value": 5955000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 6467000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-18"
     },
     "netIncome": {
-      "value": 4662000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 4801000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-18"
+    },
+    "epsBasic": {
+      "value": 3.75,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-18"
+    },
+    "epsDiluted": {
+      "value": 3.73,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-18"
     },
     "currentAssets": {
-      "value": 23814000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 24787000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-18"
     },
     "totalAssets": {
-      "value": 91680000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 93028000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-18"
     },
     "currentLiabilities": {
-      "value": 12879000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 11658000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-18"
     },
     "totalLiabilities": {
-      "value": 43424000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 42956000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-18"
     },
     "shareholdersEquity": {
-      "value": 48024000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 49463000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-18"
     },
     "operatingCashFlow": {
-      "value": 7044000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 7330000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-18"
     },
     "capex": {
-      "value": 1859000000,
-      "year": 2025,
-      "periodEnd": "2025-04-25"
+      "value": 1904000000,
+      "year": 2026,
+      "periodEnd": "2026-04-24",
+      "filed": "2026-06-18"
     }
   },
-  "fetchedAt": "2026-05-08T18:56:22.605Z"
+  "updatedAt": "2026-08-05T16:53:28.460Z"
 }

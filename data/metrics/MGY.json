@@ -1,0 +1,68 @@
+{
+  "ticker": "MGY",
+  "name": "Magnolia Oil & Gas Corp",
+  "cik": 1698990,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1311845000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 439181000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "netIncome": {
+      "value": 325252000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 442435000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "totalAssets": {
+      "value": 2903092000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "currentLiabilities": {
+      "value": 288030000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "totalLiabilities": {
+      "value": 24554828,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-14"
+    },
+    "shareholdersEquity": {
+      "value": 5000004,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-14"
+    },
+    "operatingCashFlow": {
+      "value": 878639000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:55:47.770Z"
+}

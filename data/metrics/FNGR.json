@@ -1,0 +1,93 @@
+{
+  "ticker": "FNGR",
+  "name": "FingerMotion, Inc.",
+  "cik": 1602409,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 24132261,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "cogs": {
+      "value": 23438416,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "grossProfit": {
+      "value": 693845,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "operatingIncome": {
+      "value": -6940037,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "netIncome": {
+      "value": -7041333,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "epsBasic": {
+      "value": -0.12,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "epsDiluted": {
+      "value": -0.12,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "currentAssets": {
+      "value": 51771563,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "totalAssets": {
+      "value": 60845989,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "currentLiabilities": {
+      "value": 45678410,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "totalLiabilities": {
+      "value": 45696412,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "shareholdersEquity": {
+      "value": 15187650,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "operatingCashFlow": {
+      "value": -3905194,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    },
+    "capex": {
+      "value": 20216,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:03:49.681Z"
+}

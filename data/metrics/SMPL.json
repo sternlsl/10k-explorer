@@ -1,0 +1,93 @@
+{
+  "ticker": "SMPL",
+  "name": "Simply Good Foods Co",
+  "cik": 1702744,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1450920000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-28"
+    },
+    "cogs": {
+      "value": 925173000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-28"
+    },
+    "grossProfit": {
+      "value": 525747000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-28"
+    },
+    "operatingIncome": {
+      "value": 156887000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-28"
+    },
+    "netIncome": {
+      "value": 103614000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-28"
+    },
+    "epsBasic": {
+      "value": 1.03,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-28"
+    },
+    "epsDiluted": {
+      "value": 1.02,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-28"
+    },
+    "currentAssets": {
+      "value": 453684000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-28"
+    },
+    "totalAssets": {
+      "value": 2396045000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-28"
+    },
+    "currentLiabilities": {
+      "value": 124561000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-28"
+    },
+    "totalLiabilities": {
+      "value": 589212000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-28"
+    },
+    "shareholdersEquity": {
+      "value": 1806833000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-28"
+    },
+    "operatingCashFlow": {
+      "value": 178457000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-28"
+    },
+    "capex": {
+      "value": 20542000,
+      "year": 2025,
+      "periodEnd": "2025-08-30",
+      "filed": "2025-10-28"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:26.905Z"
+}

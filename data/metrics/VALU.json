@@ -1,0 +1,78 @@
+{
+  "ticker": "VALU",
+  "name": "VALUE LINE INC",
+  "cik": 717720,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 36257000,
+      "year": 2019,
+      "periodEnd": "2019-04-30",
+      "filed": "2019-07-26"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 5985000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-29"
+    },
+    "netIncome": {
+      "value": 20686000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-29"
+    },
+    "epsBasic": {
+      "value": 2.2,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-29"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 79883000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-29"
+    },
+    "totalAssets": {
+      "value": 144533000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-29"
+    },
+    "currentLiabilities": {
+      "value": 23653000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-29"
+    },
+    "totalLiabilities": {
+      "value": 44855000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-29"
+    },
+    "shareholdersEquity": {
+      "value": 99678000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-29"
+    },
+    "operatingCashFlow": {
+      "value": 20243000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-29"
+    },
+    "capex": {
+      "value": 178000,
+      "year": 2025,
+      "periodEnd": "2025-04-30",
+      "filed": "2025-07-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:00:59.276Z"
+}

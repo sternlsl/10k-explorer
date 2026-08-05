@@ -1,0 +1,93 @@
+{
+  "ticker": "CHCI",
+  "name": "Comstock Holding Companies, Inc.",
+  "cik": 1299969,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 62861000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "cogs": {
+      "value": 48080000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "grossProfit": {
+      "value": -431000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-29"
+    },
+    "operatingIncome": {
+      "value": 11930000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "netIncome": {
+      "value": 17051000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "epsBasic": {
+      "value": 0.81,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-21"
+    },
+    "epsDiluted": {
+      "value": 0.77,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-21"
+    },
+    "currentAssets": {
+      "value": 53266000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "totalAssets": {
+      "value": 84962000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "currentLiabilities": {
+      "value": 9680000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "totalLiabilities": {
+      "value": 14996000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "shareholdersEquity": {
+      "value": 69966000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "operatingCashFlow": {
+      "value": 4797000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-17"
+    },
+    "capex": {
+      "value": 80000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-03-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:20.919Z"
+}

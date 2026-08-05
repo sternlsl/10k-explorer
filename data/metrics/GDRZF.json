@@ -1,0 +1,58 @@
+{
+  "ticker": "GDRZF",
+  "name": "GOLD RESERVE LTD",
+  "cik": 1072725,
+  "fiscalYear": 2011,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -23612393,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-15"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 59214443,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-15"
+    },
+    "totalAssets": {
+      "value": 78340069,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-15"
+    },
+    "currentLiabilities": {
+      "value": 2310676,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-15"
+    },
+    "totalLiabilities": {
+      "value": 104144167,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-15"
+    },
+    "shareholdersEquity": null,
+    "operatingCashFlow": {
+      "value": -17899443,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-15"
+    },
+    "capex": {
+      "value": 50478,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-15"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:52.812Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "VMNT",
+  "name": "Vemanti Group, Inc.",
+  "cik": 1605057,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 123056,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "cogs": {
+      "value": 22883,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "grossProfit": {
+      "value": 100173,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "operatingIncome": {
+      "value": -1470090,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "netIncome": {
+      "value": -1498878,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "epsBasic": {
+      "value": -0.02,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "epsDiluted": {
+      "value": -0.02,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "currentAssets": {
+      "value": 144941,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "totalAssets": {
+      "value": 144941,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "currentLiabilities": {
+      "value": 317311,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "totalLiabilities": {
+      "value": 317311,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "shareholdersEquity": {
+      "value": -172370,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "operatingCashFlow": {
+      "value": -371105,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-28"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:09:05.622Z"
+}

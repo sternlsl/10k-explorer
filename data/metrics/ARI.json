@@ -1,0 +1,63 @@
+{
+  "ticker": "ARI",
+  "name": "Apollo Commercial Real Estate Finance, Inc.",
+  "cik": 1467760,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 271589000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 126720000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "epsBasic": {
+      "value": 0.81,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "epsDiluted": {
+      "value": 0.81,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 9900967000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 8044877000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "shareholdersEquity": {
+      "value": 1856090000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "operatingCashFlow": {
+      "value": 142521000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-10"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:58:08.494Z"
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "ENSG",
+  "name": "ENSIGN GROUP, INC",
+  "cik": 1125376,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5032118000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "cogs": {
+      "value": 4019076000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 425306000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "netIncome": {
+      "value": 343971000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "epsBasic": {
+      "value": 6,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "epsDiluted": {
+      "value": 5.84,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "currentAssets": {
+      "value": 1272304000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "totalAssets": {
+      "value": 5462970000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "currentLiabilities": {
+      "value": 894346000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "totalLiabilities": {
+      "value": 3228146000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "shareholdersEquity": {
+      "value": 2231725000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "operatingCashFlow": {
+      "value": 564270000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-04"
+    },
+    "capex": {
+      "value": 71541000,
+      "year": 2019,
+      "periodEnd": "2019-12-31",
+      "filed": "2020-02-05"
+    }
+  },
+  "updatedAt": "2026-08-05T16:55:03.945Z"
+}

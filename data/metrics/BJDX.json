@@ -1,0 +1,93 @@
+{
+  "ticker": "BJDX",
+  "name": "Bluejay Diagnostics, Inc.",
+  "cik": 1704287,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 249040,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-03-28"
+    },
+    "cogs": {
+      "value": 200129,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-03-28"
+    },
+    "grossProfit": {
+      "value": 48911,
+      "year": 2022,
+      "periodEnd": "2022-12-31",
+      "filed": "2024-03-28"
+    },
+    "operatingIncome": {
+      "value": -6952972,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "netIncome": {
+      "value": -6848483,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsBasic": {
+      "value": -15.25,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "epsDiluted": {
+      "value": -15.25,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "currentAssets": {
+      "value": 5463602,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "totalAssets": {
+      "value": 7119237,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "currentLiabilities": {
+      "value": 1119197,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "totalLiabilities": {
+      "value": 1143948,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "shareholdersEquity": {
+      "value": 5975289,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "operatingCashFlow": {
+      "value": -6053575,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    },
+    "capex": {
+      "value": 173735,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-03-06"
+    }
+  },
+  "updatedAt": "2026-08-05T17:07:00.356Z"
+}

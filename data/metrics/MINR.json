@@ -1,0 +1,78 @@
+{
+  "ticker": "MINR",
+  "name": "Minerva Gold Inc.",
+  "cik": 1854816,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 33500,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-11"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2022,
+      "periodEnd": "2022-02-28",
+      "filed": "2022-05-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -9389,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-11"
+    },
+    "epsBasic": null,
+    "epsDiluted": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-11"
+    },
+    "currentAssets": {
+      "value": 7491,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-11"
+    },
+    "totalAssets": {
+      "value": 10116,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-11"
+    },
+    "currentLiabilities": {
+      "value": 60280,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-11"
+    },
+    "totalLiabilities": {
+      "value": 60280,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-11"
+    },
+    "shareholdersEquity": {
+      "value": -50164,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-11"
+    },
+    "operatingCashFlow": {
+      "value": -10103,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-11"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2026,
+      "periodEnd": "2026-02-28",
+      "filed": "2026-05-11"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:33.471Z"
+}

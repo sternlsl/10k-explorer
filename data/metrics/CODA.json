@@ -1,0 +1,93 @@
+{
+  "ticker": "CODA",
+  "name": "Coda Octopus Group, Inc.",
+  "cik": 1334325,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 20316161,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-29"
+    },
+    "cogs": {
+      "value": 6143056,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-29"
+    },
+    "grossProfit": {
+      "value": 14173105,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-29"
+    },
+    "operatingIncome": {
+      "value": 3584131,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-29"
+    },
+    "netIncome": {
+      "value": 3645996,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-29"
+    },
+    "epsBasic": {
+      "value": 0.37,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "epsDiluted": {
+      "value": 0.37,
+      "year": 2025,
+      "periodEnd": "2025-10-31",
+      "filed": "2026-01-29"
+    },
+    "currentAssets": {
+      "value": 42982015,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-29"
+    },
+    "totalAssets": {
+      "value": 57544544,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-29"
+    },
+    "currentLiabilities": {
+      "value": 3897016,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-29"
+    },
+    "totalLiabilities": {
+      "value": 4416021,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-29"
+    },
+    "shareholdersEquity": {
+      "value": 53128523,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-29"
+    },
+    "operatingCashFlow": {
+      "value": 2451675,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-29"
+    },
+    "capex": {
+      "value": 502525,
+      "year": 2024,
+      "periodEnd": "2024-10-31",
+      "filed": "2025-01-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:40.561Z"
+}

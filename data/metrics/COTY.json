@@ -1,0 +1,88 @@
+{
+  "ticker": "COTY",
+  "name": "COTY INC.",
+  "cik": 1024305,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5892900000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "cogs": {
+      "value": 2072000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "grossProfit": {
+      "value": 3820900000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "operatingIncome": {
+      "value": 241100000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "netIncome": {
+      "value": -367900000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "epsBasic": {
+      "value": -0.44,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "epsDiluted": {
+      "value": -0.44,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "currentAssets": {
+      "value": 1953300000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "totalAssets": {
+      "value": 11907700000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "currentLiabilities": {
+      "value": 2538300000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "totalLiabilities": {
+      "value": 7952100000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "shareholdersEquity": {
+      "value": 3542700000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "operatingCashFlow": {
+      "value": 492600000,
+      "year": 2025,
+      "periodEnd": "2025-06-30",
+      "filed": "2025-08-21"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:57:27.496Z"
+}

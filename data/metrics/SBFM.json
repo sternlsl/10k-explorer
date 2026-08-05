@@ -1,0 +1,93 @@
+{
+  "ticker": "SBFM",
+  "name": "Sunshine Biopharma Inc.",
+  "cik": 1402328,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 36305891,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "cogs": {
+      "value": 24050214,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "grossProfit": {
+      "value": 12255677,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "operatingIncome": {
+      "value": -6227029,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "netIncome": {
+      "value": -5975352,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "epsBasic": {
+      "value": -1.44,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "epsDiluted": {
+      "value": -7.32,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-01"
+    },
+    "currentAssets": {
+      "value": 26853581,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "totalAssets": {
+      "value": 30079167,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "currentLiabilities": {
+      "value": 6443922,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "totalLiabilities": {
+      "value": 7040707,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "shareholdersEquity": {
+      "value": 23038460,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "operatingCashFlow": {
+      "value": -5331073,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    },
+    "capex": {
+      "value": 174491,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-04-03"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:27.674Z"
+}

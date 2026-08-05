@@ -1,0 +1,88 @@
+{
+  "ticker": "GDLG",
+  "name": "Glidelogic Corp.",
+  "cik": 1848672,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 77,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "cogs": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-04-25"
+    },
+    "grossProfit": {
+      "value": 77,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "operatingIncome": {
+      "value": -93398,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "netIncome": {
+      "value": -93398,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "epsBasic": {
+      "value": 0,
+      "year": 2023,
+      "periodEnd": "2023-01-31",
+      "filed": "2023-04-24"
+    },
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 2703,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "totalAssets": {
+      "value": 5196,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "currentLiabilities": {
+      "value": 131108,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "totalLiabilities": {
+      "value": 131108,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "shareholdersEquity": {
+      "value": -125912,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "operatingCashFlow": {
+      "value": -103071,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-27"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2025,
+      "periodEnd": "2025-01-31",
+      "filed": "2025-04-25"
+    }
+  },
+  "updatedAt": "2026-08-05T17:09:48.364Z"
+}

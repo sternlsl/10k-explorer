@@ -1,0 +1,93 @@
+{
+  "ticker": "VERU",
+  "name": "VERU INC.",
+  "cik": 863894,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 16886419,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2024-12-16"
+    },
+    "cogs": {
+      "value": 11032442,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2024-12-16"
+    },
+    "grossProfit": {
+      "value": 5853977,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2024-12-16"
+    },
+    "operatingIncome": {
+      "value": -24750642,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "netIncome": {
+      "value": -22726279,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "epsBasic": {
+      "value": -1.55,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "epsDiluted": {
+      "value": -1.1,
+      "year": 2023,
+      "periodEnd": "2023-09-30",
+      "filed": "2023-12-08"
+    },
+    "currentAssets": {
+      "value": 18915118,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "totalAssets": {
+      "value": 29835719,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "currentLiabilities": {
+      "value": 7785160,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "totalLiabilities": {
+      "value": 11503049,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "shareholdersEquity": {
+      "value": 18332670,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "operatingCashFlow": {
+      "value": -30043088,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    },
+    "capex": {
+      "value": 1083,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-17"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:31.905Z"
+}

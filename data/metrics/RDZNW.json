@@ -1,0 +1,83 @@
+{
+  "ticker": "RDZNW",
+  "name": "Roadzen Inc.",
+  "cik": 1868640,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 55021792,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "cogs": {
+      "value": 21277579,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -13997054,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "netIncome": {
+      "value": -22516222,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "epsBasic": {
+      "value": -0.29,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "epsDiluted": {
+      "value": -0.29,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "currentAssets": {
+      "value": 32258701,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "totalAssets": {
+      "value": 52658561,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "currentLiabilities": {
+      "value": 58303974,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "totalLiabilities": {
+      "value": 79177145,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "shareholdersEquity": {
+      "value": -29648237,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "operatingCashFlow": {
+      "value": -20271401,
+      "year": 2026,
+      "periodEnd": "2026-03-31",
+      "filed": "2026-06-29"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:02:24.619Z"
+}

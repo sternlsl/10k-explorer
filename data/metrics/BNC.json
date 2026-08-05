@@ -1,0 +1,93 @@
+{
+  "ticker": "BNC",
+  "name": "CEA Industries Inc.",
+  "cik": 1482541,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 26407000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-23"
+    },
+    "cogs": {
+      "value": 18536000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-23"
+    },
+    "grossProfit": {
+      "value": 7871000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-23"
+    },
+    "operatingIncome": {
+      "value": -159567000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-23"
+    },
+    "netIncome": {
+      "value": 115245000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-23"
+    },
+    "epsBasic": {
+      "value": 2.52,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-23"
+    },
+    "epsDiluted": {
+      "value": 2.52,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-23"
+    },
+    "currentAssets": {
+      "value": 10228000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-23"
+    },
+    "totalAssets": {
+      "value": 337846000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-23"
+    },
+    "currentLiabilities": {
+      "value": 8644000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-23"
+    },
+    "totalLiabilities": {
+      "value": 33070000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-23"
+    },
+    "shareholdersEquity": {
+      "value": 304776000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-23"
+    },
+    "operatingCashFlow": {
+      "value": -26622000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-23"
+    },
+    "capex": {
+      "value": 9000,
+      "year": 2026,
+      "periodEnd": "2026-04-30",
+      "filed": "2026-06-23"
+    }
+  },
+  "updatedAt": "2026-08-05T17:02:38.956Z"
+}

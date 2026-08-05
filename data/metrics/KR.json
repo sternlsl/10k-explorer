@@ -2,60 +2,82 @@
   "ticker": "KR",
   "name": "KROGER CO",
   "cik": 56873,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
       "value": 147642000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "cogs": {
       "value": 71494000000,
-      "year": 2011,
-      "periodEnd": "2012-01-28"
+      "year": 2012,
+      "periodEnd": "2012-01-28",
+      "filed": "2012-03-27"
     },
     "grossProfit": null,
     "operatingIncome": {
       "value": 1890000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "netIncome": {
       "value": 1016000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "epsBasic": {
+      "value": 1.55,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
+    },
+    "epsDiluted": {
+      "value": 1.54,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "currentAssets": {
       "value": 14505000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "totalAssets": {
       "value": 49953000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "currentLiabilities": {
       "value": 18108000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "totalLiabilities": {
       "value": 44017000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "shareholdersEquity": {
       "value": 5927000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "operatingCashFlow": {
       "value": 7311000000,
-      "year": 2025,
-      "periodEnd": "2026-01-31"
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-03-31"
     },
     "capex": null
   },
-  "fetchedAt": "2026-05-08T18:54:49.135Z"
+  "updatedAt": "2026-08-05T16:53:51.996Z"
 }

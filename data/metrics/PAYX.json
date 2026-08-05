@@ -2,64 +2,87 @@
   "ticker": "PAYX",
   "name": "PAYCHEX INC",
   "cik": 723531,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "metrics": {
     "revenue": {
-      "value": 5410000000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 6301100000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-17"
     },
     "cogs": {
-      "value": 1540400000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 1674500000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-17"
     },
     "grossProfit": null,
     "operatingIncome": {
-      "value": 2207700000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 2510500000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-17"
     },
     "netIncome": {
-      "value": 674900000,
-      "year": 2015,
-      "periodEnd": "2015-05-31"
+      "value": 1760100000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-17"
+    },
+    "epsBasic": {
+      "value": 4.9,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-17"
+    },
+    "epsDiluted": {
+      "value": 4.89,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-17"
     },
     "currentAssets": {
-      "value": 8916500000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 8613300000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-17"
     },
     "totalAssets": {
-      "value": 16564100000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 16174500000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-17"
     },
     "currentLiabilities": {
-      "value": 6956300000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 6840600000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-17"
     },
     "totalLiabilities": {
-      "value": 12436100000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 12439400000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-17"
     },
     "shareholdersEquity": {
-      "value": 4128000000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 3735100000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-17"
     },
     "operatingCashFlow": {
-      "value": 1900900000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 2556700000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-17"
     },
     "capex": {
-      "value": 191800000,
-      "year": 2025,
-      "periodEnd": "2025-05-31"
+      "value": 234900000,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-07-17"
     }
   },
-  "fetchedAt": "2026-05-08T18:59:09.474Z"
+  "updatedAt": "2026-08-05T16:54:01.462Z"
 }

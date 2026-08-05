@@ -1,0 +1,83 @@
+{
+  "ticker": "VNCE",
+  "name": "VINCE HOLDING CORP.",
+  "cik": 1579157,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 300007000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "cogs": {
+      "value": 150864000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "grossProfit": {
+      "value": 149143000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "operatingIncome": {
+      "value": 9238000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "netIncome": {
+      "value": 6378000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "epsBasic": {
+      "value": 0.49,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "epsDiluted": {
+      "value": 0.49,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "currentAssets": {
+      "value": 100990000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "totalAssets": {
+      "value": 225041000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "currentLiabilities": {
+      "value": 67923000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 50100000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "operatingCashFlow": {
+      "value": 2987000,
+      "year": 2026,
+      "periodEnd": "2026-01-31",
+      "filed": "2026-04-16"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:03:41.547Z"
+}

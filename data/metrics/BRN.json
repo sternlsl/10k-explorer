@@ -1,0 +1,88 @@
+{
+  "ticker": "BRN",
+  "name": "BARNWELL INDUSTRIES INC",
+  "cik": 10048,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 13697000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "cogs": {
+      "value": 3650000,
+      "year": 2018,
+      "periodEnd": "2018-09-30",
+      "filed": "2018-12-20"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 30000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "netIncome": {
+      "value": -7103000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "epsBasic": {
+      "value": -0.71,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "epsDiluted": {
+      "value": -0.71,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "currentAssets": {
+      "value": 5230000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "totalAssets": {
+      "value": 20812000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "currentLiabilities": {
+      "value": 4726000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "totalLiabilities": {
+      "value": 13790000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "shareholdersEquity": {
+      "value": 7008000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-12-23"
+    },
+    "operatingCashFlow": {
+      "value": 4710000,
+      "year": 2024,
+      "periodEnd": "2024-09-30",
+      "filed": "2024-12-17"
+    },
+    "capex": {
+      "value": 750000,
+      "year": 2018,
+      "periodEnd": "2018-09-30",
+      "filed": "2018-12-20"
+    }
+  },
+  "updatedAt": "2026-08-05T17:05:26.877Z"
+}

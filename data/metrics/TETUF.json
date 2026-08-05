@@ -1,0 +1,63 @@
+{
+  "ticker": "TETUF",
+  "name": "Technology & Telecommunication Acquisition Corp",
+  "cik": 1900679,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1131512,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-09"
+    },
+    "netIncome": {
+      "value": -731371,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-09"
+    },
+    "epsBasic": null,
+    "epsDiluted": null,
+    "currentAssets": {
+      "value": 27863,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-09"
+    },
+    "totalAssets": {
+      "value": 170335,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-09"
+    },
+    "currentLiabilities": {
+      "value": 6493530,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-09"
+    },
+    "totalLiabilities": {
+      "value": 10518530,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-09"
+    },
+    "shareholdersEquity": {
+      "value": -10490667,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-09"
+    },
+    "operatingCashFlow": {
+      "value": -342483,
+      "year": 2025,
+      "periodEnd": "2025-11-30",
+      "filed": "2026-03-09"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T17:04:23.500Z"
+}

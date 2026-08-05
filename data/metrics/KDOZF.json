@@ -1,0 +1,93 @@
+{
+  "ticker": "KDOZF",
+  "name": "KIDOZ INC.",
+  "cik": 1318482,
+  "fiscalYear": 2021,
+  "metrics": {
+    "revenue": {
+      "value": 93475,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-21"
+    },
+    "cogs": {
+      "value": 7143148,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "grossProfit": {
+      "value": 5332332,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "operatingIncome": {
+      "value": 35743,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "netIncome": {
+      "value": -190321,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "epsBasic": {
+      "value": -0.01,
+      "year": 2011,
+      "periodEnd": "2011-12-31",
+      "filed": "2012-03-30"
+    },
+    "epsDiluted": {
+      "value": 55812511,
+      "year": 2015,
+      "periodEnd": "2015-12-31",
+      "filed": "2016-03-17"
+    },
+    "currentAssets": {
+      "value": 8811939,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "totalAssets": {
+      "value": 13925531,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "currentLiabilities": {
+      "value": 4275088,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "totalLiabilities": {
+      "value": 4574834,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 9350697,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "operatingCashFlow": {
+      "value": 851533,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    },
+    "capex": {
+      "value": 8152,
+      "year": 2021,
+      "periodEnd": "2021-12-31",
+      "filed": "2022-03-31"
+    }
+  },
+  "updatedAt": "2026-08-05T17:04:48.328Z"
+}

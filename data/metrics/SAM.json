@@ -1,0 +1,93 @@
+{
+  "ticker": "SAM",
+  "name": "BOSTON BEER CO INC",
+  "cik": 949870,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1964994000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "cogs": {
+      "value": 1012414000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "grossProfit": {
+      "value": 952580000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "operatingIncome": {
+      "value": 144882000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "netIncome": {
+      "value": 108469000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "epsBasic": {
+      "value": 9.9,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "epsDiluted": {
+      "value": 9.89,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "currentAssets": {
+      "value": 417579000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "totalAssets": {
+      "value": 1193595000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "currentLiabilities": {
+      "value": 252534000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "totalLiabilities": {
+      "value": 347315000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "shareholdersEquity": {
+      "value": 846280000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "operatingCashFlow": {
+      "value": 270158000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    },
+    "capex": {
+      "value": 54563000,
+      "year": 2025,
+      "periodEnd": "2025-12-27",
+      "filed": "2026-02-24"
+    }
+  },
+  "updatedAt": "2026-08-05T16:57:26.118Z"
+}

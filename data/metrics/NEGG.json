@@ -1,0 +1,88 @@
+{
+  "ticker": "NEGG",
+  "name": "Newegg Commerce, Inc.",
+  "cik": 1474627,
+  "fiscalYear": 2012,
+  "metrics": {
+    "revenue": {
+      "value": 21370325,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-18"
+    },
+    "cogs": {
+      "value": 13254587,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-18"
+    },
+    "grossProfit": {
+      "value": 8115738,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-18"
+    },
+    "operatingIncome": {
+      "value": 4387360,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-18"
+    },
+    "netIncome": {
+      "value": 3206151,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-18"
+    },
+    "epsBasic": {
+      "value": 0.7,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-18"
+    },
+    "epsDiluted": {
+      "value": 0.7,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-18"
+    },
+    "currentAssets": {
+      "value": 32692977,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-18"
+    },
+    "totalAssets": {
+      "value": 38282939,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-18"
+    },
+    "currentLiabilities": {
+      "value": 3840477,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-18"
+    },
+    "totalLiabilities": {
+      "value": 4214643,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-18"
+    },
+    "shareholdersEquity": {
+      "value": 32628390,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-18"
+    },
+    "operatingCashFlow": {
+      "value": 1704876,
+      "year": 2012,
+      "periodEnd": "2012-12-31",
+      "filed": "2013-03-18"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:59:32.258Z"
+}

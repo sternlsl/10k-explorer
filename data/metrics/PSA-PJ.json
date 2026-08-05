@@ -1,0 +1,78 @@
+{
+  "ticker": "PSA-PJ",
+  "name": "Public Storage",
+  "cik": 1393311,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4824113000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "cogs": {
+      "value": 739722000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-27"
+    },
+    "grossProfit": {
+      "value": 2014558000,
+      "year": 2018,
+      "periodEnd": "2018-12-31",
+      "filed": "2019-02-27"
+    },
+    "operatingIncome": {
+      "value": 1423142000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-03-01"
+    },
+    "netIncome": {
+      "value": 1784348000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "epsBasic": {
+      "value": 9.04,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "epsDiluted": {
+      "value": 9.01,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 20208604000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 10866770000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "shareholdersEquity": {
+      "value": 9248128000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "operatingCashFlow": {
+      "value": 3186449000,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-02-12"
+    },
+    "capex": null
+  },
+  "updatedAt": "2026-08-05T16:53:46.439Z"
+}

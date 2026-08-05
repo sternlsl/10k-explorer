@@ -1,0 +1,63 @@
+{
+  "ticker": "CIZN",
+  "name": "CITIZENS HOLDING CO /MS/",
+  "cik": 1075706,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": null,
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 1854000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "epsBasic": {
+      "value": 0.33,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "epsDiluted": {
+      "value": 0.33,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1404597000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1361824000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "shareholdersEquity": {
+      "value": 42773000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "operatingCashFlow": {
+      "value": 5523000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    },
+    "capex": {
+      "value": 718000,
+      "year": 2023,
+      "periodEnd": "2023-12-31",
+      "filed": "2024-03-29"
+    }
+  },
+  "updatedAt": "2026-08-05T17:08:59.196Z"
+}

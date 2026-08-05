@@ -1,0 +1,93 @@
+{
+  "ticker": "BSPK",
+  "name": "Bespoke Extracts, Inc.",
+  "cik": 1409197,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 1117452,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-21"
+    },
+    "cogs": {
+      "value": 664517,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-21"
+    },
+    "grossProfit": {
+      "value": 452935,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-21"
+    },
+    "operatingIncome": {
+      "value": -994628,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-21"
+    },
+    "netIncome": {
+      "value": -1037475,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-21"
+    },
+    "epsBasic": {
+      "value": -0.1,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-21"
+    },
+    "epsDiluted": {
+      "value": -0.1,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-21"
+    },
+    "currentAssets": {
+      "value": 165257,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-21"
+    },
+    "totalAssets": {
+      "value": 359088,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-21"
+    },
+    "currentLiabilities": {
+      "value": 1118671,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-21"
+    },
+    "totalLiabilities": {
+      "value": 2451026,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-21"
+    },
+    "shareholdersEquity": {
+      "value": -2091938,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-21"
+    },
+    "operatingCashFlow": {
+      "value": -289802,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-21"
+    },
+    "capex": {
+      "value": 600000,
+      "year": 2024,
+      "periodEnd": "2024-12-31",
+      "filed": "2025-04-21"
+    }
+  },
+  "updatedAt": "2026-08-05T17:06:54.027Z"
+}

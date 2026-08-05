@@ -1,0 +1,78 @@
+{
+  "ticker": "FOR",
+  "name": "Forestar Group Inc.",
+  "cik": 1406587,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1662400000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "cogs": {
+      "value": 1298900000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 39765000,
+      "year": 2017,
+      "periodEnd": "2017-12-31",
+      "filed": "2018-02-28"
+    },
+    "netIncome": {
+      "value": 167900000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "epsBasic": {
+      "value": 3.3,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "epsDiluted": {
+      "value": 3.29,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 3137000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1368100000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "shareholdersEquity": {
+      "value": 1767900000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "operatingCashFlow": {
+      "value": -197700000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    },
+    "capex": {
+      "value": 2200000,
+      "year": 2025,
+      "periodEnd": "2025-09-30",
+      "filed": "2025-11-19"
+    }
+  },
+  "updatedAt": "2026-08-05T16:58:17.427Z"
+}
