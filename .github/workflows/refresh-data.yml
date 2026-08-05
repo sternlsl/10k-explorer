@@ -1,0 +1,94 @@
+name: Refresh EDGAR data
+
+# Pulls the latest annual figures from SEC EDGAR and commits any that changed.
+# A full pass over every filer takes ~17 minutes; runs that find no new filings
+# commit nothing.
+
+on:
+  # The monthly schedule is intentionally disabled on main. This file exists
+  # here only so the workflow can be dispatched against the data-pipeline
+  # branch, which GitHub allows only for workflows present on the default
+  # branch. Merging data-pipeline re-enables the schedule.
+  #
+  # schedule:
+  #   # 06:00 UTC on the 1st of each month.
+  #   - cron: '0 6 1 * *'
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: 'Companies to refresh'
+        type: choice
+        default: all
+        options: [all, default]
+      force:
+        description: 'Refetch even if recently checked'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# Never let a scheduled run overlap a manual one — both commit to main.
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      # Full history so the rebase-and-retry below works on a real branch.
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch EDGAR data
+        run: |
+          node scripts/fetch-data.js \
+            ${{ (inputs.scope || 'all') == 'all' && '--all' || '' }} \
+            ${{ inputs.force && '--force' || '' }}
+
+      - name: Commit changes
+        env:
+          # Commit back to whichever ref was dispatched, so this can be tested
+          # on a branch without touching the branch that GitHub Pages serves.
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/
+
+          if git diff --cached --quiet; then
+            echo "No filings changed — nothing to commit."
+            exit 0
+          fi
+
+          # Count only company files, not the bookkeeping ones.
+          changed=$(git diff --cached --name-only -- data/metrics/ | wc -l | tr -d ' ')
+          git commit -m "Refresh EDGAR data (${changed} companies updated)"
+
+          # A scheduled run can collide with a human push; rebase and retry.
+          for attempt in 1 2 3; do
+            if git push origin "HEAD:${BRANCH}"; then exit 0; fi
+            git pull --rebase origin "${BRANCH}"
+          done
+          echo "Could not push after 3 attempts." >&2
+          exit 1
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "### EDGAR refresh" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f data/manifest.json ]; then
+            echo '```json' >> "$GITHUB_STEP_SUMMARY"
+            cat data/manifest.json >> "$GITHUB_STEP_SUMMARY"
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "The fetch step did not complete." >> "$GITHUB_STEP_SUMMARY"
+          fi
