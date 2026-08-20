@@ -29,6 +29,7 @@ const OUT_DIR     = path.join(__dirname, '..', 'data', 'metrics');
 const CIK_MAP     = path.join(__dirname, '..', 'data', 'companies.json');
 const FETCH_STATE = path.join(__dirname, '..', 'data', 'fetch-state.json');
 const MANIFEST    = path.join(__dirname, '..', 'data', 'manifest.json');
+const AVAILABLE   = path.join(__dirname, '..', 'data', 'available.json');
 
 // SEC asks for no more than 10 requests/second. We run below that.
 const REQS_PER_SEC = 8;
@@ -479,9 +480,21 @@ async function main() {
   );
   fs.writeFileSync(FETCH_STATE, JSON.stringify(sortedState, null, 2) + '\n');
 
+  // The tickers the site can actually show. companies.json lists every SEC
+  // filer, but roughly a third of them — foreign IFRS filers, funds, trusts,
+  // shells — report no us-gaap facts and so have no metrics file. Publishing
+  // the available set keeps search from offering companies that would fail to
+  // load when picked.
+  const available = fs.readdirSync(OUT_DIR)
+    .filter(f => f.endsWith('.json'))
+    .map(f => f.slice(0, -'.json'.length))
+    .filter(ticker => companies[ticker])
+    .sort();
+  fs.writeFileSync(AVAILABLE, JSON.stringify(available) + '\n');
+
   fs.writeFileSync(MANIFEST, JSON.stringify({
     refreshedAt: new Date().toISOString(),
-    companies: fs.readdirSync(OUT_DIR).filter(f => f.endsWith('.json')).length,
+    companies: available.length,
     scope: tickerArgs.length ? 'tickers' : all ? 'all' : 'default',
   }, null, 2) + '\n');
 
