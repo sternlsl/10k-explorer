@@ -3,11 +3,18 @@ import { CACHE_TTL } from './config.js';
 // data/companies.json — bundled ticker→{cik,name} index (no CORS issues, same origin)
 const COMPANIES_URL = './data/companies.json';
 
+// data/available.json — the subset of those tickers we hold metrics for
+const AVAILABLE_URL = './data/available.json';
+
 // data/metrics/{ticker}.json — pre-fetched GAAP metrics per company
 const METRICS_URL = (ticker) => `./data/metrics/${ticker}.json`;
 
 // In-memory ticker index: { TICKER: { cik, name } }
 let tickersIndex = null;
+
+// Tickers with a metrics file, or null when the availability list could not be
+// loaded — see hasMetrics().
+let availableTickers = null;
 
 // ─── Ticker index ─────────────────────────────────────────────────────────────
 
@@ -16,6 +23,26 @@ export async function loadTickersIndex() {
   const res = await fetch(COMPANIES_URL);
   if (!res.ok) throw new Error('Failed to load company index.');
   tickersIndex = await res.json();
+
+  // companies.json covers every SEC filer, but about a third of them — foreign
+  // IFRS filers, funds, trusts, shells — report no us-gaap facts and have no
+  // metrics file. Loading the available set lets search offer only companies
+  // that will actually open.
+  try {
+    const availableRes = await fetch(AVAILABLE_URL);
+    if (availableRes.ok) availableTickers = new Set(await availableRes.json());
+  } catch {
+    // Left null below: an unusable availability list must not empty out search.
+  }
+}
+
+/**
+ * Whether we hold metrics for a ticker. If the availability list is missing —
+ * an older deployment, a failed request — every ticker reports true and the
+ * metrics fetch itself is left to decide, as it did before the list existed.
+ */
+export function hasMetrics(ticker) {
+  return !availableTickers || availableTickers.has(ticker.toUpperCase());
 }
 
 export function lookupTicker(ticker) {
@@ -28,8 +55,9 @@ export function searchCompanies(query) {
   return Object.entries(tickersIndex)
     .filter(
       ([ticker, c]) =>
-        ticker.toLowerCase().startsWith(q) ||
-        c.name.toLowerCase().includes(q)
+        hasMetrics(ticker) &&
+        (ticker.toLowerCase().startsWith(q) ||
+          c.name.toLowerCase().includes(q))
     )
     .map(([ticker, c]) => ({ ticker, ...c }))
     .slice(0, 20);

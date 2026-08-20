@@ -1,5 +1,5 @@
 import { INDUSTRY_GROUPS, MAX_COMPANIES, DEFAULT_GROUP } from './config.js';
-import { loadTickersIndex, lookupTicker, searchCompanies, getCompanyMetrics } from './edgar.js';
+import { loadTickersIndex, lookupTicker, hasMetrics, searchCompanies, getCompanyMetrics } from './edgar.js';
 import {
   renderIndustryShortcuts,
   setActiveShortcut,
@@ -51,6 +51,14 @@ async function addCompany(ticker) {
   const info = lookupTicker(ticker);
   if (!info) {
     showError(`"${ticker}" not found. Try searching by company name.`);
+    return;
+  }
+
+  // In the SEC's ticker index but with no metrics of its own. Foreign filers
+  // reporting under IFRS, funds, trusts, and shells all file with the SEC
+  // without ever tagging the US-GAAP annual concepts this site reads.
+  if (!hasMetrics(ticker)) {
+    showError(`No 10-K figures for ${info.name} (${ticker}) — it doesn't report annual US-GAAP data to the SEC.`);
     return;
   }
 

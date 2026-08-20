@@ -117,6 +117,7 @@ The monthly refresh above covers most of the need without any of that: a 10-K is
 │   └── ui.js         # All DOM rendering
 ├── data/
 │   ├── companies.json        # Ticker → CIK/name index (all SEC filers)
+│   ├── available.json        # Tickers with metrics — what search can offer
 │   ├── fetch-state.json      # Per-company: last checked, has GAAP data
 │   ├── manifest.json         # Timestamp and scope of the last refresh
 │   └── metrics/              # Pre-fetched GAAP metrics, one file per ticker
