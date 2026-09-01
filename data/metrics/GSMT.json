@@ -2,75 +2,76 @@
   "ticker": "GSMT",
   "name": "Global-Smart.Tech",
   "cik": 1940243,
-  "fiscalYear": 2025,
+  "fiscalYear": 2026,
   "fiscalYears": [
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "metrics": {
     "revenue": {
-      "value": 6868,
-      "year": 2025,
-      "periodEnd": "2025-05-31",
-      "filed": "2025-08-29"
+      "value": 79156,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-08-13"
     },
     "cogs": null,
     "grossProfit": null,
     "operatingIncome": {
-      "value": -124374,
-      "year": 2025,
-      "periodEnd": "2025-05-31",
-      "filed": "2025-08-29"
+      "value": -103768,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-08-13"
     },
     "netIncome": {
-      "value": -124374,
-      "year": 2025,
-      "periodEnd": "2025-05-31",
-      "filed": "2025-08-29"
+      "value": -103768,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-08-13"
     },
     "epsBasic": {
       "value": -0.02,
-      "year": 2025,
-      "periodEnd": "2025-05-31",
-      "filed": "2025-08-29"
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-08-13"
     },
     "epsDiluted": null,
     "currentAssets": {
-      "value": 31238,
-      "year": 2025,
-      "periodEnd": "2025-05-31",
-      "filed": "2025-08-29"
+      "value": 9181,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-08-13"
     },
     "totalAssets": {
-      "value": 220904,
-      "year": 2025,
-      "periodEnd": "2025-05-31",
-      "filed": "2025-08-29"
+      "value": 124649,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-08-13"
     },
     "currentLiabilities": {
-      "value": 459665,
-      "year": 2025,
-      "periodEnd": "2025-05-31",
-      "filed": "2025-08-29"
+      "value": 459975,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-08-13"
     },
     "totalLiabilities": {
-      "value": 459665,
-      "year": 2025,
-      "periodEnd": "2025-05-31",
-      "filed": "2025-08-29"
+      "value": 459975,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-08-13"
     },
     "shareholdersEquity": {
-      "value": -238761,
-      "year": 2025,
-      "periodEnd": "2025-05-31",
-      "filed": "2025-08-29"
+      "value": -335326,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-08-13"
     },
     "operatingCashFlow": {
-      "value": -38922,
-      "year": 2025,
-      "periodEnd": "2025-05-31",
-      "filed": "2025-08-29"
+      "value": -24375,
+      "year": 2026,
+      "periodEnd": "2026-05-31",
+      "filed": "2026-08-13"
     },
     "capex": null
   },
@@ -78,73 +79,87 @@
     "revenue": {
       "2023": null,
       "2024": null,
-      "2025": 6868
+      "2025": 6868,
+      "2026": 79156
     },
     "cogs": {
       "2023": null,
       "2024": null,
-      "2025": null
+      "2025": null,
+      "2026": null
     },
     "grossProfit": {
       "2023": null,
       "2024": null,
-      "2025": null
+      "2025": null,
+      "2026": null
     },
     "operatingIncome": {
       "2023": null,
       "2024": -91409,
-      "2025": -124374
+      "2025": -124374,
+      "2026": -103768
     },
     "netIncome": {
       "2023": null,
       "2024": -91409,
-      "2025": -124374
+      "2025": -124374,
+      "2026": -103768
     },
     "epsBasic": {
       "2023": null,
       "2024": -0.02,
-      "2025": -0.02
+      "2025": -0.02,
+      "2026": -0.02
     },
     "epsDiluted": {
       "2023": null,
       "2024": null,
-      "2025": null
+      "2025": null,
+      "2026": null
     },
     "currentAssets": {
       "2023": null,
       "2024": null,
-      "2025": 31238
+      "2025": 31238,
+      "2026": 9181
     },
     "totalAssets": {
       "2023": null,
       "2024": 263863,
-      "2025": 220904
+      "2025": 220904,
+      "2026": 124649
     },
     "currentLiabilities": {
       "2023": null,
       "2024": 405091,
-      "2025": 459665
+      "2025": 459665,
+      "2026": 459975
     },
     "totalLiabilities": {
       "2023": null,
       "2024": 405091,
-      "2025": 459665
+      "2025": 459665,
+      "2026": 459975
     },
     "shareholdersEquity": {
       "2023": -49819,
       "2024": -141228,
-      "2025": -238761
+      "2025": -238761,
+      "2026": -335326
     },
     "operatingCashFlow": {
       "2023": null,
       "2024": -17211,
-      "2025": -38922
+      "2025": -38922,
+      "2026": -24375
     },
     "capex": {
       "2023": null,
       "2024": null,
-      "2025": null
+      "2025": null,
+      "2026": null
     }
   },
-  "updatedAt": "2026-08-05T21:04:46.525Z"
+  "updatedAt": "2026-09-01T06:25:31.426Z"
 }

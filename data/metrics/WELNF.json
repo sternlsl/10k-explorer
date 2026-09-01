@@ -2,66 +2,67 @@
   "ticker": "WELNF",
   "name": "Integrated Wellness Acquisition Corp",
   "cik": 1877557,
-  "fiscalYear": 2024,
+  "fiscalYear": 2025,
   "fiscalYears": [
     2021,
     2022,
     2023,
-    2024
+    2024,
+    2025
   ],
   "metrics": {
     "revenue": null,
     "cogs": null,
     "grossProfit": null,
     "operatingIncome": {
-      "value": -2069999,
-      "year": 2024,
-      "periodEnd": "2024-12-31",
-      "filed": "2025-04-15"
+      "value": -1456944,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-08-21"
     },
     "netIncome": {
-      "value": -100031,
-      "year": 2024,
-      "periodEnd": "2024-12-31",
-      "filed": "2025-04-15"
+      "value": -1004004,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-08-21"
     },
     "epsBasic": null,
     "epsDiluted": null,
     "currentAssets": {
-      "value": 6482,
-      "year": 2024,
-      "periodEnd": "2024-12-31",
-      "filed": "2025-04-15"
+      "value": 2605,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-08-21"
     },
     "totalAssets": {
-      "value": 14221800,
-      "year": 2024,
-      "periodEnd": "2024-12-31",
-      "filed": "2025-04-15"
+      "value": 15312736,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-08-21"
     },
     "currentLiabilities": {
-      "value": 7316823,
-      "year": 2024,
-      "periodEnd": "2024-12-31",
-      "filed": "2025-04-15"
+      "value": 9291762,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-08-21"
     },
     "totalLiabilities": {
-      "value": 11341823,
-      "year": 2024,
-      "periodEnd": "2024-12-31",
-      "filed": "2025-04-15"
+      "value": 13316762,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-08-21"
     },
     "shareholdersEquity": {
-      "value": -11335340,
-      "year": 2024,
-      "periodEnd": "2024-12-31",
-      "filed": "2025-04-15"
+      "value": -13314157,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-08-21"
     },
     "operatingCashFlow": {
-      "value": 1090547,
-      "year": 2024,
-      "periodEnd": "2024-12-31",
-      "filed": "2025-04-15"
+      "value": 108600,
+      "year": 2025,
+      "periodEnd": "2025-12-31",
+      "filed": "2026-08-21"
     },
     "capex": null
   },
@@ -70,86 +71,100 @@
       "2021": null,
       "2022": null,
       "2023": null,
-      "2024": null
+      "2024": null,
+      "2025": null
     },
     "cogs": {
       "2021": null,
       "2022": null,
       "2023": null,
-      "2024": null
+      "2024": null,
+      "2025": null
     },
     "grossProfit": {
       "2021": null,
       "2022": null,
       "2023": null,
-      "2024": null
+      "2024": null,
+      "2025": null
     },
     "operatingIncome": {
       "2021": null,
       "2022": -1124372,
       "2023": -2497919,
-      "2024": -2069999
+      "2024": -2069999,
+      "2025": -1456944
     },
     "netIncome": {
       "2021": null,
       "2022": 567541,
       "2023": 1491456,
-      "2024": -100031
+      "2024": -100031,
+      "2025": -1004004
     },
     "epsBasic": {
       "2021": null,
       "2022": null,
       "2023": null,
-      "2024": null
+      "2024": null,
+      "2025": null
     },
     "epsDiluted": {
       "2021": null,
       "2022": null,
       "2023": null,
-      "2024": null
+      "2024": null,
+      "2025": null
     },
     "currentAssets": {
       "2021": 1776234,
       "2022": 802517,
       "2023": 7567,
-      "2024": 6482
+      "2024": 6482,
+      "2025": 2605
     },
     "totalAssets": {
       "2021": 119076595,
       "2022": 119794791,
       "2023": 47474178,
-      "2024": 14221800
+      "2024": 14221800,
+      "2025": 15312736
     },
     "currentLiabilities": {
       "2021": 144283,
       "2022": 294938,
       "2023": 4107907,
-      "2024": 7316823
+      "2024": 7316823,
+      "2025": 9291762
     },
     "totalLiabilities": {
       "2021": 4169283,
       "2022": 4319938,
       "2023": 8132907,
-      "2024": 11341823
+      "2024": 11341823,
+      "2025": 13316762
     },
     "shareholdersEquity": {
       "2021": -2393049,
       "2022": -3517421,
       "2023": -8125340,
-      "2024": -11335340
+      "2024": -11335340,
+      "2025": -13314157
     },
     "operatingCashFlow": {
       "2021": null,
       "2022": -37262,
       "2023": 3220499,
-      "2024": 1090547
+      "2024": 1090547,
+      "2025": 108600
     },
     "capex": {
       "2021": null,
       "2022": null,
       "2023": null,
-      "2024": null
+      "2024": null,
+      "2025": null
     }
   },
-  "updatedAt": "2026-08-05T21:02:05.064Z"
+  "updatedAt": "2026-09-01T06:22:51.574Z"
 }
